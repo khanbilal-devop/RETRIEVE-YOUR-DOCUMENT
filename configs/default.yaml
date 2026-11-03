@@ -1,0 +1,8 @@
+# Settings shared by every layer.
+# A relative path is taken from the repo root, so the code works from any
+# working directory. Absolute paths and ~ also work.
+paths:
+  # Folder that holds one sub-folder per company (RAG-Multi-Corpus/datasets).
+  dataset_dir: reference repo/datasets
+  # Where layer 1 (ingestion) writes its registries.
+  registry_dir: registry
