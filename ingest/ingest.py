@@ -26,6 +26,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from config.config import DEFAULT_CONFIG, load_config, path_setting
+from config.constants import DATASET_DIR, REGISTRY_DIR
 
 FORMATS = ("pdf", "docx", "pptx", "html", "md")
 
@@ -225,8 +226,8 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
 
     config = load_config(args.config)
-    dataset_dir = path_setting(config, "dataset_dir")
-    registry_dir = path_setting(config, "registry_dir")
+    dataset_dir = path_setting(config, DATASET_DIR)
+    registry_dir = path_setting(config, REGISTRY_DIR)
     result = ingest(dataset_dir, registry_dir)
 
     print(f"dataset:  {dataset_dir}")

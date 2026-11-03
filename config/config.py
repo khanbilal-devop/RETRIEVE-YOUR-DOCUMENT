@@ -6,6 +6,8 @@ from pathlib import Path
 
 import yaml
 
+from config.constants import PATHS
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CONFIG = REPO_ROOT / "configs" / "default.yaml"
 
@@ -24,7 +26,7 @@ def resolve_path(value: Path | str) -> Path:
 
 def path_setting(config: dict, name: str) -> Path:
     """Return ``paths.<name>`` from the config as a resolved path."""
-    value = (config.get("paths") or {}).get(name)
+    value = (config.get(PATHS) or {}).get(name)
     if value is None:
-        raise KeyError(f"config is missing paths.{name}")
+        raise KeyError(f"config is missing {PATHS}.{name}")
     return resolve_path(value)

@@ -1,8 +1,12 @@
 # Settings shared by every layer.
 # A relative path is taken from the repo root, so the code works from any
 # working directory. Absolute paths and ~ also work.
+
+# If this key is renamed, also change PATHS in config/constants.py.
 paths:
   # Folder that holds one sub-folder per company (RAG-Multi-Corpus/datasets).
+  # If this key is renamed, also change DATASET_DIR in config/constants.py.
   dataset_dir: reference repo/datasets
   # Where layer 1 (ingestion) writes its registries.
+  # If this key is renamed, also change REGISTRY_DIR in config/constants.py.
   registry_dir: registry
