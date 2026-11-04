@@ -10,7 +10,7 @@ registry record is ``{"doc_id", "doc_key", "path"}``:
 
 The format is not stored in a record: it is the name of the registry file.
 
-Run: ``python -m ingest.ingest`` (paths come from ``configs/default.yaml``).
+Run: ``python -m ingest.ingest`` (paths come from ``default.yaml``).
 """
 
 from __future__ import annotations

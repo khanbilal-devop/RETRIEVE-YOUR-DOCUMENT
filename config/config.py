@@ -9,21 +9,24 @@ import yaml
 from config.constants import PATHS
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_CONFIG = REPO_ROOT / "configs" / "default.yaml"
+DEFAULT_CONFIG = REPO_ROOT / "default.yaml"
 
 
+# Not tied to any layer: any layer can call this to read a YAML config file into a dict.
 def load_config(path: Path | str | None = None) -> dict:
     """Read a YAML config file (the default one when ``path`` is None)."""
     with open(Path(path) if path is not None else DEFAULT_CONFIG, encoding="utf-8") as handle:
         return yaml.safe_load(handle) or {}
 
 
+# Not tied to any layer: turns any configured path into an absolute path.
 def resolve_path(value: Path | str) -> Path:
     """Expand ``~``. A relative path is taken from the repo root, not the working directory."""
     path = Path(value).expanduser()
     return path if path.is_absolute() else REPO_ROOT / path
 
 
+# Not tied to any layer: returns the path stored under `paths` for a key such as DATASET_DIR.
 def path_setting(config: dict, name: str) -> Path:
     """Return ``paths.<name>`` from the config as a resolved path."""
     value = (config.get(PATHS) or {}).get(name)
