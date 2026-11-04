@@ -1,7 +1,7 @@
 """Layer 1, ingestion: register every file before any content is read.
 
 Walks ``<dataset>/<company>/**`` and writes ``<registry>/<company>/<format>.jsonl``
-(one registry per company and format) plus ``<registry>/rejected.jsonl``. A
+(one registry per company and format) plus ``<registry>/<company>/rejected.jsonl``. A
 registry record is ``{"doc_id", "doc_key", "path"}``:
 
 - ``doc_id``: SHA-256 of the file's bytes.
@@ -209,7 +209,9 @@ def ingest(dataset_dir: Path | str, registry_dir: Path | str) -> IngestResult:
 
     for (company, fmt), records in registries.items():
         _write_jsonl(registry_dir / company / f"{fmt}.jsonl", records)
-    _write_jsonl(registry_dir / "rejected.jsonl", rejected)
+    for company in sorted({company for company, _ in registries}):
+        rows = [r for r in rejected if r["path"].split("/", 1)[0] == company]
+        _write_jsonl(registry_dir / company / "rejected.jsonl", rows)
     registered = sum(len(records) for records in registries.values())
     return IngestResult(registered, rejected, mismatches)
 
