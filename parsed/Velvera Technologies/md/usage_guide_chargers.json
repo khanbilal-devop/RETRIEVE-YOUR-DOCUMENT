@@ -1,0 +1,280 @@
+{
+  "doc_id": "1c3f95ce78bdf1187920cfbc878cb7fc0ca31e79dda5163ec4f27c18037598eb",
+  "doc_key": [
+    "usage_guide_chargers"
+  ],
+  "path": "Velvera Technologies/md/usage_guide_chargers.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Charging Solutions — Usage Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Charging Solutions — Usage Guide"
+            },
+            "text": "Power your devices reliably with Velvera's advanced charging lineup. This guide provides essential setup instructions, safety tips, and troubleshooting support to help you get the best performance from each Velvera charger—at home, on your desk, or on the go."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Velvera 65W GaN Charger",
+            "level": 3,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Charging Solutions — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Velvera 65W GaN Charger"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Intended Use: Fast charging for all Velvera devices and compatible ultrabooks, phones, and tablets.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Setup Overview: Plug into wall outlet (100–240V). Select cable type (USB-C for 65W, USB-A for legacy devices). Connect to device for optimal charging speed.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety Instructions: Use only in dry environments; do not cover during use. For best safety, avoid overloading outlets or adapters.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Common Issues & Solutions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Device not charging: Try a different cable/port, ensure charger is securely plugged in.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Overheating: Unplug and allow to cool down before reuse.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maintenance & Care: Wipe with dry cloth, avoid moisture. Fold plug after use for portability.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "FAQ:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Q: Can I charge non-Velvera devices?\nA: Yes, if they support PD 3.0 or QC 4.0.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Q: Can I use it during travel?\nA: Yes, it supports worldwide voltage.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera 100W Desktop Hub",
+            "level": 3,
+            "location": {
+              "line": 26,
+              "heading": "Velvera Charging Solutions — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 28,
+                  "heading": "Velvera 100W Desktop Hub"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Intended Use: Central charging for laptops, smartphones, tablets, and wearables at desks or workstations.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Setup Overview: Plug AC cord to power. Place hub on flat surface. Plug your devices into USB-C or USB-A ports. Use the Qi pad for wireless charging.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety Instructions: Position on non-metallic surfaces for stable Qi charging. LED indicators show each port’s status.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Common Issues & Solutions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Slow wireless charging: Remove phone cases or align phone with pad center.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Overload: Disconnect a device and retry.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maintenance & Care: Keep away from liquids. Clean with soft anti-static cloth.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "FAQ:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Q: Is the wireless pad safe for my phone?\nA: Yes, it supports all Qi-enabled models.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Q: Can all ports be used simultaneously?\nA: Yes, up to 100W aggregate output.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Wireless Dock",
+            "level": 3,
+            "location": {
+              "line": 45,
+              "heading": "Velvera Charging Solutions — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 47,
+                  "heading": "Velvera Wireless Dock"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Intended Use: Simultaneous wireless charging for phone, smartwatch, and earbuds.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Setup Overview: Connect the included 30W USB-C adapter. Position phone, watch, and earbuds on the designated magnetic pads for precise alignment.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety Instructions: Use only with the original adapter for optimal safety. Do not dismantle dock or expose to excessive heat or water.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Common Issues & Solutions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Watch/earbuds not charging: Check alignment with magnetic area.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dock unresponsive: Reseat USB-C connection and retry.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maintenance & Care: Dust off pads regularly. Avoid using solvents.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "FAQ:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Q: Does it support fast charging for watches?\nA: Supports standard Qi speed; refer to watch specs.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Q: Can I use the dock with a case on my devices?\nA: Yes, thin non-metal cases are compatible.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera SuperSafe Battery",
+            "level": 3,
+            "location": {
+              "line": 64,
+              "heading": "Velvera Charging Solutions — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 66,
+                  "heading": "Velvera SuperSafe Battery"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Intended Use: Portable charging for Velvera phones with MagSafe alignment and pass-through charging.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Setup Overview: Snap battery firmly to phone rear; MagSafe aligns automatically. Press power button to begin wireless charging or connect USB-C for wired charging.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety Instructions: Do not expose to extreme temperatures. Avoid contact with water. Use monitored charging stations when traveling.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Common Issues & Solutions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "No wireless charging: Realign to MagSafe area and ensure battery is charged.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Won’t turn on: Recharge via USB-C for at least 30 minutes.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maintenance & Care: Store at 50% charge if unused long-term. Wipe with microfiber cloth.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "FAQ:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Q: Can I see the remaining battery?\nA: Yes, check the LED indicators on the side.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Q: Will it charge other phones?\nA: Yes, if they support Qi. MagSafe alignment is exclusive to Velvera One Series.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

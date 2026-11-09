@@ -1,0 +1,441 @@
+{
+  "doc_id": "e235729276b67bf14b4568d4e9b86b6f8cb0649af07b5cb0fcbe55a663c8155e",
+  "doc_key": [
+    "aventro bolt sedan"
+  ],
+  "path": "Aventro Motors/md/Aventro Bolt Sedan.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Bolt Sedan",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "Bolt Sedan"
+                },
+                "text": "Aventro Bolt Sedan is a premium mid-size sedan from Aventro Motors, designed for comfort, performance, and innovation. It is available in four fuel types—Petrol, Diesel, Electric, and Hybrid—each offered in three trims: Base, X, and ZX."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Specifications",
+            "level": 2,
+            "location": {
+              "line": 11,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 13,
+                  "heading": "Key Specifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Body Type: Sedan",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seating Capacity: 5",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Boot Space: 470 litres (approx.)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Transmission: Manual / Automatic (varies by variant)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fuel Options: Petrol, Diesel, Electric, Hybrid",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Infotainment System: Up to 11-inch touchscreen (X & ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "ADAS: Level 1 (X), Level 2 (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sunroof: Available in ZX trim",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Upholstery: Fabric (Base & X), Leather (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Speakers: Premium Harmon System (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety: ABS, EBD, Multiple Airbags (Standard across all variants)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Available Variants & Prices",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 29,
+                  "heading": "Available Variants & Prices"
+                },
+                "header": [
+                  "Fuel Type",
+                  "Trim",
+                  "Notable Features",
+                  "Ex-Showroom Price (Lakh ₹)"
+                ],
+                "rows": [
+                  [
+                    "Petrol",
+                    "Base",
+                    "Touchscreen infotainment, ABS, Airbags, Fabric seats",
+                    "8.2"
+                  ],
+                  [
+                    "Petrol",
+                    "X",
+                    "11-inch Infotainment, ADAS Level 1, Enhanced Styling, Fabric seats",
+                    "8.7"
+                  ],
+                  [
+                    "Petrol",
+                    "ZX",
+                    "360° Camera, 11-inch Infotainment, Harmon Audio, ADAS Level 2, Leather seats, Sunroof",
+                    "9.2"
+                  ],
+                  [
+                    "Diesel",
+                    "Base",
+                    "Same as Petrol Base, Diesel engine",
+                    "10.2"
+                  ],
+                  [
+                    "Diesel",
+                    "X",
+                    "Same as Petrol X, Diesel engine",
+                    "10.7"
+                  ],
+                  [
+                    "Diesel",
+                    "ZX",
+                    "Same as Petrol ZX, Diesel engine",
+                    "11.2"
+                  ],
+                  [
+                    "Electric",
+                    "Base",
+                    "Standard features, EV powertrain, Fast charging support",
+                    "15.2"
+                  ],
+                  [
+                    "Electric",
+                    "X",
+                    "11-inch Infotainment, ADAS Level 1, EV powertrain",
+                    "15.7"
+                  ],
+                  [
+                    "Electric",
+                    "ZX",
+                    "All ZX features, Electric powertrain, Fast charging, Harmon audio",
+                    "16.2"
+                  ],
+                  [
+                    "Hybrid",
+                    "Base",
+                    "Standard features, Hybrid tech, high efficiency",
+                    "11.7"
+                  ],
+                  [
+                    "Hybrid",
+                    "X",
+                    "11-inch Infotainment, ADAS Level 1, Hybrid tech",
+                    "12.2"
+                  ],
+                  [
+                    "Hybrid",
+                    "ZX",
+                    "All ZX features, Hybrid tech, Harmon audio",
+                    "12.7"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Highlighted Features by Trim",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Base",
+                "level": 3,
+                "location": {
+                  "line": 48,
+                  "heading": "Highlighted Features by Trim"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 49,
+                      "heading": "Base"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Touchscreen infotainment",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Climate control",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Reverse sensors",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ABS, EBD, dual airbags",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fabric seats",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "X (adds over Base)",
+                "level": 3,
+                "location": {
+                  "line": 55,
+                  "heading": "Highlighted Features by Trim"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 56,
+                      "heading": "X (adds over Base)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch advanced infotainment system",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 1 (Forward Collision Warning, Lane Departure Warning, Adaptive Cruise)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Enhanced interior accents",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ZX (adds over X)",
+                "level": 3,
+                "location": {
+                  "line": 60,
+                  "heading": "Highlighted Features by Trim"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 61,
+                      "heading": "ZX (adds over X)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "360° surround view camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch infotainment system with Harmon premium audio",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 2 (Auto Emergency Braking, Enhanced Lane Keep Assist, Adaptive Cruise)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Powered leather seats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Powered sunroof",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Popular Features",
+            "level": 2,
+            "location": {
+              "line": 69,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 71,
+                  "heading": "Popular Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "470L Boot Space",
+                    "depth": 0
+                  },
+                  {
+                    "text": "LED headlamps & tail lamps",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Alloy wheels (from X)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Keyless entry and push-button start",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rear AC vents",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Multiple airbags (Front, Side)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tyre Pressure Monitoring System (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wireless charging (ZX)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Why Choose Bolt Sedan?",
+            "level": 2,
+            "location": {
+              "line": 82,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 84,
+                  "heading": "Why Choose Bolt Sedan?"
+                },
+                "text": "Aventro Bolt Sedan is designed for buyers seeking a blend of performance, advanced technology, comfort, and safety—all at an accessible price point."
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 86,
+                  "heading": "Why Choose Bolt Sedan?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Performance: Available with best-in-segment petrol, diesel, electric, and hybrid engines.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Technology: State-of-the-art infotainment and safety features with ADAS.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Luxury: Top trims offer leather seats, premium audio, and connected technology.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Value: Feature-rich across all variants.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 93,
+                  "heading": "Why Choose Bolt Sedan?"
+                },
+                "text": "To book a test drive or for more information, contact your nearest Aventro dealership or visit aventromotors.com (http://aventromotors.com)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

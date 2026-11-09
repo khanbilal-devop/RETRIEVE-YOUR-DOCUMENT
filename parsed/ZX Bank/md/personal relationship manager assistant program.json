@@ -1,0 +1,285 @@
+{
+  "doc_id": "082e107dc47deae27f0262d7485a0d89727871aeb918f1174a1642f1748f10dc",
+  "doc_key": [
+    "personal relationship manager assistant program"
+  ],
+  "path": "ZX Bank/md/Personal Relationship Manager Assistant Program.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank – Personal Relationship Manager Assistant Program",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank – Personal Relationship Manager Assistant Program"
+            },
+            "text": "Welcome to the Personal Relationship Manager (PRM) Assistant Program, an exclusive service designed for all ZX Bank account holders. Our PRM Assistant transforms the way you bank—offering dedicated, professional, and tailored support for your daily financial needs."
+          }
+        ],
+        "sections": [
+          {
+            "title": "What is the PRM Assistant Program?",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank – Personal Relationship Manager Assistant Program"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "What is the PRM Assistant Program?"
+                },
+                "text": "The Personal Relationship Manager Assistant Program connects you with a dedicated relationship manager—a friendly banking expert who understands your unique needs. Whether you manage your finances digitally or prefer in-person services, your PRM Assistant will guide and support you, making banking easier and more personalized than ever before."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Features and Benefits",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "ZX Bank – Personal Relationship Manager Assistant Program"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 15,
+                  "heading": "Key Features and Benefits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Dedicated Support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Get a named manager as your single point of contact for all banking queries.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Receive priority assistance for account-related concerns, service requests, and troubleshooting.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Efficient Account Management",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Assistance with day-to-day transactions: fund transfers, deposits, withdrawals, and more.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Personalized help with cheque books, debit/credit card management, and loan tracking.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Personalized Services",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Account usage insights, budgeting tips, and notification of important account activities.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Tailored recommendations on banking products and investment opportunities to suit your goals.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "On-Demand Engagement",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Connect with your PRM via phone, email, scheduled video calls, or secure chat through ZX Bank Asia mobile app.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Direct appointment booking for in-branch meetings.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Proactive Updates",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Timely notifications about offers, maturity dates, and upcoming payments.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Regulatory and compliance alerts to keep you compliant and informed.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How The PRM Assistant Helps You",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "ZX Bank – Personal Relationship Manager Assistant Program"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 39,
+                  "heading": "How The PRM Assistant Helps You"
+                },
+                "header": [
+                  "Service",
+                  "How PRM Assistant Supports You"
+                ],
+                "rows": [
+                  [
+                    "Account Inquiries",
+                    "Resolves questions about balances, statements, etc."
+                  ],
+                  [
+                    "Digital Banking Guidance",
+                    "Helps set up BillPay, NetBanking, UPI, and more."
+                  ],
+                  [
+                    "Loan & Credit Advisory",
+                    "Assists in applying/tracking loans; explains options."
+                  ],
+                  [
+                    "Wealth & Investment Concierge",
+                    "Connects with investment specialists as needed."
+                  ],
+                  [
+                    "Remittance & NRI Services",
+                    "Manages cross-border transfers and NRI requirements."
+                  ],
+                  [
+                    "Issue Resolution",
+                    "Expedites resolution of service or transaction issues."
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Who Can Use the PRM Assistant?",
+            "level": 2,
+            "location": {
+              "line": 50,
+              "heading": "ZX Bank – Personal Relationship Manager Assistant Program"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 52,
+                  "heading": "Who Can Use the PRM Assistant?"
+                },
+                "text": "All ZX Bank account holders, regardless of account type, automatically get access to a Personal Relationship Manager Assistant at no extra charge."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Reach Your PRM Assistant",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "ZX Bank – Personal Relationship Manager Assistant Program"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 58,
+                  "heading": "How to Reach Your PRM Assistant"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Via ZX Bank Asia App: Tap ‘PRM Assistant’ for secure messaging or video calls.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "By Phone: Call your dedicated relationship manager directly (contact found in the app or welcome kit).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "In Branch: Schedule a face-to-face meeting at your nearest ZX Bank branch.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Why Choose the PRM Assistant Program?",
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "ZX Bank – Personal Relationship Manager Assistant Program"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 66,
+                  "heading": "Why Choose the PRM Assistant Program?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Personalized attention: A truly customer-centric service experience.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Time-saving: Let your PRM handle the details while you focus on what matters.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Expert guidance: Make informed decisions with your banking ally by your side.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 72,
+                  "heading": "Why Choose the PRM Assistant Program?"
+                },
+                "text": "Experience seamless, stress-free banking with the Personal Relationship Manager Assistant Program—your gateway to premium, personalized service at ZX Bank."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 74,
+                  "heading": "Why Choose the PRM Assistant Program?"
+                },
+                "text": "For more information, log in to the ZX Bank Asia app or visit www.zxbank.asia (https://www.zxbank.asia)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

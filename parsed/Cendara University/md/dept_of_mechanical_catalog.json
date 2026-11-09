@@ -1,0 +1,611 @@
+{
+  "doc_id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5",
+  "doc_key": [
+    "dept_of_mechanical_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Mechanical_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 2
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Mechanical Engineering",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Course Catalog",
+                "level": 3,
+                "location": {
+                  "line": 4,
+                  "heading": "Department of Mechanical Engineering"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "B.Eng./M.Eng. in Mechanical Engineering",
+                    "level": 4,
+                    "location": {
+                      "line": 5,
+                      "heading": "Course Catalog"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 9,
+                          "heading": "B.Eng./M.Eng. in Mechanical Engineering"
+                        },
+                        "text": "Below is a comprehensive listing of all Mechanical Engineering courses offered for undergraduate (B.Eng.) and graduate (M.Eng.) students. Each entry includes the course code, title, description, prerequisites, and assigned credit hours."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Undergraduate Courses (B.Eng.)",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "MECH 101: Introduction to Mechanical Engineering",
+                "level": 3,
+                "location": {
+                  "line": 15,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 16,
+                      "heading": "MECH 101: Introduction to Mechanical Engineering"
+                    },
+                    "text": "Credits: 3\nDescription:\nAn overview of the field of mechanical engineering, including its history, fundamental principles, and modern applications. Topics include major subdisciplines, an introduction to engineering ethics, and industry practices.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 111: Engineering Graphics & CAD",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 24,
+                      "heading": "MECH 111: Engineering Graphics & CAD"
+                    },
+                    "text": "Credits: 4\nDescription:\nFundamental skills in technical drawing, computer-aided design (CAD), and blueprint reading. Introduction to CAD software for creating, annotating, and analyzing engineering designs.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 122: Engineering Mechanics I – Statics",
+                "level": 3,
+                "location": {
+                  "line": 31,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 32,
+                      "heading": "MECH 122: Engineering Mechanics I – Statics"
+                    },
+                    "text": "Credits: 4\nDescription:\nCovers the fundamentals of statics, including force systems, equilibrium, structural analysis, centroids, and moments of inertia. Designed for engineering problem-solving.\nPrerequisites: MATH 120 (Calculus I)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 123: Engineering Mechanics II – Dynamics",
+                "level": 3,
+                "location": {
+                  "line": 39,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 40,
+                      "heading": "MECH 123: Engineering Mechanics II – Dynamics"
+                    },
+                    "text": "Credits: 4\nDescription:\nStudy of particles and rigid bodies in motion, Newton’s laws, kinematics, kinetics, work and energy, impulse and momentum.\nPrerequisites: MECH 122 (Engineering Mechanics I)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 201: Materials Science for Engineers",
+                "level": 3,
+                "location": {
+                  "line": 47,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 48,
+                      "heading": "MECH 201: Materials Science for Engineers"
+                    },
+                    "text": "Credits: 3\nDescription:\nExplores the structures, properties, testing, and applications of metals, polymers, ceramics, and composites. Discussion of selection criteria for materials in mechanical systems.\nPrerequisites: CHEM 105 (General Chemistry I)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 231: Thermodynamics I",
+                "level": 3,
+                "location": {
+                  "line": 55,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 56,
+                      "heading": "MECH 231: Thermodynamics I"
+                    },
+                    "text": "Credits: 4\nDescription:\nIntroduces the first and second laws of thermodynamics, basic thermodynamic properties, simple systems, energy transformations, and entropy concepts.\nPrerequisites: PHYS 130 (General Physics I); MATH 121 (Calculus II)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 241: Fluid Mechanics",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 64,
+                      "heading": "MECH 241: Fluid Mechanics"
+                    },
+                    "text": "Credits: 4\nDescription:\nStudy of fluids at rest and in motion, including properties, hydrostatics, conservation laws, and applications to engineering systems.\nPrerequisites: MECH 122 (Engineering Mechanics I), MECH 231 (Thermodynamics I)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 252: Manufacturing Processes",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 72,
+                      "heading": "MECH 252: Manufacturing Processes"
+                    },
+                    "text": "Credits: 3\nDescription:\nOverview of modern and traditional manufacturing processes such as casting, forming, machining, welding, and additive manufacturing. Laboratory demonstrations included.\nPrerequisites: MECH 201 (Materials Science)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 263: Computer-Aided Manufacturing (CAM)",
+                "level": 3,
+                "location": {
+                  "line": 79,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 80,
+                      "heading": "MECH 263: Computer-Aided Manufacturing (CAM)"
+                    },
+                    "text": "Credits: 3\nDescription:\nApplication of CAM technologies, programming CNC machines, and process planning in manufacturing. Includes practical exercises using industry-standard CAM software.\nPrerequisites: MECH 111 (Engineering Graphics & CAD)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 272: Mechatronics",
+                "level": 3,
+                "location": {
+                  "line": 87,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 88,
+                      "heading": "MECH 272: Mechatronics"
+                    },
+                    "text": "Credits: 4\nDescription:\nIntegration of mechanical, electrical, and computer systems in intelligent machines. Focus on microcontrollers, sensors, actuators, and system integration.\nPrerequisites: EECS 210 (Intro to Electronics), MECH 122 (Engineering Mechanics I)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 321: Mechanics of Materials",
+                "level": 3,
+                "location": {
+                  "line": 95,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 96,
+                      "heading": "MECH 321: Mechanics of Materials"
+                    },
+                    "text": "Credits: 4\nDescription:\nCovers stress and strain analysis, axial loading, bending, shear, torsion, deflection, and stability of structural members. Laboratory component included.\nPrerequisites: MECH 123 (Engineering Mechanics II), MECH 201 (Materials Science)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 331: Thermodynamics II",
+                "level": 3,
+                "location": {
+                  "line": 103,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 104,
+                      "heading": "MECH 331: Thermodynamics II"
+                    },
+                    "text": "Credits: 4\nDescription:\nAdvanced concepts in thermodynamics, including cycles for power and refrigeration, mixtures, chemical reactions, and an introduction to heat transfer.\nPrerequisites: MECH 231 (Thermodynamics I)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 342: Heat Transfer",
+                "level": 3,
+                "location": {
+                  "line": 111,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 112,
+                      "heading": "MECH 342: Heat Transfer"
+                    },
+                    "text": "Credits: 4\nDescription:\nPrinciples of heat conduction, convection, and radiation with engineering applications. Includes numerical analysis of heat transfer problems.\nPrerequisites: MECH 231 (Thermodynamics I), MATH 222 (Differential Equations)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 353: Mechanical Design I",
+                "level": 3,
+                "location": {
+                  "line": 119,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 120,
+                      "heading": "MECH 353: Mechanical Design I"
+                    },
+                    "text": "Credits: 3\nDescription:\nFundamental approaches in mechanical design, including analysis and selection of mechanical elements such as gears, shafts, and fasteners. Team-based design project.\nPrerequisites: MECH 321 (Mechanics of Materials)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 354: Mechanical Design II",
+                "level": 3,
+                "location": {
+                  "line": 127,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 128,
+                      "heading": "MECH 354: Mechanical Design II"
+                    },
+                    "text": "Credits: 3\nDescription:\nAdvanced topics in product design, reliability, optimization techniques, and design for manufacturability. Capstone design project.\nPrerequisites: MECH 353 (Mechanical Design I)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 371: Dynamics of Machinery",
+                "level": 3,
+                "location": {
+                  "line": 135,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 136,
+                      "heading": "MECH 371: Dynamics of Machinery"
+                    },
+                    "text": "Credits: 3\nDescription:\nKinematics and dynamics of machines including linkages, cams, gears, and balancing of rotating and reciprocating masses.\nPrerequisites: MECH 123 (Engineering Mechanics II)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 401: Senior Project I",
+                "level": 3,
+                "location": {
+                  "line": 143,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 144,
+                      "heading": "MECH 401: Senior Project I"
+                    },
+                    "text": "Credits: 2\nDescription:\nProposal and conceptual design phase of a major team-based engineering project. Emphasis on project planning, literature review, and ethics.\nPrerequisites: Senior standing in Mechanical Engineering"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 402: Senior Project II",
+                "level": 3,
+                "location": {
+                  "line": 151,
+                  "heading": "Undergraduate Courses (B.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 152,
+                      "heading": "MECH 402: Senior Project II"
+                    },
+                    "text": "Credits: 4\nDescription:\nCompletion and presentation of a team engineering project, including design, analysis, prototyping, and reporting.\nPrerequisites: MECH 401 (Senior Project I)"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Graduate Courses (M.Eng.)",
+            "level": 2,
+            "location": {
+              "line": 159,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "MECH 510: Advanced Thermodynamics",
+                "level": 3,
+                "location": {
+                  "line": 161,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 162,
+                      "heading": "MECH 510: Advanced Thermodynamics"
+                    },
+                    "text": "Credits: 3\nDescription:\nIn-depth exploration of thermodynamic theory for complex systems, including exergy analysis, multi-phase systems, and non-equilibrium thermodynamics.\nPrerequisites: MECH 331 (Thermodynamics II) or equivalent"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 521: Finite Element Analysis",
+                "level": 3,
+                "location": {
+                  "line": 169,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 170,
+                      "heading": "MECH 521: Finite Element Analysis"
+                    },
+                    "text": "Credits: 3\nDescription:\nTheory and application of the finite element method for solving mechanical engineering problems in solid mechanics, heat transfer, and fluid flow.\nPrerequisites: MECH 321 (Mechanics of Materials); recommended: MATH 350 (Numerical Methods)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 531: Robotics and Automation",
+                "level": 3,
+                "location": {
+                  "line": 177,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 178,
+                      "heading": "MECH 531: Robotics and Automation"
+                    },
+                    "text": "Credits: 3\nDescription:\nPrinciples of robotics, manipulators, sensor integration, motion planning, and computer vision for automated mechanical systems. Industrial case studies included.\nPrerequisites: MECH 272 (Mechatronics) or consent of instructor"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 542: Advanced Fluid Mechanics",
+                "level": 3,
+                "location": {
+                  "line": 185,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 186,
+                      "heading": "MECH 542: Advanced Fluid Mechanics"
+                    },
+                    "text": "Credits: 3\nDescription:\nCovers advanced fluid dynamics topics including compressible flow, boundary layers, turbulence modeling, and computational techniques.\nPrerequisites: MECH 241 (Fluid Mechanics)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 556: Sustainable Energy Systems",
+                "level": 3,
+                "location": {
+                  "line": 193,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 194,
+                      "heading": "MECH 556: Sustainable Energy Systems"
+                    },
+                    "text": "Credits: 3\nDescription:\nAnalysis of renewable energy systems, including solar, wind, geothermal, and bioenergy. Focus on engineering design and sustainability assessment.\nPrerequisites: MECH 331 (Thermodynamics II) or consent of instructor"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 570: Mechanical Systems Control",
+                "level": 3,
+                "location": {
+                  "line": 201,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 202,
+                      "heading": "MECH 570: Mechanical Systems Control"
+                    },
+                    "text": "Credits: 3\nDescription:\nDynamic modeling and control of mechanical systems using classical and modern methods. Includes simulation and analysis using MATLAB/Simulink.\nPrerequisites: MECH 371 (Dynamics of Machinery); recommended: EECS 305 (Control Systems)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 590: Research Seminar in Mechanical Engineering",
+                "level": 3,
+                "location": {
+                  "line": 209,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 210,
+                      "heading": "MECH 590: Research Seminar in Mechanical Engineering"
+                    },
+                    "text": "Credits: 1\nDescription:\nWeekly seminars on current research topics in mechanical engineering. Participation in research discussions and presentations by faculty and guest speakers.\nPrerequisites: Graduate standing in Mechanical Engineering"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 598: Independent Study",
+                "level": 3,
+                "location": {
+                  "line": 217,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 218,
+                      "heading": "MECH 598: Independent Study"
+                    },
+                    "text": "Credits: 2–4\nDescription:\nIndividual study or research under faculty supervision in an area of special interest to the student. Requires approval of supervising faculty and department chair.\nPrerequisites: Graduate standing; instructor consent"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MECH 599: Graduate Thesis",
+                "level": 3,
+                "location": {
+                  "line": 225,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 226,
+                      "heading": "MECH 599: Graduate Thesis"
+                    },
+                    "text": "Credits: 6\nDescription:\nOriginal research under the guidance of a faculty advisor, culminating in a written thesis and oral defense before a faculty committee.\nPrerequisites: Completion of at least 18 graduate credits; approval of thesis proposal"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 233,
+                      "heading": "MECH 599: Graduate Thesis"
+                    },
+                    "text": "For further information and course planning, please consult the Academic Advising Office or the Department of Mechanical Engineering at mecheng@cendara.edu."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

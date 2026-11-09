@@ -1,0 +1,366 @@
+{
+  "doc_id": "5b8f035717f1e84ecdb772f326403559a58860304ad0a1995a552af8ee74ff92",
+  "doc_key": [
+    "damaged baggage policy"
+  ],
+  "path": "CloudWay-24/md/Damaged Baggage Policy.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Damaged Baggage Policy – CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 6,
+                  "heading": "Overview"
+                },
+                "text": "At CloudWay 24, we strive to ensure the safety and care of your baggage throughout your journey. However, in the rare event your baggage is damaged during transit, we are committed to addressing your concerns promptly and fairly."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "What Qualifies as Damaged Baggage?",
+            "level": 2,
+            "location": {
+              "line": 10,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 12,
+                  "heading": "What Qualifies as Damaged Baggage?"
+                },
+                "text": "Damaged baggage includes:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 13,
+                  "heading": "What Qualifies as Damaged Baggage?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Broken handles, wheels, or locks",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tears, holes, or serious dents in the baggage structure",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Damaged zippers or missing straps",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Soiling, stains, or water damage caused by airline handling",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 18,
+                  "heading": "What Qualifies as Damaged Baggage?"
+                },
+                "text": "Not Covered:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 19,
+                  "heading": "What Qualifies as Damaged Baggage?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Minor scratches, scuffs, or dents consistent with normal handling",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pre-existing damage or overpacked bags",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Accessories or items attached to baggage (e.g., removable straps, covers)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Reporting Damaged Baggage",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "At the Airport",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Reporting Damaged Baggage"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "At the Airport"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Report immediately to the CloudWay 24 Baggage Service Desk before leaving the arrival hall.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fill out the Damaged Baggage Claim Form with our representative.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Provide your boarding pass, bag tags, and a valid photo ID.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "After Leaving the Airport",
+                "level": 3,
+                "location": {
+                  "line": 32,
+                  "heading": "Reporting Damaged Baggage"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 33,
+                      "heading": "After Leaving the Airport"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "If you notice the damage after leaving, report it in writing within 7 days of receiving your baggage.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Email: baggagesupport@cloudway24.com",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Include: Photos of the damage, baggage tag, travel details, and contact information.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Our Compensation Policy",
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 41,
+                  "heading": "Our Compensation Policy"
+                },
+                "text": "CloudWay 24 will:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 42,
+                  "heading": "Our Compensation Policy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Evaluate the extent and cause of the damage.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Offer a repair service, replacement bag, or financial compensation (as per international conventions and airline policy).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Compensation may vary depending on the level of damage, bag age, and documentation provided.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 46,
+                  "heading": "Our Compensation Policy"
+                },
+                "text": "Note:\nCloudWay 24’s liability for damaged baggage is limited as per the Montreal Convention and company policy."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Exclusions",
+            "level": 2,
+            "location": {
+              "line": 51,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "Exclusions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Fragile, perishable, or valuable items packed in checked luggage",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Incorrectly packed or overstuffed baggage",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Minor cosmetic damages",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Delayed reporting (claims after 7 days of arrival)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact & Support",
+            "level": 2,
+            "location": {
+              "line": 60,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 62,
+                  "heading": "Contact & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Baggage Desk at any CloudWay 24 arrival hall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Customer Support:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Email: baggagesupport@cloudway24.com",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Website: CloudWay24.com/support (https://cloudway24.com/support)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "App: Use “Manage My Flight” > “Report Baggage Issue”",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Helpful Tips",
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 72,
+                  "heading": "Helpful Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Keep your bag tags and receipts until the end of your journey.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Inspect your baggage immediately upon collection.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use name labels on your baggage.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 78,
+                  "heading": "Helpful Tips"
+                },
+                "text": "For full terms and the latest updates, please refer to CloudWay24.com/baggage-policy (https://cloudway24.com/baggage-policy) or check the CloudWay 24 App."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

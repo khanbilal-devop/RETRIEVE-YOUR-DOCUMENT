@@ -1,0 +1,422 @@
+{
+  "doc_id": "11f9f83a6252fd1fbc484f1624693cac18db9fd51602c9844ac2fb40c8a24c95",
+  "doc_key": [
+    "web check-in guide"
+  ],
+  "path": "CloudWay-24/md/Web Check-In Guide.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Web Check-In Guide – CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Web Check-In Guide – CloudWay 24"
+            },
+            "text": "Web check-in with CloudWay 24 is an easy and convenient way to confirm your travel, choose your seat, and save valuable time at the airport. Here’s everything you need to know:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "What is Web Check-In?",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Web Check-In Guide – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "What is Web Check-In?"
+                },
+                "text": "Web check-in allows you to check-in for your CloudWay 24 flight online via the website or mobile app before arriving at the airport. You can:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 11,
+                  "heading": "What is Web Check-In?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Select/modify your seat",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Download/print your boarding pass",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Add frequent flyer details",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Save time and avoid airport queues",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "When Can I Check-In Online?",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Web Check-In Guide – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "When Can I Check-In Online?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Opens: 48 hours before scheduled departure",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Closes: 2 hours before the flight departure",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Web Check-In with CloudWay 24",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "Web Check-In Guide – CloudWay 24"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Step 1: Access Web Check-In",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "How to Web Check-In with CloudWay 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "Step 1: Access Web Check-In"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visit CloudWay24.com (https://www.cloudway24.com) OR open the CloudWay24 mobile app",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Go to: Manage My Flight → Web Check-In",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 2: Enter Your Details",
+                "level": 3,
+                "location": {
+                  "line": 31,
+                  "heading": "How to Web Check-In with CloudWay 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 32,
+                      "heading": "Step 2: Enter Your Details"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Provide your:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Booking Reference (PNR)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Last Name or Registered Mobile/Email",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 3: Select Passengers",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "How to Web Check-In with CloudWay 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "Step 3: Select Passengers"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Choose the passenger(s) you wish to check-in from your booking.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 4: Choose Your Seat",
+                "level": 3,
+                "location": {
+                  "line": 39,
+                  "heading": "How to Web Check-In with CloudWay 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 40,
+                      "heading": "Step 4: Choose Your Seat"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "View seat map and:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Select or upgrade your seat (upgrade charges apply for premium cabins)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Confirm seat selection",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 5: Add Extras (Optional)",
+                "level": 3,
+                "location": {
+                  "line": 44,
+                  "heading": "How to Web Check-In with CloudWay 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 45,
+                      "heading": "Step 5: Add Extras (Optional)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Indicate meal preferences",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Add or update frequent flyer details",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Request special assistance",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 6: Confirm & Get Boarding Pass",
+                "level": 3,
+                "location": {
+                  "line": 49,
+                  "heading": "How to Web Check-In with CloudWay 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 50,
+                      "heading": "Step 6: Confirm & Get Boarding Pass"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Confirm your check-in details",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Receive your boarding pass:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Download as PDF",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Get a mobile e-boarding pass",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Option to have it emailed",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Baggage Drop at the Airport",
+            "level": 2,
+            "location": {
+              "line": 58,
+              "heading": "Web Check-In Guide – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 60,
+                  "heading": "Baggage Drop at the Airport"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Already checked-in online?\nDrop off check-in bags at the CloudWay 24 Baggage Drop Counter at least 60 minutes before departure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Traveling with only cabin baggage?\nProceed directly to security with your e-boarding pass and valid ID.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Notes",
+            "level": 2,
+            "location": {
+              "line": 68,
+              "heading": "Web Check-In Guide – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 70,
+                  "heading": "Important Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Web check-in may not be available for:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Passengers needing special assistance (medical, minors traveling alone, etc.)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Certain international flights due to security regulations",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Valid photo identification is mandatory at the airport, along with your boarding pass.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If you have upgraded or changed your booking after check-in, re-issue your boarding pass.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 78,
+              "heading": "Web Check-In Guide – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 80,
+                  "heading": "Need Help?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Visit CloudWay24.com/support (https://www.cloudway24.com/support)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Contact the 24x7 CloudWay 24 Customer Care",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 85,
+                  "heading": "Need Help?"
+                },
+                "text": "Fly smart. Fly CloudWay 24 – Seamless Skies, Global Reach."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

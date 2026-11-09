@@ -1,0 +1,772 @@
+{
+  "doc_id": "d654f387f5edd4c0cb7acb5c97e5df581dcbcd6fd9e9f1d8ddd8b3c473dd900f",
+  "doc_key": [
+    "placement_report"
+  ],
+  "path": "Cendara University/md/placement_report.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Placement Report",
+        "level": 1,
+        "location": {
+          "line": 2
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 4,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 6,
+                  "heading": "Overview"
+                },
+                "text": "Cendara University is committed to bridging academic excellence with meaningful career opportunities for its graduates. Our robust campus placement program leverages strong industry connections, comprehensive career services, and dedicated faculty mentorship to ensure that students from all academic backgrounds transition successfully into the workforce, further study, or entrepreneurial ventures."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Career Services at Cendara",
+            "level": 2,
+            "location": {
+              "line": 10,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 12,
+                  "heading": "Career Services at Cendara"
+                },
+                "text": "Cendara University’s Center for Career Development (CCD) provides the following services:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 14,
+                  "heading": "Career Services at Cendara"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "On-Campus Recruitment Drives",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Industry Internship Programs",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Career Counseling & Resume Workshops",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mock Interviews & Assessment Centers",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Employer Networking Events",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Alumni Mentorship Program",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Graduate and Professional School Advising",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 22,
+                  "heading": "Career Services at Cendara"
+                },
+                "text": "Contact:\nCendara Center for Career Development\nEmail: career.services@cendara.edu | Tel: +1 (512) 553-7011\nDirector: Ms. Freya Tan"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Placement Statistics (2022-2023)",
+            "level": 2,
+            "location": {
+              "line": 29,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 31,
+                  "heading": "Placement Statistics (2022-2023)"
+                },
+                "header": [
+                  "School",
+                  "Placement Rate",
+                  "Median Salary (USD)",
+                  "Top Recruiters"
+                ],
+                "rows": [
+                  [
+                    "School of Business",
+                    "98%",
+                    "$61,000",
+                    "Deloitte, Epsilon Partners, Vanguard"
+                  ],
+                  [
+                    "School of Engineering & Tech",
+                    "96%",
+                    "$65,500",
+                    "Accelero Systems, Quantia Tech, Bluemont Energy"
+                  ],
+                  [
+                    "School of Health Sciences",
+                    "94%",
+                    "$57,000",
+                    "Silver Creek Hospital, Kinetix Health"
+                  ],
+                  [
+                    "School of Sciences",
+                    "91%",
+                    "$56,000",
+                    "GeneVista Labs, EnviroLogic, DataWave Analytics"
+                  ],
+                  [
+                    "School of Social Sciences",
+                    "89%",
+                    "$51,000",
+                    "Atlas Research, StateEd Solutions"
+                  ],
+                  [
+                    "School of Arts & Humanities",
+                    "83%",
+                    "$47,000",
+                    "Starling Publishing, Museo & Co."
+                  ],
+                  [
+                    "School of Education",
+                    "93%",
+                    "$46,500",
+                    "Metro Unified School District, TeachForward"
+                  ]
+                ]
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 41,
+                  "heading": "Placement Statistics (2022-2023)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Overall University Placement Rate: 92%",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Percentage of Students in Graduate/Professional School: 15%",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Entrepreneurship Launches Among Graduates: 6%",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Sector-wise Placement Distribution (Class of 2023)",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "Sector-wise Placement Distribution (Class of 2023)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Corporate/Private Sector: 65%",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Public Sector/Government: 11%",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Non-Profit/Education: 10%",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Healthcare: 8%",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Graduate/Professional School: 6%",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notable Placement Partners",
+            "level": 2,
+            "location": {
+              "line": 57,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 59,
+                  "heading": "Notable Placement Partners"
+                },
+                "text": "Some of the key organizations who recruited our graduates in 2022-2023:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "Notable Placement Partners"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Technology & Engineering: Accelero Systems, Quantia Tech, Stratovault Solutions, Tyrian Robotics, Bluemont Energy",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Business & Consulting: Deloitte, Epsilon Partners, Vanguard, Synergia Consulting",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Healthcare: Silver Creek Hospital, Kinetix Health, Elmway Medical Group",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Education: Metro Unified School District, TeachForward, Starlight Charter Academy",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sciences & Research: GeneVista Labs, EnviroLogic, DataWave Analytics",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Creative & Media: Starling Publishing, Muse Media House, Museo & Co.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Internship Highlights",
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 72,
+                  "heading": "Internship Highlights"
+                },
+                "text": "Over 480 students completed industry internships during the 2022-2023 academic year.\nExamples include:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 75,
+                  "heading": "Internship Highlights"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Isabella Tran (B.Sc. Computer Science): Software Engineering Intern at Quantia Tech",
+                    "depth": 0
+                  },
+                  {
+                    "text": "James Olafson (B.B.A. Finance): Financial Analyst Intern at Vanguard",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Priya Das (B.Sc. Biology): Research Intern at GeneVista Labs",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Miguel Alvarez (B.Eng. Mechanical): Product Design Intern at Stratovault Solutions",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sophie Dlamini (B.N.S. Nursing): Clinical Intern at Kinetix Health",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Anna Zhao (B.A. English): Editorial Intern at Starling Publishing",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Placement Process",
+            "level": 2,
+            "location": {
+              "line": 84,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 86,
+                  "heading": "Placement Process"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Registration: Eligible final-year students register with the Center for Career Development and submit CVs.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pre-Placement Training: Includes resume workshops, interview preparation, group discussions, and aptitude tests.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Company Presentations: Employers visit campus (virtually or in-person) to describe roles and organizational culture.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Application & Shortlisting: Students apply to open positions; employers shortlist candidates based on their criteria.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Interviews & Assessments: Conducted on campus or offsite, followed by HR and technical interviews.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Offer Rollout: Successful candidates receive offer letters; assistance provided in decision-making and negotiations.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 93,
+                  "heading": "Placement Process"
+                },
+                "text": "Note: Specialized support is provided for international students, differently abled students, and those seeking opportunities in non-traditional sectors."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Department-wise Placement Illustrations",
+            "level": 2,
+            "location": {
+              "line": 97,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Computer Science",
+                "level": 3,
+                "location": {
+                  "line": 99,
+                  "heading": "Department-wise Placement Illustrations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 101,
+                      "heading": "Department of Computer Science"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Placement Rate: 98%",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Top Recruiters: Accelero Systems, Quantia Tech, Stratovault Solutions",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Popular Roles: Software Developer, Data Analyst, Security Engineer",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Management",
+                "level": 3,
+                "location": {
+                  "line": 105,
+                  "heading": "Department-wise Placement Illustrations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 107,
+                      "heading": "Department of Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Placement Rate: 97%",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Top Recruiters: Deloitte, Epsilon Partners, Synergia Consulting",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Popular Roles: Management Trainee, Operations Analyst, HR Associate",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Nursing",
+                "level": 3,
+                "location": {
+                  "line": 111,
+                  "heading": "Department-wise Placement Illustrations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 113,
+                      "heading": "Department of Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Placement Rate: 95%",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Top Recruiters: Silver Creek Hospital, Elmway Medical Group",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Popular Roles: Registered Nurse, Patient Care Coordinator",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Mechanical Engineering",
+                "level": 3,
+                "location": {
+                  "line": 117,
+                  "heading": "Department-wise Placement Illustrations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 119,
+                      "heading": "Department of Mechanical Engineering"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Placement Rate: 94%",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Top Recruiters: Tyrian Robotics, Bluemont Energy, Stratovault Solutions",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Popular Roles: Design Engineer, Project Engineer, Manufacturing Specialist",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Alumni Success Stories",
+            "level": 2,
+            "location": {
+              "line": 125,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 127,
+                  "heading": "Alumni Success Stories"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Rachel Matthews (B.B.A. Marketing, 2022): Now Brand Strategist at Synergia Consulting.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dr. Amir Qureshi (Ph.D. Biology, 2022): Lead Research Scientist at GeneVista Labs.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tariq Alvi (B.Sc. Mathematics, 2023): Data Scientist at DataWave Analytics.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Maria Vasquez (M.Sc. Public Health, 2023): Policy Analyst at Kinetix Health.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Employer Feedback",
+            "level": 2,
+            "location": {
+              "line": 134,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "quote",
+                "location": {
+                  "line": 136,
+                  "heading": "Employer Feedback"
+                },
+                "text": "“Cendara graduates bring exceptional analytical and teamwork abilities. They adapt quickly to real-world business challenges.”\n— Elaine Porter, Senior Talent Acquisition Lead, Epsilon Partners"
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 139,
+                  "heading": "Employer Feedback"
+                },
+                "text": "“We’ve hired from Cendara’s engineering programs for three years running. Their hands-on, solutions-oriented approach stands out.”\n— Daniel Zhu, HR Manager, Stratovault Solutions"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Specialized and International Placements",
+            "level": 2,
+            "location": {
+              "line": 144,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 146,
+                  "heading": "Specialized and International Placements"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "International Placements: Graduates have joined firms in Canada, Germany, Singapore, and the UK, including Intelus AG (Berlin), NovaDesign (Singapore), and Cedarwell Analytics (Toronto).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Startups & Entrepreneurship: Cendara LaunchPad supported 14 new ventures among the graduating batch, spanning EdTech, HealthTech, and Green Energy.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fellowships: Recent recipients of the Fulbright and Rhodes scholarships among graduating humanities majors.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Recent Placement Events",
+            "level": 2,
+            "location": {
+              "line": 152,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 154,
+                  "heading": "Recent Placement Events"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Cendara Career Fair 2023:\n97 employers, 864 students participated; 312 immediate pending offers.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Women in STEM Networking Night:\nSponsored by Stratovault Solutions, 90+ female students connected with industry mentors.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Education Opportunities Day:\nArea schools and educational organizations recruited 60 teaching candidates.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Support for Further Study",
+            "level": 2,
+            "location": {
+              "line": 163,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 165,
+                  "heading": "Support for Further Study"
+                },
+                "text": "Specialized advising is available for those pursuing graduate study at domestic and international universities, with placements at institutions such as:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 167,
+                  "heading": "Support for Further Study"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Columbia University",
+                    "depth": 0
+                  },
+                  {
+                    "text": "University of Edinburgh",
+                    "depth": 0
+                  },
+                  {
+                    "text": "National University of Singapore",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Stanford University",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact & Placement Policy",
+            "level": 2,
+            "location": {
+              "line": 174,
+              "heading": "Cendara University Placement Report"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 176,
+                  "heading": "Contact & Placement Policy"
+                },
+                "text": "All placement activities are managed in accordance with Cendara University’s Placement Policy:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 178,
+                  "heading": "Contact & Placement Policy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Equal opportunity for all eligible students.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Confidentiality and ethical conduct upheld during all recruitment processes.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "No fees charged to students for placement services.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Continuous employer feedback integrated into curriculum design.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 183,
+                  "heading": "Contact & Placement Policy"
+                },
+                "text": "For more information, contact career.services@cendara.edu or visit the Center for Career Development, Student Services Building, Room 102."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

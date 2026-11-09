@@ -1,0 +1,763 @@
+{
+  "doc_id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4",
+  "doc_key": [
+    "dept_of_public_health"
+  ],
+  "path": "Cendara University/md/dept_of_Public_Health.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 2
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Public Health",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Course Catalog 2024–2025",
+                "level": 3,
+                "location": {
+                  "line": 4,
+                  "heading": "Department of Public Health"
+                },
+                "blocks": [],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "B.Sc. in Public Health",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Core Required Courses",
+                "level": 3,
+                "location": {
+                  "line": 10,
+                  "heading": "B.Sc. in Public Health"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "PH 101 – Introduction to Public Health",
+                    "level": 4,
+                    "location": {
+                      "line": 14,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 15,
+                          "heading": "PH 101 – Introduction to Public Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: None\nDescription:\nA foundational survey of public health principles, history, and the role of public health in society. Topics include epidemiological methods, health systems, disease prevention, and community engagement."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 110 – Global Health Perspectives",
+                    "level": 4,
+                    "location": {
+                      "line": 22,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 23,
+                          "heading": "PH 110 – Global Health Perspectives"
+                        },
+                        "text": "Credits: 3\nPrerequisites: None\nDescription:\nExplores global trends in morbidity and mortality, the impact of globalization on health, and major international health organizations. Students will examine case studies from the Global South and North."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 120 – Health Policy and Management",
+                    "level": 4,
+                    "location": {
+                      "line": 30,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 31,
+                          "heading": "PH 120 – Health Policy and Management"
+                        },
+                        "text": "Credits: 4\nPrerequisites: PH 101\nDescription:\nAnalysis of policy-making processes, organizational structure of healthcare systems, and principles of management in public health settings. Students will evaluate the effectiveness of local, national, and global health policies."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 201 – Epidemiology I",
+                    "level": 4,
+                    "location": {
+                      "line": 38,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 39,
+                          "heading": "PH 201 – Epidemiology I"
+                        },
+                        "text": "Credits: 4\nPrerequisites: PH 101, PH 110\nDescription:\nIntroduction to concepts and methods in epidemiology, including study design, measures of disease frequency, and outbreak investigation. Application of epidemiological reasoning to current public health issues."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 215 – Biostatistics",
+                    "level": 4,
+                    "location": {
+                      "line": 46,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 47,
+                          "heading": "PH 215 – Biostatistics"
+                        },
+                        "text": "Credits: 4\nPrerequisites: PH 101 or MAT 100\nDescription:\nCovers descriptive and inferential statistical methods relevant to public health research. Students use statistical software to analyze public health data and interpret findings."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 230 – Environmental Health Science",
+                    "level": 4,
+                    "location": {
+                      "line": 54,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 55,
+                          "heading": "PH 230 – Environmental Health Science"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 101\nDescription:\nFocuses on physical, chemical, and biological factors that affect human health. Topics include air and water quality, environmental toxins, and regulation of environmental health risks."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 260 – Health Promotion and Behavior",
+                    "level": 4,
+                    "location": {
+                      "line": 62,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 63,
+                          "heading": "PH 260 – Health Promotion and Behavior"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 101\nDescription:\nInvestigates theories and strategies for promoting healthy behaviors among populations, with emphasis on program design, social determinants of health, and behavioral change models."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 350 – Practicum in Public Health",
+                    "level": 4,
+                    "location": {
+                      "line": 70,
+                      "heading": "Core Required Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 71,
+                          "heading": "PH 350 – Practicum in Public Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: Completion of at least 75 credits; Department approval\nDescription:\nStructured fieldwork experience in a community or public health organization. Students apply academic knowledge to practical challenges, culminating in a reflective report and presentation."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Elective Courses",
+                "level": 3,
+                "location": {
+                  "line": 78,
+                  "heading": "B.Sc. in Public Health"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "PH 320 – Infectious Disease Epidemiology",
+                    "level": 4,
+                    "location": {
+                      "line": 82,
+                      "heading": "Elective Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 83,
+                          "heading": "PH 320 – Infectious Disease Epidemiology"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 201\nDescription:\nExamines epidemiological methods specific to infectious disease. Students analyze patterns, transmission dynamics, and intervention strategies for diseases such as HIV, tuberculosis, and COVID-19."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 325 – Chronic Disease Epidemiology",
+                    "level": 4,
+                    "location": {
+                      "line": 90,
+                      "heading": "Elective Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 91,
+                          "heading": "PH 325 – Chronic Disease Epidemiology"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 201\nDescription:\nAddresses epidemiology of non-communicable diseases including cardiovascular disease, diabetes, and cancer. Focus on surveillance, risk factor analysis, and prevention strategies."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 331 – Occupational Health",
+                    "level": 4,
+                    "location": {
+                      "line": 98,
+                      "heading": "Elective Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 99,
+                          "heading": "PH 331 – Occupational Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 230\nDescription:\nIntroduction to hazards in the workplace and strategies for risk mitigation. Topics include occupational diseases, workplace safety legislation, and occupational health program implementation."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 340 – Maternal and Child Health",
+                    "level": 4,
+                    "location": {
+                      "line": 106,
+                      "heading": "Elective Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 107,
+                          "heading": "PH 340 – Maternal and Child Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 101\nDescription:\nExplores public health issues affecting women, infants, and children. Emphasis on health disparities, program development, and policy interventions."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Concentration Courses",
+                "level": 3,
+                "location": {
+                  "line": 114,
+                  "heading": "B.Sc. in Public Health"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Epidemiology Concentration",
+                    "level": 4,
+                    "location": {
+                      "line": 116,
+                      "heading": "Concentration Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 118,
+                          "heading": "Epidemiology Concentration"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "PH 405 – Advanced Epidemiologic Methods (Credits: 3)\nPrerequisites: PH 201, PH 215\nCoverage of advanced study designs, data analysis, and interpretation in epidemiological research. Weekly lab sessions include hands-on data analysis.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "PH 416 – Spatial Epidemiology (Credits: 3)\nPrerequisites: PH 201\nApplication of geographical information systems (GIS) in public health for mapping and analyzing disease trends spatially.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Health Policy Concentration",
+                    "level": 4,
+                    "location": {
+                      "line": 126,
+                      "heading": "Concentration Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 128,
+                          "heading": "Health Policy Concentration"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "PH 410 – Health Economics (Credits: 3)\nPrerequisites: PH 120\nEconomic analysis of health systems, cost-effectiveness in public health, and resource allocation in health care.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "PH 418 – Comparative Health Systems (Credits: 3)\nPrerequisites: PH 120\nComparison of international health care systems, evaluation of policy reforms, and analysis of best practices.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Community Health Concentration",
+                    "level": 4,
+                    "location": {
+                      "line": 136,
+                      "heading": "Concentration Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 138,
+                          "heading": "Community Health Concentration"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "PH 420 – Community Assessment and Intervention (Credits: 3)\nPrerequisites: PH 260\nMethods for community-based health assessment, planning, and interventions. Emphasis on participatory research and needs assessment.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "PH 430 – Program Planning and Evaluation (Credits: 3)\nPrerequisites: PH 260\nIntroduction to designing, implementing, and evaluating public health programs within communities.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Capstone",
+                "level": 3,
+                "location": {
+                  "line": 148,
+                  "heading": "B.Sc. in Public Health"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "PH 499 – Senior Seminar in Public Health",
+                    "level": 4,
+                    "location": {
+                      "line": 152,
+                      "heading": "Capstone"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 153,
+                          "heading": "PH 499 – Senior Seminar in Public Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: Senior standing, completion of core courses\nDescription:\nIntegrative course focusing on analysis and synthesis of public health knowledge. Students complete a significant project or research paper addressing an emerging public health issue."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "M.Sc. in Public Health",
+            "level": 2,
+            "location": {
+              "line": 160,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Core Graduate Courses",
+                "level": 3,
+                "location": {
+                  "line": 162,
+                  "heading": "M.Sc. in Public Health"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "PH 501 – Methods in Population Health Research",
+                    "level": 4,
+                    "location": {
+                      "line": 166,
+                      "heading": "Core Graduate Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 167,
+                          "heading": "PH 501 – Methods in Population Health Research"
+                        },
+                        "text": "Credits: 4\nPrerequisites: Undergraduate degree in health sciences or related field\nDescription:\nSeminar and lab-based exploration of quantitative and qualitative methods for population health research. Focus on research ethics, study design, data collection, and proposal development."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 510 – Advanced Epidemiology",
+                    "level": 4,
+                    "location": {
+                      "line": 174,
+                      "heading": "Core Graduate Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 175,
+                          "heading": "PH 510 – Advanced Epidemiology"
+                        },
+                        "text": "Credits: 4\nPrerequisites: PH 201 or equivalent\nDescription:\nIntensive study of epidemiologic theory and advanced analytic techniques. Topics include modeling, causal inference, and longitudinal data analysis."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 520 – Health Informatics",
+                    "level": 4,
+                    "location": {
+                      "line": 182,
+                      "heading": "Core Graduate Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 183,
+                          "heading": "PH 520 – Health Informatics"
+                        },
+                        "text": "Credits: 3\nPrerequisites: None\nDescription:\nIntroduction to the use of health information systems, electronic health records, and data analytics in public health practice and research."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 531 – Environmental and Occupational Health",
+                    "level": 4,
+                    "location": {
+                      "line": 190,
+                      "heading": "Core Graduate Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 191,
+                          "heading": "PH 531 – Environmental and Occupational Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: None\nDescription:\nExplores environmental and workplace hazards, assessment tools, and regulatory approaches. Case studies highlight the intersection of environment, policy, and health outcomes."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 540 – Public Health Policy Analysis",
+                    "level": 4,
+                    "location": {
+                      "line": 198,
+                      "heading": "Core Graduate Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 199,
+                          "heading": "PH 540 – Public Health Policy Analysis"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 120 or equivalent\nDescription:\nExamines frameworks and tools for analyzing, developing, and evaluating public health policies. Emphasizes critical appraisal of policy interventions and their impacts."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 550 – Leadership and Ethics in Public Health",
+                    "level": 4,
+                    "location": {
+                      "line": 206,
+                      "heading": "Core Graduate Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 207,
+                          "heading": "PH 550 – Leadership and Ethics in Public Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: None\nDescription:\nFocuses on leadership principles, ethical issues in health, and professional conduct. Includes discussions of current dilemmas and leadership case studies."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 590 – Thesis Research Seminar",
+                    "level": 4,
+                    "location": {
+                      "line": 214,
+                      "heading": "Core Graduate Courses"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 215,
+                          "heading": "PH 590 – Thesis Research Seminar"
+                        },
+                        "text": "Credits: 3\nPrerequisites: Completion of at least 21 credits in M.Sc. program\nDescription:\nSeminar supporting design and implementation of independent research. Students present progress and receive feedback from faculty and peers."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Graduate Electives",
+                "level": 3,
+                "location": {
+                  "line": 222,
+                  "heading": "M.Sc. in Public Health"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "PH 605 – Advanced Biostatistics",
+                    "level": 4,
+                    "location": {
+                      "line": 226,
+                      "heading": "Graduate Electives"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 227,
+                          "heading": "PH 605 – Advanced Biostatistics"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 215 or equivalent; permission of instructor\nDescription:\nTopics include multivariate analysis, survival analysis, and advanced modeling techniques with application to public health data sets."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 610 – Health Program Evaluation",
+                    "level": 4,
+                    "location": {
+                      "line": 234,
+                      "heading": "Graduate Electives"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 235,
+                          "heading": "PH 610 – Health Program Evaluation"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 430 or equivalent\nDescription:\nEvaluation frameworks and tools for assessing effectiveness and efficiency of community health interventions and health programs."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 621 – Epidemiology of Non-Communicable Diseases",
+                    "level": 4,
+                    "location": {
+                      "line": 242,
+                      "heading": "Graduate Electives"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 243,
+                          "heading": "PH 621 – Epidemiology of Non-Communicable Diseases"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 510\nDescription:\nDetailed study of epidemiology, risk factors, and control strategies for chronic diseases and conditions with global and national relevance."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 625 – Environmental Risk Assessment",
+                    "level": 4,
+                    "location": {
+                      "line": 250,
+                      "heading": "Graduate Electives"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 251,
+                          "heading": "PH 625 – Environmental Risk Assessment"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 531\nDescription:\nMethods for evaluating environmental exposures, risk characterizations, and regulatory responses at the population level."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 635 – Sexual and Reproductive Health",
+                    "level": 4,
+                    "location": {
+                      "line": 258,
+                      "heading": "Graduate Electives"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 259,
+                          "heading": "PH 635 – Sexual and Reproductive Health"
+                        },
+                        "text": "Credits: 3\nPrerequisites: PH 340 or equivalent\nDescription:\nComprehensive overview of public health interventions, policies, and research in sexual and reproductive health, including maternal morbidity and access to reproductive health services."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 645 – Health Communication Strategies",
+                    "level": 4,
+                    "location": {
+                      "line": 266,
+                      "heading": "Graduate Electives"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 267,
+                          "heading": "PH 645 – Health Communication Strategies"
+                        },
+                        "text": "Credits: 3\nPrerequisites: None\nDescription:\nDesign and assessment of health communication campaigns, use of digital media in health promotion, and the impact of communication on health behaviors."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "PH 699 – Independent Research in Public Health",
+                    "level": 4,
+                    "location": {
+                      "line": 274,
+                      "heading": "Graduate Electives"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 275,
+                          "heading": "PH 699 – Independent Research in Public Health"
+                        },
+                        "text": "Credits: Variable (1–4)\nPrerequisites: Approval of faculty supervisor\nDescription:\nOpportunity for students to pursue independent research under faculty guidance, culminating in a research report or manuscript for publication."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Additional Information",
+                "level": 3,
+                "location": {
+                  "line": 282,
+                  "heading": "M.Sc. in Public Health"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 284,
+                      "heading": "Additional Information"
+                    },
+                    "text": "The Department of Public Health encourages students to consult academic advisors for optimal course sequencing within their chosen concentration. Most courses are offered annually; selected electives may rotate in alternate years."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 286,
+                      "heading": "Additional Information"
+                    },
+                    "text": "Questions regarding prerequisites, credit transfers, or program structure can be directed to the Public Health Office, Cendara University, or science.advising@cendara.edu."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

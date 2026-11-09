@@ -1,0 +1,154 @@
+{
+  "doc_id": "4dd4034b4e6f1fc96144656bd4c00b98b3094f9507160d56754d40c625380af0",
+  "doc_key": [
+    "tablet_catalog"
+  ],
+  "path": "Velvera Technologies/md/tablet_catalog.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Tablets Catalog 2025",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Tablets Catalog 2025"
+            },
+            "text": "Welcome to the official comprehensive catalog for Velvera — where innovation meets elegance. Explore our complete range of tablets designed for the modern digital lifestyle."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tablet Series — Velvera Pad",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Velvera Tablets Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "Tablet Series — Velvera Pad"
+                },
+                "text": "Productivity and entertainment redefined. Our tablet lineup offers the perfect balance of performance, portability, and creativity tools."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Pad Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Tablet Series — Velvera Pad"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 11,
+                      "heading": "Velvera Pad Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Display Size",
+                      "Processor",
+                      "Storage/RAM",
+                      "Features",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Pad 11\" 128GB",
+                        "11\" IPS LCD",
+                        "Snapdragon 870",
+                        "128GB / 8GB",
+                        "Wi-Fi, Stereo Speakers",
+                        "₹32,999",
+                        "$399"
+                      ],
+                      [
+                        "Velvera Pad 11\" 256GB",
+                        "11\" IPS LCD",
+                        "Snapdragon 870",
+                        "256GB / 8GB",
+                        "Wi-Fi, Stereo Speakers",
+                        "₹37,999",
+                        "$459"
+                      ],
+                      [
+                        "Velvera Pad Pro 12.9\" 256GB",
+                        "12.9\" OLED",
+                        "Snapdragon 8+ Gen 1",
+                        "256GB / 12GB",
+                        "Wi-Fi + 5G, Quad Speakers",
+                        "₹54,999",
+                        "$659"
+                      ],
+                      [
+                        "Velvera Pad Pro 12.9\" 512GB",
+                        "12.9\" OLED",
+                        "Snapdragon 8+ Gen 1",
+                        "512GB / 12GB",
+                        "Wi-Fi + 5G, Quad Speakers",
+                        "₹64,999",
+                        "$779"
+                      ],
+                      [
+                        "Velvera Pad Pro 12.9\" 1TB",
+                        "12.9\" OLED",
+                        "Snapdragon 8+ Gen 1",
+                        "1TB / 16GB",
+                        "Wi-Fi + 5G, Quad Speakers",
+                        "₹79,999",
+                        "$959"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 19,
+                      "heading": "Velvera Pad Models & Pricing"
+                    },
+                    "text": "Compatible with Velvera Pencil and Velvera Keyboard (sold separately)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 22,
+                      "heading": "Velvera Pad Models & Pricing"
+                    },
+                    "text": "Velvera — Technology, Refined. Life, Elevated."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 24,
+                      "heading": "Velvera Pad Models & Pricing"
+                    },
+                    "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

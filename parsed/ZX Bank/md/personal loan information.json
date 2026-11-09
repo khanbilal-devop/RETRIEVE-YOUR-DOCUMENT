@@ -1,0 +1,319 @@
+{
+  "doc_id": "8554afccdeef2844f1a68cd35101bac810568b4683d1b7365b872fd0ad026acd",
+  "doc_key": [
+    "personal loan information",
+    "personal loan"
+  ],
+  "path": "ZX Bank/md/Personal Loan Information.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Ltd. – Personal Loan Information",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Ltd. – Personal Loan Information"
+            },
+            "text": "ZX Bank Ltd. offers flexible Personal Loans designed to meet your financial needs—whether it’s for weddings, education, travel, medical emergencies, or personal projects—with competitive rates and simple documentation."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Features & Benefits",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Ltd. – Personal Loan Information"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Features & Benefits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Loan Amount: Up to ₹30,00,000 (INR) or equivalent in local currency",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flexible Tenure: 12 to 60 months",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Approval: Instant eligibility check & digital application",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Zero Collateral: No need for security or guarantor",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Part-Payment & Foreclosure: Convenient repayment options",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Interest Rate",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "ZX Bank Ltd. – Personal Loan Information"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 19,
+                  "heading": "Interest Rate"
+                },
+                "header": [
+                  "Customer Category",
+                  "Interest Rate (per annum)"
+                ],
+                "rows": [
+                  [
+                    "Salaried (India, Sri Lanka)",
+                    "11.75% – 17.99%"
+                  ],
+                  [
+                    "Self-Employed (India, Sri Lanka)",
+                    "13.25% – 19.99%"
+                  ],
+                  [
+                    "Bangladesh, Bhutan, Nepal",
+                    "13.50% – 21.00%*"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 25,
+                  "heading": "Interest Rate"
+                },
+                "text": "*Subject to local market review and may vary by branch/country."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Documentation Required",
+            "level": 2,
+            "location": {
+              "line": 29,
+              "heading": "ZX Bank Ltd. – Personal Loan Information"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 31,
+                  "heading": "Documentation Required"
+                },
+                "text": "For Salaried Individuals:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 33,
+                  "heading": "Documentation Required"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Completed Personal Loan Application Form",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Photo Identity Proof (Aadhaar Card, Passport, Voter ID, etc.)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address Proof (Utility bill, Passport, Aadhar, etc.)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Latest 3 months’ Salary Slips",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Last 6 months’ Bank Statements",
+                    "depth": 0
+                  },
+                  {
+                    "text": "1 Passport-size Photograph",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PAN Card (for Indian applicants)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 41,
+                  "heading": "Documentation Required"
+                },
+                "text": "For Self-Employed Individuals:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 43,
+                  "heading": "Documentation Required"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Completed Application Form",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Photo Identity & Address Proof",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Last 2 years’ Income Tax Returns",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Business Continuity Proof (Trade license, GST certificate, etc.)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Last 6 months’ Bank Statements",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PAN Card (for Indian applicants)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Maximum Loan Amount",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "ZX Bank Ltd. – Personal Loan Information"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "Maximum Loan Amount"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "India: Up to ₹30,00,000",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sri Lanka: Up to LKR 60,00,000",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bangladesh: Up to BDT 35,00,000",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bhutan: Up to BTN 15,00,000",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Nepal: Up to NPR 40,00,000",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 60,
+                  "heading": "Maximum Loan Amount"
+                },
+                "text": "Note: Final loan amount and eligibility are subject to bank policy, applicant profile, and credit assessment."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply",
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "ZX Bank Ltd. – Personal Loan Information"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 66,
+                  "heading": "How to Apply"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Visit: Any ZX Bank branch in your country",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Online: Through ZX Bank Asia Mobile App (https://www.zxbank.asia/app) or NetBanking (https://www.zxbank.asia/netbanking)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Call: 24x7 Customer Care or use AI Assistant \"Zia\" on the app",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 70,
+                  "heading": "How to Apply"
+                },
+                "text": "For more details, visit www.zxbank.asia/personal-loan (https://www.zxbank.asia/personal-loan)"
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 74,
+                  "heading": "How to Apply"
+                },
+                "text": "Note: Interest rates, documentation and product features are subject to change as per regulatory guidelines and at the discretion of ZX Bank Ltd."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

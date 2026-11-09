@@ -1,0 +1,1303 @@
+{
+  "doc_id": "e3014496c3a4f419e33081057df7726cc7ed7b4cff0bdb236ef6806c85ab8938",
+  "doc_key": [
+    "international_student_guide"
+  ],
+  "path": "Cendara University/md/international_student_guide.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University International Student Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Welcome Letter from the Office of Global Engagement",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "Welcome Letter from the Office of Global Engagement"
+                },
+                "text": "Dear International Students,"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "Welcome Letter from the Office of Global Engagement"
+                },
+                "text": "Welcome to Cendara University! Whether you are joining us from across the globe or continuing your studies far from home, we are thrilled to have you as a valued member of our vibrant and diverse campus community. Navigating a new country and academic environment can be both exciting and challenging, but please know you are not alone—our entire community is eager to support your journey and help you thrive."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 11,
+                  "heading": "Welcome Letter from the Office of Global Engagement"
+                },
+                "text": "This guide provides essential information to help you transition smoothly to life at Cendara University and in the city of Albaire. Inside, you’ll find details about orientation, support services, immigration compliance, academics, and student life, as well as the many ways you can connect with others and make the most of your experience."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 13,
+                  "heading": "Welcome Letter from the Office of Global Engagement"
+                },
+                "text": "We look forward to supporting your goals and learning from your unique perspectives."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 15,
+                  "heading": "Welcome Letter from the Office of Global Engagement"
+                },
+                "text": "Warm regards,\nEvelyn Zhao, Director\nOffice of Global Engagement\nglobal@cendara.edu"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contents",
+            "level": 2,
+            "location": {
+              "line": 22,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 24,
+                  "heading": "Contents"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Arrival and Orientation",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Immigration and Legal Matters",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Academic Expectations and Support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Campus Life and Community",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Health, Wellness, and Safety",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Working in the U.S.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Living in Albaire: Local Resources",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Key Contacts and Offices",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "1. Arrival and Orientation",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Pre-Arrival Checklist",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "1. Arrival and Orientation"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 39,
+                      "heading": "Pre-Arrival Checklist"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Confirm your student visa (F-1/J-1) is approved and valid.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Purchase airline tickets, aiming to arrive 7–10 days before classes start.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Arrange temporary or permanent housing in advance.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Submit required immunization records to Health Services.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Register for International Student Orientation via global.cendara.edu/orientation.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Transportation to Campus",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "1. Arrival and Orientation"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 47,
+                      "heading": "Transportation to Campus"
+                    },
+                    "text": "Cendara University is located in central Albaire, approximately 35 minutes from Sable International Airport (SBL).\nTransportation options include:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 50,
+                      "heading": "Transportation to Campus"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Airport Welcome Shuttle: Complimentary pick-up service during orientation week (reservation required).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "City Taxi Service: Flat rate of $40 to campus hotels and residence halls.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Riverton Bus Line: Bus #12 connects the airport to downtown; fare: $3.50 (cash/credit).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "International Student Orientation",
+                "level": 3,
+                "location": {
+                  "line": 54,
+                  "heading": "1. Arrival and Orientation"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 56,
+                      "heading": "International Student Orientation"
+                    },
+                    "text": "Fall 2024 Orientation: August 14–18, 2024\nAll new international students must attend the five-day orientation, which covers:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 59,
+                      "heading": "International Student Orientation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Immigration regulations & visa maintenance",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Campus resources and facilities tour",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Academic integrity and classroom expectations",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Health insurance enrollment",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Banking & mobile phone setup",
+                        "depth": 0
+                      },
+                      {
+                        "text": "City walking tour and cultural adjustment workshops",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 66,
+                      "heading": "International Student Orientation"
+                    },
+                    "text": "Peer Mentors will be on hand to answer your questions and help you meet fellow new students."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "2. Immigration and Legal Matters",
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Visa Status Requirements",
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "2. Immigration and Legal Matters"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 74,
+                      "heading": "Visa Status Requirements"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Maintain a valid passport (at least 6 months into the future).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Full-time enrollment:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Undergraduates: 12 credit hours/semester",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Graduates: 9 credit hours/semester",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Report any address changes to the Office of Global Engagement within 10 days.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Do not accept employment off-campus without prior authorization.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "SEVIS Registration",
+                "level": 3,
+                "location": {
+                  "line": 81,
+                  "heading": "2. Immigration and Legal Matters"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 83,
+                      "heading": "SEVIS Registration"
+                    },
+                    "text": "You must check in with the Office of Global Engagement within 3 days of arrival. Please bring:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 85,
+                      "heading": "SEVIS Registration"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Passport (with valid visa)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "I-20 (F-1)/DS-2019 (J-1) document",
+                        "depth": 0
+                      },
+                      {
+                        "text": "I-94 Arrival/Departure record",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Proof of local address",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Travel/Leave of Absence",
+                "level": 3,
+                "location": {
+                  "line": 90,
+                  "heading": "2. Immigration and Legal Matters"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 92,
+                      "heading": "Travel/Leave of Absence"
+                    },
+                    "text": "Contact your international advisor before leaving the U.S. for more than 30 days or if you plan to take a semester off.\nRe-entering the U.S.? Your I-20/DS-2019 must be signed by a DSO within the last 12 months."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Common Immigration Violations",
+                "level": 3,
+                "location": {
+                  "line": 95,
+                  "heading": "2. Immigration and Legal Matters"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 97,
+                      "heading": "Common Immigration Violations"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Failing to enroll full-time without pre-approved authorization",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Unauthorized employment",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Expired I-20 or DS-2019",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Not updating address promptly",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 102,
+                      "heading": "Common Immigration Violations"
+                    },
+                    "text": "Questions? Meet with a Designated School Official (email: isss@cendara.edu)."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "3. Academic Expectations and Support",
+            "level": 2,
+            "location": {
+              "line": 106,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "The American Classroom",
+                "level": 3,
+                "location": {
+                  "line": 108,
+                  "heading": "3. Academic Expectations and Support"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 110,
+                      "heading": "The American Classroom"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Active participation is strongly encouraged. Be prepared to ask and answer questions, and contribute to discussions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Academic honesty is essential. Plagiarism, cheating, and unauthorized collaboration can result in disciplinary action.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Professors hold weekly office hours for additional help—attending is recommended.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Grading System",
+                "level": 3,
+                "location": {
+                  "line": 114,
+                  "heading": "3. Academic Expectations and Support"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 116,
+                      "heading": "Grading System"
+                    },
+                    "header": [
+                      "Grade",
+                      "Description",
+                      "Grade Points"
+                    ],
+                    "rows": [
+                      [
+                        "A",
+                        "Excellent",
+                        "4.0"
+                      ],
+                      [
+                        "B",
+                        "Good",
+                        "3.0"
+                      ],
+                      [
+                        "C",
+                        "Satisfactory",
+                        "2.0"
+                      ],
+                      [
+                        "D",
+                        "Passing",
+                        "1.0"
+                      ],
+                      [
+                        "F",
+                        "Failing",
+                        "0.0"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 124,
+                      "heading": "Grading System"
+                    },
+                    "text": "Courses may also use plus (+) and minus (–) distinctions."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Academic Support Services",
+                "level": 3,
+                "location": {
+                  "line": 126,
+                  "heading": "3. Academic Expectations and Support"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 128,
+                      "heading": "Academic Support Services"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "International Tutoring Center: Offers English language and subject tutoring—weekly group sessions and private appointments.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Writing Studio: Specialists help develop writing and presentation skills, including citation practices.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Academic Advising: Dedicated advisors assist with course selection, degree planning, and adjustment to new academic norms.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Important Dates (Fall 2024)",
+                "level": 3,
+                "location": {
+                  "line": 132,
+                  "heading": "3. Academic Expectations and Support"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 134,
+                      "heading": "Important Dates (Fall 2024)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Classes Begin: August 21",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Last Day to Add/Drop: August 30",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Midterm Exams: October 14–18",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Thanksgiving Break: November 27–December 1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Final Exams: December 10–17",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "4. Campus Life and Community",
+            "level": 2,
+            "location": {
+              "line": 142,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Living On Campus",
+                "level": 3,
+                "location": {
+                  "line": 144,
+                  "heading": "4. Campus Life and Community"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 146,
+                      "heading": "Living On Campus"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Residence Halls: On-campus housing for undergraduates; meal plans available.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Typical Room: Double occupancy, shared bathroom, Wi-Fi, communal kitchens.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "International Living Community (ILC): Cultural programming and peer support.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Graduate Housing: Limited apartments available; apply early.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Dining",
+                "level": 3,
+                "location": {
+                  "line": 151,
+                  "heading": "4. Campus Life and Community"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 153,
+                      "heading": "Dining"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dining Commons: Diverse menu with global cuisine options (vegetarian, halal, gluten-free available).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Campus Cafés: Java Junction and The Garden Table offer coffee, snacks, and study space.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Student Organizations",
+                "level": 3,
+                "location": {
+                  "line": 156,
+                  "heading": "4. Campus Life and Community"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 158,
+                      "heading": "Student Organizations"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "International Students Association (ISA): Social events, cultural festivals, and mentorship programs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Multicultural Resource Center: Affinity groups, language exchange, and interfaith dialogues.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Student Government Association: Advocacy and leadership opportunities.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Cultural Programs",
+                "level": 3,
+                "location": {
+                  "line": 162,
+                  "heading": "4. Campus Life and Community"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 164,
+                      "heading": "Cultural Programs"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "International Night (October): Music, dance, and food from around the world.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lunar New Year Festival (February), Diwali Celebration (November), Eid Gathering (April).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cendara Unity Dialogues: Dialogue series on belonging, identity, and intercultural understanding.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "5. Health, Wellness, and Safety",
+            "level": 2,
+            "location": {
+              "line": 170,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Health Insurance",
+                "level": 3,
+                "location": {
+                  "line": 172,
+                  "heading": "5. Health, Wellness, and Safety"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 174,
+                      "heading": "Health Insurance"
+                    },
+                    "text": "All international students are required to enroll in the Cendara University Student Health Insurance Plan (SHIP):"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 176,
+                      "heading": "Health Insurance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Coverage: On-campus Health Center services, local hospitals, mental health counseling, prescriptions, emergency care.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Annual Cost (2024–2025): $1,350",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Waivers: Available if you have comparable insurance.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Health Services",
+                "level": 3,
+                "location": {
+                  "line": 180,
+                  "heading": "5. Health, Wellness, and Safety"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 182,
+                      "heading": "Health Services"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Campus Health Center: Primary care, vaccinations, urgent care, and referral services. Open Monday–Friday, 8:00 a.m.–5:30 p.m.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Counseling Services: Free, confidential counseling with multicultural staff, plus support groups for international students.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Accessibility Services: Academic accommodations and assistive technology support.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Campus Safety",
+                "level": 3,
+                "location": {
+                  "line": 186,
+                  "heading": "5. Health, Wellness, and Safety"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 188,
+                      "heading": "Campus Safety"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "24/7 Campus Security patrols and emergency call boxes throughout campus.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Night Owl free campus shuttle (operates 7:00 p.m.–2:00 a.m.).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Safety App: Cendara Guardian (real-time alerts and check-in).",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 192,
+                      "heading": "Campus Safety"
+                    },
+                    "text": "For emergencies, dial 911 from any phone.\nNon-emergency Campus Security: (747) 229-6500"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "6. Working in the U.S.",
+            "level": 2,
+            "location": {
+              "line": 197,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "On-Campus Employment",
+                "level": 3,
+                "location": {
+                  "line": 199,
+                  "heading": "6. Working in the U.S."
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 201,
+                      "heading": "On-Campus Employment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Up to 20 hours per week during semesters; full-time during breaks.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Opportunities include library assistant, research aide, dining services, and campus events.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Off-Campus Employment",
+                "level": 3,
+                "location": {
+                  "line": 204,
+                  "heading": "6. Working in the U.S."
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 206,
+                      "heading": "Off-Campus Employment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Curricular Practical Training (CPT): For internships directly related to your major, after 1 academic year.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Optional Practical Training (OPT): Up to 12 months of work authorization upon program completion (F-1 students).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Social Security Number (SSN): Required for employment; apply after securing a job offer.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Taxes",
+                "level": 3,
+                "location": {
+                  "line": 210,
+                  "heading": "6. Working in the U.S."
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 212,
+                      "heading": "Taxes"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "All international students, even those without income, must file Form 8843 annually.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Guidance webinars available each spring (see global.cendara.edu/taxinfo).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "7. Living in Albaire: Local Resources",
+            "level": 2,
+            "location": {
+              "line": 217,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Housing",
+                "level": 3,
+                "location": {
+                  "line": 219,
+                  "heading": "7. Living in Albaire: Local Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 221,
+                      "heading": "Housing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "On-campus and off-campus options—check the Cendara Housing Portal and bulletin boards.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Albaire neighborhoods popular with students: Old Port, Rosedale, and Campus Ridge.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Average off-campus rent:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Studio: $790/month",
+                        "depth": 1
+                      },
+                      {
+                        "text": "2-bedroom: $1,120/month",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Banking",
+                "level": 3,
+                "location": {
+                  "line": 227,
+                  "heading": "7. Living in Albaire: Local Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 229,
+                      "heading": "Banking"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "RiverBank (on campus branch): Free checking account for students, multi-language ATMs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Other options: Albaire Federal Credit Union, Northfield Bank (downtown).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Transportation",
+                "level": 3,
+                "location": {
+                  "line": 232,
+                  "heading": "7. Living in Albaire: Local Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 234,
+                      "heading": "Transportation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "City bus pass: $45/month (student discount)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bike-share: Cendara Wheels program; annual access $20",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cendara University Shuttle: Covers campus and nearby apartments (included in student fees).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Shopping and Dining",
+                "level": 3,
+                "location": {
+                  "line": 238,
+                  "heading": "7. Living in Albaire: Local Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 240,
+                      "heading": "Shopping and Dining"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Albaire Market (international groceries)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ginkgo Plaza (clothing, electronics, bookstores)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Restaurants: Taste of Seoul, El Mercado, Le Petit Boulanger, Mumbai Spice, and many more",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Religious & Cultural Centers",
+                "level": 3,
+                "location": {
+                  "line": 244,
+                  "heading": "7. Living in Albaire: Local Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 246,
+                      "heading": "Religious & Cultural Centers"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Albaire Islamic Center",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Grace United Church",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Albaire Buddhist Temple",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Jewish Student Center (Hillel)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "8. Key Contacts and Offices",
+            "level": 2,
+            "location": {
+              "line": 253,
+              "heading": "Cendara University International Student Guide"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 255,
+                  "heading": "8. Key Contacts and Offices"
+                },
+                "header": [
+                  "Office",
+                  "Location",
+                  "Email",
+                  "Phone"
+                ],
+                "rows": [
+                  [
+                    "Office of Global Engagement",
+                    "Taylor Hall 101",
+                    "global@cendara.edu",
+                    "(747) 229-6401"
+                  ],
+                  [
+                    "International Student Services",
+                    "Taylor Hall 102",
+                    "isss@cendara.edu",
+                    "(747) 229-6507"
+                  ],
+                  [
+                    "Campus Health Center",
+                    "Oak Hall Lower",
+                    "health@cendara.edu",
+                    "(747) 229-6520"
+                  ],
+                  [
+                    "Counseling & Wellness",
+                    "MRC Suite 200",
+                    "wellness@cendara.edu",
+                    "(747) 229-6544"
+                  ],
+                  [
+                    "Housing and Residential Life",
+                    "Cedar House 1st",
+                    "housing@cendara.edu",
+                    "(747) 229-6133"
+                  ],
+                  [
+                    "Accessibility Services",
+                    "Oak Hall 106",
+                    "access@cendara.edu",
+                    "(747) 229-6582"
+                  ],
+                  [
+                    "Campus Security",
+                    "Security Bldg",
+                    "security@cendara.edu",
+                    "(747) 229-6500"
+                  ],
+                  [
+                    "Office of Diversity Initiatives",
+                    "MRC, Room 220",
+                    "diversity@cendara.edu",
+                    "(747) 229-6558"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Final Tips for Success",
+        "level": 1,
+        "location": {
+          "line": 268
+        },
+        "blocks": [
+          {
+            "type": "list",
+            "location": {
+              "line": 270,
+              "heading": "Final Tips for Success"
+            },
+            "ordered": false,
+            "items": [
+              {
+                "text": "Get involved—join a club, attend events, and connect with your peers.",
+                "depth": 0
+              },
+              {
+                "text": "Reach out for help early. Our staff are here to support your success.",
+                "depth": 0
+              },
+              {
+                "text": "Explore Albaire and the surrounding region; embrace new experiences while sharing your culture.",
+                "depth": 0
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 274,
+              "heading": "Final Tips for Success"
+            },
+            "text": "We are delighted you chose Cendara University. Welcome to your new academic home!"
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 278,
+              "heading": "Final Tips for Success"
+            },
+            "text": "This guide was produced by the Office of Global Engagement in partnership with International Student Services and the Multicultural Resource Center. For the most current information and updates, please visit global.cendara.edu/guide."
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+}

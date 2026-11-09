@@ -1,0 +1,281 @@
+{
+  "doc_id": "ddaba9ab820071e68a27ce052e346625a523a4c92694ec7a2049cfae18f366f1",
+  "doc_key": [
+    "zx bank house loan"
+  ],
+  "path": "ZX Bank/md/ZX Bank House Loan.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank House Loan",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank House Loan"
+            },
+            "text": "Are you planning to buy your dream home? ZX Bank offers flexible, affordable, and convenient House Loan solutions tailored for you!"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Why Choose ZX Bank House Loan?",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank House Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Why Choose ZX Bank House Loan?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Attractive Interest Rates: Competitive rates to keep your EMIs low",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flexible Repayment Tenure: Up to 30 years for maximum comfort",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Approvals: Minimal documentation and fast processing",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loan Amount: Up to 90% of property cost (subject to conditions)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Zero Prepayment Charges: Part-pay or foreclose anytime",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Features",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "ZX Bank House Loan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 19,
+                  "heading": "Key Features"
+                },
+                "header": [
+                  "Feature",
+                  "Details"
+                ],
+                "rows": [
+                  [
+                    "Eligible Applicants",
+                    "Salaried, Self-employed, NRIs"
+                  ],
+                  [
+                    "Loan Amount",
+                    "₹ 5 lakhs – ₹ 10 crores"
+                  ],
+                  [
+                    "Tenure",
+                    "Up to 30 years"
+                  ],
+                  [
+                    "Processing Fee",
+                    "Starting at 0.25%* of loan amount"
+                  ],
+                  [
+                    "Interest Type",
+                    "Fixed / Floating"
+                  ],
+                  [
+                    "Top-up Loans",
+                    "Available"
+                  ],
+                  [
+                    "Balance Transfer",
+                    "Easy switch from other banks"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 29,
+                  "heading": "Key Features"
+                },
+                "text": "*Terms & conditions apply"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Documents Required",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "ZX Bank House Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "Documents Required"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ID Proof: Aadhaar, PAN, Passport, Voter ID",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address Proof: Utility Bill, Passport, Aadhaar",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Income Proof: Salary slips, ITR, Bank statement, Form 16",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Property Documents: Sale agreement, title deed, approved plan",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "ZX Bank House Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 43,
+                  "heading": "How to Apply"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Online:\nVisit ZX Bank Home Loan Portal (https://www.zxbank.asia/homeloans)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mobile App:\nDownload ZX Bank Asia app on Android (https://play.google.com/) or iOS (https://apps.apple.com/)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Branch:\nWalk into any ZX Bank branch across India, Sri Lanka, Bangladesh, Bhutan, or Nepal",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Special Benefits",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "ZX Bank House Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 56,
+                  "heading": "Special Benefits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Women Empowerment: Additional rate concession for women co-applicants",
+                    "depth": 0
+                  },
+                  {
+                    "text": "NRI Service: Dedicated relationship manager & online application",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Green Homes: Lower rates for eco-friendly/energy-efficient homes",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 62,
+              "heading": "ZX Bank House Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 64,
+                  "heading": "Need Help?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Chat with “Zia”, our AI Assistant, via mobile app or net banking",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Call 1800-123-4567 (Toll-free in India)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Email: loans@zxbank.asia",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 68,
+                  "heading": "Need Help?"
+                },
+                "text": "Start your homeownership journey with ZX Bank!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

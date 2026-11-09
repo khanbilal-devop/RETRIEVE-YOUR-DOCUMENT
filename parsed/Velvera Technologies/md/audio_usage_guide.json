@@ -1,0 +1,830 @@
+{
+  "doc_id": "93b0e852c490e5c24d058b837d22de1c4d54dc04c180458e49daf4441900e3eb",
+  "doc_key": [
+    "audio_usage_guide"
+  ],
+  "path": "Velvera Technologies/md/audio_usage_guide.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Audio Series — Usage Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Audio Series — Usage Guide"
+            },
+            "text": "Maximize your audio experience by following this comprehensive usage guide for each model in the Velvera Audio Series. These instructions are tailored to ensure optimal setup, performance, and maintenance of your Velvera audio devices."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Velvera Buds",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Audio Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "Velvera Buds"
+                },
+                "text": "Getting Started:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 10,
+                  "heading": "Velvera Buds"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Charge the earbuds using the supplied USB-C cable or place them in the charging case to top up power.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Open the case lid; the buds enter pairing mode automatically the first time.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "On your smartphone, enable Bluetooth and select “Velvera Buds” from the devices.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 14,
+                  "heading": "Velvera Buds"
+                },
+                "text": "Controls:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 15,
+                  "heading": "Velvera Buds"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Tap once: Play/Pause music, Answer/End call",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap twice: Skip to next track",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Long press (1.5s): Activate voice assistant",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap and hold both buds: Turn ANC on/off",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Remove earbud: Auto-pause audio",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 21,
+                  "heading": "Velvera Buds"
+                },
+                "text": "Fit & Comfort:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 22,
+                  "heading": "Velvera Buds"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Try all included ear tips (S/M/L) for a secure fit.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Buds are IPX4 rated—safe for workouts and light rain.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 25,
+                  "heading": "Velvera Buds"
+                },
+                "text": "Charging Tips:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 26,
+                  "heading": "Velvera Buds"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "15 minutes charge provides up to 1.5 hours playback.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Place both earbuds in case before storing.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 29,
+                  "heading": "Velvera Buds"
+                },
+                "text": "Care:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 30,
+                  "heading": "Velvera Buds"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Wipe earbuds with a dry cloth after use.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Avoid submerging in water.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Buds Deluxe",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "Velvera Audio Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 37,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "text": "Getting Started:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 38,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Charge in the case via USB-C or a certified Qi wireless charger.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Open lid to auto-pair; follow on-screen prompts for first-time setup.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For manual pairing, hold both buds’ touch panels for 3 seconds.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 42,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "text": "Controls:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 43,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Tap: Play/Pause",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Double tap (right): Volume up | Double tap (left): Volume down",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Long press: Switch ANC/Transparency/Normal mode",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap and hold (2s): Voice assistant activation",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 48,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "text": "Advanced Features:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Enable “Low Latency Mode” in the Velvera Audio app for seamless gaming/video sync.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Memory foam tips support all-day comfort.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 52,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "text": "Charging Notes:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Up to 7 hours use per charge; 30 hours total with case.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 55,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "text": "Maintenance:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 56,
+                  "heading": "Velvera Buds Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Wipe with a damp cloth as needed (IPX5 rated for improved water resistance).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Update firmware via the Velvera Audio app regularly.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Buds Premium",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "Velvera Audio Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 63,
+                  "heading": "Velvera Buds Premium"
+                },
+                "text": "Getting Started:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 64,
+                  "heading": "Velvera Buds Premium"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Charge the case using Qi wireless pad or USB-C.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Open the lid for instant pairing; re-pair via holding both bud buttons for 5s.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 67,
+                  "heading": "Velvera Buds Premium"
+                },
+                "text": "Controls:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 68,
+                  "heading": "Velvera Buds Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Single tap: Play/Pause",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Triple tap: Cycle ANC modes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap and hold: Customizable function (set in Velvera Audio app)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Remove to auto-pause via sensor",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 73,
+                  "heading": "Velvera Buds Premium"
+                },
+                "text": "Feature Highlights:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 74,
+                  "heading": "Velvera Buds Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Adaptive ANC adapts to surroundings; use the app to adjust EQ and ANC intensity.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Supports Bluetooth multi-point—connect to two devices simultaneously.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 77,
+                  "heading": "Velvera Buds Premium"
+                },
+                "text": "Comfort:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Velvera Buds Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Hybrid silicone/foam tips ensure snug and passive noise isolation.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 80,
+                  "heading": "Velvera Buds Premium"
+                },
+                "text": "Care & Cleaning:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 81,
+                  "heading": "Velvera Buds Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "IPX5 water resistance guards against sweat and splashes.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Clean tips and charging contacts weekly.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Headphones Deluxe",
+            "level": 2,
+            "location": {
+              "line": 86,
+              "heading": "Velvera Audio Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 88,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "text": "Setup:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 89,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Fully charge headphones with the included USB-C cable.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For pairing, slide power switch up and hold for 2 seconds; LED will blink blue.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Select “Velvera Headphones Deluxe” on your device.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 93,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "text": "Controls:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 94,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Tap right earcup: Play/Pause",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Volume slider: Adjust level",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Double tap: Skip track",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Long press (left earcup): Toggle ANC/Ambient/Off",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 99,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "text": "Wired/Wireless Modes:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 100,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Use 3.5mm audio jack for wired listening (cable provided in hard-shell case).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Multipoint Bluetooth lets you connect to two devices at once.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 103,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "text": "Fit & Storage:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 104,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Adjust headband for comfort; fold headphones into the case for travel.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Plush memory foam cushions suit extended listening.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 107,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "text": "Care:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 108,
+                  "heading": "Velvera Headphones Deluxe"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Use a microfiber cloth to clean ear cushions and exterior.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Store in the hard-shell case when not in use.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Headphones Premium",
+            "level": 2,
+            "location": {
+              "line": 113,
+              "heading": "Velvera Audio Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 115,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "text": "Setup:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 116,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Charge with USB-C; connect to PC or phone for high-res audio via included DAC cable.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "To pair wirelessly: Press and hold power for 2 seconds — LED turns blue.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Select “Velvera Headphones Premium” from available Bluetooth devices.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 120,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "text": "Controls & Smart Features:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 121,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Touch gestures: Swipe to change track; tap to play/pause",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Adaptive headband evenly distributes weight",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wear sensors: Auto-pause when removed",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 125,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "text": "High-Performance Listening:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 126,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Planar magnetic drivers deliver ultra-low distortion.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "App-based EQ customization and firmware updates available (via Velvera Audio app).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "LDAC codec ensures lossless high-res Bluetooth streaming.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 130,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "text": "Wired Mode:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 131,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Connect via USB-C or 3.5mm for balanced studio-quality playback.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 133,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "text": "Care & Comfort:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 134,
+                  "heading": "Velvera Headphones Premium"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Vegan leather earpads and carbon fiber frame: wipe gently with dry cloth.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Keep headphones in the premium case when not in use.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "All Models: General Care & Support",
+            "level": 2,
+            "location": {
+              "line": 139,
+              "heading": "Velvera Audio Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 141,
+                  "heading": "All Models: General Care & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Register your product in the Velvera Audio app for warranty and software updates.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Avoid exposing devices to extreme heat, humidity, or direct sunlight.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For troubleshooting or support, visit www.velvera.com/support or call 1800-123-VELVERA.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 145,
+                  "heading": "All Models: General Care & Support"
+                },
+                "text": "Enjoy elevated listening—Velvera, where technology meets refinement."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

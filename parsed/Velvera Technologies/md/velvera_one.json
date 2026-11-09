@@ -1,0 +1,483 @@
+{
+  "doc_id": "7607e0f21ff3a4df63363c8cce62746edbe4c1d341fcd8561c46a464d60127c9",
+  "doc_key": [
+    "velvera_one"
+  ],
+  "path": "Velvera Technologies/md/velvera_one.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera One — Product Specifications",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Overview"
+                },
+                "text": "The Velvera One is part of Velvera's Flagship Series, offering premium materials, durable build, and long-term software support. Designed for users seeking high performance and refined aesthetics, it delivers a future-ready experience with storage options suited for all needs."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Storage & Pricing Variants",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 10,
+                  "heading": "Storage & Pricing Variants"
+                },
+                "header": [
+                  "Variant",
+                  "RAM",
+                  "Internal Storage",
+                  "Price (INR / USD)"
+                ],
+                "rows": [
+                  [
+                    "128GB",
+                    "8GB",
+                    "128GB",
+                    "₹49,999 / $599"
+                  ],
+                  [
+                    "256GB",
+                    "8GB",
+                    "256GB",
+                    "₹54,999 / $659"
+                  ],
+                  [
+                    "512GB",
+                    "12GB",
+                    "512GB",
+                    "₹62,999 / $759"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "General",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "General"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Series: Velvera One",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Color Options: Titanium Gray, Deep Ocean Blue, Rose Gold, Midnight Black",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Display",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 27,
+                  "heading": "Display"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Type: AMOLED",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Size: 6.5 inches",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Refresh Rate: 120Hz",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Resolution: 2400 x 1080 pixels (FHD+)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Protection: Corning Gorilla Glass Victus 2",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Build & Durability",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "Build & Durability"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Frame: Aerospace-grade aluminum",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Front/Back: Corning Gorilla Glass Victus 2",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Water Resistance: IP68 (up to 1.5m for 30 min)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Additional Durability: IP69K (high-pressure water and dust protection)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Performance",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "Performance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Processor: VelveraVision X1 (Octa-core, 4nm)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "GPU: Adreno V900",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Expandable Storage: Up to 1TB via microSD",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Camera",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "Camera"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Rear Camera: Dual AI Camera Setup",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Main: 50MP f/1.8, OIS",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ultra-Wide: 12MP f/2.2, 123° FOV",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Front Camera: 32MP f/2.0",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Camera Features: Night Mode, Portrait AI, 4K HDR Video, AI Scene Detection",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Video Recording:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rear: 4K @ 60fps, 1080p @ 240fps",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Front: 4K @ 30fps",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Battery & Charging",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Battery & Charging"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Battery Capacity: 5000mAh (non-removable)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wired Charging: 65W Fast Charging (0–100% in 38 minutes)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wireless Charging: 50W Qi-compatible",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Reverse Wireless Charging: 15W",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Connectivity",
+            "level": 2,
+            "location": {
+              "line": 74,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 76,
+                  "heading": "Connectivity"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "5G Bands: n1/n3/n5/n7/n28/n78",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SIM Slots: Dual Nano-SIM (5G + 5G)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wi-Fi: Wi-Fi 6E (802.11ax)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bluetooth: 5.3 with aptX Adaptive",
+                    "depth": 0
+                  },
+                  {
+                    "text": "USB: USB-C 3.2 Gen 2",
+                    "depth": 0
+                  },
+                  {
+                    "text": "NFC: Yes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "GPS: Dual-band (A-GPS, GLONASS, Galileo, BeiDou)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Software & Updates",
+            "level": 2,
+            "location": {
+              "line": 86,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 88,
+                  "heading": "Software & Updates"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Operating System: VelveraOS 2.0 (based on Android 14)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "OS Updates: 4 years (guaranteed)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Security Updates: 5 years (guaranteed)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI Features:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Offline AI Assistant",
+                    "depth": 1
+                  },
+                  {
+                    "text": "AI Summarization",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Smart Camera Suggestions",
+                    "depth": 1
+                  },
+                  {
+                    "text": "On-device Translation",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Special Features",
+            "level": 2,
+            "location": {
+              "line": 99,
+              "heading": "Velvera One — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 101,
+                  "heading": "Special Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Premium aerospace-grade build and design",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Corning Gorilla Glass Victus 2 on both sides",
+                    "depth": 0
+                  },
+                  {
+                    "text": "IP68 & IP69K water/dust/high-pressure resistance",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fast wired and wireless charging with reverse charge",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI-driven features that work offline",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Long-term software and security support",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 111,
+                  "heading": "Special Features"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 113,
+                  "heading": "Special Features"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

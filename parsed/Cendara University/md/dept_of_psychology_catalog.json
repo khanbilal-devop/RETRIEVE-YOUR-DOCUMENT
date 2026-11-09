@@ -1,0 +1,902 @@
+{
+  "doc_id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2",
+  "doc_key": [
+    "dept_of_psychology_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Psychology_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "text": "Department of Psychology\nCourse Catalog 2024-2025"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Undergraduate Courses",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "PSY 101: Introduction to Psychology",
+                "level": 3,
+                "location": {
+                  "line": 7,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 8,
+                      "heading": "PSY 101: Introduction to Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAn overview of the major theories, foundational concepts, and methods in psychology. Topics include perception, learning, motivation, development, and social behavior. Designed for students with no prior background in psychology.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 110: Research Methods in Psychology",
+                "level": 3,
+                "location": {
+                  "line": 15,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 16,
+                      "heading": "PSY 110: Research Methods in Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIntroduction to the scientific method as applied to psychological phenomena. Students learn experimental design, data collection, basic analysis, and ethical considerations. Includes laboratory sessions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 211: Developmental Psychology",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "PSY 211: Developmental Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExamination of the biological, cognitive, and social development of individuals from infancy through adulthood. Explores key theories and methodological approaches.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 218: Introduction to Cognitive Psychology",
+                "level": 3,
+                "location": {
+                  "line": 31,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 32,
+                      "heading": "PSY 218: Introduction to Cognitive Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExploration of mental processes such as attention, memory, language, perception, and problem-solving. Discussion of experimental findings and theoretical frameworks.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 230: Social Psychology",
+                "level": 3,
+                "location": {
+                  "line": 39,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 40,
+                      "heading": "PSY 230: Social Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nInvestigation of how social factors influence individual behavior. Major topics include aggression, conformity, group dynamics, attitudes, stereotypes, and prejudice.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 250: Abnormal Psychology",
+                "level": 3,
+                "location": {
+                  "line": 47,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "PSY 250: Abnormal Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAnalysis of the definition, classification, and treatment of mental disorders. Includes an overview of anxiety, mood, psychotic, and personality disorders.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 312: Biological Bases of Behavior",
+                "level": 3,
+                "location": {
+                  "line": 55,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 56,
+                      "heading": "PSY 312: Biological Bases of Behavior"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nStudy of the neural and hormonal foundations of behavior, sensation, and motivation. Emphasizes connections between biological mechanisms and psychological processes.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 101, PSY 110",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 320: Introduction to Clinical Psychology",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 64,
+                      "heading": "PSY 320: Introduction to Clinical Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nSurvey of the principles and practices of clinical assessment, diagnosis, and treatment of mental health conditions. Emphasis on evidence-based approaches.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 250",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 340: Personality Psychology",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 72,
+                      "heading": "PSY 340: Personality Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExploration of classical and contemporary theories of personality, methods of assessment, and research findings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 370: Psychological Statistics",
+                "level": 3,
+                "location": {
+                  "line": 79,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 80,
+                      "heading": "PSY 370: Psychological Statistics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIntroduction to descriptive and inferential statistical techniques used in psychological research, including hypothesis testing, ANOVA, regression, and nonparametric approaches. Includes computer-based labs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 110, MTH 101 (Introduction to College Algebra)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 399: Independent Study in Psychology",
+                "level": 3,
+                "location": {
+                  "line": 87,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 88,
+                      "heading": "PSY 399: Independent Study in Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 1-3 (variable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIndividual study or research project under faculty supervision in a specialized area of psychology. Requires departmental approval.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Permission of instructor, Junior standing",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Graduate Courses",
+            "level": 2,
+            "location": {
+              "line": 95,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "PSY 500: Advanced Research Methods",
+                "level": 3,
+                "location": {
+                  "line": 97,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 98,
+                      "heading": "PSY 500: Advanced Research Methods"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIn-depth examination of quantitative and qualitative research methodologies, data analysis techniques, and ethics in advanced psychological research.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 370 or equivalent",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 512: Cognitive Neuroscience",
+                "level": 3,
+                "location": {
+                  "line": 105,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 106,
+                      "heading": "PSY 512: Cognitive Neuroscience"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nStudy of neural mechanisms underlying cognitive functions such as perception, memory, and decision-making. Readings from current research literature.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 312",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 522: Advanced Developmental Psychology",
+                "level": 3,
+                "location": {
+                  "line": 113,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 114,
+                      "heading": "PSY 522: Advanced Developmental Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nCritical analysis of cognitive and emotional development throughout the lifespan. Focus on current issues and empirical research.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 211",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 532: Psychopathology",
+                "level": 3,
+                "location": {
+                  "line": 121,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 122,
+                      "heading": "PSY 532: Psychopathology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAdvanced exploration of psychological disorders, diagnostic criteria, underlying mechanisms, and recent research trends.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 250, PSY 320",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 540: Psychological Assessment",
+                "level": 3,
+                "location": {
+                  "line": 129,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 130,
+                      "heading": "PSY 540: Psychological Assessment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nPrinciples and practices of assessment in clinical psychology, including intelligence, personality, and neuropsychological testing.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 340, PSY 320",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 550: Interventions in Clinical Psychology",
+                "level": 3,
+                "location": {
+                  "line": 137,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 138,
+                      "heading": "PSY 550: Interventions in Clinical Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nComprehensive overview of psychotherapeutic interventions, including cognitive-behavioral, psychodynamic, and humanistic approaches. Integrates case studies and supervised practice.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 532, PSY 540",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 561: Seminar in Social Cognition",
+                "level": 3,
+                "location": {
+                  "line": 145,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 146,
+                      "heading": "PSY 561: Seminar in Social Cognition"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nDiscussion-based seminar focusing on theory and research in social cognitive processes including attitudes, attribution, and emotion regulation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 230 (or equivalent)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 580: Teaching of Psychology",
+                "level": 3,
+                "location": {
+                  "line": 153,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 154,
+                      "heading": "PSY 580: Teaching of Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nPreparation for teaching undergraduate psychology, covering course planning, assessment, and student engagement strategies. Required for teaching assistants.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing in Psychology",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 590: Graduate Thesis",
+                "level": 3,
+                "location": {
+                  "line": 161,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 162,
+                      "heading": "PSY 590: Graduate Thesis"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 6",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nOriginal empirical research conducted under faculty mentorship. Culminates in a thesis and oral defense.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Permission of thesis committee",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Doctoral-Level Courses",
+            "level": 2,
+            "location": {
+              "line": 169,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "PSY 601: Advanced Topics in Clinical Psychology",
+                "level": 3,
+                "location": {
+                  "line": 171,
+                  "heading": "Doctoral-Level Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 172,
+                      "heading": "PSY 601: Advanced Topics in Clinical Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nRotating content seminar on topics such as trauma, substance use disorders, and multicultural assessment. Students critically evaluate recent interventions and research.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Admission to Ph.D. program",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 610: Statistical Modeling for Psychologists",
+                "level": 3,
+                "location": {
+                  "line": 179,
+                  "heading": "Doctoral-Level Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 180,
+                      "heading": "PSY 610: Statistical Modeling for Psychologists"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIntensive training in advanced statistical techniques including multilevel modeling, structural equation modeling, and Bayesian estimation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PSY 500",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 635: Grant Writing in Psychology",
+                "level": 3,
+                "location": {
+                  "line": 187,
+                  "heading": "Doctoral-Level Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 188,
+                      "heading": "PSY 635: Grant Writing in Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nPractical experience in identifying funding sources and developing research grant proposals with feedback from faculty and peers.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PSY 650: Doctoral Dissertation",
+                "level": 3,
+                "location": {
+                  "line": 195,
+                  "heading": "Doctoral-Level Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 196,
+                      "heading": "PSY 650: Doctoral Dissertation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 12",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nCompletion of an original dissertation project demonstrating substantial contribution to the field of psychology. Includes proposal, data collection and analysis, manuscript preparation, and defense.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Advancement to candidacy",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Additional Notes",
+            "level": 2,
+            "location": {
+              "line": 203,
+              "heading": "Cendara University"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 205,
+                  "heading": "Additional Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "All courses are subject to availability and may require consent from instructors or the department.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Undergraduate students interested in graduate coursework must obtain special permission.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Credit hours are based on semester system.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 209,
+                  "heading": "Additional Notes"
+                },
+                "text": "For further information, please consult the Department of Psychology office (psychology@cendara.edu) or visit the Cendara University Courses portal."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

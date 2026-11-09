@@ -1,0 +1,286 @@
+{
+  "doc_id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf",
+  "doc_key": [
+    "bill payments"
+  ],
+  "path": "ZX Bank/md/Bill Payments.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank – Bill Payments & Auto Debit Feature",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank – Bill Payments & Auto Debit Feature"
+            },
+            "text": "ZX Bank aims to simplify your bill management experience with its robust Bill Payments and Auto Debit features, accessible via the ZX Bank Asia Mobile App (https://www.zxbank.asia), NetBanking, and branch network."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Supported Bill Payment Categories",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank – Bill Payments & Auto Debit Feature"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Supported Bill Payment Categories"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Credit Cards (ZX Bank & other banks)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mobile/Postpaid Bills",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Prepaid Mobile Recharge",
+                    "depth": 0
+                  },
+                  {
+                    "text": "DTH (Direct-to-Home TV)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Broadband & Landline",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electricity, Water, & Gas",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Insurance Premiums",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Educational Fees",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Municipality Taxes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "More coming soon!",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Auto Debit Feature",
+            "level": 2,
+            "location": {
+              "line": 22,
+              "heading": "ZX Bank – Bill Payments & Auto Debit Feature"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 24,
+                  "heading": "Auto Debit Feature"
+                },
+                "text": "Never miss a payment!\nSet up hassle-free auto debits from your ZX Bank account or credit card for recurring bills."
+              }
+            ],
+            "sections": [
+              {
+                "title": "How Auto Debit Works",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Auto Debit Feature"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 29,
+                      "heading": "How Auto Debit Works"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Register Online:\nEnable auto debit for your chosen billers via Mobile App or NetBanking.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Custom Schedule:\nSelect the payment date (due date or preferred day prior).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Automated Payments:\nZX Bank automatically processes payments on your behalf.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Alerts & Notifications:\nGet SMS/email alerts before every scheduled auto debit.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Manage & Cancel Anytime:\nModify or stop auto debits anytime using the \"Manage Mandates\" section.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Key Features",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "ZX Bank – Bill Payments & Auto Debit Feature"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "Key Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "One-Time Setup: Easy linking of billers and mandates",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Secure Payments: Protected with OTP, biometric & device authentication",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All Major Billers Covered: Over 400+ billers across India, Sri Lanka, Bangladesh, Bhutan, Nepal",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Real-Time Tracking: View payment history and upcoming debits",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI Financial Assistant (“Zia”): Get reminders, advice, and instant support",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How To Get Started",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "ZX Bank – Bill Payments & Auto Debit Feature"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 58,
+                  "heading": "How To Get Started"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Download the ZX Bank Asia Mobile App (Android/iOS)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Login or complete e-KYC onboarding",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Navigate to “Bill Payments” or “Auto Debit”",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Add your biller (credit card, mobile, DTH, etc.)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Choose “Enable Auto Debit” and set your preferences",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Confirm & Save — you're done!",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Need Help?",
+                "level": 3,
+                "location": {
+                  "line": 67,
+                  "heading": "How To Get Started"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 68,
+                      "heading": "Need Help?"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Ask “Zia” in-app for step-by-step guidance",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Visit www.zxbank.asia/support (https://www.zxbank.asia/support)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Call our 24x7 helpline or visit your nearest branch",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 74,
+                      "heading": "Need Help?"
+                    },
+                    "text": "Experience seamless bill payments – simplify your financial life with ZX Bank!"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

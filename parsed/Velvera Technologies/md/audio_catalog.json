@@ -1,0 +1,120 @@
+{
+  "doc_id": "eb81c439b2af364315944f6078bb301be2695da82388bcb2ab88dac6d79ae9b7",
+  "doc_key": [
+    "audio_catalog"
+  ],
+  "path": "Velvera Technologies/md/audio_catalog.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Audio — Velvera Audio Series",
+        "level": 2,
+        "location": {
+          "line": 2
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 4,
+              "heading": "Audio — Velvera Audio Series"
+            },
+            "text": "Immersive sound experiences crafted for audiophiles and everyday users alike."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Velvera Audio Models & Pricing",
+            "level": 3,
+            "location": {
+              "line": 6,
+              "heading": "Audio — Velvera Audio Series"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 8,
+                  "heading": "Velvera Audio Models & Pricing"
+                },
+                "header": [
+                  "Model",
+                  "Type",
+                  "Features",
+                  "Battery Life",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Buds",
+                    "True Wireless",
+                    "ANC, Spatial Audio",
+                    "24hrs total",
+                    "₹8,999",
+                    "$109"
+                  ],
+                  [
+                    "Velvera Buds Deluxe",
+                    "True Wireless",
+                    "Advanced ANC, Wireless Charging",
+                    "30hrs total",
+                    "₹14,999",
+                    "$179"
+                  ],
+                  [
+                    "Velvera Buds Premium",
+                    "True Wireless",
+                    "Adaptive ANC, Premium Drivers",
+                    "36hrs total",
+                    "₹19,999",
+                    "$239"
+                  ],
+                  [
+                    "Velvera Headphones Deluxe",
+                    "Over-ear",
+                    "Studio-grade ANC, Hi-Res Audio",
+                    "40hrs",
+                    "₹24,999",
+                    "$299"
+                  ],
+                  [
+                    "Velvera Headphones Premium",
+                    "Over-ear",
+                    "Planar Magnetic, Audiophile",
+                    "50hrs",
+                    "₹39,999",
+                    "$479"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 17,
+                  "heading": "Velvera Audio Models & Pricing"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 19,
+                  "heading": "Velvera Audio Models & Pricing"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

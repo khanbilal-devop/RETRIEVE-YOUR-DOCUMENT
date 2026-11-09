@@ -1,0 +1,201 @@
+{
+  "doc_id": "028c1860e3d66ebe15de9aaddd935d84fd4ecd3b69377580e770eac064cbfe1c",
+  "doc_key": [
+    "visakhapatnam branch network"
+  ],
+  "path": "ZX Bank/md/Visakhapatnam Branch Network.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Ltd. – Visakhapatnam Branch Network",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Ltd. – Visakhapatnam Branch Network"
+            },
+            "text": "ZX Bank Ltd. maintains a robust footprint in Visakhapatnam, ensuring accessible and modern banking solutions for residents across the city’s diverse regions. With a focus on customer-centric service and digital integration, the bank’s strategically located branches provide retail, corporate, and digital banking services to meet the financial needs of individuals and businesses alike. The distribution of branches guarantees convenient access in all major areas, fostering financial inclusion and economic growth within Visakhapatnam."
+          }
+        ],
+        "sections": [
+          {
+            "title": "North Visakhapatnam",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Ltd. – Visakhapatnam Branch Network"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "North Visakhapatnam"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "12-1-345, Maddilapalem Main Road, Maddilapalem",
+                    "ZXIN0001100",
+                    "0891-2456781"
+                  ],
+                  [
+                    "Shop No. 5C, NH16, Hanumanthavaka Junction",
+                    "ZXIN0001101",
+                    "0891-2478902"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "South Visakhapatnam",
+            "level": 2,
+            "location": {
+              "line": 16,
+              "heading": "ZX Bank Ltd. – Visakhapatnam Branch Network"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 18,
+                  "heading": "South Visakhapatnam"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "5-72-1, Gajuwaka Junction, Opp. RTC Complex",
+                    "ZXIN0001200",
+                    "0891-2563342"
+                  ],
+                  [
+                    "Door No. 101, Kurmannapalem Main Road",
+                    "ZXIN0001201",
+                    "0891-2578846"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "East Visakhapatnam",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "ZX Bank Ltd. – Visakhapatnam Branch Network"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 27,
+                  "heading": "East Visakhapatnam"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "38-44-7, Near Jagadamba Centre, Dwarakanagar",
+                    "ZXIN0001300",
+                    "0891-2592300"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "West Visakhapatnam",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "ZX Bank Ltd. – Visakhapatnam Branch Network"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 35,
+                  "heading": "West Visakhapatnam"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "7-190, Aganampudi, GNT Road, Beside HP Petrol",
+                    "ZXIN0001400",
+                    "0891-2524512"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Central Visakhapatnam",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "ZX Bank Ltd. – Visakhapatnam Branch Network"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 43,
+                  "heading": "Central Visakhapatnam"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Door No. 17-1-23, Siripuram Junction, Main Road",
+                    "ZXIN0001500",
+                    "0891-2730114"
+                  ],
+                  [
+                    "4th Floor, RK Beach Towers, Beach Road",
+                    "ZXIN0001501",
+                    "0891-2568871"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

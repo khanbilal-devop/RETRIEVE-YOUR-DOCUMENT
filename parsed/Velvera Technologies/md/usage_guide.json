@@ -1,0 +1,166 @@
+{
+  "doc_id": "8b0c78baa321eeed3bfe117f61e47f507c1ac9efdd7f4ce1bb590601fe9d8c74",
+  "doc_key": [
+    "usage_guide"
+  ],
+  "path": "Velvera Technologies/md/usage_guide.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Do's &  Don’ts — Velvera Usage Guide",
+        "level": 2,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Do's &  Don’ts — Velvera Usage Guide"
+            },
+            "text": "A quick guide to help you get the best out of your Velvera products, while ensuring long-term reliability, safety, and compliance with warranty and privacy policies."
+          }
+        ],
+        "sections": [
+          {
+            "title": "DO's",
+            "level": 3,
+            "location": {
+              "line": 7,
+              "heading": "Do's &  Don’ts — Velvera Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "DO's"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Register Your Product\nRegister your Velvera device on the Velvera Care App (https://velvera.com/care-app) within 30 days to activate extended warranty benefits.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use Certified Accessories\nAlways use Velvera-certified chargers, cables, and cases to maintain optimal device performance and ensure safety.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Update Regularly\nKeep your device updated with the latest VelveraOS releases and security patches to benefit from new features and critical fixes.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Back Up Your Data\nUse Velvera Cloud or local backup options to safely store contacts, media, and documents.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Clean Responsibly\nClean your device using microfiber cloths and non-abrasive cleaning agents. Ensure ports remain dry and lint-free.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use Privacy Features\nExplore and customize your VelveraOS Privacy Dashboard for complete control over permissions and tracking.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Utilize Velvera Trade-in & Recycling\nWhen upgrading, recycle your old device through Velvera’s TakeBack+ program to earn green credits and reduce e-waste.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Contact Authorized Support\nAlways reach out to Velvera-authorized service centers or customer support for diagnostics, repairs, or technical issues.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "DON’Ts",
+            "level": 3,
+            "location": {
+              "line": 35,
+              "heading": "Do's &  Don’ts — Velvera Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "DON’Ts"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Don’t Use Third-Party Fast Chargers\nAvoid using non-certified high-wattage chargers. This may void your warranty and cause internal damage.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Don’t Jailbreak or Root Devices\nModifying VelveraOS disables key security features and invalidates all warranty and Care+ protection plans.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Don’t Ignore Overheating or Swelling\nDiscontinue use and immediately contact support if you notice battery swelling, overheating, or performance drops.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Don’t Install Unverified Apps\nUse only trusted sources (Velvera Store, Google Play) to avoid security risks and data compromise.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Don’t Expose to Water Beyond Rated Depth\nEven with IP68/IP69K ratings, avoid prolonged water submersion, especially in salt water or soapy environments.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Don’t Disassemble Your Device\nDIY repairs or tampering with internals will void your warranty and may cause further damage.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Don’t Delay Warranty Claims\nInitiate warranty claims promptly. Devices showing signs of neglect or post-damage usage may be rejected.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Don’t Share Your Velvera ID Credentials\nYour Velvera ID gives access to cloud services, backups, and AI features — keep it secure and enable 2FA.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 63,
+                  "heading": "DON’Ts"
+                },
+                "text": "For full warranty, care, and usage terms, visit:\nvelvera.com/warranty (https://velvera.com/warranty)\nvelvera.com/privacy (https://velvera.com/privacy)\nvelvera.com/support (https://velvera.com/support)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 70,
+                  "heading": "DON’Ts"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 72,
+                  "heading": "DON’Ts"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "doc_id": "96a87c7b6f6ea8663614bf67df4ea1bf1238e5e5c41f013ac5fe4e8393cbf474",
+  "doc_key": [
+    "about aventro motors"
+  ],
+  "path": "Aventro Motors/md/About Aventro Motors.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Company Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Company Overview"
+                },
+                "text": "Aventro Motors Pvt. Ltd. is one of India's rapidly growing automobile manufacturers, renowned for its innovation in both conventional and alternative powertrain technologies. The company offers a comprehensive lineup of passenger cars that includes petrol, diesel, electric, and hybrid variants."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Company History",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 11,
+                  "heading": "Company History"
+                },
+                "text": "Aventro Motors was founded in 2011 in Gurugram, Haryana, with a vision to redefine the automotive landscape in India by offering a perfect blend of technology, affordability, and sustainability. Starting with a compact team of automobile enthusiasts, Aventro made its market debut in 2013 with the launch of the Aventro Aero."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 13,
+                  "heading": "Company History"
+                },
+                "text": "By 2015, Aventro established its state-of-the-art manufacturing facility in Haryana and began expanding its product range. The company introduced electric and hybrid models in 2017, making it one of the first Indian carmakers to transition towards eco-friendly mobility solutions. The launch of the Aventro Spark Electric in 2019 was a significant milestone, receiving positive market response and industry awards."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 15,
+                  "heading": "Company History"
+                },
+                "text": "Despite industry headwinds, Aventro Motors achieved consistent growth. By 2023, it had opened over 20 service centers across major Indian cities, diversified its product portfolio to 20 models, and launched digital initiatives for customer engagement and after-sales service. The company prides itself on fostering a culture of innovation and customer-centricity."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Ownership & Leadership",
+            "level": 2,
+            "location": {
+              "line": 19,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 21,
+                  "heading": "Key Ownership & Leadership"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Founder & CEO: Amit Bansal\nVisionary entrepreneur and engineer; previously worked at global automotive majors.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Co-Founder & CTO: Priya Mehra\nHolds a PhD in Automotive Engineering, driving technological advancement and R&D.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Head of Operations: Rakesh Singh",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chief Financial Officer: Sunita Rao",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 30,
+                  "heading": "Key Ownership & Leadership"
+                },
+                "text": "The company remains privately held by the founding group, with a minority stake held by a consortium of green-tech investors since 2020."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Employees",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "Employees"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "As of March 2024, Aventro Motors employs over 2,000 people across India.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "700+ in manufacturing operations.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "400+ in research, development, and product design.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "500+ in sales and customer support.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "400+ in various support and corporate functions.",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 42,
+                  "heading": "Employees"
+                },
+                "text": "Aventro promotes a diverse workplace, with 32% of its workforce comprising women and active recruitment from top Indian engineering institutions."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Growth Journey (Year-wise Highlights)",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 48,
+                  "heading": "Growth Journey (Year-wise Highlights)"
+                },
+                "header": [
+                  "Year",
+                  "Milestone",
+                  "Annual Employees",
+                  "Notable Milestone"
+                ],
+                "rows": [
+                  [
+                    "2011",
+                    "Company Founded in Gurugram, Haryana",
+                    "10",
+                    "R&D setup"
+                  ],
+                  [
+                    "2013",
+                    "Launched Aventro Aero (Petrol & Diesel)",
+                    "100",
+                    "First model released"
+                  ],
+                  [
+                    "2015",
+                    "Inaugurated manufacturing plant in Haryana",
+                    "300",
+                    "Factory operational"
+                  ],
+                  [
+                    "2017",
+                    "Rolled out Electric & Hybrid Variants",
+                    "500",
+                    "Entered EVs/Hybrids"
+                  ],
+                  [
+                    "2019",
+                    "10th dealership opened; 1,000th car on road",
+                    "1200",
+                    "Market expansion"
+                  ],
+                  [
+                    "2020",
+                    "Green-tech investor funding",
+                    "1500",
+                    "EV development boost"
+                  ],
+                  [
+                    "2021",
+                    "Launched advanced infotainment & connected car features",
+                    "1700",
+                    "Digital innovation"
+                  ],
+                  [
+                    "2023",
+                    "20+ service centers across India; launched \"Aventro Zen\"",
+                    "2000",
+                    "National footprint"
+                  ],
+                  [
+                    "2024",
+                    "Crossed 50,000 cumulative vehicle sales",
+                    "2100",
+                    "Sales milestone"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Company Philosophy",
+            "level": 2,
+            "location": {
+              "line": 62,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 64,
+                  "heading": "Company Philosophy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Mission: To drive India towards a cleaner, smarter, and more connected automotive future.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Values: Innovation, Sustainability, Customer Focus, Integrity, Teamwork.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 69,
+                  "heading": "Company Philosophy"
+                },
+                "text": "For more information, visit aventromotors.com (mailto:info@aventromotors.com) or call +91 124 1234567."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

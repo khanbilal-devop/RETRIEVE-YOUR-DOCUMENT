@@ -1,0 +1,1261 @@
+{
+  "doc_id": "0aefba6ba56064717b789faf346e26d091a62c454bdecfe215908f832e95eb0e",
+  "doc_key": [
+    "velvra_expanded_catalog"
+  ],
+  "path": "Velvera Technologies/md/velvra_expanded_catalog.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Complete Product Catalog 2025",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "text": "Welcome to the official comprehensive catalog for Velvera — where innovation meets elegance. Explore our complete range of smartphones, tablets, accessories, and ecosystem products designed for the modern digital lifestyle."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Flagship Series — Velvera One",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "Flagship Series — Velvera One"
+                },
+                "text": "The Velvera One series represents the pinnacle of performance and craftsmanship. Built with advanced materials, tuned for efficiency, and supported for years."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera One Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "Flagship Series — Velvera One"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 13,
+                      "heading": "Velvera One Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Display",
+                      "Storage Options",
+                      "RAM",
+                      "Camera Setup",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera One 128GB",
+                        "6.5\" AMOLED, 120Hz",
+                        "128GB",
+                        "8GB",
+                        "Dual AI Cameras (50MP+12MP)",
+                        "₹49,999",
+                        "$599"
+                      ],
+                      [
+                        "Velvera One 256GB",
+                        "6.5\" AMOLED, 120Hz",
+                        "256GB",
+                        "8GB",
+                        "Dual AI Cameras (50MP+12MP)",
+                        "₹54,999",
+                        "$659"
+                      ],
+                      [
+                        "Velvera One 512GB",
+                        "6.5\" AMOLED, 120Hz",
+                        "512GB",
+                        "12GB",
+                        "Dual AI Cameras (50MP+12MP)",
+                        "₹62,999",
+                        "$759"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Velvera One Pro Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 19,
+                  "heading": "Flagship Series — Velvera One"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 21,
+                      "heading": "Velvera One Pro Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Display",
+                      "Storage Options",
+                      "RAM",
+                      "Camera Setup",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera One Pro 256GB",
+                        "6.7\" AMOLED HDR10+",
+                        "256GB",
+                        "12GB",
+                        "Triple Lens + Macro (64MP)",
+                        "₹64,999",
+                        "$779"
+                      ],
+                      [
+                        "Velvera One Pro 512GB",
+                        "6.7\" AMOLED HDR10+",
+                        "512GB",
+                        "12GB",
+                        "Triple Lens + Macro (64MP)",
+                        "₹72,999",
+                        "$879"
+                      ],
+                      [
+                        "Velvera One Pro 1TB",
+                        "6.7\" AMOLED HDR10+",
+                        "1TB",
+                        "16GB",
+                        "Triple Lens + Macro (64MP)",
+                        "₹84,999",
+                        "$1,019"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Velvera One Ultra Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Flagship Series — Velvera One"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 29,
+                      "heading": "Velvera One Ultra Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Display",
+                      "Storage Options",
+                      "RAM",
+                      "Camera Setup",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera One Ultra 512GB",
+                        "6.9\" LTPO 2.0, 144Hz",
+                        "512GB",
+                        "16GB",
+                        "Quad Camera + Periscope Zoom",
+                        "₹84,999",
+                        "$999"
+                      ],
+                      [
+                        "Velvera One Ultra 1TB",
+                        "6.9\" LTPO 2.0, 144Hz",
+                        "1TB",
+                        "16GB",
+                        "Quad Camera + Periscope Zoom",
+                        "₹97,999",
+                        "$1,179"
+                      ],
+                      [
+                        "Velvera One Ultra 2TB",
+                        "6.9\" LTPO 2.0, 144Hz",
+                        "2TB",
+                        "20GB",
+                        "Quad Camera + Periscope Zoom",
+                        "₹1,24,999",
+                        "$1,499"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Series Highlights",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "Flagship Series — Velvera One"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "Series Highlights"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Aerospace-grade aluminum body with Gorilla Glass Victus 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "IP68 water and dust resistance + IP69K rating",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Local AI engine for offline productivity",
+                        "depth": 0
+                      },
+                      {
+                        "text": "4 years OS + 5 years security updates",
+                        "depth": 0
+                      },
+                      {
+                        "text": "65W fast charging + 50W wireless charging",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Available in: Titanium Gray, Deep Ocean Blue, Rose Gold, Midnight Black",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Compact Series — Velvera Edge",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 48,
+                  "heading": "Compact Series — Velvera Edge"
+                },
+                "text": "Premium performance, perfect pocketability. The Edge series is ideal for users who prefer smaller phones without compromising on power."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Edge Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 50,
+                  "heading": "Compact Series — Velvera Edge"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 52,
+                      "heading": "Velvera Edge Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Display Size",
+                      "Processor",
+                      "Storage/RAM",
+                      "Battery",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Edge 128GB",
+                        "6.1\" OLED",
+                        "Octa-core V5 Chip",
+                        "128GB / 8GB",
+                        "4400mAh",
+                        "₹42,999",
+                        "$519"
+                      ],
+                      [
+                        "Velvera Edge 256GB",
+                        "6.1\" OLED",
+                        "Octa-core V5 Chip",
+                        "256GB / 8GB",
+                        "4400mAh",
+                        "₹47,999",
+                        "$579"
+                      ],
+                      [
+                        "Velvera Edge Pro 256GB",
+                        "6.1\" OLED",
+                        "V5+ AI-Tuned SoC",
+                        "256GB / 12GB",
+                        "4600mAh",
+                        "₹54,999",
+                        "$659"
+                      ],
+                      [
+                        "Velvera Edge Pro 512GB",
+                        "6.1\" OLED",
+                        "V5+ AI-Tuned SoC",
+                        "512GB / 12GB",
+                        "4600mAh",
+                        "₹61,999",
+                        "$749"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 59,
+                      "heading": "Velvera Edge Models & Pricing"
+                    },
+                    "text": "Available Colors: Cloud Gray, Midnight Ocean, Sage Green, Coral Pink, Arctic White"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "AI-Centric Series — Velvera Nexus",
+            "level": 2,
+            "location": {
+              "line": 63,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 65,
+                  "heading": "AI-Centric Series — Velvera Nexus"
+                },
+                "text": "The Nexus series is designed for thinkers, builders, and creators. AI-first architecture powers everything from smart photography to real-time captioning and note generation."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Nexus Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 67,
+                  "heading": "AI-Centric Series — Velvera Nexus"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 69,
+                      "heading": "Velvera Nexus Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Neural Engine",
+                      "Display",
+                      "Storage/RAM",
+                      "AI Features Included",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Nexus 1 256GB",
+                        "NeuralCore X",
+                        "6.6\" HDR10 OLED",
+                        "256GB / 12GB",
+                        "On-device transcription, Auto-summary, Smart Edit",
+                        "₹59,999",
+                        "$719"
+                      ],
+                      [
+                        "Velvera Nexus 1 512GB",
+                        "NeuralCore X",
+                        "6.6\" HDR10 OLED",
+                        "512GB / 12GB",
+                        "On-device transcription, Auto-summary, Smart Edit",
+                        "₹67,999",
+                        "$819"
+                      ],
+                      [
+                        "Velvera Nexus 1 Pro 512GB",
+                        "NeuralCore X+",
+                        "6.8\" HDR10+ LTPO",
+                        "512GB / 16GB",
+                        "Adds multi-language translation and code inference",
+                        "₹74,999",
+                        "$899"
+                      ],
+                      [
+                        "Velvera Nexus 1 Pro 1TB",
+                        "NeuralCore X+",
+                        "6.8\" HDR10+ LTPO",
+                        "1TB / 16GB",
+                        "Adds multi-language translation and code inference",
+                        "₹86,999",
+                        "$1,049"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 76,
+                      "heading": "Velvera Nexus Models & Pricing"
+                    },
+                    "text": "Ships with Velvera Studio, our AI productivity suite for creators."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Reliable Series — Velvera Core",
+            "level": 2,
+            "location": {
+              "line": 80,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 82,
+                  "heading": "Reliable Series — Velvera Core"
+                },
+                "text": "Powerful, affordable, and thoughtfully designed. The Core lineup brings flagship durability and OS quality to accessible price points."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Core Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 84,
+                  "heading": "Reliable Series — Velvera Core"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 86,
+                      "heading": "Velvera Core Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Storage / RAM",
+                      "Battery",
+                      "Display",
+                      "Processor",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Core M 64GB",
+                        "64GB / 4GB",
+                        "5000mAh",
+                        "6.5\" HD+",
+                        "Helio G85",
+                        "₹21,999",
+                        "$265"
+                      ],
+                      [
+                        "Velvera Core M 128GB",
+                        "128GB / 4GB",
+                        "5000mAh",
+                        "6.5\" HD+",
+                        "Helio G85",
+                        "₹24,999",
+                        "$299"
+                      ],
+                      [
+                        "Velvera Core Max 128GB",
+                        "128GB / 6GB",
+                        "6000mAh",
+                        "6.7\" FHD+",
+                        "Snapdragon 695",
+                        "₹26,999",
+                        "$325"
+                      ],
+                      [
+                        "Velvera Core Max 256GB",
+                        "256GB / 6GB",
+                        "6000mAh",
+                        "6.7\" FHD+",
+                        "Snapdragon 695",
+                        "₹29,999",
+                        "$359"
+                      ],
+                      [
+                        "Velvera Core Plus 256GB",
+                        "256GB / 8GB",
+                        "6500mAh",
+                        "6.8\" FHD+",
+                        "Snapdragon 720G",
+                        "₹34,999",
+                        "$419"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 94,
+                      "heading": "Velvera Core Models & Pricing"
+                    },
+                    "text": "✔️ All models run VelveraOS Lite – optimized for battery and simplicity"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Budget-Friendly Series — Velvera Start",
+            "level": 2,
+            "location": {
+              "line": 98,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 100,
+                  "heading": "Budget-Friendly Series — Velvera Start"
+                },
+                "text": "Entry-level smartphones that don't compromise on essential features. Perfect for first-time smartphone users and those seeking reliable basics."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Start Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 102,
+                  "heading": "Budget-Friendly Series — Velvera Start"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 104,
+                      "heading": "Velvera Start Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Storage / RAM",
+                      "Battery",
+                      "Display",
+                      "Camera",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Start 32GB",
+                        "32GB / 3GB",
+                        "4000mAh",
+                        "6.1\" HD",
+                        "13MP Single",
+                        "₹12,999",
+                        "$157"
+                      ],
+                      [
+                        "Velvera Start 64GB",
+                        "64GB / 3GB",
+                        "4000mAh",
+                        "6.1\" HD",
+                        "13MP Single",
+                        "₹14,999",
+                        "$179"
+                      ],
+                      [
+                        "Velvera Start Plus 64GB",
+                        "64GB / 4GB",
+                        "4500mAh",
+                        "6.3\" HD+",
+                        "16MP Dual",
+                        "₹17,999",
+                        "$217"
+                      ],
+                      [
+                        "Velvera Start Plus 128GB",
+                        "128GB / 4GB",
+                        "4500mAh",
+                        "6.3\" HD+",
+                        "16MP Dual",
+                        "₹19,999",
+                        "$239"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 111,
+                      "heading": "Velvera Start Models & Pricing"
+                    },
+                    "text": "Available Colors: Classic Black, Pearl White, Sky Blue, Forest Green"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Tablet Series — Velvera Pad",
+            "level": 2,
+            "location": {
+              "line": 115,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 117,
+                  "heading": "Tablet Series — Velvera Pad"
+                },
+                "text": "Productivity and entertainment redefined. Our tablet lineup offers the perfect balance of performance, portability, and creativity tools."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Pad Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 119,
+                  "heading": "Tablet Series — Velvera Pad"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 121,
+                      "heading": "Velvera Pad Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Display Size",
+                      "Processor",
+                      "Storage/RAM",
+                      "Features",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Pad 11\" 128GB",
+                        "11\" IPS LCD",
+                        "Snapdragon 870",
+                        "128GB / 8GB",
+                        "Wi-Fi, Stereo Speakers",
+                        "₹32,999",
+                        "$399"
+                      ],
+                      [
+                        "Velvera Pad 11\" 256GB",
+                        "11\" IPS LCD",
+                        "Snapdragon 870",
+                        "256GB / 8GB",
+                        "Wi-Fi, Stereo Speakers",
+                        "₹37,999",
+                        "$459"
+                      ],
+                      [
+                        "Velvera Pad Pro 12.9\" 256GB",
+                        "12.9\" OLED",
+                        "Snapdragon 8+ Gen 1",
+                        "256GB / 12GB",
+                        "Wi-Fi + 5G, Quad Speakers",
+                        "₹54,999",
+                        "$659"
+                      ],
+                      [
+                        "Velvera Pad Pro 12.9\" 512GB",
+                        "12.9\" OLED",
+                        "Snapdragon 8+ Gen 1",
+                        "512GB / 12GB",
+                        "Wi-Fi + 5G, Quad Speakers",
+                        "₹64,999",
+                        "$779"
+                      ],
+                      [
+                        "Velvera Pad Pro 12.9\" 1TB",
+                        "12.9\" OLED",
+                        "Snapdragon 8+ Gen 1",
+                        "1TB / 16GB",
+                        "Wi-Fi + 5G, Quad Speakers",
+                        "₹79,999",
+                        "$959"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 129,
+                      "heading": "Velvera Pad Models & Pricing"
+                    },
+                    "text": "Compatible with Velvera Pencil and Velvera Keyboard (sold separately)"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Wearables — Velvera Watch Series",
+            "level": 2,
+            "location": {
+              "line": 133,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 135,
+                  "heading": "Wearables — Velvera Watch Series"
+                },
+                "text": "Stay connected, stay healthy. Our smartwatch lineup combines cutting-edge health monitoring with seamless smartphone integration."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Watch Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 137,
+                  "heading": "Wearables — Velvera Watch Series"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 139,
+                      "heading": "Velvera Watch Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Display",
+                      "Health Features",
+                      "Battery Life",
+                      "Connectivity",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Watch Standard 42mm",
+                        "1.7\" AMOLED",
+                        "Heart Rate, Sleep, Steps",
+                        "5 days",
+                        "Bluetooth",
+                        "₹19,999",
+                        "$239"
+                      ],
+                      [
+                        "Velvera Watch Standard 46mm",
+                        "1.9\" AMOLED",
+                        "Heart Rate, Sleep, Steps",
+                        "6 days",
+                        "Bluetooth",
+                        "₹22,999",
+                        "$279"
+                      ],
+                      [
+                        "Velvera Watch Deluxe 42mm",
+                        "1.7\" LTPO AMOLED",
+                        "ECG, SpO2, Stress, GPS",
+                        "7 days",
+                        "LTE + Bluetooth",
+                        "₹32,999",
+                        "$399"
+                      ],
+                      [
+                        "Velvera Watch Deluxe 46mm",
+                        "1.9\" LTPO AMOLED",
+                        "ECG, SpO2, Stress, GPS",
+                        "8 days",
+                        "LTE + Bluetooth",
+                        "₹36,999",
+                        "$449"
+                      ],
+                      [
+                        "Velvera Watch Premium 49mm",
+                        "2.1\" Sapphire AMOLED",
+                        "All Pro features + Diving mode",
+                        "10 days",
+                        "Satellite + LTE",
+                        "₹54,999",
+                        "$659"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 147,
+                      "heading": "Velvera Watch Models & Pricing"
+                    },
+                    "text": "Available Colors: Midnight Black, Silver, Gold, Rose Gold, Ocean Blue"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Audio — Velvera Audio Series",
+            "level": 2,
+            "location": {
+              "line": 151,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 153,
+                  "heading": "Audio — Velvera Audio Series"
+                },
+                "text": "Immersive sound experiences crafted for audiophiles and everyday users alike."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Velvera Audio Models & Pricing",
+                "level": 3,
+                "location": {
+                  "line": 155,
+                  "heading": "Audio — Velvera Audio Series"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 157,
+                      "heading": "Velvera Audio Models & Pricing"
+                    },
+                    "header": [
+                      "Model",
+                      "Type",
+                      "Features",
+                      "Battery Life",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Buds",
+                        "True Wireless",
+                        "ANC, Spatial Audio",
+                        "24hrs total",
+                        "₹8,999",
+                        "$109"
+                      ],
+                      [
+                        "Velvera Buds Deluxe",
+                        "True Wireless",
+                        "Advanced ANC, Wireless Charging",
+                        "30hrs total",
+                        "₹14,999",
+                        "$179"
+                      ],
+                      [
+                        "Velvera Buds Premium",
+                        "True Wireless",
+                        "Adaptive ANC, Premium Drivers",
+                        "36hrs total",
+                        "₹19,999",
+                        "$239"
+                      ],
+                      [
+                        "Velvera Headphones Deluxe",
+                        "Over-ear",
+                        "Studio-grade ANC, Hi-Res Audio",
+                        "40hrs",
+                        "₹24,999",
+                        "$299"
+                      ],
+                      [
+                        "Velvera Headphones Premium",
+                        "Over-ear",
+                        "Planar Magnetic, Audiophile",
+                        "50hrs",
+                        "₹39,999",
+                        "$479"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Accessories & Add-ons",
+            "level": 2,
+            "location": {
+              "line": 168,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Charging Solutions",
+                "level": 3,
+                "location": {
+                  "line": 170,
+                  "heading": "Accessories & Add-ons"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 172,
+                      "heading": "Charging Solutions"
+                    },
+                    "header": [
+                      "Product",
+                      "Compatibility",
+                      "Features",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera 65W GaN Charger",
+                        "All Velvera Devices",
+                        "Fast Charging, Compact",
+                        "₹3,499",
+                        "$42"
+                      ],
+                      [
+                        "Velvera 100W Desktop Hub",
+                        "Laptops + Phones",
+                        "4-Port, Wireless Pad",
+                        "₹7,999",
+                        "$96"
+                      ],
+                      [
+                        "Velvera Wireless Dock",
+                        "Phones + Watch + Buds",
+                        "3-in-1 Charging Station",
+                        "₹8,999",
+                        "$109"
+                      ],
+                      [
+                        "Velvera SuperSafe Battery",
+                        "One Series",
+                        "5000mAh, Magnetic Mount",
+                        "₹4,999",
+                        "$59"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Protection & Cases",
+                "level": 3,
+                "location": {
+                  "line": 179,
+                  "heading": "Accessories & Add-ons"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 181,
+                      "heading": "Protection & Cases"
+                    },
+                    "header": [
+                      "Product",
+                      "Models Supported",
+                      "Material",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Leather Case",
+                        "All Phone Models",
+                        "Genuine Leather",
+                        "₹2,999",
+                        "$36"
+                      ],
+                      [
+                        "Velvera Clear Case",
+                        "All Phone Models",
+                        "Military-grade Plastic",
+                        "₹1,499",
+                        "$18"
+                      ],
+                      [
+                        "Velvera Rugged Case",
+                        "All Phone Models",
+                        "Shock-resistant TPU",
+                        "₹2,299",
+                        "$28"
+                      ],
+                      [
+                        "Velvera Screen Protector",
+                        "All Phone Models",
+                        "Sapphire Glass",
+                        "₹1,999",
+                        "$24"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Productivity Tools",
+                "level": 3,
+                "location": {
+                  "line": 188,
+                  "heading": "Accessories & Add-ons"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 190,
+                      "heading": "Productivity Tools"
+                    },
+                    "header": [
+                      "Product",
+                      "Compatibility",
+                      "Features",
+                      "Price (INR)",
+                      "Price (USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Velvera Pencil",
+                        "Velvera Pad Series",
+                        "Pressure Sensitive, Tilt",
+                        "₹8,999",
+                        "$109"
+                      ],
+                      [
+                        "Velvera Keyboard",
+                        "Velvera Pad Series",
+                        "Backlit, Magnetic",
+                        "₹12,999",
+                        "$157"
+                      ],
+                      [
+                        "Velvera Stand Pro",
+                        "Phones + Tablets",
+                        "Adjustable, Wireless Charging",
+                        "₹5,999",
+                        "$72"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Important Notes & Terms",
+            "level": 2,
+            "location": {
+              "line": 198,
+              "heading": "Velvera Complete Product Catalog 2025"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "General Terms",
+                "level": 3,
+                "location": {
+                  "line": 200,
+                  "heading": "Important Notes & Terms"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 202,
+                      "heading": "General Terms"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "All prices are inclusive of GST and applicable taxes",
+                        "depth": 0
+                      },
+                      {
+                        "text": "USD conversions are approximate and subject to exchange rate fluctuations",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Product availability may vary by region and stock levels",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Specifications subject to change without prior notice",
+                        "depth": 0
+                      },
+                      {
+                        "text": "All promotional offers are for limited time and subject to terms & conditions",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Privacy & Data Security",
+                "level": 3,
+                "location": {
+                  "line": 208,
+                  "heading": "Important Notes & Terms"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 210,
+                      "heading": "Privacy & Data Security"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "All Velvera devices come with hardware-level encryption",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Local data processing with minimal cloud dependency",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Transparent privacy controls in VelveraOS",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Regular security audits and penetration testing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "GDPR and Indian data protection law compliant",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Contact Information",
+                "level": 3,
+                "location": {
+                  "line": 216,
+                  "heading": "Important Notes & Terms"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 218,
+                      "heading": "Contact Information"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Customer Care: 1800-Velvera-1 (Toll-free)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Technical Support: support@Velvera.com",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Business Inquiries: business@Velvera.com",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Media Relations: media@Velvera.com",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Investor Relations: investors@Velvera.com",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 226,
+                      "heading": "Contact Information"
+                    },
+                    "text": "Velvera — Technology, Refined. Life, Elevated."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 228,
+                      "heading": "Contact Information"
+                    },
+                    "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

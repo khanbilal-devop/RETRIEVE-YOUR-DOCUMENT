@@ -1,0 +1,836 @@
+{
+  "doc_id": "6ecda478998d5a68aa506364b054f41191eeec1085079c3341cf5d24c0f94a0e",
+  "doc_key": [
+    "atms at railway stations and airports"
+  ],
+  "path": "ZX Bank/md/ATMs at Railway Stations and Airports.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank ATM Locations at Major Railway Stations and Airports",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "text": "ZX Bank Ltd. provides 24x7 ATM access at the busiest travel hubs across India for your convenience. Here’s a list of our ATM presence at leading railway stations and airports in top cities:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Mumbai, Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 8,
+                  "heading": "1. Mumbai, Maharashtra"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mumbai Central",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dadar",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Lokmanya Tilak Terminus",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chhatrapati Shivaji Maharaj International Airport (Terminals 1 & 2)",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Delhi, National Capital Territory",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 19,
+                  "heading": "2. Delhi, National Capital Territory"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "New Delhi Railway Station (NDLS)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hazrat Nizamuddin (NZM)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Old Delhi Junction (DLI)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Anand Vihar Terminal",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indira Gandhi International Airport (Terminals 1, 2, 3)",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Bangalore (Bengaluru), Karnataka",
+            "level": 2,
+            "location": {
+              "line": 29,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 30,
+                  "heading": "3. Bangalore (Bengaluru), Karnataka"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Krantivira Sangolli Rayanna (Bengaluru City Junction - SBC)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Yeshwanthpur Junction",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Kempegowda International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Hyderabad, Telangana",
+            "level": 2,
+            "location": {
+              "line": 38,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 39,
+                  "heading": "4. Hyderabad, Telangana"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Secunderabad Junction (SC)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hyderabad Deccan (Nampally) (HYB)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rajiv Gandhi International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Chennai, Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "5. Chennai, Tamil Nadu"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chennai Central (MAS)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Chennai Egmore (MS)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chennai International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Kolkata, West Bengal",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 57,
+                  "heading": "6. Kolkata, West Bengal"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Howrah Junction (HWH)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sealdah (SDAH)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kolkata Railway Station (KOAA)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Netaji Subhas Chandra Bose International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Pune, Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "7. Pune, Maharashtra"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pune Junction (PUNE)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pune International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "8. Ahmedabad, Gujarat",
+            "level": 2,
+            "location": {
+              "line": 74,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 75,
+                  "heading": "8. Ahmedabad, Gujarat"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ahmedabad Junction (ADI)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sardar Vallabhbhai Patel International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "9. Surat, Gujarat",
+            "level": 2,
+            "location": {
+              "line": 82,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 83,
+                  "heading": "9. Surat, Gujarat"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Surat Railway Station (ST)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Surat Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "10. Jaipur, Rajasthan",
+            "level": 2,
+            "location": {
+              "line": 90,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 91,
+                  "heading": "10. Jaipur, Rajasthan"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Jaipur Junction (JP)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Jaipur International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "11. Lucknow, Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 98,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 99,
+                  "heading": "11. Lucknow, Uttar Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lucknow Charbagh (LKO / LJN)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chaudhary Charan Singh International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "12. Kanpur, Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 106,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 107,
+                  "heading": "12. Kanpur, Uttar Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Kanpur Central (CNB)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Kanpur Airport (Chakeri)",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "13. Nagpur, Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 114,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 115,
+                  "heading": "13. Nagpur, Maharashtra"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Nagpur Junction (NGP)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dr. Babasaheb Ambedkar International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "14. Indore, Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 122,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 123,
+                  "heading": "14. Indore, Madhya Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indore Junction (INDB)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Devi Ahilya Bai Holkar Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "15. Bhopal, Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 130,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 131,
+                  "heading": "15. Bhopal, Madhya Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bhopal Junction (BPL)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Raja Bhoj Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "16. Visakhapatnam, Andhra Pradesh",
+            "level": 2,
+            "location": {
+              "line": 138,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 139,
+                  "heading": "16. Visakhapatnam, Andhra Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visakhapatnam Junction (VSKP)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visakhapatnam International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "17. Patna, Bihar",
+            "level": 2,
+            "location": {
+              "line": 146,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 147,
+                  "heading": "17. Patna, Bihar"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Patna Junction (PNBE)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Jay Prakash Narayan International Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "18. Vadodara (Baroda), Gujarat",
+            "level": 2,
+            "location": {
+              "line": 154,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 155,
+                  "heading": "18. Vadodara (Baroda), Gujarat"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Vadodara Junction (BRC)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Vadodara Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "19. Ludhiana, Punjab",
+            "level": 2,
+            "location": {
+              "line": 162,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 163,
+                  "heading": "19. Ludhiana, Punjab"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ludhiana Junction (LDH)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sahnewal Airport",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "20. Coimbatore, Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 170,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 171,
+                  "heading": "20. Coimbatore, Tamil Nadu"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Railway Stations:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Coimbatore Junction (CBE)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Airports:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Coimbatore International Airport",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 178,
+                  "heading": "20. Coimbatore, Tamil Nadu"
+                },
+                "text": "All ZX Bank ATMs at these locations support: Cash Withdrawal, Balance Enquiry, Mini Statements, Fund Transfer (card-to-card), Fast Pay, and Recharge Services. Many ATMs have 24x7 security and multi-language interface."
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 180,
+                  "heading": "20. Coimbatore, Tamil Nadu"
+                },
+                "text": "Find the nearest ZX Bank ATM using the ZX Bank Asia Mobile App (https://www.zxbank.asia) or ZX Bank ATM Locator (https://www.zxbank.asia/atm-locator)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

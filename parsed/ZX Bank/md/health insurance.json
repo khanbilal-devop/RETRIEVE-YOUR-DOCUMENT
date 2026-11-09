@@ -1,0 +1,357 @@
+{
+  "doc_id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba",
+  "doc_key": [
+    "health insurance"
+  ],
+  "path": "ZX Bank/md/Health Insurance.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Health Insurance",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Health Insurance"
+            },
+            "text": "Health insurance is a type of insurance coverage that pays for medical and surgical expenses incurred by the insured. It is designed to protect individuals and families from high healthcare costs and offer access to quality medical services."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Key Features",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 7,
+                  "heading": "Key Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Coverage for Medical Expenses: Includes hospitalization, surgeries, outpatient care, prescription drugs, diagnostics, and preventive services.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cashless Treatment: Many insurers offer cashless claim settlement at network hospitals, eliminating upfront payments by the policyholder.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pre- and Post-Hospitalization: Expenses incurred before and after hospitalization are often covered.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Family Floater Plans: A single policy that covers the entire family under one sum insured.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Optional Add-ons: Critical illness cover, maternity benefits, accidental benefits, and top-ups for enhanced protection.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Types of Health Insurance",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 15,
+                  "heading": "Types of Health Insurance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Individual Health Insurance: Covers a single person.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Family Floater Health Insurance: Covers the entire family under one policy.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Senior Citizen Health Insurance: Customized for individuals above a certain age (typically 60+).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Critical Illness Insurance: Lump sum payout on diagnosis of specific illnesses like cancer, heart attack, etc.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Group Health Insurance: Provided by employers for their employees.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Benefits",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 23,
+                  "heading": "Benefits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Financial Protection: Shields against expensive medical treatments.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Access to Quality Healthcare: Facilitates timely and quality healthcare services.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tax Benefits: Premiums paid are eligible for tax deductions (e.g., under Section 80D in India).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Peace of Mind: Reduces the stress of unexpected medical emergencies.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Terms",
+            "level": 2,
+            "location": {
+              "line": 28,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 30,
+                  "heading": "Important Terms"
+                },
+                "header": [
+                  "Term",
+                  "Description"
+                ],
+                "rows": [
+                  [
+                    "Premium",
+                    "Amount paid periodically for the policy"
+                  ],
+                  [
+                    "Sum Insured",
+                    "Maximum amount insurance will cover"
+                  ],
+                  [
+                    "Pre-existing Diseases",
+                    "Illnesses already present before buying"
+                  ],
+                  [
+                    "Waiting Period",
+                    "Tenure before certain benefits activate"
+                  ],
+                  [
+                    "Co-payment",
+                    "Part of claim paid by the insured"
+                  ],
+                  [
+                    "Network Hospitals",
+                    "Hospitals with direct cashless tie-ups"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Choose a Health Insurance Plan",
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 41,
+                  "heading": "How to Choose a Health Insurance Plan"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Assess Your Needs: Consider age, family size, health conditions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Compare Plans: Look for coverage, exclusions, claim process, and premium.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Check Network Hospitals: Wide network ensures better access.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Understand Exclusions: Know what isn’t covered.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Look for Add-ons: Customize the policy for better protection.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Review Claim Settlement Ratio: Indicates reliability of insurer.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Common Exclusions",
+            "level": 2,
+            "location": {
+              "line": 48,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 50,
+                  "heading": "Common Exclusions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Pre-existing diseases (during waiting period)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cosmetic treatments",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dental and vision (unless specified)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Self-inflicted injuries",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Non-allopathic treatments",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 58,
+                  "heading": "Frequently Asked Questions"
+                },
+                "text": "Q: Is health insurance mandatory?\nA: Not in most countries, but highly recommended due to rising healthcare costs."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 61,
+                  "heading": "Frequently Asked Questions"
+                },
+                "text": "Q: What happens if a claim is denied?\nA: Review the reason, appeal to the insurer, or approach a regulatory authority."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 64,
+                  "heading": "Frequently Asked Questions"
+                },
+                "text": "Q: Can I port my health policy to another insurer?\nA: Yes, most countries allow portability after certain conditions are met."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Useful Resources",
+            "level": 2,
+            "location": {
+              "line": 69,
+              "heading": "Health Insurance"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 71,
+                  "heading": "Useful Resources"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "IRDAI (India’s Insurance Regulator) (https://www.irdai.gov.in)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "World Health Organization – Health Financing (https://www.who.int/health-topics/health-financing)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "National Health Portal, India (https://www.nhp.gov.in/)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

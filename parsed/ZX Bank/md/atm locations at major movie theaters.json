@@ -1,0 +1,927 @@
+{
+  "doc_id": "d7ae0250fd36da297ceaa571e4e940e1b9c78e996324de6fc89ff0cd69e1e757",
+  "doc_key": [
+    "atm locations at major movie theaters"
+  ],
+  "path": "ZX Bank/md/ATM Locations at Major Movie Theaters.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank – ATM Locations at Major Movie Theaters (2024)",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Mumbai – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 4,
+                  "heading": "Mumbai – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "PVR ICON, Phoenix Mills\nAddress: High Street Phoenix, Lower Parel, Mumbai 400013",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, CR2 Mall\nAddress: Nariman Point, Backbay Reclamation, Mumbai 400021",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, Wadala\nAddress: IMAX Dome, Bhakti Park, Wadala East, Mumbai 400037",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Viviana Mall\nAddress: Eastern Express Hwy, Thane West, Thane 400610",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Regal Cinemas\nAddress: Colaba Causeway, Colaba, Mumbai 400001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Movietime, Malad\nAddress: Infiniti Mall, Malad West, Mumbai 400064",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Delhi – National Capital Territory",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "Delhi – National Capital Territory"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "PVR Plaza, Connaught Place\nAddress: H Block, Connaught Place, New Delhi 110001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Nehru Place\nAddress: Eros International, Nehru Place, New Delhi 110019",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, DLF Place Saket\nAddress: DLF Place Mall, Saket, New Delhi 110017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, NSP\nAddress: Netaji Subhash Place, Pitampura, New Delhi 110034",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR Priya, Vasant Vihar\nAddress: Community Centre, Basant Lok, Vasant Vihar, New Delhi 110057",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wave Cinemas, Kaushambi\nAddress: EDM Mall, Kaushambi, Ghaziabad, Delhi NCR 201012",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bangalore (Bengaluru) – Karnataka",
+            "level": 2,
+            "location": {
+              "line": 45,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "Bangalore (Bengaluru) – Karnataka"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "PVR, Orion Mall\nAddress: No. 26/1, Dr Rajkumar Rd, Malleshwaram West, Bangalore 560055",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Garuda Mall\nAddress: Magrath Road, Ashok Nagar, Bangalore 560025",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Forum Mall\nAddress: Hosur Road, Koramangala, Bangalore 560095",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Gopalan Cinemas, Old Madras Road\nAddress: Gopalan Grand Mall, CV Raman Nagar, Bangalore 560093",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Mantri Square Mall\nAddress: Sampige Road, Malleswaram, Bangalore 560003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, Rockline Mall\nAddress: Jalahalli, Bangalore 560013",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Hyderabad – Telangana",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Hyderabad – Telangana"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "PVR Cinemas, Forum Sujana Mall\nAddress: KPHB Phase 9, Kukatpally, Hyderabad 500072",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, GVK One Mall\nAddress: Rd Number 1, Banjara Hills, Hyderabad 500034",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Asian Radhika Multiplex\nAddress: ECIL 'X' Roads, Secunderabad, Hyderabad 500062",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Manjeera Mall\nAddress: JNTU Road, Kukatpally Housing Board Colony, Hyderabad 500072",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Prasads Multiplex\nAddress: Necklace Road, Hyderabad 500063",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, Erragadda\nAddress: MRC Centre Mall, Erragadda, Hyderabad 500018",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Chennai – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 87,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 88,
+                  "heading": "Chennai – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "SPI Cinemas, Sathyam\nAddress: 8, Thirumalai Pillai Road, Royapettah, Chennai 600014",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Citi Centre\nAddress: Dr. Radhakrishnan Salai, Mylapore, Chennai 600004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Ampa Skywalk Mall\nAddress: 1, Nelson Manickam Rd, Aminjikarai, Chennai 600029",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AGS Cinemas, T Nagar\nAddress: 52, G N Chetty Road, T Nagar, Chennai 600017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, The Forum Vijaya Mall\nAddress: 183, NSK Salai, Vadapalani, Chennai 600026",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Escape, Express Avenue Mall\nAddress: Royapettah High Road, Express Estate, Chennai 600014",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kolkata – West Bengal",
+            "level": 2,
+            "location": {
+              "line": 108,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 109,
+                  "heading": "Kolkata – West Bengal"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, South City Mall\nAddress: Prince Anwar Shah Road, Jadavpur, Kolkata 700068",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Mani Square Mall\nAddress: 164/1, Maniktala Main Road, Kolkata 700054",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Acropolis Mall\nAddress: 1858, Rajdanga Main Road, Kasba, Kolkata 700107",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Nandan Cinema\nAddress: AJC Bose Road, Sreepally, Bhowanipore, Kolkata 700020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, Howrah\nAddress: Avani Riverside Mall, 32, Jagat Banerjee Ghat Road, Howrah 711102",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Quest Mall\nAddress: 33, Syed Amir Ali Avenue, Ballygunge, Kolkata 700017",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pune – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 129,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 130,
+                  "heading": "Pune – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "PVR, Phoenix Market City\nAddress: Viman Nagar, Pune 411014",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Camp\nAddress: SGS Mall, Moledina Road, Pune 411001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Seasons Mall\nAddress: Magarpatta, Hadapsar, Pune 411028",
+                    "depth": 0
+                  },
+                  {
+                    "text": "E-Square Cinemas\nAddress: Ganeshkhind Road, Shivaji Nagar, Pune 411007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, Chinchwad\nAddress: City One Mall, Chinchwad, Pune 411019",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Westend Mall\nAddress: Aundh, Pune 411007",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ahmedabad – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 150,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 151,
+                  "heading": "Ahmedabad – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "PVR, Acropolis Mall\nAddress: Thaltej, Ahmedabad 380054",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Himalaya Mall\nAddress: Drive-In Road, Memnagar, Ahmedabad 380052",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wide Angle Multiplex\nAddress: S.G. Highway, Satellite, Ahmedabad 380054",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Ahmedabad One Mall (AlphaOne)\nAddress: Vastrapur, Ahmedabad 380006",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinemax, Karnavati Club\nAddress: Sarkhej-Gandhinagar Hwy, Makarba, Ahmedabad 380051",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mukta A2 Cinemas, Maninagar\nAddress: Kankaria, Maninagar, Ahmedabad 380008",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Surat – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 171,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 172,
+                  "heading": "Surat – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, VR Surat Mall\nAddress: Dumas Road, Magdalla, Surat 395007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, RahulRaj Mall\nAddress: Dumas Road, Surat 395007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Iscon Mall\nAddress: Piplod, Surat 395007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Valentine Multiplex\nAddress: Dumas Road, Valentive Mall, Surat 395007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Reliance Mega Mall\nAddress: Varachha Road, Surat 395006",
+                    "depth": 0
+                  },
+                  {
+                    "text": "City Plus Multiplex\nAddress: Ghod Dod Road, Surat 395007",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Jaipur – Rajasthan",
+            "level": 2,
+            "location": {
+              "line": 192,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 193,
+                  "heading": "Jaipur – Rajasthan"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, Crystal Palm Mall\nAddress: Bais Godam Circle, Jaipur 302001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Raj Mandir Cinema\nAddress: Bhagwan Das Road, Ashok Nagar, Jaipur 302001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, GT Central Mall\nAddress: Malviya Nagar, Jaipur 302017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, World Trade Park\nAddress: JLN Marg, Malviya Nagar, Jaipur 302018",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Maharaja Cinema\nAddress: Station Road, Sindhi Camp, Jaipur 302016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Inox, Pink Square Mall\nAddress: Raja Park, Jaipur 302004",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Lucknow – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 213,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 214,
+                  "heading": "Lucknow – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, One Awadh Center\nAddress: Gomtinagar Extension, Shaheed Path, Lucknow 226010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Phoenix United Mall\nAddress: Alambagh, Kanpur Road, Lucknow 226012",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SRS Cinemas, City Mall\nAddress: Gomti Nagar, Lucknow 226010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wave Cinemas, Sahara Ganj Mall\nAddress: Hazratganj, Lucknow 226001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, Singar Nagar\nAddress: Alambagh, Lucknow 226005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Riverside Mall\nAddress: Gomti Nagar, Lucknow 226010",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kanpur – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 234,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 235,
+                  "heading": "Kanpur – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, Z Square Mall\nAddress: Mall Road, Kanpur 208001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Rave Moti Mall\nAddress: Rawatpur, Kanpur 208019",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wave Cinemas, South X Mall\nAddress: Kidwai Nagar, Kanpur 208011",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Rave 3 Mall\nAddress: Parvati Bagla Road, Kanpur 208001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Celebration Multiplex\nAddress: The Mall, Swaroop Nagar, Kanpur 208002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Big Cinemas, Jalwa\nAddress: Shastri Nagar, Kanpur 208005",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Nagpur – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 255,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 256,
+                  "heading": "Nagpur – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "PVR, Empress City Mall\nAddress: Empress Mall, Gandhibagh, Nagpur 440018",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Eternity Mall\nAddress: Variety Square, Sitabuldi, Nagpur 440012",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Jaswant Tuli Mall\nAddress: Kamptee Road, Nagpur 440026",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cineplex, Sadar\nAddress: Sadar Bazar, Nagpur 440001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Trillium Mall\nAddress: Medical Square, Nagpur 440003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Big Cinemas, Poonam\nAddress: Central Avenue, Nagpur 440008",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Indore – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 276,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 277,
+                  "heading": "Indore – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, Central Mall\nAddress: RNT Marg, Indore 452001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Treasure Island Mall\nAddress: MG Road, South Tukoganj, Indore 452001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, C21 Mall\nAddress: AB Road, Vijay Nagar, Indore 452010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Mangal City Mall\nAddress: Vijay Nagar, Indore 452010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Sapna Sangeeta\nAddress: Sapna Sangeeta Road, Indore 452001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Velocity 3, Transport Nagar\nAddress: Dewas Naka, Indore 452010",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bhopal – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 297,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 298,
+                  "heading": "Bhopal – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, DB City Mall\nAddress: Maharana Pratap Nagar, Bhopal 462011",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Aura Mall\nAddress: E-8 Trilanga, Bhopal 462039",
+                    "depth": 0
+                  },
+                  {
+                    "text": "People’s Mall Multiplex\nAddress: Raisen Road, Bhopal 462022",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Satyam Cineplex\nAddress: Hamidia Road, Peer Gate Area, Bhopal 462001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Multiplex, Ashima Mall\nAddress: Hoshangabad Road, Bhopal 462026",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, MP Nagar\nAddress: Zone-II, Maharana Pratap Nagar, Bhopal 462011",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Visakhapatnam – Andhra Pradesh",
+            "level": 2,
+            "location": {
+              "line": 318,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 319,
+                  "heading": "Visakhapatnam – Andhra Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, Chitralaya Mall\nAddress: Daba Gardens, Visakhapatnam 530020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, CMR Central\nAddress: Maddilapalem, Visakhapatnam 530013",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Vizag Central Mall\nAddress: Suryabagh, Visakhapatnam 530020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "MVR Multiplex\nAddress: Siripuram, Visakhapatnam 530003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Varun Beach\nAddress: Beach Road, Visakhapatnam 530002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Jagadamba Theatre\nAddress: Suryabagh, Visakhapatnam 530002",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Patna – Bihar",
+            "level": 2,
+            "location": {
+              "line": 339,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 340,
+                  "heading": "Patna – Bihar"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Cinepolis, P&M Mall\nAddress: Kurji, Patna 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Regent Fun Cinemas\nAddress: Gandhi Maidan, Patna 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Patna Central Mall\nAddress: Frazer Road, Patna 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Urbana Complex Cinemas\nAddress: RPS More, Bailey Road, Patna 801503",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rex Cinema\nAddress: Exhibition Road, Patna 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Elphinstone Cinema\nAddress: Kadam Kuan, Patna 800004",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Vadodara (Baroda) – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 360,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 361,
+                  "heading": "Vadodara (Baroda) – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, Reliance Mall\nAddress: Old Padra Road, Alkapuri, Vadodara 390007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Eva Mall\nAddress: Manjalpur, Vadodara 390011",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Cinemall\nAddress: Race Course Road, Vadodara 390007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Centre Square Mall\nAddress: Sarabhai Road, Vadodara 390023",
+                    "depth": 0
+                  },
+                  {
+                    "text": "INOX, Seven Seas Mall\nAddress: Fatehgunj, Vadodara 390002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mukta A2 Cinemas, Ellora Park\nAddress: Ellora Park, Vadodara 390023",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ludhiana – Punjab",
+            "level": 2,
+            "location": {
+              "line": 381,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 382,
+                  "heading": "Ludhiana – Punjab"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, Silver Arc Mall\nAddress: Ferozepur Road, Ludhiana 141001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wave Cinemas, Westend Mall\nAddress: Ferozepur Road, Ludhiana 141012",
+                    "depth": 0
+                  },
+                  {
+                    "text": "PVR, Pavilion Mall\nAddress: Bhai Bala Chowk, Ludhiana 141001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carnival Cinemas, MBD Neopolis Mall\nAddress: Ferozepur Road, Ludhiana 141001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SRS Cinemas, Omaxe Plaza Mall\nAddress: Pakhowal Road, Ludhiana 141002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Big Cinemas, Flames Mall\nAddress: GT Road, Ludhiana 141003",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Coimbatore – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 402,
+              "heading": "ZX Bank – ATM Locations at Major Movie Theaters (2024)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 403,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "INOX, Prozone Mall\nAddress: Sathy Road, Saravanampatti, Coimbatore 641035",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cinepolis, Fun Republic Mall\nAddress: Avinashi Road, Peelamedu, Coimbatore 641014",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Brookefields Mall Cinemas\nAddress: Brookebond Road, RS Puram, Coimbatore 641001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "KG Cinemas\nAddress: Cross Cut Road, Gandhipuram, Coimbatore 641012",
+                    "depth": 0
+                  },
+                  {
+                    "text": "The Cinema, Prozone Mall\nAddress: Sathy Road, Saravanampatti, Coimbatore 641035",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sathyam Cinemas, R.S. Puram\nAddress: D.B. Road, R.S. Puram, Coimbatore 641002",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "doc_id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4",
+  "doc_key": [
+    "warranty_and_service"
+  ],
+  "path": "Velvera Technologies/md/warranty_and_service.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Warranty & Service",
+        "level": 2,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Warranty & Service"
+            },
+            "text": "Velvera is committed to delivering a worry-free ownership experience with transparent warranty coverage, nationwide service access, and AI-powered diagnostics. Whether you're in a metro city or a smaller town, support is always within reach."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Warranty Coverage",
+            "level": 3,
+            "location": {
+              "line": 7,
+              "heading": "Warranty & Service"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Warranty Coverage"
+                },
+                "header": [
+                  "Product Category",
+                  "Standard Warranty",
+                  "Extended Warranty Options",
+                  "Accidental Damage Protection"
+                ],
+                "rows": [
+                  [
+                    "Smartphones",
+                    "24 Months",
+                    "Up to 4 Years (₹1,999–₹4,999)",
+                    "Velvera Care+ (₹2,999–₹7,999)"
+                  ],
+                  [
+                    "Tablets",
+                    "24 Months",
+                    "Up to 3 Years (₹1,499–₹3,999)",
+                    "Velvera Care+ (₹3,999–₹5,999)"
+                  ],
+                  [
+                    "Smartwatches",
+                    "24 Months",
+                    "Up to 3 Years (₹1,299–₹2,999)",
+                    "Velvera Care+ (₹1,999–₹3,999)"
+                  ],
+                  [
+                    "Audio Products",
+                    "12 Months",
+                    "Up to 2 Years (₹499–₹1,499)",
+                    "Velvera Care+ (₹999–₹2,999)"
+                  ],
+                  [
+                    "Accessories",
+                    "12 Months",
+                    "2 Years (₹399–₹899)",
+                    "Not Available"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 17,
+                  "heading": "Warranty Coverage"
+                },
+                "text": "All products registered via the Velvera App within 30 days of purchase get an extra 3 months warranty."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 19,
+                  "heading": "Warranty Coverage"
+                },
+                "text": "What’s Covered:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "Warranty Coverage"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Hardware defects not caused by physical or liquid damage",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Manufacturing faults",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Software-related issues under standard usage conditions",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 24,
+                  "heading": "Warranty Coverage"
+                },
+                "text": "Velvera Care+ includes:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "Warranty Coverage"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Free screen replacement",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Liquid damage protection",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Priority service",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Two claims per coverage year",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Service Network",
+            "level": 3,
+            "location": {
+              "line": 32,
+              "heading": "Warranty & Service"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 34,
+                  "heading": "Service Network"
+                },
+                "text": "Velvera ensures nationwide accessibility and rapid repairs, backed by professional diagnostics and genuine parts."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Authorized Service Centers",
+                "level": 4,
+                "location": {
+                  "line": 36,
+                  "heading": "Service Network"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 38,
+                      "heading": "Authorized Service Centers"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "400+ service centers across 29 states and union territories",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ISO-certified facilities with trained Velvera technicians",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Average walk-in service wait time: <30 minutes",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Doorstep Service",
+                "level": 4,
+                "location": {
+                  "line": 42,
+                  "heading": "Service Network"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 44,
+                      "heading": "Doorstep Service"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Available in 200+ cities",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Includes:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Pick & drop repair",
+                        "depth": 1
+                      },
+                      {
+                        "text": "On-site minor repairs (battery, port, software)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Book via the Velvera Care App (https://velvera.com/care-app)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Express Repair Program",
+                "level": 4,
+                "location": {
+                  "line": 50,
+                  "heading": "Service Network"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 52,
+                      "heading": "Express Repair Program"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Same-Day Repairs for eligible issues such as:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Display replacement",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Battery swap",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Software recovery",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Applicable for One, Edge, and Nexus series",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Service window: 10 AM–6 PM, Mon–Sat",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Remote & AI Support",
+                "level": 4,
+                "location": {
+                  "line": 59,
+                  "heading": "Service Network"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 61,
+                      "heading": "Remote & AI Support"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "24x7 Support Channels:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Live Chat via app and website",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Call: 1800-123-8358",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Video Assistance (9 AM – 9 PM)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "AI Diagnostics:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Run via Velvera app",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Detects battery health, sensor malfunctions, memory bottlenecks",
+                        "depth": 1
+                      },
+                      {
+                        "text": "One-tap log sharing with service team",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Claim Process",
+            "level": 3,
+            "location": {
+              "line": 72,
+              "heading": "Warranty & Service"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 74,
+                  "heading": "Claim Process"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Register Complaint: Via app, website, or customer care",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Schedule Appointment: Choose in-store or doorstep service",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Real-Time Updates: Track repair via SMS, app, or email",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Post-Service Summary: Repair report + care status updated in account",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "For Businesses",
+            "level": 3,
+            "location": {
+              "line": 81,
+              "heading": "Warranty & Service"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 83,
+                  "heading": "For Businesses"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Dedicated enterprise servicing portal",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Centralized device tracking and SLA-bound servicing",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fleet maintenance discounts available",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 87,
+                  "heading": "For Businesses"
+                },
+                "text": "For enterprise queries: b2bcare@velvera.com"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 91,
+                  "heading": "For Businesses"
+                },
+                "text": "For full warranty terms, exclusions, and support policies, visit the official documentation at:\nvelvera.com/warranty (https://velvera.com/warranty)\nvelvera.com/velvera-care (https://velvera.com/velvera-care)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 97,
+                  "heading": "For Businesses"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 99,
+                  "heading": "For Businesses"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

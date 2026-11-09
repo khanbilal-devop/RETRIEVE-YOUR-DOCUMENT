@@ -1,0 +1,59 @@
+{
+  "doc_id": "f744cd8802b20fc9dc0a5f0b87e3c51a4a8da2997cbd3875ae218348ea32e9a2",
+  "doc_key": [
+    "faq part-1"
+  ],
+  "path": "Aventro Motors/md/Faq part-1.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Frequently Asked Questions (FAQs)",
+        "level": 2,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Frequently Asked Questions (FAQs)"
+            },
+            "text": "Q: Is the doorstep test drive service available in all cities?\nA: Yes, we offer this service pan India, including all major cities and nearby locations."
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 6,
+              "heading": "Frequently Asked Questions (FAQs)"
+            },
+            "text": "Q: Are there any charges for doorstep test drives?\nA: No, this service is absolutely free."
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 9,
+              "heading": "Frequently Asked Questions (FAQs)"
+            },
+            "text": "Q: Can I test more than one model/variant?\nA: Absolutely! Just mention all the models/variants in your request."
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 12,
+              "heading": "Frequently Asked Questions (FAQs)"
+            },
+            "text": "Q: Do I need to submit any documents?\nA: Please keep a valid driving license handy for verification before the test drive."
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+}

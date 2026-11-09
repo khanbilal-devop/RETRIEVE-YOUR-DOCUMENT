@@ -1,0 +1,190 @@
+{
+  "doc_id": "94c83248d81e71b6fb95d0dd8038257db0f28d6f8ca650822cece214a03161fe",
+  "doc_key": [
+    "how to open the fuel knob in aventro cars"
+  ],
+  "path": "Aventro Motors/md/How to Open the Fuel Knob in Aventro Cars.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Open the Fuel Knob in Aventro Cars",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Open the Fuel Knob in Aventro Cars"
+            },
+            "text": "Opening the fuel knob (fuel cap) on your Aventro vehicle is a simple process. Follow these steps to ensure safe and easy access when you need to refuel:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Steps to Open the Fuel Knob",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Open the Fuel Knob in Aventro Cars"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Steps to Open the Fuel Knob"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Park & Switch Off the Engine",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ensure your car is completely stopped and the engine is turned off.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Engage the parking brake for safety.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Locate the Fuel Knob Release Lever",
+                    "depth": 0
+                  },
+                  {
+                    "text": "The fuel knob release lever is typically found:",
+                    "depth": 1
+                  },
+                  {
+                    "text": "On the driver’s side floor, near the seat or door.",
+                    "depth": 2
+                  },
+                  {
+                    "text": "In some models, it may be on the dashboard or central console.",
+                    "depth": 2
+                  },
+                  {
+                    "text": "Pull the Release Lever",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pull up or push the lever labelled with a fuel pump icon.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "You may hear a click indicating the fuel lid has been released.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Exit the Car",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Step out of the vehicle and go to the side where the fuel lid (fuel door) is located.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Open the Fuel Lid",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Gently open the fuel lid.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "You’ll now see the fuel knob (fuel cap).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Turn and Remove the Fuel Knob",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Twist the fuel knob (cap) anti-clockwise to unscrew it.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Remove the cap and place it in a secure slot (usually on the lid itself or hold it carefully).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Refuel Safely",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Proceed with refueling as needed.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "After Refueling",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Screw the fuel knob (cap) back on clockwise until you hear a click (to ensure it’s sealed).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Close the fuel lid securely.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Additional Tips",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "How to Open the Fuel Knob in Aventro Cars"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 44,
+                  "heading": "Additional Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "If the Fuel Lid Doesn’t Open: Ensure the car is unlocked; some models require all doors to be unlocked before the lever works.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Never Force the Cap: If the knob is stuck, double-check that the release mechanism is fully engaged.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electric & Hybrid Models: Always check specific instructions in the owner's manual for high-voltage safety precautions.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 50,
+                  "heading": "Additional Tips"
+                },
+                "text": "Note: If you have difficulty finding the lever or opening the cap, refer to your car’s owner's manual or contact your nearest Aventro Service Center."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

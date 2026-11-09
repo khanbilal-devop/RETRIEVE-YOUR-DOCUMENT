@@ -1,0 +1,391 @@
+{
+  "doc_id": "f96f49ebd4a5f085afe446448bdb2b1e8724d3c0d0a29a69d27fa4ca443e1c02",
+  "doc_key": [
+    "airbus a380"
+  ],
+  "path": "CloudWay-24/md/Airbus A380.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Airbus A380: Overview & Cabin Features",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Aircraft Overview: Airbus A380",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Airbus A380: Overview & Cabin Features"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Aircraft Overview: Airbus A380"
+                },
+                "text": "The Airbus A380 is the world’s largest passenger airliner, renowned for its double-deck, wide-body design, offering unmatched space, comfort, and quietness in long-haul travel. With its advanced aerodynamics and efficient engines, the A380 is a flagship for many leading airlines, optimizing both capacity and passenger experience."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Seating Capacity",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Airbus A380: Overview & Cabin Features"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 11,
+                  "heading": "Seating Capacity"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Total Seating: Typically 500–575 passengers (can be configured for up to 853 in all-economy layout)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Decks: Double-deck (Main and Upper)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Class Configuration (typical 4-class layout):",
+                    "depth": 0
+                  },
+                  {
+                    "text": "First Class: 8–14 seats",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Business Class: 70–100 seats",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Premium Economy: 50–55 seats",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Economy Class: 350–450 seats",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Cabin Features by Class",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "Airbus A380: Overview & Cabin Features"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. First Class (CloudLux)",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "Cabin Features by Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "1. First Class (CloudLux)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: Fully flat suites with privacy doors (1-2-1 configuration)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Personal suite with lie-flat bed",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Direct aisle access",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Luxury amenity kits & designer bedding",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Personal wardrobe storage",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Private minibar",
+                        "depth": 1
+                      },
+                      {
+                        "text": "In-seat power and USB charging",
+                        "depth": 1
+                      },
+                      {
+                        "text": "32-40” HD inflight entertainment screens",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Access to onboard lounge/bar (select airlines)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Fine-dining menus, served on demand",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Business Class (CloudElite)",
+                "level": 3,
+                "location": {
+                  "line": 38,
+                  "heading": "Cabin Features by Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 39,
+                      "heading": "2. Business Class (CloudElite)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: Lie-flat seats, staggered or herringbone layout (1-2-1 or 2-2-2)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "180° lie-flat seats with direct aisle access",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Plush bedding and privacy dividers",
+                        "depth": 1
+                      },
+                      {
+                        "text": "On-demand gourmet dining",
+                        "depth": 1
+                      },
+                      {
+                        "text": "18-24” personal entertainment screens",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ample storage & power outlets",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enhanced amenity kits",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Access to onboard lounge (on select aircraft)",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Premium Economy (CloudComfort)",
+                "level": 3,
+                "location": {
+                  "line": 51,
+                  "heading": "Cabin Features by Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 52,
+                      "heading": "3. Premium Economy (CloudComfort)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: Wider seats, extra legroom (2-3-2 or 2-4-2)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Up to 38” seat pitch, 19–20” width",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Deeper seat recline and adjustable footrests",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enhanced meal service & welcome drinks",
+                        "depth": 1
+                      },
+                      {
+                        "text": "13–15” personal screens",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Dedicated cabin and lavatories",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Extra luggage allowance",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Economy Class (CloudSaver)",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Cabin Features by Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 64,
+                      "heading": "4. Economy Class (CloudSaver)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: Standard seats (3-4-3 on main deck; 2-4-2 on upper deck, select rows)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Seat pitch: 31–33”, width: 18–18.5”",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Adjustable headrests",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Personal 10–13” HD screens",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Hundreds of movies, music, games",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Complimentary meals and beverages",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Family and bassinet seating options",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Power outlets on select fleets",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Additional A380 Features",
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "Airbus A380: Overview & Cabin Features"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Additional A380 Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Spacious cabins with reduced noise levels",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mood lighting for reduced jetlag",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wide aisles and larger lavatories",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Onboard bars/lounges for premium cabins (some airlines)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Advanced air filtration and humidity control",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wheelchair-accessible lavatories",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 87,
+                  "heading": "Additional A380 Features"
+                },
+                "text": "Note: Seating configuration and amenities may vary by airline."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

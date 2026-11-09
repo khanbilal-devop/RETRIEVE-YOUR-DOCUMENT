@@ -1,0 +1,704 @@
+{
+  "doc_id": "d7f63a49269d49b7e88bf40f7eee81bb357f4c6c735ab2531a67e8c02de2f068",
+  "doc_key": [
+    "atm locations at tech parks in major indian cities"
+  ],
+  "path": "ZX Bank/md/ATM Locations at Tech Parks in Major Indian Cities.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "text": "Below is a list of ZX Bank ATM locations situated in prominent Tech Parks across major Indian cities."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Mumbai – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Mumbai – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Mindspace Airoli IT Park\nBuilding 2, Mindspace, Thane-Belapur Road, Airoli, Navi Mumbai, Maharashtra 400708",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Nesco IT Park\nGate 3, Western Express Highway, Goregaon (East), Mumbai, Maharashtra 400063",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Infinity IT Park\nNew Link Road, Malad (West), Mumbai, Maharashtra 400064",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Delhi – National Capital Territory",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 22,
+                  "heading": "Delhi – National Capital Territory"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "DLF Cyber City\nBlock 2B, DLF Cyber City, Phase III, Gurugram, Haryana 122002 (Delhi NCR)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Okhla Industrial Estate\nPhase III, Okhla Industrial Area, New Delhi, Delhi 110020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Netaji Subhash Place IT Park\nWazirpur District Centre, Pitampura, Delhi 110034",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bangalore (Bengaluru) – Karnataka",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 35,
+                  "heading": "Bangalore (Bengaluru) – Karnataka"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Manyata Tech Park\nNagawara Outer Ring Road, Rachenahalli, Bangalore, Karnataka 560045",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bagmane Tech Park\nC.V. Raman Nagar, Bangalore, Karnataka 560093",
+                    "depth": 0
+                  },
+                  {
+                    "text": "RMZ Ecospace\nOuter Ring Road, Bellandur, Bangalore, Karnataka 560103",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Hyderabad – Telangana",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "Hyderabad – Telangana"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "HITEC City\nMadhapur, Hyderabad, Telangana 500081",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Raheja Mindspace IT Park\nCyberabad, Hyderabad, Telangana 500081",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cyber Pearl\nHitech City Road, Madhapur, Hyderabad, Telangana 500081",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Chennai – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "Chennai – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "TIDEL Park\nNo. 4, Rajiv Gandhi Salai, Taramani, Chennai, Tamil Nadu 600113",
+                    "depth": 0
+                  },
+                  {
+                    "text": "DLF IT Park\n1/124, Mount Poonamallee Road, Manapakkam, Chennai, Tamil Nadu 600089",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Olympia Tech Park\nSIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kolkata – West Bengal",
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 74,
+                  "heading": "Kolkata – West Bengal"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "DLF IT Park\nTower A, Block AF, New Town, Rajarhat, Kolkata, West Bengal 700156",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Salt Lake Electronics Complex (Sector V)\nGP Block, Sector V, Salt Lake City, Kolkata, West Bengal 700091",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Godrej Waterside\nDP Block, Sector V, Salt Lake City, Kolkata, West Bengal 700091",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pune – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 85,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 87,
+                  "heading": "Pune – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "EON IT Park\nKharadi, Pune, Maharashtra 411014",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rajiv Gandhi Infotech Park\nHinjewadi Phase 1, Pune, Maharashtra 411057",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Magarpatta City Cybercity\nHadapsar, Pune, Maharashtra 411013",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ahmedabad – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 98,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 100,
+                  "heading": "Ahmedabad – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Infocity Gandhinagar IT Park\nInfocity, Sector 34, Gandhinagar, Ahmedabad, Gujarat 382421",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Navratna Business Park\nIscon-Ambli Road, Ahmedabad, Gujarat 380058",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mondeal Square\nS.G. Highway, Ahmedabad, Gujarat 380054",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Surat – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 111,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 113,
+                  "heading": "Surat – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "iTower IT Park\nVesu Main Road, Vesu, Surat, Gujarat 395007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Surat Diamond Bourse (SDB IT Park)\nDREAM City, Khajod, Surat, Gujarat 394550",
+                    "depth": 0
+                  },
+                  {
+                    "text": "International Trade & Technology Park\nUdhna, Surat, Gujarat 394210",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Jaipur – Rajasthan",
+            "level": 2,
+            "location": {
+              "line": 124,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 126,
+                  "heading": "Jaipur – Rajasthan"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Mahindra World City IT Park\nAjmer Road, Near SEZ, Jaipur, Rajasthan 302037",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Genpact IT Park\nSitapura Industrial Area, Jaipur, Rajasthan 302022",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Infosys Infospace SEZ\nMANSAROVAR Industrial Area, Jaipur, Rajasthan 302020",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Lucknow – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 137,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 139,
+                  "heading": "Lucknow – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Gomti Nagar Tech Park\nVibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "TIT Tech Park\nDeva Road, Chinhat, Lucknow, Uttar Pradesh 226028",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Awadh Tech Park\nTransport Nagar, Lucknow, Uttar Pradesh 226012",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kanpur – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 150,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 152,
+                  "heading": "Kanpur – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Kanpur IT Park\nLakhanpur, Kalyanpur, Kanpur, Uttar Pradesh 208024",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Shastri Nagar Tech Hub\nBlock 8, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fazalganj Industrial Tech Zone\nKalpi Road, Fazalganj, Kanpur, Uttar Pradesh 208012",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Nagpur – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 163,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 165,
+                  "heading": "Nagpur – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "IT Park Parsodi\nRajiv Nagar, South Ambazari Road, Parsodi, Nagpur, Maharashtra 440022",
+                    "depth": 0
+                  },
+                  {
+                    "text": "MIDC Hingna IT Zone\nMIDC, Hingna Road, Nagpur, Maharashtra 440016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Empress City IT Hub\nEmpress Mall Complex, Nagpur, Maharashtra 440018",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Indore – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 176,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 178,
+                  "heading": "Indore – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Crystal IT Park\nKhandwa Road, Indore, Madhya Pradesh 452001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Super Corridor IT Park\nSuper Corridor, Indore, Madhya Pradesh 453112",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Scheme 54 Commercial IT Zone\nScheme No 54, Vijay Nagar, Indore, Madhya Pradesh 452010",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bhopal – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 189,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 191,
+                  "heading": "Bhopal – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "MP Nagar IT Park\nZone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mandideep Tech Park\nMandideep Industrial Area, Bhopal, Madhya Pradesh 462046",
+                    "depth": 0
+                  },
+                  {
+                    "text": "IT Park Ayodhya Bypass\nNear Ayodhya Bypass, Bhopal, Madhya Pradesh 462041",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Visakhapatnam – Andhra Pradesh",
+            "level": 2,
+            "location": {
+              "line": 202,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 204,
+                  "heading": "Visakhapatnam – Andhra Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Rushikonda IT SEZ\nHill No. 3, Madhurawada, Visakhapatnam, Andhra Pradesh 530048",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cyber Valley IT Park\nKapuluppada, Visakhapatnam, Andhra Pradesh 531163",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Vizag Tech Hub\nResapuvanipalem, Visakhapatnam, Andhra Pradesh 530013",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Patna – Bihar",
+            "level": 2,
+            "location": {
+              "line": 215,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 217,
+                  "heading": "Patna – Bihar"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Biscomaun Bhawan IT Park\nWest Gandhi Maidan, Patna, Bihar 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Software Technology Park of India (STPI)\nNear Bailey Road, Walmi Complex, Patna, Bihar 801505",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Patliputra Industrial Park\nPatliputra Industrial Area, Patna, Bihar 800013",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Vadodara (Baroda) – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 228,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 230,
+                  "heading": "Vadodara (Baroda) – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Crystal IT Park\nAjwa Road, Vadodara, Gujarat 390019",
+                    "depth": 0
+                  },
+                  {
+                    "text": "iPlex IT Park\nGIDC, Manjusar, Savli, Vadodara, Gujarat 391775",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Notus IT Park\nRace Course Road, Vadodara, Gujarat 390007",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ludhiana – Punjab",
+            "level": 2,
+            "location": {
+              "line": 241,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 243,
+                  "heading": "Ludhiana – Punjab"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Ferozepur Road IT Park\nFerozepur Road, Ludhiana, Punjab 141001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "DLF Industrial Park\nGT Road, Ludhiana, Punjab 141003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "IT Park Chandigarh Road\nChandigarh Road, Ludhiana, Punjab 141123",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Coimbatore – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 254,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 256,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "TIDEL Park Coimbatore\nCivil Aerodrome Post, Peelamedu, Coimbatore, Tamil Nadu 641014",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SPC Tech Park\nAvinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "KCT Tech Park\nThudiyalur Road, Saravanampatti, Coimbatore, Tamil Nadu 641035",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 266,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "text": "Note: Addresses provided are based on major established tech/commercial parks in each city."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

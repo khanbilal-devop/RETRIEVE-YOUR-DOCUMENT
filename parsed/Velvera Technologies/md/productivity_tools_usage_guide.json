@@ -1,0 +1,150 @@
+{
+  "doc_id": "51fe6c869b8d747ff1ffdd702ea1b90f25591a4dad113b725509912c8ee3e521",
+  "doc_key": [
+    "productivity_tools_usage_guide"
+  ],
+  "path": "Velvera Technologies/md/productivity_tools_usage_guide.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Productivity Tools — Usage Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Velvera Pencil",
+            "level": 3,
+            "location": {
+              "line": 4,
+              "heading": "Velvera Productivity Tools — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 6,
+                  "heading": "Velvera Pencil"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Getting Started: Attach to your Velvera Pad’s magnetic side dock to pair instantly. No additional app setup is required.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tips for Effective Use: Use light hand pressure for precise control. Double-tap near the tip to switch between pen and eraser in supported apps.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Charging & Maintenance: Charge fully on the Pad’s dock (recharges in 1 hour). Replace tip as needed—keep spare tip handy in the box.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety & Care: Store with magnetic cap, away from liquids. Avoid dropping to protect sensitivity.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Troubleshooting: If not connecting, reattach to dock to reset pairing. Ensure latest Pad software is installed.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Keyboard",
+            "level": 3,
+            "location": {
+              "line": 14,
+              "heading": "Velvera Productivity Tools — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 16,
+                  "heading": "Velvera Keyboard"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Getting Started: Align magnetic connector with Pad edge; attaches securely when contact is made.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tips for Effective Use: Adjust keyboard backlighting for ambient lighting. Enable touchpad gestures in settings for multi-touch support.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Charging & Maintenance: Clean with a dry, lint-free cloth. Avoid exposure to excessive moisture or dust.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety & Care: Detach before storing tablet in tight sleeves. Do not press keys aggressively.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Troubleshooting: Keyboard unrecognized? Detach and reattach. Clean pogo pins with a dry cloth if needed.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Stand Pro",
+            "level": 3,
+            "location": {
+              "line": 24,
+              "heading": "Velvera Productivity Tools — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 26,
+                  "heading": "Velvera Stand Pro"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Getting Started: Unfold to desired angle (15°–85°). Place phone/tablet on the silicone grip pads.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tips for Effective Use: Use low angles for drawing/writing; steeper for video calls. Keep cable organized in the integrated channel for desk clarity.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Charging & Maintenance: Plug in USB-C cable for Qi charger. Wipe with a soft cloth. Silicone pads can be cleaned with mild soap if needed.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety & Care: Do not exceed recommended device size. Ensure the stand is on a flat, stable surface.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Troubleshooting: Wireless charging slow? Check charger cable connection or reposition device for better coil alignment.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

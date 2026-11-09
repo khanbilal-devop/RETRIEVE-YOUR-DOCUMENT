@@ -1,0 +1,226 @@
+{
+  "doc_id": "72e34319381b4145eeab453cd43aea773497b9712a473dc64002914d0665a22c",
+  "doc_key": [
+    "network in coimbatore"
+  ],
+  "path": "ZX Bank/md/Network in Coimbatore.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Ltd. – Branch Network in Coimbatore",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Ltd. – Branch Network in Coimbatore"
+            },
+            "text": "Coimbatore, known for its thriving industrial sector and vibrant urban communities, is served by a robust banking network from ZX Bank Ltd. The bank ensures comprehensive financial access through a well-planned distribution of branches across all major regions of the city. Customers can access full-service banking—ranging from personal finance to digital transactions—at conveniently located branches in North, South, East, West, and Central Coimbatore."
+          }
+        ],
+        "sections": [
+          {
+            "title": "North Coimbatore",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Ltd. – Branch Network in Coimbatore"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "North Coimbatore"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "12 MG Road, Saibaba Colony",
+                    "ZXIN0001421",
+                    "0422-2425851"
+                  ],
+                  [
+                    "5-B, V.K.K. Menon Road, New Siddhapudur",
+                    "ZXIN0001422",
+                    "0422-2451222"
+                  ],
+                  [
+                    "No. 77, Sathy Main Road, Ganapathy",
+                    "ZXIN0001423",
+                    "0422-2653500"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "South Coimbatore",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "ZX Bank Ltd. – Branch Network in Coimbatore"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 19,
+                  "heading": "South Coimbatore"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "201, Trichy Road, Ramanathapuram",
+                    "ZXIN0001431",
+                    "0422-2313990"
+                  ],
+                  [
+                    "4/77, Kuniamuthur Main Road",
+                    "ZXIN0001432",
+                    "0422-2254299"
+                  ],
+                  [
+                    "No. 9, Sundakkamuthur Road, Podanur",
+                    "ZXIN0001433",
+                    "0422-2412441"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "East Coimbatore",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "ZX Bank Ltd. – Branch Network in Coimbatore"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 29,
+                  "heading": "East Coimbatore"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "101, Avinashi Road, Peelamedu",
+                    "ZXIN0001441",
+                    "0422-2560099"
+                  ],
+                  [
+                    "75, Singanallur Main Road",
+                    "ZXIN0001442",
+                    "0422-2590007"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "West Coimbatore",
+            "level": 2,
+            "location": {
+              "line": 36,
+              "heading": "ZX Bank Ltd. – Branch Network in Coimbatore"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 38,
+                  "heading": "West Coimbatore"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "No. 3, Thadagam Road, RS Puram",
+                    "ZXIN0001451",
+                    "0422-2478608"
+                  ],
+                  [
+                    "68, Marudhamalai Road, Vadavalli",
+                    "ZXIN0001452",
+                    "0422-2427117"
+                  ],
+                  [
+                    "11, Perur Main Road, Selvapuram",
+                    "ZXIN0001453",
+                    "0422-2355432"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Central Coimbatore",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "ZX Bank Ltd. – Branch Network in Coimbatore"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 48,
+                  "heading": "Central Coimbatore"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "15, Oppanakara Street",
+                    "ZXIN0001461",
+                    "0422-2393393"
+                  ],
+                  [
+                    "No. 22, D.B. Road, RS Puram Central",
+                    "ZXIN0001462",
+                    "0422-2470050"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

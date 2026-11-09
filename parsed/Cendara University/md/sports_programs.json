@@ -1,0 +1,603 @@
+{
+  "doc_id": "2b276915682be79d4050f6dc5f85f814c2727e50044ff73bb1a1ceb0bc104030",
+  "doc_key": [
+    "sports_programs"
+  ],
+  "path": "Cendara University/md/sports_programs.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Sports Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Sports Overview"
+            },
+            "text": "Cendara University is proud to offer a vibrant sports program that encourages student engagement, teamwork, and excellence both on and off the field. Our university hosts a wide range of competitive varsity teams, popular intramural leagues, and accessible recreational opportunities for the entire campus community."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Varsity Sports Teams",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Men’s Teams",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Varsity Sports Teams"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 11,
+                      "heading": "Men’s Teams"
+                    },
+                    "header": [
+                      "Team",
+                      "Head Coach",
+                      "Practice Location",
+                      "Recent Achievement"
+                    ],
+                    "rows": [
+                      [
+                        "Basketball",
+                        "Marcus Elliott",
+                        "Harvell Arena",
+                        "2023 Central League Champions"
+                      ],
+                      [
+                        "Soccer",
+                        "Julian Glover",
+                        "Thorndale Field",
+                        "Semi-finalists, 2024 Intercollegiate Cup"
+                      ],
+                      [
+                        "Track & Field",
+                        "Todd Nakamoto",
+                        "Ridgeview Stadium",
+                        "12 Medalists, 2023 State Meet"
+                      ],
+                      [
+                        "Tennis",
+                        "Paolo Rivera",
+                        "Westbrook Courts",
+                        "2024 Regional Runners-Up"
+                      ],
+                      [
+                        "Swimming",
+                        "Leon Walsh",
+                        "Darnell Aquatic Center",
+                        "3rd Place, 2023 State Finals"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Women’s Teams",
+                "level": 3,
+                "location": {
+                  "line": 19,
+                  "heading": "Varsity Sports Teams"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 21,
+                      "heading": "Women’s Teams"
+                    },
+                    "header": [
+                      "Team",
+                      "Head Coach",
+                      "Practice Location",
+                      "Recent Achievement"
+                    ],
+                    "rows": [
+                      [
+                        "Volleyball",
+                        "Ariana Schultz",
+                        "Harvell Arena",
+                        "2023 Southern Invitational Champions"
+                      ],
+                      [
+                        "Soccer",
+                        "Maeve Donnelly",
+                        "Thorndale Field",
+                        "2024 Regional Finalists"
+                      ],
+                      [
+                        "Cross Country",
+                        "Sophia Liang",
+                        "Ridgeview Stadium",
+                        "Team Gold, 2023 State Classic"
+                      ],
+                      [
+                        "Basketball",
+                        "Natalia Rocha",
+                        "Harvell Arena",
+                        "Playoff Appearance, 2024"
+                      ],
+                      [
+                        "Swimming",
+                        "Emily Bartell",
+                        "Darnell Aquatic Center",
+                        "All-State Swimmer, 2023"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Co-ed and Club Teams",
+                "level": 3,
+                "location": {
+                  "line": 29,
+                  "heading": "Varsity Sports Teams"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "Co-ed and Club Teams"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Ultimate Frisbee (Coach: Riley Sato)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Equestrian (Coach: Jennifer Mount)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Badminton Club (President: Mia Shen)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Table Tennis Club (President: Alex Mensah)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fencing Club (Coach: Samuel Dorsey)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Intramural Sports",
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 41,
+                  "heading": "Intramural Sports"
+                },
+                "text": "Cendara University offers an active intramural program, providing friendly, on-campus competition for students, faculty, and staff of all skill levels."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Seasonal Intramural Leagues",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "Intramural Sports"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 45,
+                      "heading": "Seasonal Intramural Leagues"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Flag Football (Fall)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Eight teams; games on Sundays at 2:00pm",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Fall 2023 Champions: \"The Cendara Chargers\"",
+                        "depth": 1
+                      },
+                      {
+                        "text": "3-on-3 Basketball (Winter)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Twelve teams; games held weeknights at Harvell Arena",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Indoor Volleyball (Winter/Spring)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ten teams; open registration in January",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Softball (Spring)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sixteen teams; games at Greenwood Park",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Table Tennis Tournament (Spring)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Singles and doubles brackets; April each year",
+                        "depth": 1
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 57,
+                      "heading": "Seasonal Intramural Leagues"
+                    },
+                    "text": "All intramural finals are celebrated during the Cendara Sports Festival in April."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Recreation and Fitness Facilities",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 63,
+                  "heading": "Recreation and Fitness Facilities"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Harvell Arena: Main gym for basketball, volleyball, and large events; seating capacity 2,500",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Darnell Aquatic Center: Eight-lane Olympic pool, diving boards, locker facilities",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ridgeview Stadium: Synthetic track, soccer and field event zones",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Westbrook Tennis Courts: Six outdoor, two indoor courts",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cendara Fitness Center: Open 6am–11pm, with cardio, weights, yoga, and group classes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Thorndale Field: Multipurpose grass fields for soccer, lacrosse, and ultimate",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Recent Sports Highlights",
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "2023-2024 Academic Year",
+                "level": 3,
+                "location": {
+                  "line": 74,
+                  "heading": "Recent Sports Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 76,
+                      "heading": "2023-2024 Academic Year"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Men’s Basketball secured their fourth consecutive Central League title, defeating Elmbridge University 62-54 in March 2024.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Women’s Volleyball triumphed at the Southern Invitational, with MVP honors awarded to team captain Serena Morales.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cross Country teams swept state titles, led by individual golds from Lila Patel and Thomas Ayala.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cendara Swimming had their best-ever finish at State, with three relay teams setting university records.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Athlete Recognition and Scholarships",
+            "level": 2,
+            "location": {
+              "line": 83,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 85,
+                  "heading": "Athlete Recognition and Scholarships"
+                },
+                "text": "Cendara University annually celebrates student-athlete achievements at the Spring Sports Banquet."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 87,
+                  "heading": "Athlete Recognition and Scholarships"
+                },
+                "text": "2024 Major Award Winners:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 89,
+                  "heading": "Athlete Recognition and Scholarships"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Athlete of the Year: Tessa Lim (Swimming)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Scholar-Athlete Award: David O’Connor (Tennis; GPA 3.96)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Spirit Award: Jalil Sandor (Soccer; Community leadership)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Outstanding First-year Athlete: Nina Castillo (Cross Country)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 94,
+                  "heading": "Athlete Recognition and Scholarships"
+                },
+                "text": "Athletic Scholarships:\nOver $150,000 in athletic scholarships are awarded annually to incoming and returning athletes demonstrating both academic commitment and athletic excellence."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Policies and Code of Conduct",
+            "level": 2,
+            "location": {
+              "line": 99,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 101,
+                  "heading": "Policies and Code of Conduct"
+                },
+                "text": "All participants in Cendara University sports programs are expected to abide by the Athletic Code of Conduct:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 103,
+                  "heading": "Policies and Code of Conduct"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Demonstrate sportsmanship and respect at all times, on and off the field.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Maintain satisfactory academic standing (minimum 2.5 cumulative GPA for varsity athletes).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Attend all games, practices, and team meetings unless formally excused.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Refrain from performance-enhancing substances and comply with annual health screenings.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Represent Cendara University positively during competitions and community events.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 109,
+                  "heading": "Policies and Code of Conduct"
+                },
+                "text": "Violations of the Code may result in suspension from practice, competition, or dismissal from teams per decision of the Athletics Disciplinary Board."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Get Involved",
+            "level": 2,
+            "location": {
+              "line": 113,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 115,
+                  "heading": "How to Get Involved"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Varsity Tryouts: Begin the last week of August; applications open June 15 each year on the Athletics Department website.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Intramural Registration: Announced prior to each season; open to all enrolled students and staff; teams can be formed by residence halls, departments, or individually.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sports Club Memberships: Join by attending the annual Activities Fair (September) or emailing club officers directly.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 119,
+                  "heading": "How to Get Involved"
+                },
+                "text": "For further information, contact the Athletics Department at athletics@cendara.edu or visit our office at Harvell Arena, Suite 102."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Athletics Department Staff",
+            "level": 2,
+            "location": {
+              "line": 123,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 125,
+                  "heading": "Athletics Department Staff"
+                },
+                "header": [
+                  "Name",
+                  "Position",
+                  "Email"
+                ],
+                "rows": [
+                  [
+                    "Corrine Masters",
+                    "Director of Athletics",
+                    "cmasters@cendara.edu"
+                  ],
+                  [
+                    "Mason Tomlin",
+                    "Associate Director, Facilities",
+                    "mtomlin@cendara.edu"
+                  ],
+                  [
+                    "Isabelle Nwosu",
+                    "Assistant Director, Compliance",
+                    "inwosu@cendara.edu"
+                  ],
+                  [
+                    "Travis Glen",
+                    "Varsity Programs Coordinator",
+                    "tglen@cendara.edu"
+                  ],
+                  [
+                    "Gina Han",
+                    "Fitness Center Manager",
+                    "ghan@cendara.edu"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 135,
+                  "heading": "Athletics Department Staff"
+                },
+                "text": "For schedules, results, and updates, visit:\nCendara University Athletics (https://www.cendarauniversity.edu/athletics)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

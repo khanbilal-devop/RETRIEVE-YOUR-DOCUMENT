@@ -1,0 +1,219 @@
+{
+  "doc_id": "4db76b75c2642d82e652662a2037ad85d8114b37b1fa3f776e82f826bcf84954",
+  "doc_key": [
+    "how to open the hood of an aventro vehicle"
+  ],
+  "path": "Aventro Motors/md/How to Open the Hood of an Aventro Vehicle.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Open the Hood of an Aventro Vehicle",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Open the Hood of an Aventro Vehicle"
+            },
+            "text": "Opening the hood of your Aventro car is a simple process that gives you access to the engine compartment for checks and maintenance. Follow these steps:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Steps to Open the Hood",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "How to Open the Hood of an Aventro Vehicle"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 7,
+                  "heading": "Steps to Open the Hood"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Park the Car Safely",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ensure your car is parked on a level surface.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Turn off the engine and engage the parking brake.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Locate the Hood Release Lever",
+                    "depth": 0
+                  },
+                  {
+                    "text": "The hood release lever is usually located under the dashboard, to the right or left of the driver’s seat (near the footwell).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Look for a lever with a hood icon (it may show a car with an open hood).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pull the Hood Release Lever",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pull the lever firmly. You should hear a slight click as the hood pops up a little.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Move to the Front of the Car",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Go to the front of the vehicle.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "The hood will now be slightly raised.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Find the Secondary Latch",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Slide your hand under the center front edge of the hood.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Feel for the secondary latch (usually a small lever or tab).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Push or slide the latch to one side to release the hood completely.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Lift the Hood",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lift the hood open.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "(Some models may have hydraulic struts; if not, locate the prop rod and secure the hood in the open position.)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Secure the Hood",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If your model uses a prop rod:",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Find the prop rod and insert it into the designated slot on the underside of the hood.",
+                    "depth": 2
+                  },
+                  {
+                    "text": "For hoods with hydraulic struts, the hood will stay open automatically.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Closing the Hood",
+            "level": 2,
+            "location": {
+              "line": 38,
+              "heading": "How to Open the Hood of an Aventro Vehicle"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 40,
+                  "heading": "Closing the Hood"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Remove the Prop Rod (if applicable) and place it back into its holder.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lower the Hood Gently to about 30 cm (1 foot) above the latch, then allow it to drop shut.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Check it is Securely Latched by pressing gently on the front edge—do not slam.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Safety Tips",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "How to Open the Hood of an Aventro Vehicle"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "Safety Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Never open the hood while the car is moving.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Allow engine components to cool before touching.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Always ensure the hood is closed securely before driving.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 52,
+                  "heading": "Safety Tips"
+                },
+                "text": "For any difficulties or if the hood does not open as expected, refer to your Aventro Owner’s Manual or visit your nearest Aventro Service Center."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

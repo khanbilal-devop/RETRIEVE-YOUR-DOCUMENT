@@ -1,0 +1,354 @@
+{
+  "doc_id": "ffa3b84589ad4365594b007c708a87a5cf4b393c4b00003087e15055abfec280",
+  "doc_key": [
+    "adjusting the seat positions"
+  ],
+  "path": "Aventro Motors/md/Adjusting the Seat Positions.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Adjusting the Seat Positions in Aventro Motors Vehicles",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Adjusting the Seat Positions in Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Overview"
+                },
+                "text": "Proper seat adjustment is essential for driving comfort, safety, and visibility. Aventro Motors vehicles are equipped with manual and/or electronic seat adjustment controls, depending on the model and trim. This guide walks you through adjusting your seat position for the safest and most comfortable driving experience."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Steps for Adjusting the Seat Positions",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "Adjusting the Seat Positions in Aventro Motors Vehicles"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Adjusting the Seat Distance from the Pedals",
+                "level": 3,
+                "location": {
+                  "line": 10,
+                  "heading": "Steps for Adjusting the Seat Positions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 11,
+                      "heading": "1. Adjusting the Seat Distance from the Pedals"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Locate the seat adjustment lever under the front edge of the seat.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Pull the lever up to unlock the seat.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Slide the seat forward or backward until your feet reach the pedals comfortably while keeping a slight bend at your knees.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Release the lever to lock the seat in position.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Gently rock the seat to ensure it is securely locked.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Adjusting the Seat Height (if equipped)",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "Steps for Adjusting the Seat Positions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 18,
+                      "heading": "2. Adjusting the Seat Height (if equipped)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Locate the seat height adjustment lever or electronic control (usually on the side of the seat).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "For manual systems, pump the lever up or down.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "For electronic systems, use the corresponding switch to raise or lower the seat.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Adjust until you have a clear view over the steering wheel and dashboard, with adequate headspace.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Adjusting the Seat Backrest Angle",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "Steps for Adjusting the Seat Positions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "3. Adjusting the Seat Backrest Angle"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Find the seat backrest adjustment lever or rotary knob at the side of the seat.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lean forward slightly and pull or rotate the control to release the backrest.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Adjust the backrest angle so you are sitting upright, with your shoulders touching the seatback.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "The ideal angle is slightly reclined for comfort, but never more than 30° from upright.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ensure the backrest is firmly locked in position before driving.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Adjusting the Headrest",
+                "level": 3,
+                "location": {
+                  "line": 30,
+                  "heading": "Steps for Adjusting the Seat Positions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "4. Adjusting the Headrest"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Hold both sides of the headrest.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Press the adjustment button (usually at the base) and move the headrest up or down.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "The top of the headrest should be level with the top of your head.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "The headrest should be as close to the back of your head as possible for optimal safety.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Adjusting the Lumbar Support (if equipped)",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "Steps for Adjusting the Seat Positions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "5. Adjusting the Lumbar Support (if equipped)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Use the lumbar support lever, dial, or electronic switch (side of seatback).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Increase or decrease support as needed for comfort and spine alignment.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Proper lumbar support helps reduce fatigue on long drives.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Tips for Safe Seat Adjustment",
+            "level": 2,
+            "location": {
+              "line": 43,
+              "heading": "Adjusting the Seat Positions in Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 45,
+                  "heading": "Tips for Safe Seat Adjustment"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Adjust your seat before starting the engine and while the car is stationary.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ensure all adjustments are firmly locked in place before driving.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "The distance between your chest and the steering wheel should be at least 25 cm (10 inches).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Adjust the steering wheel if required, for optimal hand positioning.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All passengers should also adjust their seats and headrests.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Troubleshooting",
+            "level": 2,
+            "location": {
+              "line": 53,
+              "heading": "Adjusting the Seat Positions in Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 55,
+                  "heading": "Troubleshooting"
+                },
+                "header": [
+                  "Issue",
+                  "Possible Solution"
+                ],
+                "rows": [
+                  [
+                    "Seat not moving",
+                    "Check for obstructions under the seat."
+                  ],
+                  [
+                    "Electronic controls not working",
+                    "Check vehicle battery or fuses."
+                  ],
+                  [
+                    "Seat does not lock in place",
+                    "Re-engage lever or consult service center."
+                  ],
+                  [
+                    "Headrest stuck",
+                    "Press and hold release button firmly."
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Assistance?",
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "Adjusting the Seat Positions in Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 65,
+                  "heading": "Need Assistance?"
+                },
+                "text": "For in-depth troubleshooting or if you experience issues with seat adjustment mechanisms, contact your nearest Aventro Service Center or call Aventro Motors Customer Support at +91 124 1234567."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 69,
+                  "heading": "Need Assistance?"
+                },
+                "text": "Drive safe, drive smart with Aventro!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

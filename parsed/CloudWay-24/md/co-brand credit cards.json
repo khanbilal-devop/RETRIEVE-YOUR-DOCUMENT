@@ -1,0 +1,169 @@
+{
+  "doc_id": "5d13f700e4277c4004e9469cf198999d6a7e46afa042ff3e4695a67ced1a20be",
+  "doc_key": [
+    "co-brand credit cards"
+  ],
+  "path": "CloudWay-24/md/Co-brand Credit Cards.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Co-brand Credit Cards: Earn SkyPoints Faster!",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Introducing CloudWay 24 Co-brand Credit Cards",
+            "level": 3,
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 Co-brand Credit Cards: Earn SkyPoints Faster!"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Introducing CloudWay 24 Co-brand Credit Cards"
+                },
+                "text": "Unlock the best way to travel and reward yourself with SkyPoints! Our exclusive co-brand credit cards, in partnership with leading banks, allow you to accelerate your SkyPoints earnings every time you spend."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "SkyPoints Earning Structure",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "CloudWay 24 Co-brand Credit Cards: Earn SkyPoints Faster!"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 11,
+                  "heading": "SkyPoints Earning Structure"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "10X SkyPoints\nEarn 10 times the SkyPoints when you book CloudWay 24 flights using your co-brand credit card on CloudWay24.com (https://CloudWay24.com) or our official app.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "4% SkyPoints\nEarn 4% back in SkyPoints on spending for other airlines and hotel bookings, worldwide.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2% SkyPoints\nEarn 2% back in SkyPoints on all other spends—retail, dining, shopping, utilities, and more.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Card Benefits at a Glance",
+            "level": 2,
+            "location": {
+              "line": 22,
+              "heading": "CloudWay 24 Co-brand Credit Cards: Earn SkyPoints Faster!"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 24,
+                  "heading": "Card Benefits at a Glance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Accelerated SkyPoints Earning\nSupercharge your journey to free flights, upgrades, and exclusive rewards.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seamless Integration\nAutomatically earn SkyPoints—no additional steps required.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Redemption Flexibility\nUse SkyPoints for flights, upgrades, partner rewards, and more through the SkyPoints 24 program.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Travel Perks\nGet priority check-in, complimentary lounge access, and more (benefits may vary by card variant).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply?",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "CloudWay 24 Co-brand Credit Cards: Earn SkyPoints Faster!"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "How to Apply?"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Visit CloudWay24.com (https://CloudWay24.com) or your preferred bank website.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Choose the \"CloudWay 24 Co-brand Credit Card.\"",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fill in the application form and provide necessary documents.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Start earning SkyPoints as soon as your card is activated!",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 44,
+                  "heading": "How to Apply?"
+                },
+                "text": "Tip: Always use your CloudWay 24 co-brand card for booking flights directly with CloudWay 24 to maximize SkyPoints!"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 46,
+                  "heading": "How to Apply?"
+                },
+                "text": "Terms & Conditions apply. Point rates and benefits are subject to change as per the issuing bank’s and CloudWay 24’s policy."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

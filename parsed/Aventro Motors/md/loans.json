@@ -1,0 +1,294 @@
+{
+  "doc_id": "38080bb832baab4bc36583a2a9ef332db62c34d676cc4e1da3f600776aeeeda3",
+  "doc_key": [
+    "loans"
+  ],
+  "path": "Aventro Motors/md/loans.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Loan Options for Aventro Motors Vehicles",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Loan Options for Aventro Motors Vehicles"
+            },
+            "text": "Purchasing your dream Aventro Motors car is now easier than ever with our quick and hassle-free auto loan solutions, in partnership with leading banks. Below are some sample loan options. You can select the plan that fits your needs and budget."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Partner Banks & Loan Offers",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Loan Options for Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Partner Banks & Loan Offers"
+                },
+                "header": [
+                  "Bank Name",
+                  "Interest Rate (p.a.)",
+                  "Loan Tenure",
+                  "Maximum Loan Amount",
+                  "Processing Fee",
+                  "Special Benefits"
+                ],
+                "rows": [
+                  [
+                    "Matrix Bank",
+                    "7.99% - 9.5%",
+                    "Up to 7 years",
+                    "90% of car value",
+                    "₹2,500 or 0.5%",
+                    "Instant approval, minimal docs"
+                  ],
+                  [
+                    "Astra Finance",
+                    "8.25% - 10.1%",
+                    "Up to 5 years",
+                    "85% of car value",
+                    "₹3,000 or 0.75%",
+                    "Pre-closure at zero charges"
+                  ],
+                  [
+                    "SecureFirst Bank",
+                    "9.10% - 11.2%",
+                    "Up to 6 years",
+                    "100% of car value",
+                    "₹1,500 or 0.4%",
+                    "Flexible EMI, festive discounts"
+                  ],
+                  [
+                    "Union Credit",
+                    "8.65% - 10.75%",
+                    "Up to 7 years",
+                    "95% of car value",
+                    "₹2,000 or 0.5%",
+                    "Special EV rates, quick funding"
+                  ],
+                  [
+                    "Modern India Bank",
+                    "10.00% - 12.0%",
+                    "Up to 5 years",
+                    "80% of car value",
+                    "₹2,500 or 0.6%",
+                    "Online approval in 30 minutes"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Easy Car Loan Process",
+            "level": 2,
+            "location": {
+              "line": 19,
+              "heading": "Loan Options for Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 21,
+                  "heading": "Easy Car Loan Process"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Select Your Car\nChoose your favorite Aventro Motors model and variant at our showroom or website.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Apply for Loan",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fill in a simple online/offline loan application form at the dealership or on our website.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Provide basic documents (ID, address proof, income proof, bank statement).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Choose Loan Partner",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Our finance advisors help you pick the best bank/offer as per your eligibility & preferences.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Quick Approval",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Get instant/within 24-hour approval for eligible candidates.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Loan Disbursement",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bank credits the loan amount directly to Aventro Motors for seamless vehicle delivery.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Drive Away",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Take delivery of your new Aventro Motors car!",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Required Documents",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "Loan Options for Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 44,
+                  "heading": "Required Documents"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Identity Proof (Aadhaar Card, Passport, etc.)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address Proof (Utility Bill, Rent Agreement, etc.)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Income Proof (Salary Slip/IT Returns)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bank Statements (last 6 months)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Passport-size photographs",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Sample EMI Calculator",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "Loan Options for Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "Sample EMI Calculator"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Car Price: ₹10,00,000",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loan Amount: ₹8,50,000 (85% of value)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Interest Rate: 9% p.a.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loan Tenure: 5 years",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 59,
+                  "heading": "Sample EMI Calculator"
+                },
+                "text": "| Monthly EMI  | ₹17,637  |"
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 61,
+                  "heading": "Sample EMI Calculator"
+                },
+                "text": "Actual EMI may vary depending on bank’s policies, credit profile and final offer."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Assistance?",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "Loan Options for Aventro Motors Vehicles"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 67,
+                  "heading": "Need Assistance?"
+                },
+                "text": "Contact our Finance Desk at any Aventro Motors showroom or email us at info@aventromotors.com (mailto:info@aventromotors.com)\nWe'll be happy to guide you through the process and help you get the best deal!"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 72,
+                  "heading": "Need Assistance?"
+                },
+                "text": "Terms & Conditions apply. Interest rates and offers are subject to periodic change and vary as per bank discretion & eligibility."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

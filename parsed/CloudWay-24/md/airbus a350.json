@@ -1,0 +1,399 @@
+{
+  "doc_id": "679b6625ce925e7533f15f7b2661d69f65932fe8e9c14022020f5096ee95b419",
+  "doc_key": [
+    "airbus a350"
+  ],
+  "path": "CloudWay-24/md/Airbus A350.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Airbus A350 – CloudWay 24 Fleet Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Aircraft Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Airbus A350 – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Aircraft Overview"
+                },
+                "text": "The Airbus A350 is a next-generation, long-haul wide-body aircraft known for its advanced aerodynamics, fuel efficiency, and passenger comfort. Operated by CloudWay 24 on major intercontinental routes, the A350 delivers a premium flying experience across all cabin classes."
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 6,
+                  "heading": "Aircraft Overview"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Aircraft Manufacturer: Airbus",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Aircraft Model: A350-900",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Total Seating Capacity: 320 passengers",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Class-wise Seating Capacity & Cabin Features",
+            "level": 2,
+            "location": {
+              "line": 12,
+              "heading": "Airbus A350 – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. CloudLux (First Class)",
+                "level": 3,
+                "location": {
+                  "line": 14,
+                  "heading": "Class-wise Seating Capacity & Cabin Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 15,
+                      "heading": "1. CloudLux (First Class)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seats: 8",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Configuration: 1-2-1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fully enclosed private suites",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Lie-flat beds with luxury bedding",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Personal 21” HD touchscreen entertainment system",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Gourmet on-demand dining, exclusive menu",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Direct aisle access",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Dedicated First Class lounge access",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Personalized service with dedicated crew",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Amenity kit by luxury brand",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. CloudElite (Business Class)",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Class-wise Seating Capacity & Cabin Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "2. CloudElite (Business Class)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seats: 42",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Configuration: 1-2-1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lie-flat beds (78” pitch)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "All seats with direct aisle access",
+                        "depth": 1
+                      },
+                      {
+                        "text": "18” personal HD entertainment screen",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Multi-course meals, fine wines & beverages",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ambient mood lighting",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Noise-cancelling headphones",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enhanced storage space & privacy dividers",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Priority check-in & boarding",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Lounge access",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. CloudComfort (Premium Economy)",
+                "level": 3,
+                "location": {
+                  "line": 41,
+                  "heading": "Class-wise Seating Capacity & Cabin Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 42,
+                      "heading": "3. CloudComfort (Premium Economy)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seats: 32",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Configuration: 2-4-2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wider seats with extra legroom (38” pitch)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enhanced recline and footrests",
+                        "depth": 1
+                      },
+                      {
+                        "text": "13” personal HD screen",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Welcome drink & upgraded meal options",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Power outlets & USB ports at every seat",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Dedicated cabin crew",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. CloudSaver (Economy Class)",
+                "level": 3,
+                "location": {
+                  "line": 52,
+                  "heading": "Class-wise Seating Capacity & Cabin Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 53,
+                      "heading": "4. CloudSaver (Economy Class)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seats: 238",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Configuration: 3-3-3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ergonomically designed seats",
+                        "depth": 1
+                      },
+                      {
+                        "text": "32” seat pitch, adjustable headrests",
+                        "depth": 1
+                      },
+                      {
+                        "text": "11” personal touchscreen display",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Complimentary meals & beverages",
+                        "depth": 1
+                      },
+                      {
+                        "text": "USB charging ports",
+                        "depth": 1
+                      },
+                      {
+                        "text": "In-flight WiFi (paid service)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Family seating options",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Additional Features (All Cabins)",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "Airbus A350 – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Additional Features (All Cabins)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Advanced air filtration system (HEPA)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "High ceilings and larger windows for natural lighting",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Customizable mood lighting for reduced jet-lag",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Spacious, modern lavatories",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quietest cabin in its class",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "About CloudWay 24’s A350 Experience",
+            "level": 2,
+            "location": {
+              "line": 75,
+              "heading": "Airbus A350 – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 76,
+                  "heading": "About CloudWay 24’s A350 Experience"
+                },
+                "text": "CloudWay 24’s Airbus A350 promises a soothing, high-tech environment designed for comfort, productivity, and relaxation – whether you’re flying CloudLux or CloudSaver."
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 78,
+                  "heading": "About CloudWay 24’s A350 Experience"
+                },
+                "text": "“Seamless Skies, Global Reach.”"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

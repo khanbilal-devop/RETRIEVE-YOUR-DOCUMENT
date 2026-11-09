@@ -1,0 +1,629 @@
+{
+  "doc_id": "b22bcbc26e98673a7abfc86f21e75064273d8761a3df9c4530356cfd6fb4ed6b",
+  "doc_key": [
+    "enrollment_process"
+  ],
+  "path": "Cendara University/md/enrollment_process.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Enrollment Procedures",
+        "level": 1,
+        "location": {
+          "line": 2
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 4,
+              "heading": "Cendara University Enrollment Procedures"
+            },
+            "text": "Welcome to Cendara University! The following guide serves all new and returning students as a comprehensive resource for the complete step-by-step enrollment process, including initial registration, course selection, and procedures for making schedule changes."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Step-by-Step Registration Process",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "Cendara University Enrollment Procedures"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Pre-Enrollment Preparation",
+                "level": 3,
+                "location": {
+                  "line": 10,
+                  "heading": "Step-by-Step Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 12,
+                      "heading": "1. Pre-Enrollment Preparation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Review Academic Program Requirements\nAccess your intended degree requirements via the Online Program Catalog (https://catalog.cendara.edu) or visit your departmental academic advisor.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Check Key Dates\nRefer to the Academic Calendar for application, registration, and add/drop deadlines.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Meet with Your Advisor (Strongly Recommended)\nSchedule an appointment through the Student Portal to discuss academic planning, transfer credits, prerequisites, and individualized schedules.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Create or Activate Your Student Account",
+                "level": 3,
+                "location": {
+                  "line": 19,
+                  "heading": "Step-by-Step Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 21,
+                      "heading": "2. Create or Activate Your Student Account"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "New Students:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Receive your Cendara University Student Identification (CUSID) number by email after admission confirmation.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Use the issued CUSID to activate your MyCendara student portal account at my.cendara.edu (https://my.cendara.edu).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Returning Students:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Log in using your existing credentials.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Reactivate your account by updating your password if prompted.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Complete Enrollment Verification",
+                "level": 3,
+                "location": {
+                  "line": 28,
+                  "heading": "Step-by-Step Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "3. Complete Enrollment Verification"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Submit Required Documents:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Proof of prior education (e.g., transcripts, diplomas)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Immunization & Health Clearance Forms (submit to the Health Center)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Relevant visa and residency documents for international students",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Resolve Holds:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Check for any registration holds (e.g., outstanding fees, missing documents) under “Student Holds” in the portal and address them before proceeding.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Register for Classes",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "Step-by-Step Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 39,
+                      "heading": "4. Register for Classes"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Access the Course Registration Portal:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Log in to MyCendara and select the “Course Registration” tab.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Choose the upcoming semester/term.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Search for Courses:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Filter courses by department, course code, instructor, or meeting times.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Review seat availability, prerequisites, and co-requisites displayed for each course.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Build Your Schedule:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Add desired courses to your “Enrollment Cart.”",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ensure courses meet degree requirements and don’t conflict in timing.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enroll in Courses:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Submit your enrollment cart for approval.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "If prerequisites/advisor approval is required, the request will be routed to the appropriate department automatically.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Once approved, confirm and finalize enrollment.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Pay Fees and Tuition:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Review your billing statement in the “Student Finances” section.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Pay tuition and fees by the posted deadlines (online payment, wire transfer, or in-person).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Failure to pay on time may result in deregistration.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Confirm Registration",
+                "level": 3,
+                "location": {
+                  "line": 57,
+                  "heading": "Step-by-Step Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 59,
+                      "heading": "5. Confirm Registration"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Print or Save Course Schedule:\nAfter successful enrollment and payment, print or electronically save your schedule.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Receive Confirmation Email:\nYou will receive an official registration confirmation and resource access details (including library, LMS, and email) within 24-48 hours.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Course Selection Guidance",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "Cendara University Enrollment Procedures"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 68,
+                  "heading": "Course Selection Guidance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Advising Support:\nUndergraduate first-year and transfer students must meet with an advisor to approve their initial schedule. Graduate students should consult with their assigned faculty advisor.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Selecting Courses:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Requirements: Ensure all selected courses align with your major, concentration, and general education requirements.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Electives and Minors: Use available electives for minors, interdisciplinary certificates, or personal interest areas.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Credit Load: Full-time undergraduates must register for 12–18 credits per semester; graduates for 9–15 credits, unless otherwise authorized.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Special Programs:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Participation in Honors College, Sustainable Technology Initiative, or international programs may have unique registration steps. Contact the relevant coordinator for details.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Waitlists:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If a desired course is full, add yourself to its waitlist. Notification of available seats is sent via your university email.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Schedule Changes: Add/Drop, Withdrawal, and Modification Procedures",
+            "level": 2,
+            "location": {
+              "line": 81,
+              "heading": "Cendara University Enrollment Procedures"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Add/Drop Period",
+                "level": 3,
+                "location": {
+                  "line": 83,
+                  "heading": "Schedule Changes: Add/Drop, Withdrawal, and Modification Procedures"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 85,
+                      "heading": "1. Add/Drop Period"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Timeframe:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Add/drop is permitted through the second week of classes in standard semesters (see Academic Calendar for exact dates).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "How to Add/Drop:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Log in to MyCendara and access “Enrollment Management.”",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Search and add available courses, or drop current ones directly from your schedule.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Changes are reflected instantly; always confirm your updated course list.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Course Withdrawal",
+                "level": 3,
+                "location": {
+                  "line": 92,
+                  "heading": "Schedule Changes: Add/Drop, Withdrawal, and Modification Procedures"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 94,
+                      "heading": "2. Course Withdrawal"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Withdrawing After Add/Drop:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Withdrawals permitted until designated mid-semester deadline (specific dates in Calendar).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Withdrawn courses appear as “W” on transcripts and may impact financial aid or athletic eligibility.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Process:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Access the “Course Withdrawal” form in MyCendara.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Obtain required electronic signatures from your advisor and instructor if specified.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Submit form and monitor status; confirmation will be sent to your email.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Review tuition refund policy for withdrawn courses in the Student Financial Guide (https://cendara.edu/finance/refunds).",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Schedule Modifications After Enrollment",
+                "level": 3,
+                "location": {
+                  "line": 103,
+                  "heading": "Schedule Changes: Add/Drop, Withdrawal, and Modification Procedures"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 105,
+                      "heading": "3. Schedule Modifications After Enrollment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Changing Sections:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "You may switch sections (e.g., different class times or instructors) within the same course during add/drop.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Switching Modality:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "For hybrid/online classes, request a change in MyCendara or through your department as available.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Overloads & Underloads:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Approval from your advisor (and, for overloads, the Dean of your school) required to exceed maximum or fall below minimum credit limits.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Special Considerations",
+                "level": 3,
+                "location": {
+                  "line": 112,
+                  "heading": "Schedule Changes: Add/Drop, Withdrawal, and Modification Procedures"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 114,
+                      "heading": "4. Special Considerations"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Prerequisite Issues:\nIf unable to register due to missing prerequisites, request a prerequisite override in consultation with your academic advisor and course instructor.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Academic Appeals:\nAcademic appeals (for late add, late withdrawal, etc.) must be submitted with complete documentation to the Office of the Registrar for consideration.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Key Contacts",
+            "level": 2,
+            "location": {
+              "line": 121,
+              "heading": "Cendara University Enrollment Procedures"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 123,
+                  "heading": "Key Contacts"
+                },
+                "header": [
+                  "Office",
+                  "Email",
+                  "Phone",
+                  "Location"
+                ],
+                "rows": [
+                  [
+                    "Office of Admissions",
+                    "admissions@cendara.edu",
+                    "555-402-1021",
+                    "Beckett Hall, Room 101"
+                  ],
+                  [
+                    "Registrar’s Office",
+                    "registrar@cendara.edu",
+                    "555-402-1022",
+                    "Beckett Hall, Room 202"
+                  ],
+                  [
+                    "Academic Advising Center",
+                    "advising@cendara.edu",
+                    "555-402-1145",
+                    "Pearson Building, Room 12"
+                  ],
+                  [
+                    "Financial Services",
+                    "finance@cendara.edu",
+                    "555-402-1064",
+                    "Kendry Hall, Room 8"
+                  ],
+                  [
+                    "International Student Services",
+                    "intlservices@cendara.edu",
+                    "555-402-1098",
+                    "Beckett Hall, Room 310"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "level": 2,
+            "location": {
+              "line": 133,
+              "heading": "Cendara University Enrollment Procedures"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 135,
+                  "heading": "Frequently Asked Questions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "How do I know if a course is required for my major?\nRefer to your degree audit in MyCendara or consult your advisor for clarification.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "What happens if I miss the registration deadline?\nLate registrations are not guaranteed and incur late fees. Contact the Registrar’s Office immediately.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Can I take courses in more than one department?\nYes, as long as you meet prerequisites and credit load policies.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "When will I get my university ID card?\nID cards are issued at Orientation or may be picked up from the Student Affairs Office after registration is confirmed.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 146,
+                  "heading": "Frequently Asked Questions"
+                },
+                "text": "For further information, review the full Student Handbook (https://cendara.edu/student-handbook) or contact an enrollment advisor."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

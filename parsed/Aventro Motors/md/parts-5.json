@@ -1,0 +1,333 @@
+{
+  "doc_id": "cc952a97702ba33aa7875fb70a5531b2c08ab159b0f424f0e18b9c382f5db289",
+  "doc_key": [
+    "parts-5"
+  ],
+  "path": "Aventro Motors/md/Parts-5.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "text": "Aventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Parts List with Industry Standard Prices",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 11,
+                  "heading": "Parts List with Industry Standard Prices"
+                },
+                "header": [
+                  "S.No",
+                  "Part Name",
+                  "Unit Price (INR)",
+                  "Notes"
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Engine Assembly",
+                    "85,000",
+                    "Complete engine, varies with model & fuel type"
+                  ],
+                  [
+                    "2",
+                    "Battery Pack",
+                    "1,20,000",
+                    "High voltage for EVs/Hybrids; Lead-acid ~6,000"
+                  ],
+                  [
+                    "3",
+                    "Transmission",
+                    "70,000",
+                    "Automatic costlier than manual"
+                  ],
+                  [
+                    "4",
+                    "Brake Pads",
+                    "2,500",
+                    "Per set of 4 pads"
+                  ],
+                  [
+                    "5",
+                    "Suspension System",
+                    "18,000",
+                    "Complete kit, front/rear only ~8,000"
+                  ],
+                  [
+                    "6",
+                    "Air Filter",
+                    "600",
+                    ""
+                  ],
+                  [
+                    "7",
+                    "Oil Filter",
+                    "350",
+                    ""
+                  ],
+                  [
+                    "8",
+                    "Fuel Injector",
+                    "3,500",
+                    "Each"
+                  ],
+                  [
+                    "9",
+                    "Spark Plug",
+                    "500",
+                    "Each"
+                  ],
+                  [
+                    "10",
+                    "Alloy Wheels",
+                    "8,000",
+                    "Per wheel"
+                  ],
+                  [
+                    "11",
+                    "Headlamps",
+                    "3,200",
+                    "Per piece, LED variant adds cost"
+                  ],
+                  [
+                    "12",
+                    "Tail Lamps",
+                    "2,400",
+                    "Per piece"
+                  ],
+                  [
+                    "13",
+                    "Windshield Wipers",
+                    "650",
+                    "Per set"
+                  ],
+                  [
+                    "14",
+                    "Dashboard Display",
+                    "12,500",
+                    "Touchscreen variant higher (~18,000)"
+                  ],
+                  [
+                    "15",
+                    "Infotainment System",
+                    "25,000",
+                    ""
+                  ],
+                  [
+                    "16",
+                    "AC Compressor",
+                    "14,000",
+                    ""
+                  ],
+                  [
+                    "17",
+                    "Shock Absorber",
+                    "4,000",
+                    "Per piece"
+                  ],
+                  [
+                    "18",
+                    "Radiator",
+                    "7,500",
+                    ""
+                  ],
+                  [
+                    "19",
+                    "Alternator",
+                    "9,500",
+                    ""
+                  ],
+                  [
+                    "20",
+                    "Bumper",
+                    "6,000",
+                    "Front/rear, unpainted"
+                  ],
+                  [
+                    "21",
+                    "Seats",
+                    "5,500",
+                    "Per seat, upholstery extra"
+                  ],
+                  [
+                    "22",
+                    "Door Locks",
+                    "1,200",
+                    "Each"
+                  ],
+                  [
+                    "23",
+                    "Exhaust System",
+                    "7,200",
+                    "Complete"
+                  ],
+                  [
+                    "24",
+                    "Steering Column",
+                    "8,700",
+                    ""
+                  ],
+                  [
+                    "25",
+                    "Side Mirrors",
+                    "2,000",
+                    "Per piece, electronic adjustment adds cost"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Service Types and Prices",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 43,
+                  "heading": "Service Types and Prices"
+                },
+                "header": [
+                  "S.No",
+                  "Service",
+                  "Price (INR)",
+                  "Notes"
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "AC Service",
+                    "2,200",
+                    "Includes refrigerant refill, filter clean"
+                  ],
+                  [
+                    "2",
+                    "Electrical System Diagnostics",
+                    "1,000",
+                    "Computerized scan & manual inspection"
+                  ],
+                  [
+                    "3",
+                    "Tyre Replacement",
+                    "4,800",
+                    "Set of 4, tubeless, includes fitting & balancing"
+                  ],
+                  [
+                    "4",
+                    "Body & Paint Work",
+                    "5,000-20,000",
+                    "Minor scratch to full panel repaint"
+                  ],
+                  [
+                    "5",
+                    "Infotainment Repair",
+                    "3,500",
+                    "Software & basic hardware (major repairs extra)"
+                  ],
+                  [
+                    "6",
+                    "Wheel Alignment",
+                    "900",
+                    "4-wheel standard"
+                  ],
+                  [
+                    "7",
+                    "Fast Charging (Electric Vehicles)",
+                    "600 / session",
+                    "Up to 80% charge, may vary by location"
+                  ],
+                  [
+                    "8",
+                    "Hybrid System Check",
+                    "2,500",
+                    "High voltage system health check"
+                  ],
+                  [
+                    "9",
+                    "Car Wash & Detailing",
+                    "1,200",
+                    "Shampoo wash, interior cleaning, polish"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notes",
+            "level": 2,
+            "location": {
+              "line": 57,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 59,
+                  "heading": "Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Prices are approximate and vary by model, region, and service center.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Taxes extra as applicable.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Parts pricing may fluctuate with market rates and model compatibility.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Major repairs or additional diagnostics may incur extra charges.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For exact prices and appointments, contact your nearest Aventro Service Center.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

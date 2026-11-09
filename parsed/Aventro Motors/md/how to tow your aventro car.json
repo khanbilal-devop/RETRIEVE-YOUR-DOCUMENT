@@ -1,0 +1,411 @@
+{
+  "doc_id": "9b8dfc4becf789a45aab2ad0cd9ea1c531b4a2033119318af4e38773640d2231",
+  "doc_key": [
+    "how to tow your aventro car"
+  ],
+  "path": "Aventro Motors/md/How to Tow Your Aventro Car.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Tow Your Aventro Car",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "text": "Whether you’ve had a breakdown, a minor accident, or just need to move your Aventro vehicle, towing it safely is critical. Below is a step-by-step guide for both manual and automatic Aventro car models."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Before You Begin",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Before You Begin"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Check Owner’s Manual: Refer to your specific model's owner’s manual for any towing restrictions or recommendations.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Warning! Never tow with wheels on the ground if your model is electric. Use a flatbed truck.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 1: Gather Necessary Tools",
+            "level": 2,
+            "location": {
+              "line": 14,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 16,
+                  "heading": "Step 1: Gather Necessary Tools"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Tow strap or tow rope (rated for your car weight)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tow hook (provided with vehicle, usually in trunk/tool kit)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Torch (for visibility at night)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Warning triangle or cones",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 2: Locate the Tow Hook Covers",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "Step 2: Locate the Tow Hook Covers"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Front and Rear Bumper:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Look for small plastic covers on the bumper (often marked by a tow symbol).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Remove the Cover:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use a plastic pry tool or key to open the cover.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 3: Attach the Tow Hook",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "Step 3: Attach the Tow Hook"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Retrieve the Tow Hook:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Found in your car’s tool kit or trunk.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Screw in the Tow Hook:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Insert into the exposed thread & rotate clockwise until tight.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 4: Connect the Tow Strap or Tow Rope",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 43,
+                  "heading": "Step 4: Connect the Tow Strap or Tow Rope"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Attach to Tow Hook:\nEnsure the strap/rope is securely fastened to the tow hook.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Other Vehicle:\nAttach the other end to the towing vehicle’s tow point.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 5: Prepare the Vehicle for Towing",
+            "level": 2,
+            "location": {
+              "line": 50,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 52,
+                  "heading": "Step 5: Prepare the Vehicle for Towing"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Manual Transmission:\nPlace in Neutral, release the parking brake.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Automatic Transmission:\nPlace in Neutral (N), release the parking brake.\nCAUTION: For automatics and hybrids, flatbed towing is recommended to avoid transmission damage.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electric Vehicles:\nONLY FLATBED TOWING. Do not tow with wheels on ground.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 6: Safety Measures",
+            "level": 2,
+            "location": {
+              "line": 62,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 64,
+                  "heading": "Step 6: Safety Measures"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Place warning triangle/cones at a safe distance behind both vehicles.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Switch ON hazard lights on both vehicles.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ensure both drivers agree on signaling and communication.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 7: Towing",
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 72,
+                  "heading": "Step 7: Towing"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "The towing vehicle should accelerate slowly – no sudden jerks.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Maximum speed should not exceed 25 km/h.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Keep the towed vehicle’s ignition ON (to prevent steering lock and allow brake assist).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Steer and brake gently in the towed vehicle.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 8: After Towing",
+            "level": 2,
+            "location": {
+              "line": 79,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 81,
+                  "heading": "Step 8: After Towing"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Park both vehicles safely.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Unscrew the tow hook and store it back with your tools.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Replace the plastic tow hook cover.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Safety Notice",
+            "level": 2,
+            "location": {
+              "line": 87,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 89,
+                  "heading": "Important Safety Notice"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Never tow on highways unless necessary.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Do not allow passengers in the towed vehicle.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If in doubt, use Aventro Roadside Assistance or professional towing.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact Aventro Motors Roadside Assistance",
+            "level": 2,
+            "location": {
+              "line": 95,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 97,
+                  "heading": "Contact Aventro Motors Roadside Assistance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Phone: +91 124 1234567",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Email: info@aventromotors.com",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 102,
+                  "heading": "Contact Aventro Motors Roadside Assistance"
+                },
+                "text": "For model-specific instructions, always refer to your Aventro Owner’s Manual."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

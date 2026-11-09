@@ -1,0 +1,458 @@
+{
+  "doc_id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc",
+  "doc_key": [
+    "about zx bank ltd"
+  ],
+  "path": "ZX Bank/md/About ZX Bank Ltd.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Ltd."
+            },
+            "text": "Headquarters: Mumbai, Maharashtra, India\nFounded: 1998\nBank Type: Private Sector, Commercial Banking\nSWIFT Code: ZXININBB\nIFSC Example: ZXIN0000123\nWebsite: www.zxbank.asia (https://www.zxbank.asia)"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Operating Countries",
+            "level": 2,
+            "location": {
+              "line": 12,
+              "heading": "ZX Bank Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 14,
+                  "heading": "Operating Countries"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "India",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Full-service operations: retail, corporate, and digital banking.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sri Lanka",
+                    "depth": 0
+                  },
+                  {
+                    "text": "25+ branches focused on SME, personal banking, and remittance corridors.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bangladesh",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Regional partner for mobile banking services and microfinance.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bhutan",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cross-border banking, digital onboarding, and NRI support.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nepal",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Strategic presence via digital kiosks and remittance services.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Services Offered",
+            "level": 2,
+            "location": {
+              "line": 31,
+              "heading": "ZX Bank Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Retail Banking",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Services Offered"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 34,
+                      "heading": "Retail Banking"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Savings & Current Accounts",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Personal & Home Loans",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Cards",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fixed Deposits",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Corporate Banking",
+                "level": 3,
+                "location": {
+                  "line": 39,
+                  "heading": "Services Offered"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 40,
+                      "heading": "Corporate Banking"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Business Loans",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Trade Finance",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Treasury Solutions",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Digital Banking",
+                "level": 3,
+                "location": {
+                  "line": 44,
+                  "heading": "Services Offered"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 45,
+                      "heading": "Digital Banking"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Mobile App (Android & iOS)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "NetBanking & UPI",
+                        "depth": 0
+                      },
+                      {
+                        "text": "e-KYC",
+                        "depth": 0
+                      },
+                      {
+                        "text": "AI Chatbot",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Remittances",
+                "level": 3,
+                "location": {
+                  "line": 50,
+                  "heading": "Services Offered"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 51,
+                      "heading": "Remittances"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Rapid cross-border payments (India, Sri Lanka, Nepal, Bhutan)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Wealth Management",
+                "level": 3,
+                "location": {
+                  "line": 53,
+                  "heading": "Services Offered"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 54,
+                      "heading": "Wealth Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Investment Advisory",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Mutual Funds",
+                        "depth": 0
+                      },
+                      {
+                        "text": "NRI Services",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Branch & ATM Network",
+            "level": 2,
+            "location": {
+              "line": 60,
+              "heading": "ZX Bank Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 62,
+                  "heading": "Branch & ATM Network"
+                },
+                "header": [
+                  "Country",
+                  "Branches",
+                  "ATMs"
+                ],
+                "rows": [
+                  [
+                    "India",
+                    "560+",
+                    "1,200+"
+                  ],
+                  [
+                    "Sri Lanka",
+                    "32",
+                    "40"
+                  ],
+                  [
+                    "Bangladesh",
+                    "18",
+                    "30"
+                  ],
+                  [
+                    "Bhutan",
+                    "8",
+                    "15"
+                  ],
+                  [
+                    "Nepal",
+                    "20",
+                    "35"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Management",
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "ZX Bank Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 74,
+                  "heading": "Key Management"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "CEO: Anjali Deshmukh",
+                    "depth": 0
+                  },
+                  {
+                    "text": "CFO: Rajiv Senanayake",
+                    "depth": 0
+                  },
+                  {
+                    "text": "CTO: Dipendra Khadka",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Regional Director (South Asia): Meera Liyanage",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Mobile App: ZX Bank Asia",
+            "level": 2,
+            "location": {
+              "line": 81,
+              "heading": "ZX Bank Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 83,
+                  "heading": "Mobile App: ZX Bank Asia"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Available on: Android, iOS",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Key Features:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Balance check & fund transfer",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bill payments & loan tracking",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Biometric login & QR scan pay",
+                    "depth": 1
+                  },
+                  {
+                    "text": "AI-based financial assistant: Zia",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "CSR & ESG Focus",
+            "level": 2,
+            "location": {
+              "line": 92,
+              "heading": "ZX Bank Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 94,
+                  "heading": "CSR & ESG Focus"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Green Finance Projects",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Partnering with Bhutan hydropower & Nepal solar ventures",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Financial Literacy Campaigns",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Grassroots programs in rural India & Bangladesh",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Women Empowerment Loans",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Micro-loans for women-led businesses across South Asia",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 103,
+                  "heading": "CSR & ESG Focus"
+                },
+                "text": "ZX Bank – Shaping tomorrow’s banking across South Asia 🌏"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

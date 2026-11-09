@@ -1,0 +1,359 @@
+{
+  "doc_id": "5528507ee9696c8430b6b092bc44bc67b6fa9177ef3162670f87ddebcef7f7f0",
+  "doc_key": [
+    "zx bank fixed deposits"
+  ],
+  "path": "ZX Bank/md/ZX Bank Fixed Deposits.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Fixed Deposits",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "text": "ZX Bank offers attractive and secure Fixed Deposit (FD) solutions tailored for individuals, businesses, and Non-Resident Indians (NRIs) across its operating countries. With ZX Bank's robust digital services and reliable branch presence, customers can enjoy seamless booking, management, and maturity payouts of fixed deposits."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Why Choose ZX Bank Fixed Deposits?",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Why Choose ZX Bank Fixed Deposits?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Competitive Interest Rates: Enjoy higher returns compared to regular savings accounts.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flexible Tenures: Tenure options ranging from 7 days to 10 years.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safe & Secure: Backed by ZX Bank’s sound financial position and regulatory compliance.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loan Against FD: Avail instant overdraft or loans up to 90% of your FD value.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Premature Withdrawal: Facility available (premature closure charges may apply).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Digital Opening: Open, renew, or close FDs instantly through ZX Bank Asia mobile app or NetBanking.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Features & Benefits",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "Features & Benefits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Minimum Deposit: ₹5,000 (India), LKR 10,000 (Sri Lanka), BDT 10,000 (Bangladesh), BTN 1,000 (Bhutan), NPR 1,500 (Nepal)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Interest Payout: Choose from monthly, quarterly, or on maturity payout options",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Special Schemes: Senior citizen extra interest, tax-saver FDs, recurring deposit variants",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Joint Deposits: Facility for joint holding and nomination",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Auto-renewal: Hassle-free renewal option available",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Available In",
+            "level": 2,
+            "location": {
+              "line": 28,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 30,
+                  "heading": "Available In"
+                },
+                "header": [
+                  "Country",
+                  "Currency",
+                  "Branch Booking",
+                  "Online/Digital Booking"
+                ],
+                "rows": [
+                  [
+                    "India",
+                    "INR",
+                    "✅",
+                    "✅"
+                  ],
+                  [
+                    "Sri Lanka",
+                    "LKR",
+                    "✅",
+                    "✅"
+                  ],
+                  [
+                    "Bangladesh",
+                    "BDT",
+                    "✅",
+                    "✅"
+                  ],
+                  [
+                    "Bhutan",
+                    "BTN",
+                    "✅",
+                    "✅"
+                  ],
+                  [
+                    "Nepal",
+                    "NPR",
+                    "✅",
+                    "✅"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply",
+            "level": 2,
+            "location": {
+              "line": 40,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 42,
+                  "heading": "How to Apply"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Via Mobile App:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Download the ZX Bank Asia app (Android/iOS)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Register/login and choose \"Fixed Deposit\"",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Select amount, tenure, and nominee",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Confirm with OTP/biometric authentication",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Via NetBanking:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Login to www.zxbank.asia",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Navigate to \"Deposits\" → \"Open Fixed Deposit\"",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Fill in required details and confirm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "At Branch:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visit your nearest ZX Bank branch with KYC documents",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Fill out the FD application form and deposit the amount",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Sample Interest Rates* (for illustrative purposes)",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 61,
+                  "heading": "Sample Interest Rates* (for illustrative purposes)"
+                },
+                "header": [
+                  "Tenure",
+                  "Regular Rate",
+                  "Senior Citizen Rate"
+                ],
+                "rows": [
+                  [
+                    "7 days - 45 days",
+                    "3.50%",
+                    "4.00%"
+                  ],
+                  [
+                    "46 days–180 days",
+                    "4.25%",
+                    "4.75%"
+                  ],
+                  [
+                    "181 days–1 year",
+                    "5.75%",
+                    "6.25%"
+                  ],
+                  [
+                    "1 year–3 years",
+                    "6.20%",
+                    "6.70%"
+                  ],
+                  [
+                    "3 years–5 years",
+                    "6.30%",
+                    "6.80%"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 69,
+                  "heading": "Sample Interest Rates* (for illustrative purposes)"
+                },
+                "text": "*Rates are subject to change. Please refer to ZX Bank Website (https://www.zxbank.asia) or branch for current rates in your region."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "ESG & CSR Initiatives",
+            "level": 2,
+            "location": {
+              "line": 73,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 75,
+                  "heading": "ESG & CSR Initiatives"
+                },
+                "text": "Part of your deposits fuel green finance projects such as Bhutanese hydropower and Nepalese solar ventures, ensuring your savings contribute to a sustainable future."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 79,
+              "heading": "ZX Bank Fixed Deposits"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 81,
+                  "heading": "Need Help?"
+                },
+                "text": "Connect with \"Zia,\" your 24x7 AI-based financial assistant on the ZX Bank Asia app, or visit any branch for customized FD solutions."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 85,
+                  "heading": "Need Help?"
+                },
+                "text": "Grow your savings safely with ZX Bank Fixed Deposits!"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 87,
+                  "heading": "Need Help?"
+                },
+                "text": "Open your FD now at www.zxbank.asia (https://www.zxbank.asia)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

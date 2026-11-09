@@ -1,0 +1,349 @@
+{
+  "doc_id": "7a7f1350853bedcf1e30fb154255b81582320004407fa3982acd1c4d04e4acfd",
+  "doc_key": [
+    "modify trip dates"
+  ],
+  "path": "CloudWay-24/md/Modify Trip Dates.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Modify Trip Dates with CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Modify Trip Dates with CloudWay 24"
+            },
+            "text": "CloudWay 24 understands that plans can change. If you need to modify your trip dates after booking your ticket, the process is simple and can be done conveniently through the CloudWay 24 website or mobile app."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Steps to Modify Your Trip Dates",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Modify Trip Dates with CloudWay 24"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Log In",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 11,
+                      "heading": "1. Log In"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visit CloudWay24.com (https://CloudWay24.com) or open the CloudWay 24 app.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Log in using your email or mobile number and password.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Access \"Manage My Flight\"",
+                "level": 3,
+                "location": {
+                  "line": 14,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 16,
+                      "heading": "2. Access \"Manage My Flight\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Navigate to the \"Manage My Flight\" section from the homepage or main menu.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Retrieve Your Booking",
+                "level": 3,
+                "location": {
+                  "line": 18,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 20,
+                      "heading": "3. Retrieve Your Booking"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Enter your booking reference number (PNR) and last name, or log in to view your bookings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Select the booking you wish to modify.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Select \"Modify Your Booking\"",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 25,
+                      "heading": "4. Select \"Modify Your Booking\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Click on the \"Modify Your Booking\" option.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Choose \"Change Trip Dates\" from the available modification options.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Choose New Dates",
+                "level": 3,
+                "location": {
+                  "line": 28,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "5. Choose New Dates"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Select your new preferred departure (and return, if applicable) dates.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Review available flights and seat options for your new travel dates.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Review Changes",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 35,
+                      "heading": "6. Review Changes"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Compare the current and new flight details.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Any fare differences or change fees, according to your ticket rules, will be displayed.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Confirm and Pay",
+                "level": 3,
+                "location": {
+                  "line": 38,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 40,
+                      "heading": "7. Confirm and Pay"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Agree to any additional charges if applicable (fare difference/change fee).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Choose your payment option (credit card, debit card, netbanking, or SkyPoints 24 points).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Complete the payment.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Receive Confirmation",
+                "level": 3,
+                "location": {
+                  "line": 44,
+                  "heading": "Steps to Modify Your Trip Dates"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "8. Receive Confirmation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "You will receive a confirmation email and/or SMS with your updated travel itinerary.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Notes & Policies",
+            "level": 2,
+            "location": {
+              "line": 50,
+              "heading": "Modify Trip Dates with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 52,
+                  "heading": "Notes & Policies"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Change Fees: Date changes may be subject to a change fee and/or fare difference depending on your fare type and class of travel.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Eligibility: Some ticket types may have restrictions on date changes or may not be changeable.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Assistance: For complex itineraries or group bookings, you may contact CloudWay 24 Customer Support.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 58,
+              "heading": "Modify Trip Dates with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 60,
+                  "heading": "Need Help?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Visit the Help Center on CloudWay24.com (https://CloudWay24.com)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Call Customer Support (contact info available on website)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Reach us through the in-app chat for real-time assistance",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 66,
+                  "heading": "Need Help?"
+                },
+                "text": "CloudWay 24 – Seamless Skies, Global Reach."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

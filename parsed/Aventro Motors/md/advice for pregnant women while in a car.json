@@ -1,0 +1,333 @@
+{
+  "doc_id": "a5e4b782e51f743817f03e952b9c9c1640d1cbc4b761bf06c7e75cdded5917e3",
+  "doc_key": [
+    "advice for pregnant women while in a car"
+  ],
+  "path": "Aventro Motors/md/Advice for Pregnant Women While in a Car.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Advice for Pregnant Women While in a Car",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "text": "Traveling by car is common during pregnancy, but it’s important to prioritize safety and comfort for both mother and baby. Here’s a quick guide with essential advice:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Always Wear Your Seat Belt Properly",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 8,
+                  "heading": "1. Always Wear Your Seat Belt Properly"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Three-Point Seat Belt: Use both lap and shoulder belts.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lap Belt: Position it under the belly, low on the hips, and across the upper thighs. It should never go across your stomach.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Shoulder Belt: Place it between the breasts and to the side of your belly.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Never Place Belt Behind Back or Under Arm: This reduces its effectiveness and can be dangerous.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Adjust Your Seat for Maximum Comfort and Safety",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 16,
+                  "heading": "2. Adjust Your Seat for Maximum Comfort and Safety"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Sit Upright: Maintain a good posture—back straight, shoulders relaxed.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Distance from Steering Wheel/Airbag: Adjust the seat so you’re as far from the dashboard/steering wheel as possible, but still able to drive comfortably.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tilt Steering Wheel Upwards: If possible, angle the steering wheel towards your chest, not your belly.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Take Frequent Breaks for Long Journeys",
+            "level": 2,
+            "location": {
+              "line": 22,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 23,
+                  "heading": "3. Take Frequent Breaks for Long Journeys"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Every 60-90 Minutes: Stop and get out to stretch legs and walk a little. This improves circulation and reduces risk of blood clots.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hydrate and Snack: Drink plenty of water and eat light snacks to avoid dehydration and low blood sugar.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Manage Nausea and Discomfort",
+            "level": 2,
+            "location": {
+              "line": 28,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 29,
+                  "heading": "4. Manage Nausea and Discomfort"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Travel During Cooler Hours: Early morning or evening can help avoid heat and traffic.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fresh Air: Crack a window or use air conditioning for ventilation.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Motion Sickness: Bring ginger candies, anti-nausea wristbands, or other remedies advised by your doctor.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Know When Not to Drive",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "5. Know When Not to Drive"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Heavy Contractions or Pain: Do not drive if you are experiencing labor signs, severe pain, or feeling unwell.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Medical Complications: If advised by your doctor to avoid travel (preterm labor risk, high blood pressure, etc.), strictly follow their guidance.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Emergency Preparedness",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 42,
+                  "heading": "6. Emergency Preparedness"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Phone Charged: Keep your phone fully charged and within reach.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Emergency Numbers: Have emergency contact and hospital numbers saved.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Medical Records: Carry a copy of your pregnancy-related medical records, especially for long trips.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Airbags",
+            "level": 2,
+            "location": {
+              "line": 48,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "7. Airbags"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Do Not Deactivate: Airbags are important for safety; keep them on.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Proper Positioning: Keep as much distance between you and the airbag as possible while still able to drive safely.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "8. Avoid Risky Driving Conditions",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 55,
+                  "heading": "8. Avoid Risky Driving Conditions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Heavy Traffic or Long Night Drives: Try to avoid driving under stressful or poorly lit conditions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Weather Hazards: Postpone travel in heavy rain, storms, or fog whenever possible.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "9. Get Immediate Medical Attention If:",
+            "level": 2,
+            "location": {
+              "line": 60,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "9. Get Immediate Medical Attention If:"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "You are in a car accident, no matter how minor.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "You notice any vaginal bleeding, contractions, loss of fluid, or abnormal pain after travel.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 66,
+                  "heading": "9. Get Immediate Medical Attention If:"
+                },
+                "text": "Stay Safe – Your comfort and your baby’s safety come first! If in doubt, consult your physician before traveling."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 70,
+                  "heading": "9. Get Immediate Medical Attention If:"
+                },
+                "text": "For any issues with your car’s safety features or to arrange custom seatbelt accessories, contact your local Aventro Motors Service Center."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

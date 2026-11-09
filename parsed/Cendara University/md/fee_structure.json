@@ -1,0 +1,487 @@
+{
+  "doc_id": "9b1b9fd0eb254da508dc85a677da0ed15e109f5bfe281671c7b71e51a730a54e",
+  "doc_key": [
+    "fee_structure"
+  ],
+  "path": "Cendara University/md/fee_structure.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Undergraduate and Graduate Fee Structure",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "text": "Cendara University is committed to providing a transparent overview of the expected costs associated with enrollment. The fee ranges outlined below are for the academic year 2024–2025 and apply to both domestic and international students. Actual charges may vary based on chosen program, housing selection, dining preference, and individual course loads."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Tuition",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "1. Tuition"
+                },
+                "text": "Tuition varies by degree level and academic program. The following ranges represent annual full-time enrollment (24–30 credits undergraduate, 18–24 credits graduate):"
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 11,
+                  "heading": "1. Tuition"
+                },
+                "header": [
+                  "Program/Degree",
+                  "Tuition Range (Per Year)"
+                ],
+                "rows": [
+                  [
+                    "Bachelor of Arts/Science/Engineering",
+                    "$24,000 – $29,000"
+                  ],
+                  [
+                    "Bachelor of Business Administration/Nursing",
+                    "$26,000 – $32,000"
+                  ],
+                  [
+                    "Bachelor of Education",
+                    "$23,500 – $26,500"
+                  ],
+                  [
+                    "Master of Arts/Science/Engineering",
+                    "$13,500 – $18,200"
+                  ],
+                  [
+                    "Master of Business Administration/Public Health",
+                    "$17,800 – $21,400"
+                  ],
+                  [
+                    "Doctor of Philosophy (Ph.D.)",
+                    "$16,500 – $23,000"
+                  ],
+                  [
+                    "Graduate Certificate Programs",
+                    "$9,800 – $12,500 (per certificate)"
+                  ]
+                ]
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 21,
+                  "heading": "1. Tuition"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Part-Time Tuition: Calculated per credit hour, typically $900 – $1,200/credit (undergraduate); $1,050 – $1,500/credit (graduate)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "International students: Add $2,000 – $5,000 annually for certain programs",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Mandatory Fees",
+            "level": 2,
+            "location": {
+              "line": 26,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 28,
+                  "heading": "2. Mandatory Fees"
+                },
+                "text": "All enrolled students are assessed general fees in addition to tuition."
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 30,
+                  "heading": "2. Mandatory Fees"
+                },
+                "header": [
+                  "Fee Category",
+                  "Annual Range",
+                  "Description"
+                ],
+                "rows": [
+                  [
+                    "Student Activities Fee",
+                    "$350 – $500",
+                    "Supports clubs, programming, and student government"
+                  ],
+                  [
+                    "Technology Fee",
+                    "$250 – $400",
+                    "Access to campus computing and online resources"
+                  ],
+                  [
+                    "Health Services Fee",
+                    "$175 – $350",
+                    "On-campus health clinic, mental health support"
+                  ],
+                  [
+                    "Library Fee",
+                    "$90 – $140",
+                    "Library resources and special collections"
+                  ],
+                  [
+                    "Registration Fee",
+                    "$70 – $120",
+                    "Course registration and records management"
+                  ],
+                  [
+                    "New Student Orientation",
+                    "$120 – $200",
+                    "One-time, for all first-time enrollees"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Room (Housing)",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 43,
+                  "heading": "3. Room (Housing)"
+                },
+                "text": "Cendara University offers several on-campus residence options. Costs vary by building, room type, and amenities."
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 45,
+                  "heading": "3. Room (Housing)"
+                },
+                "header": [
+                  "Housing Option",
+                  "Annual Range",
+                  "Notes"
+                ],
+                "rows": [
+                  [
+                    "Traditional Double",
+                    "$5,400 – $6,800",
+                    "Shared room, communal bathroom"
+                  ],
+                  [
+                    "Single (Private)",
+                    "$7,200 – $9,100",
+                    "Private room, shared facilities"
+                  ],
+                  [
+                    "Suite-Style (2–4 students)",
+                    "$8,600 – $10,400",
+                    "Shared suite, en-suite bathroom"
+                  ],
+                  [
+                    "Apartment (Upperclass/Grad only)",
+                    "$9,800 – $12,250",
+                    "Kitchen, living room, private BR"
+                  ]
+                ]
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 52,
+                  "heading": "3. Room (Housing)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Utilities and internet included in all campus housing",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Limited off-campus housing listings available ($450 – $950/month per person)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Board (Meal Plans)",
+            "level": 2,
+            "location": {
+              "line": 57,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 59,
+                  "heading": "4. Board (Meal Plans)"
+                },
+                "text": "Meal plans are required for first- and second-year residents."
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 61,
+                  "heading": "4. Board (Meal Plans)"
+                },
+                "header": [
+                  "Plan Type",
+                  "Annual Range",
+                  "Average Meals per Week"
+                ],
+                "rows": [
+                  [
+                    "Platinum",
+                    "$5,200 – $5,850",
+                    "Unlimited dining hall + retail credit"
+                  ],
+                  [
+                    "Gold",
+                    "$4,600 – $5,100",
+                    "14 meals/week + snack credits"
+                  ],
+                  [
+                    "Silver",
+                    "$3,800 – $4,350",
+                    "10 meals/week + à la carte access"
+                  ]
+                ]
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "4. Board (Meal Plans)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Graduate and apartment residents may opt out or select partial plans ($700 – $2,200/year)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Additional/Estimated Expenses",
+            "level": 2,
+            "location": {
+              "line": 71,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 73,
+                  "heading": "5. Additional/Estimated Expenses"
+                },
+                "text": "These costs are estimates and may vary by program or personal choices."
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 75,
+                  "heading": "5. Additional/Estimated Expenses"
+                },
+                "header": [
+                  "Expense Category",
+                  "Range (Annual)",
+                  "Description"
+                ],
+                "rows": [
+                  [
+                    "Books & Materials",
+                    "$950 – $1,400",
+                    "Varies by discipline and course load"
+                  ],
+                  [
+                    "Course/Lab Fees",
+                    "$120 – $650",
+                    "Charged for select courses (labs, art studios, etc.)"
+                  ],
+                  [
+                    "Transportation",
+                    "$650 – $1,200",
+                    "Local bus pass, occasional travel, parking if applicable"
+                  ],
+                  [
+                    "Personal/Miscellaneous",
+                    "$1,300 – $2,100",
+                    "Clothing, laundry, personal care, entertainment"
+                  ],
+                  [
+                    "Health Insurance",
+                    "$1,750 – $3,150",
+                    "Required for those without comparable coverage"
+                  ],
+                  [
+                    "Study Abroad Fees",
+                    "$1,800 – $6,900",
+                    "For approved global education program participants"
+                  ],
+                  [
+                    "Graduation Fee",
+                    "$90 – $200",
+                    "Assessed in final semester"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Summary Table: Sample Undergraduate Annual Budget",
+            "level": 2,
+            "location": {
+              "line": 87,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 89,
+                  "heading": "6. Summary Table: Sample Undergraduate Annual Budget"
+                },
+                "header": [
+                  "Category",
+                  "Estimated Range"
+                ],
+                "rows": [
+                  [
+                    "Tuition",
+                    "$24,000 – $32,000"
+                  ],
+                  [
+                    "Mandatory Fees",
+                    "$935 – $1,410"
+                  ],
+                  [
+                    "Room (Housing)",
+                    "$5,400 – $12,250"
+                  ],
+                  [
+                    "Board (Meal Plan)",
+                    "$3,800 – $5,850"
+                  ],
+                  [
+                    "Books & Supplies",
+                    "$950 – $1,400"
+                  ],
+                  [
+                    "Personal Expenses",
+                    "$1,300 – $2,100"
+                  ],
+                  [
+                    "Transportation",
+                    "$650 – $1,200"
+                  ],
+                  [
+                    "Health Insurance",
+                    "$1,750 – $3,150"
+                  ],
+                  [
+                    "Estimated Total",
+                    "$38,785 – $59,360"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Important Notes",
+            "level": 2,
+            "location": {
+              "line": 103,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 105,
+                  "heading": "7. Important Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Scholarships, grants, and financial aid are available; contact the Office of Financial Assistance for eligibility.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Some specialized programs (e.g., Nursing, Engineering, Study Abroad) may charge additional instructional or experiential fees.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All fees are subject to annual review and adjustment by the Board of Trustees.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Billing is conducted on a semester basis; flexible payment plans are available upon request.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Questions about campus fees should be addressed to bursar@cendara.edu.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 113,
+                  "heading": "7. Important Notes"
+                },
+                "text": "For complete policy details, including payment deadlines and refund schedules, please refer to the Cendara University Student Accounts Handbook (https://accounts.cendara.edu/handbook)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

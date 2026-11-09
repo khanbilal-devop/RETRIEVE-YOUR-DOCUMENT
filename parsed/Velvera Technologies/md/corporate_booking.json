@@ -1,0 +1,561 @@
+{
+  "doc_id": "bb4ef6ba1f03469b4f5706333639436b1a861d341b46b4cc09a43e8372ecfdf6",
+  "doc_key": [
+    "corporate_booking"
+  ],
+  "path": "Velvera Technologies/md/corporate_booking.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Corporate Booking Plan — Customizability Documentation",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Corporate Booking Plan — Customizability Documentation"
+            },
+            "text": "Velvera offers a flexible, enterprise-ready Corporate Booking Plan designed for organizations seeking tailored procurement, deployment, and management of Velvera products at scale. The plan emphasizes customizability, volume-based benefits, and dedicated support to align with diverse corporate needs."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Standard Plan Inclusions",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Corporate Booking Plan — Customizability Documentation"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Standard Plan Inclusions"
+                },
+                "header": [
+                  "Feature",
+                  "Description"
+                ],
+                "rows": [
+                  [
+                    "Bulk Device Booking",
+                    "Order smartphones, tablets, wearables, and accessories in customizable bundles"
+                  ],
+                  [
+                    "Dedicated Account Manager",
+                    "Single point-of-contact for all business queries and escalation"
+                  ],
+                  [
+                    "Custom Device Configuration",
+                    "Pre-load corporate apps, Wi-Fi credentials, device policies, and asset tags before dispatch"
+                  ],
+                  [
+                    "Flexible Delivery Scheduling",
+                    "Staggered or consolidated shipments according to business milestones or regional rollouts"
+                  ],
+                  [
+                    "Priority Support & SLAs",
+                    "Priority resolution timelines, 24/7 remote tech support, and site visit scheduling on request"
+                  ],
+                  [
+                    "Device Lifecycle Management",
+                    "Advance-replacement service, warranty & accidental damage upgrade options"
+                  ],
+                  [
+                    "Enterprise Dashboard Access",
+                    "Real-time tracking of order progress, device inventory, and service tickets"
+                  ],
+                  [
+                    "Flexible Payment Options",
+                    "Credit terms up to 60 days, staged payments, and consolidated invoicing"
+                  ],
+                  [
+                    "E-waste & Upgrade Programs",
+                    "Reverse logistics for retired devices, discounted upgrade paths for existing fleet"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Customizability Options",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "Corporate Booking Plan — Customizability Documentation"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Product Selection Flexibility",
+                "level": 3,
+                "location": {
+                  "line": 25,
+                  "heading": "Customizability Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 27,
+                      "heading": "1. Product Selection Flexibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Mix and match any combination of smartphones, tablets, watches, and accessories.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Support for model-specific or color-specific bookings (e.g., 75 × Velvera One Ultra 1TB in Titanium Gray, 120 × Edge Pro 256GB in Sage Green).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Option to include ecosystem bundles—e.g., pairing Velvera Pad Pro units with Pencil/Keyboard add-ons.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 31,
+                      "heading": "1. Product Selection Flexibility"
+                    },
+                    "text": "Example:\nA corporate customer books 350 devices:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 33,
+                      "heading": "1. Product Selection Flexibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "200 × Velvera One Pro 256GB (Deep Ocean Blue)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "90 × Velvera Pad Pro 12.9\" 256GB (with Velvera Keyboard & Pencil)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "60 × Velvera Watch Deluxe 46mm (Silver)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Custom Firmware & Profile Installation",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "Customizability Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 39,
+                      "heading": "2. Custom Firmware & Profile Installation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Devices can be pre-loaded with:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Enterprise software (EMM/MDM clients; corporate VPN apps)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Security settings (password/encryption policies, restricted app stores)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Company branding (custom wallpapers, app icons, ringtones)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Option for zero-touch enrollment compatible with leading MDM providers.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Asset Tagging & Packaging",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Customizability Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 47,
+                      "heading": "3. Asset Tagging & Packaging"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Asset ID labels (barcode or RFID) applied at factory as per company schema.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Customized packaging with company logo or department-based labeling.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Option for single-location or drop-shipment to branch offices.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Staged Rollout & Replacement",
+                "level": 3,
+                "location": {
+                  "line": 51,
+                  "heading": "Customizability Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 53,
+                      "heading": "4. Staged Rollout & Replacement"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Advance delivery phasing: e.g., 150 devices in Q1, 200 in Q2, per regional expansion plans.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "On-site replacement logistics planning for high-priority roles (executive or field staff).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Support Level Customization",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "Customizability Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 58,
+                      "heading": "5. Support Level Customization"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "SLA upgrades (6hr or next-business-day replacement)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dedicated tele-support lines for IT administrators.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Optional training workshops (virtual or on-site) for device onboarding.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Invoice & Documentation Customization",
+                "level": 3,
+                "location": {
+                  "line": 62,
+                  "heading": "Customizability Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 64,
+                      "heading": "6. Invoice & Documentation Customization"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Single consolidated invoices per project, department, or shipment",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Custom PO/requisition number mapping to corporate systems",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Delivery challan with device serial and asset ID lists",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Booking Process — Stepwise Overview",
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "Corporate Booking Plan — Customizability Documentation"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 72,
+                  "heading": "Booking Process — Stepwise Overview"
+                },
+                "header": [
+                  "Step",
+                  "Process Details"
+                ],
+                "rows": [
+                  [
+                    "1. Requirement Gathering",
+                    "Account Manager conducts needs analysis (device types, color, configuration, quantities, rollout schedule)"
+                  ],
+                  [
+                    "2. Proposal & Quotation",
+                    "Tailored quote including all selected models, accessories, configuration, and delivery terms"
+                  ],
+                  [
+                    "3. Booking Confirmation",
+                    "Commercial agreement signed; advance payment or PO submitted as per agreement"
+                  ],
+                  [
+                    "4. Customization & Preparation",
+                    "Devices configured as per specifications; asset tagging and packaging prepared"
+                  ],
+                  [
+                    "5. Dispatch & Tracking",
+                    "Devices shipped per agreed schedule; tracking details shared via dashboard"
+                  ],
+                  [
+                    "6. Delivery & Handover",
+                    "Delivery with handover documentation, asset register, and support contact sheet"
+                  ],
+                  [
+                    "7. Post-Delivery Support",
+                    "24/7 support, training (if elected), lifecycle management, and reporting"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Illustrative Booking Scenarios",
+            "level": 2,
+            "location": {
+              "line": 84,
+              "heading": "Corporate Booking Plan — Customizability Documentation"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 86,
+                  "heading": "Illustrative Booking Scenarios"
+                },
+                "text": "Scenario 1: Financial Services Firm, Pan-India Deployment"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 87,
+                  "heading": "Illustrative Booking Scenarios"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "500 × Velvera Nexus 1 Pro 512GB (company logo on boot screen, pre-loaded with secured banking apps)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "250 × Velvera Watch Standard 42mm (battery-optimized firmware)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Delivery to 25 regional offices, with asset tagging mapped to branch codes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Invoice split by region with GST compliance",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 92,
+                  "heading": "Illustrative Booking Scenarios"
+                },
+                "text": "Scenario 2: Creative Agency, BYOD Transition"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 93,
+                  "heading": "Illustrative Booking Scenarios"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "150 × Velvera Edge Pro 512GB (custom wallpapers, pre-installed design apps)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "60 × Velvera Pad 11\" 256GB, bundled with Velvera Pencil",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Phased rollout: 80% in April, 20% in June with additional introductory training session",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lifetime accidental damage coverage add-on selected",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 98,
+                  "heading": "Illustrative Booking Scenarios"
+                },
+                "text": "Scenario 3: Manufacturing Enterprise, Field Operations Kit"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 99,
+                  "heading": "Illustrative Booking Scenarios"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "300 × Velvera Core Max 256GB (Rugged Case + Screen Protector included in package)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "120 × Velvera Watch Premium 49mm (Ocean Blue)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Barcode asset tagging compatible with enterprise inventory",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Shipment consolidated to central warehouse, with express support SLA",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact & Next Steps",
+            "level": 2,
+            "location": {
+              "line": 106,
+              "heading": "Corporate Booking Plan — Customizability Documentation"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 108,
+                  "heading": "Contact & Next Steps"
+                },
+                "text": "To initiate a corporate booking or request a demonstration:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 109,
+                  "heading": "Contact & Next Steps"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Corporate Sales Desk: corpbusiness@velvera.com",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Phone (Business Support): +91-22-4800-7541",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dedicated Account Manager Assignment within 48 hours of inquiry receipt",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 113,
+                  "heading": "Contact & Next Steps"
+                },
+                "text": "For full schedule of plan benefits and options, log in to the Velvera Enterprise Portal (https://enterprise.velvera.com)."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 117,
+                  "heading": "Contact & Next Steps"
+                },
+                "text": "Velvera Corporate Booking Plan — Scalable, Secure, Personalized."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

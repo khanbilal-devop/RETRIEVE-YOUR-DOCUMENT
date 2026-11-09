@@ -1,0 +1,398 @@
+{
+  "doc_id": "12deb466308282af3c80919a6563ea5b7a7094e9f9c3b309959bf23f532be7ce",
+  "doc_key": [
+    "aventro glory suv"
+  ],
+  "path": "Aventro Motors/md/Aventro Glory SUV.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "text": "Head Office:\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Model Focus: Aventro Glory SUV",
+            "level": 2,
+            "location": {
+              "line": 10,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Overview",
+                "level": 3,
+                "location": {
+                  "line": 12,
+                  "heading": "Model Focus: Aventro Glory SUV"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 14,
+                      "heading": "Overview"
+                    },
+                    "text": "The Aventro Glory is Aventro’s flagship SUV designed to deliver outstanding comfort, performance, and cutting-edge technology. Blending power, style, and the latest automotive innovations, the Glory caters to all types of drivers—from families to adventure enthusiasts."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Key Specifications",
+                "level": 3,
+                "location": {
+                  "line": 18,
+                  "heading": "Model Focus: Aventro Glory SUV"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 20,
+                      "heading": "Key Specifications"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating Capacity: 5",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Transmission Options: 6-speed manual / 7-speed automatic (variant specific)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Boot Space: 505 litres",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Infotainment: Up to 11-inch advanced touchscreen system",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS: Level 1 & 2 (consult variants)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Safety: 6 airbags, ABS with EBD, ESC, 360-degree camera (ZX)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Tyre Size: 17-inch & 18-inch alloy wheels (variant specific)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Upholstery: Premium fabric & leather (ZX)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio: Standard/Advanced Harman Kardon system (ZX)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Notable Features: Sunroof, Automatic Climate Control, Keyless Entry, Wireless Charging",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Variants & Prices",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 35,
+                  "heading": "Variants & Prices"
+                },
+                "header": [
+                  "Variant",
+                  "Fuel Type",
+                  "Trim",
+                  "Price (Lakh)",
+                  "Notable Features"
+                ],
+                "rows": [
+                  [
+                    "Glory Petrol",
+                    "Petrol",
+                    "Base",
+                    "13.5",
+                    "Basic infotainment, standard safety features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "14.0",
+                    "11-inch Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "14.5",
+                    "360 Camera, 11-inch Infotainment with Harman System, ADAS Level 2, Leather Seats"
+                  ],
+                  [
+                    "Glory Diesel",
+                    "Diesel",
+                    "Base",
+                    "19.0",
+                    "Basic infotainment, standard safety features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "19.5",
+                    "11-inch Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "20.0",
+                    "360 Camera, 11-inch Infotainment with Harman System, ADAS Level 2, Leather Seats"
+                  ],
+                  [
+                    "Glory Electric",
+                    "Electric",
+                    "Base",
+                    "20.5",
+                    "Basic infotainment, standard safety features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "21.0",
+                    "11-inch Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "21.5",
+                    "360 Camera, 11-inch Infotainment with Harman System, ADAS Level 2, Leather Seats"
+                  ],
+                  [
+                    "Glory Hybrid",
+                    "Hybrid",
+                    "Base",
+                    "17.0",
+                    "Basic infotainment, standard safety features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "17.5",
+                    "11-inch Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "18.0",
+                    "360 Camera, 11-inch Infotainment with Harman System, ADAS Level 2, Leather Seats"
+                  ]
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Highlighted Features By Variant",
+                "level": 3,
+                "location": {
+                  "line": 52,
+                  "heading": "Variants & Prices"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 54,
+                      "heading": "Highlighted Features By Variant"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "X Model Highlights:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch Advanced Touchscreen Infotainment System",
+                        "depth": 1
+                      },
+                      {
+                        "text": "ADAS Level 1 (Adaptive Cruise, Lane Assist, Auto Emergency Braking)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enhanced Connectivity (Android Auto/Apple CarPlay)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Rear Camera & Parking Sensors",
+                        "depth": 1
+                      },
+                      {
+                        "text": "ZX Model Highlights:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "All X features plus:",
+                        "depth": 1
+                      },
+                      {
+                        "text": "360-Degree Camera",
+                        "depth": 1
+                      },
+                      {
+                        "text": "11-inch Infotainment System with Premium Harman Audio",
+                        "depth": 1
+                      },
+                      {
+                        "text": "ADAS Level 2 (Includes additional features like Traffic Jam Assist, Lane Centering, Advanced Collision Avoidance)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Premium Leather Seats",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ventilated Front Seats",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Powered Driver’s Seat",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Notable Safety Features (All Variants)",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Variants & Prices"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 73,
+                      "heading": "Notable Safety Features (All Variants)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "6 Airbags",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ABS with EBD",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Electronic Stability Control (ESC)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Traction Control",
+                        "depth": 0
+                      },
+                      {
+                        "text": "TPMS (Tyre Pressure Monitoring Sys.)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Hill Hold & Descent Control (On selected trims)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ISOFIX Child Seat Anchors",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Contact & Test Drive",
+            "level": 2,
+            "location": {
+              "line": 83,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 85,
+                  "heading": "Contact & Test Drive"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Visit Aventro Motors Website (mailto:info@aventromotors.com) or call us at +91 124 1234567 to book a test drive.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Find your nearest service center for more info on sales and aftersales – locations across all major Indian cities.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 90,
+                  "heading": "Contact & Test Drive"
+                },
+                "text": "Explore the legacy of trust and innovation—Experience the Aventro Glory Today!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

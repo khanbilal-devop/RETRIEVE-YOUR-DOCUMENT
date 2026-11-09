@@ -1,0 +1,612 @@
+{
+  "doc_id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5",
+  "doc_key": [
+    "instrument cluster warning alerts"
+  ],
+  "path": "Aventro Motors/md/Instrument Cluster Warning Alerts.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Instrument Cluster Warning Alerts",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "text": "The instrument cluster in Aventro Motors vehicles is designed to inform the driver about the status of various vehicle systems. Each symbol or indicator light provides information on system performance, potential malfunctions, or urgent warnings requiring immediate action."
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 5,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "text": "Below is a list of common warning alerts you may see in Aventro Motors cars, along with their meanings:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Engine Warning Light (Check Engine)",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 10,
+                  "heading": "1. Engine Warning Light (Check Engine)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Indicates a problem with the engine or emissions control system. Immediate diagnosis is recommended.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Battery Warning Light",
+            "level": 2,
+            "location": {
+              "line": 12,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 13,
+                  "heading": "2. Battery Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: The battery is not charging properly. This could signal alternator failure, battery issues, or wiring problems.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Oil Pressure Warning Light",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 16,
+                  "heading": "3. Oil Pressure Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Low oil pressure detected. Stop the engine and check oil levels to avoid engine damage.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Brake System Warning Light",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 19,
+                  "heading": "4. Brake System Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Possible issues with the brake system such as low fluid, worn brake pads, or handbrake engaged.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. ABS Warning Light",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 22,
+                  "heading": "5. ABS Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Indicates a malfunction in the Anti-lock Braking System. Normal brakes may function, but ABS will not.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Airbag Warning Light",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "6. Airbag Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: There may be a problem with the airbag system; airbags may not deploy in a collision.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Coolant Temperature Warning Light",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 28,
+                  "heading": "7. Coolant Temperature Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Engine is overheating. Stop the vehicle in a safe place and check coolant levels.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "8. Transmission Warning Light",
+            "level": 2,
+            "location": {
+              "line": 30,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 31,
+                  "heading": "8. Transmission Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Transmission malfunction, possible overheating or system fault. Immediate attention required.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "9. Tire Pressure Monitoring System (TPMS) Light",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "9. Tire Pressure Monitoring System (TPMS) Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: One or more tires have low pressure or there’s a sensor malfunction.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "10. Traction Control Warning Light",
+            "level": 2,
+            "location": {
+              "line": 36,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "10. Traction Control Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Indicates that the traction control system is currently in use or there is a system fault.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "11. ESP/BAS Warning Light",
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 40,
+                  "heading": "11. ESP/BAS Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Symbol: ESP/BAS",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Meaning: Problem with Electronic Stability Program/Brake Assist System.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "12. Power Steering Warning Light",
+            "level": 2,
+            "location": {
+              "line": 43,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 44,
+                  "heading": "12. Power Steering Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Malfunction in the power steering system; steering may feel heavy.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "13. Fuel Level Warning Light",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 47,
+                  "heading": "13. Fuel Level Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Low fuel level; refuel soon.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "14. Glow Plug Warning Light (Diesel)",
+            "level": 2,
+            "location": {
+              "line": 49,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 50,
+                  "heading": "14. Glow Plug Warning Light (Diesel)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Indicates pre-heating of diesel engine or a fault in the glow plug system.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "15. Hybrid/Electric System Warning Light",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "15. Hybrid/Electric System Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Symbol: Hybrid/EV Symbol",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Meaning: Malfunction in the hybrid or electric powertrain. Service required.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "16. Service Reminder Light",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 57,
+                  "heading": "16. Service Reminder Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Symbol: Spanner/Wrench symbol",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Meaning: Indicates that regular maintenance is due.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "17. Seatbelt Reminder Light",
+            "level": 2,
+            "location": {
+              "line": 60,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "17. Seatbelt Reminder Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Driver or passenger (depending on sensor) seatbelt is not fastened.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "18. Door Ajar Warning Light",
+            "level": 2,
+            "location": {
+              "line": 63,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 64,
+                  "heading": "18. Door Ajar Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Symbol: Car with Doors Open",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Meaning: One or more doors are not fully closed.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "19. Washer Fluid Warning Light",
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 68,
+                  "heading": "19. Washer Fluid Warning Light"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: Windshield washer fluid is low.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "20. High Beam Indicator",
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 71,
+                  "heading": "20. High Beam Indicator"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meaning: High beam headlights are turned on. (This is informational, not a warning.)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Notes",
+            "level": 2,
+            "location": {
+              "line": 75,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 76,
+                  "heading": "Important Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "If any red warning light appears, stop the vehicle in a safe location as soon as possible and consult your Aventro Motors dealer or the owner's manual.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Yellow/amber lights indicate caution; check the system soon.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For hybrid/electric models, specific alerts will provide system details regarding battery, charging, and electric drive functions.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "For Assistance",
+            "level": 2,
+            "location": {
+              "line": 80,
+              "heading": "Instrument Cluster Warning Alerts"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 81,
+                  "heading": "For Assistance"
+                },
+                "text": "Contact your nearest Aventro Service Center or call Aventro Support at +91 124 1234567."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

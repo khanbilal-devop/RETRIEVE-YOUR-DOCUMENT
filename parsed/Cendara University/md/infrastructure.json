@@ -1,0 +1,895 @@
+{
+  "doc_id": "f4bfbaa57ae28fb1197fab20f8910c3190a864b01e35e424ebfaa60aa9cde528",
+  "doc_key": [
+    "infrastructure"
+  ],
+  "path": "Cendara University/md/infrastructure.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Infrastructure Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "1. Libraries",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Infrastructure Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "a. Sterling Academic Library",
+                "level": 3,
+                "location": {
+                  "line": 5,
+                  "heading": "1. Libraries"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 7,
+                      "heading": "a. Sterling Academic Library"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: Main Quad, Central Campus",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Established: 1964",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Total Seating Capacity: 640",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Collection Size:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Books: 242,000",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Journals: 7,500 (physical), 12,400 (digital)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Archives: Cendara Historical Manuscript Collection, dating back to the founding of the region",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Key Facilities:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "24/7 Reading Room",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Digital Media Lab",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Special Collections Room",
+                        "depth": 1
+                      },
+                      {
+                        "text": "12 Private Study Pods (reservable online)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Assistive Technology Suites",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Services:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Interlibrary Loan Program",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Information Literacy Workshops (weekly)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Research Consultation Appointments",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Device Lending (laptops, tablets, e-readers)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Contact: library@cendara.edu | 318-555-0194",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "b. Law & Social Science Library",
+                "level": 3,
+                "location": {
+                  "line": 29,
+                  "heading": "1. Libraries"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "b. Law & Social Science Library"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: East Hall, Law & Social Science Complex",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Collection Highlights:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Legal texts, case law databases",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Social policy archives",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Government records",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Facilities:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Moot Court Practice Room",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Quiet Study Zones",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Group Collaboration Spaces",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Featured Services:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Citation Clinics (semesterly)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Legal Research Support Desk",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Hours:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Mon-Fri: 8am–9pm",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Sat: 10am–6pm",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Sun: 12pm–8pm",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "c. Science & Engineering Resource Center",
+                "level": 3,
+                "location": {
+                  "line": 50,
+                  "heading": "1. Libraries"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 52,
+                      "heading": "c. Science & Engineering Resource Center"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: Innovation Drive, North Campus",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Resources:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Technical manuals",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Research journals (STEM)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "3D printing guides",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Facility Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Computer Modeling Lab",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Patent and Standards Archive",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Project Meeting Rooms (8 total)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Special Initiatives:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "MakerSpace access for registered students",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Weekly Tech Demo Series",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Contact: sciencelibrary@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "2. Sports Facilities",
+            "level": 2,
+            "location": {
+              "line": 68,
+              "heading": "Cendara University Infrastructure Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "a. Hawkcrest Athletic Complex",
+                "level": 3,
+                "location": {
+                  "line": 70,
+                  "heading": "2. Sports Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 72,
+                      "heading": "a. Hawkcrest Athletic Complex"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: West Field, adjacent to Residence Halls",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Multi-sport stadium (capacity: 3,600)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "8-lane outdoor running track",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Two FIBA-regulation basketball courts",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Four all-weather tennis courts",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Eight-lane bowling green",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Field house with locker rooms and team meeting areas",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Home Teams:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cendara Hawks (Men's & Women's Soccer)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Cendara Track Club",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Programs Offered:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Intercollegiate and Intramural Leagues (Soccer, Tennis, Basketball)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Staff & Faculty Sports Evenings (monthly)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Youth Sports Camps (summer)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Operating Hours: 6am–10pm daily",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "b. Marlow Aquatic Center",
+                "level": 3,
+                "location": {
+                  "line": 91,
+                  "heading": "2. Sports Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 93,
+                      "heading": "b. Marlow Aquatic Center"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: South Campus, beside Wellness Pavilion",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Facilities:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Olympic-size swimming pool (50m)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Diving pool (max depth: 5m)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "100-seat spectator gallery",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Hydrotherapy tanks",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Associated Clubs:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "University Swim Team",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Recreational Swimming Club",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Lifeguard Training Program",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Special Events:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Annual Intercollegiate Swim Meet (March)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Synchronized Swimming Gala (November)",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "c. Indoor Sports Arena",
+                "level": 3,
+                "location": {
+                  "line": 109,
+                  "heading": "2. Sports Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 111,
+                      "heading": "c. Indoor Sports Arena"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: Sports & Recreation Plaza",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Multi-purpose gymnasium (basketball, volleyball, badminton)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Table tennis zone",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Fitness bootcamp area",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Indoor climbing wall (10m)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "User Access:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Free for students & staff",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Guest passes available for families",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Additional:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Equipment rental counter (racquets, balls, safety gear)",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "3. Wellness Centers",
+            "level": 2,
+            "location": {
+              "line": 125,
+              "heading": "Cendara University Infrastructure Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "a. Horizon Wellness Pavilion",
+                "level": 3,
+                "location": {
+                  "line": 127,
+                  "heading": "3. Wellness Centers"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 129,
+                      "heading": "a. Horizon Wellness Pavilion"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: Lotus Lane, Central Campus",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Total Area: 3,800 sq. meters",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Core Offerings:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fitness Gym (cardio, resistance, free weights)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Yoga & Pilates Studios",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Meditation Sanctuary",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Nutrition and Counseling Services (licensed staff)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Individual and Group Therapy Rooms",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Signature Programs:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Mindful Mornings” guided meditation series (every Tuesday/Thursday)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Annual Wellness Week (February): health screenings, workshops, fitness challenges",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Campus Run for Mental Health (April)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Wellness Cafe:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Healthy snacks, smoothies, vegan-friendly options",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Registered Dietician Consultations: Tuesday & Friday afternoons",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "b. Student Health Center",
+                "level": 3,
+                "location": {
+                  "line": 147,
+                  "heading": "3. Wellness Centers"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 149,
+                      "heading": "b. Student Health Center"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: Aspen Building, adjacent to Student Union",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Core Services:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Primary health care (walk-in and appointments)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Immunizations and travel clinics",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Emergency first aid",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Prescription delivery services",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Mental health triage and referral",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Special Campaigns:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Flu Shot Fair (October)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Sexual Health Awareness Month (March)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Confidential Counseling:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Drop-in sessions daily 11am–4pm",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Contact: healthcenter@cendara.edu | 318-555-0287",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "4. Additional Campus Facilities",
+            "level": 2,
+            "location": {
+              "line": 165,
+              "heading": "Cendara University Infrastructure Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "a. Outdoor Recreation Grounds",
+                "level": 3,
+                "location": {
+                  "line": 167,
+                  "heading": "4. Additional Campus Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 169,
+                      "heading": "a. Outdoor Recreation Grounds"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: Ridgeway Meadows",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Amenities:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cricket and softball fields",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Practice golf driving nets",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Outdoor cycling track (2.3 km loop)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Amphitheater for sports award ceremonies",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "b. Student Recreation Center",
+                "level": 3,
+                "location": {
+                  "line": 178,
+                  "heading": "4. Additional Campus Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 180,
+                      "heading": "b. Student Recreation Center"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: University Commons",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Included:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dance studios",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Martial arts dojo",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Game lounge (billiards, table football, e-sports bays)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Recreation staff for guided activities",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "c. Wellness & Accessibility Garden",
+                "level": 3,
+                "location": {
+                  "line": 189,
+                  "heading": "4. Additional Campus Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 191,
+                      "heading": "c. Wellness & Accessibility Garden"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: Near Sterling Academic Library",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Highlights:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sensory garden with wheelchair-accessible paths",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Quiet reflection benches",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Student-designed mindfulness labyrinth",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Regular guided walking groups during spring and autumn",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "5. Infrastructure Maintenance and Access",
+            "level": 2,
+            "location": {
+              "line": 200,
+              "heading": "Cendara University Infrastructure Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 202,
+                  "heading": "5. Infrastructure Maintenance and Access"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Maintenance Headquarters:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Facilities Office, Carlow Street",
+                    "depth": 1
+                  },
+                  {
+                    "text": "24/7 emergency maintenance response line: 318-555-0452",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Accessibility:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All major facilities are ADA-compliant",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mobility van service for students with physical impairments",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maps and virtual tours available at: www.cendara.edu/infrastructure",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 212,
+                  "heading": "5. Infrastructure Maintenance and Access"
+                },
+                "text": "For detailed facility booking, visit the Campus Services Portal or contact infraoffice@cendara.edu."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

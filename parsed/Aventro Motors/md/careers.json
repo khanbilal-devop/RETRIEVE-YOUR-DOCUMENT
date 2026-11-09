@@ -1,0 +1,529 @@
+{
+  "doc_id": "6cbaa35e15f1624e0f5f7d2ee8559a2c9ed5c5c9c5cf0adf6bfe2378102d8fb0",
+  "doc_key": [
+    "careers"
+  ],
+  "path": "Aventro Motors/md/Careers.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Careers at Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Careers at Aventro Motors Pvt. Ltd."
+            },
+            "text": "Welcome to Aventro Motors Pvt. Ltd., a pioneer in the Indian automotive industry! We’re committed to innovation, quality, and driving the future of mobility. Join our passionate team and take the next step in your career."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Why Work With Us?",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Careers at Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 7,
+                  "heading": "Why Work With Us?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Work with cutting-edge automotive technologies (Petrol, Diesel, Electric, Hybrid)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Be part of a vibrant and diverse team",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Opportunities for professional growth and training",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Competitive compensation and benefits",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pan-India presence with offices and service centers across the country",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Current Job Openings",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Careers at Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Sales Executive",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "Current Job Openings"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 18,
+                      "heading": "1. Sales Executive"
+                    },
+                    "text": "Location: Aventro Tower, Sector 18, Gurgaon, Haryana\nDepartment: Sales & Marketing\nJob Type: Full-time"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 22,
+                      "heading": "1. Sales Executive"
+                    },
+                    "text": "Key Responsibilities:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 23,
+                      "heading": "1. Sales Executive"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Generate and manage leads for new car sales",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Explain features and advantages of Aventro models (Petrol, Diesel, Electric, Hybrid)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Build and maintain customer relationships",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Achieve monthly and quarterly sales targets",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 28,
+                      "heading": "1. Sales Executive"
+                    },
+                    "text": "Qualifications:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 29,
+                      "heading": "1. Sales Executive"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Graduate (any discipline)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "1-2 years automotive sales experience preferred",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Excellent communication and presentation skills",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Service Technician (Electric Vehicles)",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "Current Job Openings"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 36,
+                      "heading": "2. Service Technician (Electric Vehicles)"
+                    },
+                    "text": "Location: Okhla Industrial Area, New Delhi / Electronic City, Bengaluru\nDepartment: After Sales Service\nJob Type: Full-time"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 40,
+                      "heading": "2. Service Technician (Electric Vehicles)"
+                    },
+                    "text": "Key Responsibilities:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "2. Service Technician (Electric Vehicles)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Diagnose and repair electric vehicle systems (battery, motor, electronics)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Perform regular maintenance and system checks",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Coordinate with technical teams for problem resolution",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 45,
+                      "heading": "2. Service Technician (Electric Vehicles)"
+                    },
+                    "text": "Qualifications:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "2. Service Technician (Electric Vehicles)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "ITI/Diploma in Automobile/Electrical/Mechanical Engineering",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Experience in servicing electric/hybrid vehicles preferred",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Strong technical troubleshooting skills",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Quality Assurance Engineer",
+                "level": 3,
+                "location": {
+                  "line": 52,
+                  "heading": "Current Job Openings"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 53,
+                      "heading": "3. Quality Assurance Engineer"
+                    },
+                    "text": "Location: Aventro Tower, Sector 18, Gurgaon, Haryana\nDepartment: Production & R&D\nJob Type: Full-time"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 57,
+                      "heading": "3. Quality Assurance Engineer"
+                    },
+                    "text": "Key Responsibilities:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 58,
+                      "heading": "3. Quality Assurance Engineer"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Conduct quality checks on car assemblies and component parts",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Liaise with suppliers for part quality (e.g., Engine, Battery Pack, Brake Pads)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prepare QA reports and suggest corrective actions",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 62,
+                      "heading": "3. Quality Assurance Engineer"
+                    },
+                    "text": "Qualifications:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 63,
+                      "heading": "3. Quality Assurance Engineer"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "B.E/B.Tech in Automobile/Mechanical Engineering",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Knowledge of quality systems/standards in automotive industry",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Customer Support Associate",
+                "level": 3,
+                "location": {
+                  "line": 68,
+                  "heading": "Current Job Openings"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 69,
+                      "heading": "4. Customer Support Associate"
+                    },
+                    "text": "Location: Gurugram, Haryana / Work from Home\nDepartment: Customer Care\nJob Type: Full-time/Contract"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 73,
+                      "heading": "4. Customer Support Associate"
+                    },
+                    "text": "Key Responsibilities:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 74,
+                      "heading": "4. Customer Support Associate"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Handle customer inquiries about car models, servicing, and locations",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Provide assistance for insurance claims, roadside support, and maintenance booking",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 77,
+                      "heading": "4. Customer Support Associate"
+                    },
+                    "text": "Qualifications:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 78,
+                      "heading": "4. Customer Support Associate"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Graduate in any stream",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Experience in customer service roles preferred",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Good command of English and Hindi",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Parts Manager",
+                "level": 3,
+                "location": {
+                  "line": 84,
+                  "heading": "Current Job Openings"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 85,
+                      "heading": "5. Parts Manager"
+                    },
+                    "text": "Location: Andheri East, Mumbai / Vastrapur, Ahmedabad\nDepartment: Spare Parts Management\nJob Type: Full-time"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 89,
+                      "heading": "5. Parts Manager"
+                    },
+                    "text": "Key Responsibilities:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 90,
+                      "heading": "5. Parts Manager"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Oversee inventory of automotive parts (Engine Assembly to Custom Accessories)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Manage supplier relationships and logistics",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Coordinate with Service Centers for part requests and fulfillment",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 94,
+                      "heading": "5. Parts Manager"
+                    },
+                    "text": "Qualifications:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 95,
+                      "heading": "5. Parts Manager"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Graduate/Diploma in related field",
+                        "depth": 0
+                      },
+                      {
+                        "text": "2+ years’ experience in automotive parts or inventory management",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "How to Apply?",
+            "level": 2,
+            "location": {
+              "line": 100,
+              "heading": "Careers at Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 102,
+                  "heading": "How to Apply?"
+                },
+                "text": "Send your updated resume and cover letter to:\nEmail: careers@aventromotors.com (mailto:careers@aventromotors.com)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 105,
+                  "heading": "How to Apply?"
+                },
+                "text": "Please mention the position and location applied for in the subject line."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Internship Opportunities",
+            "level": 2,
+            "location": {
+              "line": 109,
+              "heading": "Careers at Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 111,
+                  "heading": "Internship Opportunities"
+                },
+                "text": "Are you a student or recent graduate? Write to us with your interest and we will find matching opportunities for internships in Sales, Service, R&D, and Marketing."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 115,
+                  "heading": "Internship Opportunities"
+                },
+                "text": "Explore your potential. Shape the future of mobility. Join Aventro Motors!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "doc_id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778",
+  "doc_key": [
+    "netbanking guide"
+  ],
+  "path": "ZX Bank/md/NetBanking Guide.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank – NetBanking Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "What is NetBanking?",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank – NetBanking Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "What is NetBanking?"
+                },
+                "text": "ZX Bank NetBanking is a secure online banking platform for individuals and businesses to manage accounts, perform transactions, pay bills, and access banking services anytime, anywhere."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Features",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "ZX Bank – NetBanking Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Account balance & statement viewing",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fund transfers (within ZX Bank & other banks)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bill payments & mobile/DTH recharge",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Open/close Fixed Deposits & Recurring Deposits",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loan & Credit Card management",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Utility features: Stop cheque, request cheque book, manage beneficiaries",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Activate ZX Bank NetBanking",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "ZX Bank – NetBanking Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Self-Registration (Online)",
+                "level": 3,
+                "location": {
+                  "line": 20,
+                  "heading": "How to Activate ZX Bank NetBanking"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 21,
+                      "heading": "1. Self-Registration (Online)"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Visit ZX Bank Asia Website (https://www.zxbank.asia)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Click on ‘NetBanking Login’ and select ‘New User/Register’",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Enter:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Customer ID (from passbook/account statement)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Registered mobile number",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Verification via OTP",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Set your NetBanking username and password.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Login and set transactional password & security questions.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Activation via Branch",
+                "level": 3,
+                "location": {
+                  "line": 30,
+                  "heading": "How to Activate ZX Bank NetBanking"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "2. Activation via Branch"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visit any ZX Bank branch.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fill NetBanking registration form.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Receive welcome kit/activation link on mobile/email.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Set your login and transaction password.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Activation via Mobile App",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "How to Activate ZX Bank NetBanking"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "3. Activation via Mobile App"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Download the ZX Bank Asia app (Android/iOS).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Select ‘Register for NetBanking’.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Follow in-app instructions (similar to online self-registration).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Daily Transaction Limits (Indicative)",
+            "level": 2,
+            "location": {
+              "line": 43,
+              "heading": "ZX Bank – NetBanking Guide"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 45,
+                  "heading": "Daily Transaction Limits (Indicative)"
+                },
+                "header": [
+                  "Service",
+                  "Per day Limit"
+                ],
+                "rows": [
+                  [
+                    "NEFT/RTGS (Fund transfer)",
+                    "₹10,00,000"
+                  ],
+                  [
+                    "IMPS/UPI",
+                    "₹2,00,000"
+                  ],
+                  [
+                    "Bill Payments",
+                    "₹1,00,000"
+                  ],
+                  [
+                    "Own ZX Bank account Txns",
+                    "₹20,00,000"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 52,
+                  "heading": "Daily Transaction Limits (Indicative)"
+                },
+                "text": "Note: Corporate/priority customers may request for higher limits. Limits can be customized via branch or customer support, subject to approval and enhanced security."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Security Tips",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "ZX Bank – NetBanking Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 57,
+                  "heading": "Security Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Never share your NetBanking password/OTP.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Update password regularly.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Login only via official website or ZX Bank Asia app.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Enable two-factor authentication.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Support",
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "ZX Bank – NetBanking Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 66,
+                  "heading": "Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Helpdesk:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Toll-Free India: 1800-123-4567",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sri Lanka: +94-11-2345678",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bangladesh: +880-17-12345678",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bhutan: +975-2-123456",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nepal: +977-1-1234567",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Email: netbanking.support@zxbank.asia",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chat: 24×7 Zia AI Assistant via app/website",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Branch Support: Visit any branch for in-person assistance.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 78,
+                  "heading": "Support"
+                },
+                "text": "For more information visit: www.zxbank.asia/netbanking (https://www.zxbank.asia/netbanking)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "doc_id": "28ff8ea1b7262051976084fd4a61dac2b8902fbb15406fc81176b21dd9183ca6",
+  "doc_key": [
+    "velevra_start"
+  ],
+  "path": "Velvera Technologies/md/velevra_start.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Start Series — Product Specifications",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Start Series — Product Specifications"
+            },
+            "text": "Entry-level smartphones that prioritize essential features and everyday reliability. Ideal for first-time users or anyone seeking quality on a budget."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Models Overview and Pricing",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Start Series — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Models Overview and Pricing"
+                },
+                "header": [
+                  "Model",
+                  "Storage / RAM",
+                  "Battery",
+                  "Display",
+                  "Camera",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Start 32GB",
+                    "32GB / 3GB",
+                    "4000mAh",
+                    "6.1\" HD",
+                    "13MP Single",
+                    "₹12,999",
+                    "$157"
+                  ],
+                  [
+                    "Velvera Start 64GB",
+                    "64GB / 3GB",
+                    "4000mAh",
+                    "6.1\" HD",
+                    "13MP Single",
+                    "₹14,999",
+                    "$179"
+                  ],
+                  [
+                    "Velvera Start Plus 64GB",
+                    "64GB / 4GB",
+                    "4500mAh",
+                    "6.3\" HD+",
+                    "16MP Dual",
+                    "₹17,999",
+                    "$217"
+                  ],
+                  [
+                    "Velvera Start Plus 128GB",
+                    "128GB / 4GB",
+                    "4500mAh",
+                    "6.3\" HD+",
+                    "16MP Dual",
+                    "₹19,999",
+                    "$239"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 16,
+                  "heading": "Models Overview and Pricing"
+                },
+                "text": "Available Colors: Classic Black, Pearl White, Sky Blue, Forest Green"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Detailed Specifications",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "Velvera Start Series — Product Specifications"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Velvera Start 32GB",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 23,
+                      "heading": "1. Velvera Start 32GB"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Storage: 32GB internal, expandable up to 256GB (microSD)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "RAM: 3GB",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Processor: Unisoc SC9863A Octa-core 1.6 GHz",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Battery: 4000mAh (non-removable), up to 22 hrs talk time",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Display: 6.1-inch HD (720 × 1560), IPS LCD, 19.5:9 aspect ratio",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear Camera: 13MP f/2.0, PDAF, LED flash, HDR, 1080p video @ 30fps",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front Camera: 5MP f/2.2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Operating System: VelOS v1.5 (Android 12 Go Edition)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Connectivity: Dual SIM (Nano + Nano), 4G VoLTE, Wi-Fi 802.11 b/g/n, Bluetooth 4.2, GPS, microUSB 2.0",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sensors: Accelerometer, Proximity, Light sensor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio: 3.5mm headphone jack, single loudspeaker",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Build: Polycarbonate body, removable back cover",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dimensions: 151.2 x 72.9 x 8.6 mm",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Weight: 166g",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Velvera Start 64GB",
+                "level": 3,
+                "location": {
+                  "line": 40,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "2. Velvera Start 64GB"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Storage: 64GB internal, expandable up to 256GB (microSD)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "RAM: 3GB",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Processor: Unisoc SC9863A Octa-core 1.6 GHz",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Battery: 4000mAh (non-removable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Display: 6.1-inch HD (720 × 1560), IPS LCD",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear Camera: 13MP f/2.0, PDAF, LED flash",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front Camera: 5MP f/2.2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Operating System: VelOS v1.5 (Android 12 Go Edition)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Connectivity: Dual SIM, 4G VoLTE, Wi-Fi, Bluetooth 4.2, GPS, microUSB 2.0",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sensors: Accelerometer, Proximity, Light sensor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio: 3.5mm headphone jack",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Build: Polycarbonate body",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dimensions: 151.2 x 72.9 x 8.6 mm",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Weight: 166g",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Velvera Start Plus 64GB",
+                "level": 3,
+                "location": {
+                  "line": 58,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 59,
+                      "heading": "3. Velvera Start Plus 64GB"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Storage: 64GB internal, expandable up to 512GB (microSD)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "RAM: 4GB",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Processor: MediaTek Helio G35 Octa-core 2.3 GHz",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Battery: 4500mAh (non-removable), up to 26 hrs talk time",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Display: 6.3-inch HD+ (720 × 1600), IPS LCD, 20:9 aspect ratio, ~270ppi",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear Camera: 16MP (f/1.8) + 2MP (Depth), LED flash, Panorama, HDR, 1080p@30fps",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front Camera: 8MP f/2.0, Portrait, Beauty mode",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Operating System: VelOS v1.5 (Android 12)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Connectivity: Dual SIM (Nano + Nano), 4G VoLTE, Wi-Fi 802.11ac, Bluetooth 5.0, GPS, USB Type-C",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sensors: Side-mounted fingerprint sensor, Accelerometer, Proximity, Gyroscope, Light sensor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio: 3.5mm headphone jack, mono loudspeaker",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Build: Polycarbonate frame, glass front",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dimensions: 159.1 x 74.6 x 8.9 mm",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Weight: 178g",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Velvera Start Plus 128GB",
+                "level": 3,
+                "location": {
+                  "line": 76,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 77,
+                      "heading": "4. Velvera Start Plus 128GB"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Storage: 128GB internal, expandable up to 512GB (microSD)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "RAM: 4GB",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Processor: MediaTek Helio G35 Octa-core 2.3 GHz",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Battery: 4500mAh (non-removable), fast charging 15W",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Display: 6.3-inch HD+ (720 × 1600), IPS LCD, 20:9 aspect ratio, ~270ppi",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear Camera: 16MP (f/1.8) main + 2MP (Depth), LED flash, HDR, 1080p video",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front Camera: 8MP f/2.0",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Operating System: VelOS v1.5 (Android 12)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Connectivity: Dual SIM, 4G VoLTE, Wi-Fi 802.11ac, Bluetooth 5.0, GPS, USB Type-C, OTG support",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sensors: Fingerprint sensor (side), Accelerometer, Gyroscope, Proximity, Light sensor, Face Unlock",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio: 3.5mm headphone jack, enhanced loudspeaker",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Build: Polycarbonate frame, glass front, matte finish rear",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dimensions: 159.1 x 74.6 x 8.9 mm",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Weight: 180g",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Common Features",
+            "level": 2,
+            "location": {
+              "line": 94,
+              "heading": "Velvera Start Series — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 96,
+                  "heading": "Common Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "UI/OS: VelOS v1.5 with Smart Manager, App Vault, and Privacy Dashboard",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Security: Pattern/Pin/Password Lock, Emergency SOS",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Software Updates: 2 years of security updates",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Box Contents: Handset, Adapter, USB Cable, SIM Ejector Tool, Quick Start Guide, Protective Case (clear TPU), Screen Protector (pre-applied on device)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Warranty: 12 months on handset, 6 months on in-box accessories",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "After-Sales & Support",
+            "level": 2,
+            "location": {
+              "line": 104,
+              "heading": "Velvera Start Series — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 106,
+                  "heading": "After-Sales & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Customer Care: Toll-free, email, and in-app support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Service Network: 600+ authorized service centers across India, pickup & drop available in select cities",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 111,
+                  "heading": "After-Sales & Support"
+                },
+                "text": "Velvera Start delivers simplicity and reliability you can trust — all at an affordable price."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 113,
+                  "heading": "After-Sales & Support"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 115,
+                  "heading": "After-Sales & Support"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

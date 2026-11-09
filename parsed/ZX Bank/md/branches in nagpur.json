@@ -1,0 +1,201 @@
+{
+  "doc_id": "846d16eaedeb1ce50da9378ee588e19cb70aeded4f533de63d4f4f5ed89d2a27",
+  "doc_key": [
+    "branches in nagpur"
+  ],
+  "path": "ZX Bank/md/Branches in Nagpur.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Branches in Nagpur",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Branches in Nagpur"
+            },
+            "text": "Nagpur stands as a key urban and commercial hub in central India, and ZX Bank has strategically established its branch network across the city to support individuals, businesses, and digital-first banking. Customers in Nagpur benefit from well-distributed access to financial services, with branches spanning all cardinal regions—North, South, East, West, and Central Nagpur—ensuring convenience, extended reach, and seamless banking for all residents."
+          }
+        ],
+        "sections": [
+          {
+            "title": "North Nagpur",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Branches in Nagpur"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "North Nagpur"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Shop No. 8-10, Millennium Plaza, Kamptee Road",
+                    "ZXIN0000321",
+                    "0712-2748821"
+                  ],
+                  [
+                    "Plot 15, Gurudev Nagar, Near Rajpeth Chowk",
+                    "ZXIN0000322",
+                    "0712-2709858"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "South Nagpur",
+            "level": 2,
+            "location": {
+              "line": 16,
+              "heading": "ZX Bank Branches in Nagpur"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 18,
+                  "heading": "South Nagpur"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Ground Floor, Amar Complex, Manewada Main Road",
+                    "ZXIN0000331",
+                    "0712-2224911"
+                  ],
+                  [
+                    "House No. 98, Hanuman Nagar, Near Balaji Temple",
+                    "ZXIN0000332",
+                    "0712-2504777"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "East Nagpur",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "ZX Bank Branches in Nagpur"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 27,
+                  "heading": "East Nagpur"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Shop No. 5, Heritage Square, Wardhaman Nagar",
+                    "ZXIN0000341",
+                    "0712-2651881"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "West Nagpur",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "ZX Bank Branches in Nagpur"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 35,
+                  "heading": "West Nagpur"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "1st Floor, Harmony Towers, Hingna Road",
+                    "ZXIN0000351",
+                    "0712-2462188"
+                  ],
+                  [
+                    "Plot 33, Pratap Nagar Square, Amravati Road",
+                    "ZXIN0000352",
+                    "0712-2293302"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Central Nagpur",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "ZX Bank Branches in Nagpur"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 44,
+                  "heading": "Central Nagpur"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "104, Dharampeth Extension, Near Law College Road",
+                    "ZXIN0000361",
+                    "0712-2534110"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

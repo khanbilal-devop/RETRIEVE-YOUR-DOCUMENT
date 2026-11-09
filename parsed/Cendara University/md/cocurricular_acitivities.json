@@ -1,0 +1,571 @@
+{
+  "doc_id": "d65a45c8be18833b9e127e5c1264e24ab69ceb4a1e36510e8858503dd294049a",
+  "doc_key": [
+    "cocurricular_acitivities"
+  ],
+  "path": "Cendara University/md/cocurricular_acitivities.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Co-Curricular and Extra-Curricular Activities",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Co-Curricular and Extra-Curricular Activities"
+            },
+            "text": "Cendara University is home to a vibrant array of student clubs and organizations, providing opportunities for leadership, creativity, community involvement, and personal growth. The Office of Student Life supports more than 40 active organizations spanning academic interests, cultural groups, community service, arts, sports, and more. Below is an overview of featured clubs and related activities for the 2023–2024 academic year."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Student Clubs and Organizations",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University Co-Curricular and Extra-Curricular Activities"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Cendara Debate Society",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 11,
+                      "heading": "1. Cendara Debate Society"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Maya Farouk (maya.farouk@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Prof. Lionel Hsu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 1995",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: The Debate Society provides a forum for students passionate about argumentation, rhetoric, and current affairs. Members participate in inter-university competitions and host annual debate workshops for local high schools.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Recent Achievement: Champions, 2023 Central Collegiate Invitational.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Engineering Makers Club",
+                "level": 3,
+                "location": {
+                  "line": 19,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 21,
+                      "heading": "2. Engineering Makers Club"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Elliott Chandler (elliott.chandler@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Dr. Fariha D’Souza",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 2012",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: The Makers Club supports student-led engineering projects, hackathons, and innovation challenges. Projects span robotics, renewable energy prototypes, and software development.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Flagship Event: Annual 48-hour \"Cendara HackFest\" (March 8–10, 2024).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Literary Arts Collective",
+                "level": 3,
+                "location": {
+                  "line": 29,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "3. Literary Arts Collective"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Linnea Bergstrom (linnea.bergstrom@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Prof. Samuel Dilworth",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 2006",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: This group nurtures creative writers, poets, and artists. Activities include weekly writing prompts, open mic nights, and publication of “The Cendara Review”—an annual student literary journal.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Featured Program: Spring “Writers’ Retreat” at Millbank Estate.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Environmental Action Network",
+                "level": 3,
+                "location": {
+                  "line": 39,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "4. Environmental Action Network"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Daniel Okoye (daniel.okoye@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Dr. Mira Antoun",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 2010",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: Students collaborate to promote sustainability, organize campus clean-ups, and educate peers about environmental issues. The group partners with local non-profits for tree planting and river restoration.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ongoing Initiative: “Green Cendara” campus composting project.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Model United Nations (CenMUN)",
+                "level": 3,
+                "location": {
+                  "line": 49,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 51,
+                      "heading": "5. Model United Nations (CenMUN)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Secretary-General: Zahra El-Baz (zahra.elbaz@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Dr. Felix Martens",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 2003",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: CenMUN prepares delegates for National and International Model UN conferences, offering mock sessions and diplomacy workshops.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Recent Achievement: Best Delegation, 2023 MidWestern Model UN Conference.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. International Students’ Association",
+                "level": 3,
+                "location": {
+                  "line": 59,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 61,
+                      "heading": "6. International Students’ Association"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Hyun-Jae Lee (hyunjae.lee@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Prof. Nadira Munroe",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 1992",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: Fosters cross-cultural exchange and provides support for international students through cultural nights, language conversation tables, and visa guidance sessions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Annual Event: “Cultures of Cendara” Festival (April 19, 2024).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Women in Technology Society",
+                "level": 3,
+                "location": {
+                  "line": 69,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 71,
+                      "heading": "7. Women in Technology Society"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Simran Narang (simran.narang@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Dr. Gillian Wright",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 2017",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: Focused on empowering women in STEM fields by offering mentorship programs, guest speaker series, and career networking events.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Signature Program: “CodeHer” coding bootcamp for high school girls.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Cendara Volunteer Corps",
+                "level": 3,
+                "location": {
+                  "line": 79,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 81,
+                      "heading": "8. Cendara Volunteer Corps"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Morgan McIntyre (morgan.mcintyre@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Ms. Stephanie Jesalva",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 2001",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: Coordinates student involvement in local community service projects including tutoring, senior outreach, and food drives.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Recent Project: “Cendara Cares” weekly meals program for the homeless.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "9. Chess and Strategy Club",
+                "level": 3,
+                "location": {
+                  "line": 89,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 91,
+                      "heading": "9. Chess and Strategy Club"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Rafael Khoury (rafael.khoury@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Dr. Emilie Nevins",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 2008",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: Offers chess tournaments, strategic games nights, and workshops for all skill levels.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Inter-Collegiate Event: Hosted the Fall 2023 Inter-University Chess Invitational.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "10. Performing Arts Society",
+                "level": 3,
+                "location": {
+                  "line": 99,
+                  "heading": "Student Clubs and Organizations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 101,
+                      "heading": "10. Performing Arts Society"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President: Zoe Calderon (zoe.calderon@cendara.edu)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty Advisor: Prof. Gregor De Lacy",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Founded: 1990",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description: Brings together students interested in theatre, dance, and music. Produces one major stage production and multiple student showcases each semester.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Current Production: “A Midsummer Night’s Dream” (Opening Night: March 22, 2024).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Athletics and Sports Clubs",
+            "level": 2,
+            "location": {
+              "line": 109,
+              "heading": "Cendara University Co-Curricular and Extra-Curricular Activities"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 111,
+                  "heading": "Athletics and Sports Clubs"
+                },
+                "header": [
+                  "Club Name",
+                  "President",
+                  "Description",
+                  "Notable Activity"
+                ],
+                "rows": [
+                  [
+                    "Cendara Soccer Club",
+                    "Julianne Paredes",
+                    "University’s competitive football team, inter-university league",
+                    "Spring International Friendly"
+                  ],
+                  [
+                    "Rowing Club",
+                    "Marcus Osei",
+                    "Hosts dawn practices on Lake Vallis, annual regattas",
+                    "“Oars Up!” Regatta Series"
+                  ],
+                  [
+                    "Table Tennis League",
+                    "Priyal Srivastava",
+                    "Casual and competitive play open to all skill levels",
+                    "Weekly Ladder Tournament"
+                  ],
+                  [
+                    "Martial Arts Circle",
+                    "Tomoko Arai",
+                    "Taekwondo, karate, and self-defense instruction",
+                    "“Self-Defense Month” Campaign"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Annual Campus-Wide Co-Curricular Events",
+            "level": 2,
+            "location": {
+              "line": 120,
+              "heading": "Cendara University Co-Curricular and Extra-Curricular Activities"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 122,
+                  "heading": "Annual Campus-Wide Co-Curricular Events"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Cendara Club Fair\nEvery September, over 50 clubs and organizations host exhibitions, demonstrations, and sign-ups on the Quad. New students connect with club leadership and join campus life.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Global Cuisine Night\nOrganized by cultural societies and the International Students’ Association. Features food, performances, and cultural presentations from over 15 countries. (February 10, 2024)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Volunteer Impact Day\nA service-oriented event with partnerships throughout Vallis City—students participate in park clean-ups, mentoring, and blood drives.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Arts in the Park\nOutdoor visual and performing arts showcase supported by the Literary Arts Collective and Performing Arts Society.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Join a Club",
+            "level": 2,
+            "location": {
+              "line": 136,
+              "heading": "Cendara University Co-Curricular and Extra-Curricular Activities"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 138,
+                  "heading": "How to Join a Club"
+                },
+                "text": "Interested students can sign up via the Office of Student Life portal or at the Club Fair. Most clubs welcome new members year-round. For details, contact studentlife@cendara.edu or visit the Student Center Room 102."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 142,
+                  "heading": "How to Join a Club"
+                },
+                "text": "For a full list of active organizations and upcoming events, see:\nwww.cendara.edu/studentlife/clubs (http://www.cendara.edu/studentlife/clubs)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

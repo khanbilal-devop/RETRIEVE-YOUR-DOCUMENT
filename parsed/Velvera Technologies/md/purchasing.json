@@ -1,0 +1,475 @@
+{
+  "doc_id": "f1f7873db67cce3d39d36a27a9eed4fc20f055b0d44a076add00225ca6d033de",
+  "doc_key": [
+    "purchasing"
+  ],
+  "path": "Velvera Technologies/md/purchasing.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Availability & Purchase Options",
+        "level": 2,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Availability & Purchase Options"
+            },
+            "text": "Velvera devices are accessible through a wide network of online and offline channels, supported by a variety of financing, exchange, and promotional programs to suit every kind of buyer — from individual consumers to corporate clients."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Where to Buy",
+            "level": 3,
+            "location": {
+              "line": 7,
+              "heading": "Availability & Purchase Options"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Where to Buy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Official Website:\nPurchase directly from Velvera.com (https://Velvera.com) and enjoy exclusive online-only deals, custom configurations, and early access to new releases.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Retail Partners:\nAvailable across 2,500+ authorized stores in India including Croma, Reliance Digital, Vijay Sales, and select Apple Premium Resellers.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flagship Experience Centers:\nTry before you buy at our premium showrooms in:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mumbai – Phoenix Palladium, Lower Parel",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Delhi – Select Citywalk, Saket",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bangalore – UB City",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Chennai – Express Avenue",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hyderabad – Jubilee Hills",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pune – Phoenix Market City",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kolkata – South City Mall",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Express Delivery:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Same-Day: Available in 45 major metro cities including Mumbai, Delhi, Bengaluru, and Hyderabad.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Next-Day: Delivered in 120+ tier-2 and tier-3 cities with real-time tracking.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Payment & Financing Options",
+            "level": 3,
+            "location": {
+              "line": 31,
+              "heading": "Availability & Purchase Options"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 33,
+                  "heading": "Payment & Financing Options"
+                },
+                "text": "Velvera offers flexible payment solutions designed for affordability and accessibility."
+              }
+            ],
+            "sections": [
+              {
+                "title": "EMI & Financing",
+                "level": 4,
+                "location": {
+                  "line": 35,
+                  "heading": "Payment & Financing Options"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 37,
+                      "heading": "EMI & Financing"
+                    },
+                    "header": [
+                      "Tenure",
+                      "Interest Rate",
+                      "Availability"
+                    ],
+                    "rows": [
+                      [
+                        "6 Months",
+                        "0%",
+                        "All models"
+                      ],
+                      [
+                        "12 Months",
+                        "0%",
+                        "Flagship & Edge series"
+                      ],
+                      [
+                        "24 Months",
+                        "4.99% APR",
+                        "Select premium variants"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 43,
+                      "heading": "EMI & Financing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Partners include HDFC Bank, ICICI Bank, Axis Bank, Bajaj Finserv, and more.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Instant approval on most credit cards and select debit cards.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Exchange Program",
+                "level": 4,
+                "location": {
+                  "line": 46,
+                  "heading": "Payment & Financing Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "Exchange Program"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Get up to ₹15,000 off when exchanging your old smartphone.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Instant quote available via Velvera Trade-in Portal (https://velvera.com/trade-in).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Eligible for both doorstep pickup and in-store drop-off.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Corporate & Enterprise Deals",
+                "level": 4,
+                "location": {
+                  "line": 52,
+                  "heading": "Payment & Financing Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 54,
+                      "heading": "Corporate & Enterprise Deals"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Custom pricing for orders of 10+ units.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Priority support, centralized billing, and volume-based discounts.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Get in touch at enterprise@velvera.com.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Student Benefits",
+                "level": 4,
+                "location": {
+                  "line": 58,
+                  "heading": "Payment & Financing Options"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 60,
+                      "heading": "Student Benefits"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Exclusive 5% student discount on Velvera One and Nexus series.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Requires verification through UniDays or student ID upload.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Limited to 2 devices per academic year.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Cashback & Offers",
+                "level": 4,
+                "location": {
+                  "line": 64,
+                  "heading": "Payment & Financing Options"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 66,
+                      "heading": "Cashback & Offers"
+                    },
+                    "header": [
+                      "Payment Method",
+                      "Cashback %",
+                      "Max Cashback",
+                      "Eligibility Conditions"
+                    ],
+                    "rows": [
+                      [
+                        "HDFC Credit Cards",
+                        "10%",
+                        "₹5,000",
+                        "Min. transaction ₹30,000, EMI optional"
+                      ],
+                      [
+                        "Paytm Wallet",
+                        "5%",
+                        "₹2,000",
+                        "For prepaid orders only"
+                      ],
+                      [
+                        "Velvera e-Gift Cards",
+                        "7%",
+                        "₹3,000",
+                        "Applicable on select flagship models"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 72,
+                      "heading": "Cashback & Offers"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Offers updated monthly — check Velvera Offers (https://velvera.com/offers) for current deals.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Shipping & Delivery",
+            "level": 3,
+            "location": {
+              "line": 76,
+              "heading": "Availability & Purchase Options"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Shipping & Delivery"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Free Standard Delivery: 2–5 business days nationwide.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Same-Day Delivery: Available in top 45 cities for orders placed before 2 PM.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Eco-Packaging: All shipments use 100% recyclable packaging with no plastic fillers.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Invoicing & GST Benefits",
+            "level": 3,
+            "location": {
+              "line": 84,
+              "heading": "Availability & Purchase Options"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 86,
+                  "heading": "Invoicing & GST Benefits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "GST-compliant invoices provided for all purchases.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Input tax credit available for business accounts.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Option to generate invoice with company GSTIN during checkout.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "📞 Purchase Assistance",
+            "level": 3,
+            "location": {
+              "line": 92,
+              "heading": "Availability & Purchase Options"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 94,
+                  "heading": "📞 Purchase Assistance"
+                },
+                "text": "Need help choosing the right Velvera device?"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 96,
+                  "heading": "📞 Purchase Assistance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Live Chat: 9 AM – 10 PM IST on Velvera.com (https://velvera.com)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Phone Support: 1800-123-VELVERA (toll-free)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "WhatsApp: Message us at +91 91234 56789",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 100,
+                  "heading": "📞 Purchase Assistance"
+                },
+                "text": "Let our advisors assist you in finding the perfect fit."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 102,
+                  "heading": "📞 Purchase Assistance"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 104,
+                  "heading": "📞 Purchase Assistance"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

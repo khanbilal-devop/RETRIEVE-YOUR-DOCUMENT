@@ -1,0 +1,214 @@
+{
+  "doc_id": "9b3104acf68606008d28b94023008c3850512c544cbb25e337fa0e777391314a",
+  "doc_key": [
+    "servicing_details"
+  ],
+  "path": "Velvera Technologies/md/servicing_details.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Servicing Details",
+        "level": 3,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "table",
+            "location": {
+              "line": 3,
+              "heading": "Servicing Details"
+            },
+            "header": [
+              "Service Center Location",
+              "Coverage Area",
+              "Contact Number",
+              "Service Types",
+              "Average Turnaround Time",
+              "Walk-in Availability",
+              "Home Pickup Support",
+              "Language Support"
+            ],
+            "rows": [
+              [
+                "Bengaluru – Koramangala",
+                "Karnataka",
+                "080-4633-1278",
+                "Smartphones, Tablets, Audio",
+                "3-5 business days",
+                "Yes",
+                "Yes",
+                "English, Kannada"
+              ],
+              [
+                "Mumbai – Andheri East",
+                "Maharashtra",
+                "022-4947-2302",
+                "Smartphones, Accessories",
+                "2-4 business days",
+                "Yes",
+                "Yes",
+                "English, Marathi"
+              ],
+              [
+                "Delhi – Karol Bagh",
+                "NCR, Haryana, UP",
+                "011-2391-8830",
+                "All Categories",
+                "3-7 business days",
+                "Yes",
+                "Yes",
+                "English, Hindi"
+              ],
+              [
+                "Hyderabad – Banjara Hills",
+                "Telangana, Andhra",
+                "040-3571-9940",
+                "Smartwatches, Tablets",
+                "2-3 business days",
+                "Yes",
+                "Yes",
+                "English, Telugu"
+              ],
+              [
+                "Chennai – T.Nagar",
+                "Tamil Nadu",
+                "044-4017-7725",
+                "Smartphones, Audio",
+                "3-5 business days",
+                "Yes",
+                "Yes",
+                "English, Tamil"
+              ],
+              [
+                "Kolkata – Salt Lake",
+                "West Bengal, Odisha",
+                "033-6814-7699",
+                "All Categories",
+                "3-6 business days",
+                "Yes",
+                "Yes",
+                "English, Bengali"
+              ],
+              [
+                "Pune – Shivajinagar",
+                "Maharashtra",
+                "020-6170-4433",
+                "Smartwatches, Tablets",
+                "2-4 business days",
+                "Yes",
+                "Yes",
+                "English, Marathi"
+              ],
+              [
+                "Jaipur – C-Scheme",
+                "Rajasthan",
+                "0141-7156-950",
+                "Smartphones, Audio",
+                "3-5 business days",
+                "Yes",
+                "Yes",
+                "English, Hindi"
+              ],
+              [
+                "Ahmedabad – Navrangpura",
+                "Gujarat",
+                "079-4891-8452",
+                "Tablets, Audio, Accessories",
+                "2-4 business days",
+                "Yes",
+                "Yes",
+                "English, Gujarati"
+              ],
+              [
+                "Kochi – MG Road",
+                "Kerala",
+                "0484-409-2216",
+                "Smartphones, Accessories",
+                "2-5 business days",
+                "Yes",
+                "Yes",
+                "English, Malayalam"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 16,
+              "heading": "Servicing Details"
+            },
+            "text": "Service Process Overview:"
+          },
+          {
+            "type": "list",
+            "location": {
+              "line": 17,
+              "heading": "Servicing Details"
+            },
+            "ordered": false,
+            "items": [
+              {
+                "text": "Service booking: Initiate via Velvera App, website, or by contacting the nearest service center.",
+                "depth": 0
+              },
+              {
+                "text": "Diagnosis: Certified engineers assess reported issues, typically within 24 hours of product receipt.",
+                "depth": 0
+              },
+              {
+                "text": "Quote & Approval: Estimate shared for any non-warranty services or accidental damage; repairs begin post-approval.",
+                "depth": 0
+              },
+              {
+                "text": "Status Tracking: Transparent updates through app, SMS, and email notifications.",
+                "depth": 0
+              },
+              {
+                "text": "Delivery & Feedback: Products can be collected in person or delivered to the customer’s address upon request.",
+                "depth": 0
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 23,
+              "heading": "Servicing Details"
+            },
+            "text": "Additional Support:"
+          },
+          {
+            "type": "list",
+            "location": {
+              "line": 24,
+              "heading": "Servicing Details"
+            },
+            "ordered": false,
+            "items": [
+              {
+                "text": "Same-day screen replacement at select centers for Velvera Care+ users (subject to slot availability).",
+                "depth": 0
+              },
+              {
+                "text": "Genuine Velvera parts and 90-day post-repair warranty for paid repairs.",
+                "depth": 0
+              },
+              {
+                "text": "Dedicated support hotline for Care+ members: 1800-210-5030",
+                "depth": 0
+              }
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+}

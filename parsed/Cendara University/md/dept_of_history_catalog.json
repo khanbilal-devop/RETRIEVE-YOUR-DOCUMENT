@@ -1,0 +1,441 @@
+{
+  "doc_id": "ca6f9c2cd6277f2dbd2573d96958c3821b9115ef6dbc1b4c98b8f1f74762ecb5",
+  "doc_key": [
+    "dept_of_history_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_History_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of History",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Course Catalog 2024–2025",
+                "level": 3,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of History"
+                },
+                "blocks": [],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Undergraduate Courses (B.A. in History)",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "HIST 101: Foundations of World History",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 12,
+                      "heading": "HIST 101: Foundations of World History"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nAn introductory survey of global historical developments from ancient civilizations to the early modern era. Topics include early societies, major world religions, trade networks, empires, and cross-cultural encounters.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 115: Introduction to Historical Methods",
+                "level": 3,
+                "location": {
+                  "line": 19,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 20,
+                      "heading": "HIST 115: Introduction to Historical Methods"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nA practical course exploring how historians investigate and interpret the past. Students gain experience with primary sources, historical arguments, and bibliography construction. Includes workshops on archival research and oral history interviews.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 201: History of the United States to 1877",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 28,
+                      "heading": "HIST 201: History of the United States to 1877"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nA comprehensive overview of American history from pre-colonial societies through Reconstruction. Focus on colonial life, the American Revolution, Constitution, Civil War, and post-war transformations.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 213: Modern European History, 1789–Present",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 36,
+                      "heading": "HIST 213: Modern European History, 1789–Present"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nAn analysis of major political, social, and cultural developments in Europe since the French Revolution. Topics include nationalism, industrialization, the world wars, the Cold War, and the European Union.\nPrerequisites: HIST 101 or consent of instructor"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 225: History of East Asia",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 44,
+                      "heading": "HIST 225: History of East Asia"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nAn introduction to the histories of China, Japan, and Korea from ancient times to the 20th century. Emphasis on changing political structures, cultural exchanges, and regional conflicts.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 320: Public History: Theory and Practice",
+                "level": 3,
+                "location": {
+                  "line": 51,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 52,
+                      "heading": "HIST 320: Public History: Theory and Practice"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nThis course explores the theory and practice of public history, including museum curation, historic preservation, and community history projects. Students participate in local public history initiatives and develop professional portfolios.\nPrerequisites: HIST 115"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 330: Gender in World History",
+                "level": 3,
+                "location": {
+                  "line": 59,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 60,
+                      "heading": "HIST 330: Gender in World History"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nA comparative study of gender roles and identities in various global societies from antiquity to the present. Includes examinations of family, labor, law, and cultural representations.\nPrerequisites: One 200-level HIST course"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 350: The Historian’s Craft",
+                "level": 3,
+                "location": {
+                  "line": 67,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 68,
+                      "heading": "HIST 350: The Historian’s Craft"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nAdvanced instruction in historiographical debates, interpretation of evidence, and historical writing. Culminates in a major research paper using primary and secondary sources.\nPrerequisites: HIST 115 and at least one 200-level HIST course"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 390: Special Topics in History",
+                "level": 3,
+                "location": {
+                  "line": 75,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 76,
+                      "heading": "HIST 390: Special Topics in History"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nSeminar on selected themes or regions of historical inquiry, varying by semester (e.g., Migration in the Ancient World, African Kingdoms, Environmental History).\nPrerequisites: At least one 300-level HIST course or consent of instructor"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 495: Senior Seminar in History",
+                "level": 3,
+                "location": {
+                  "line": 83,
+                  "heading": "Undergraduate Courses (B.A. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 84,
+                      "heading": "HIST 495: Senior Seminar in History"
+                    },
+                    "text": "Credit Hours: 4\nDescription:\nCapstone course featuring advanced research, seminar discussion, and the preparation of a substantial thesis. Required for all senior majors.\nPrerequisites: HIST 350 and senior standing"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Graduate Courses (M.A./Ph.D. in History)",
+            "level": 2,
+            "location": {
+              "line": 91,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "HIST 505: Graduate Historiography",
+                "level": 3,
+                "location": {
+                  "line": 95,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 96,
+                      "heading": "HIST 505: Graduate Historiography"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nIntensive survey of historiographical traditions and theoretical approaches in historical scholarship. Students examine the evolution of historical writing, methodological debates, and contemporary trends in the discipline.\nPrerequisites: Admission to graduate program in History"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 511: Archival Research Methods",
+                "level": 3,
+                "location": {
+                  "line": 103,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 104,
+                      "heading": "HIST 511: Archival Research Methods"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nHands-on training in archival theory, paleography, and digital archival tools. Includes fieldwork at the Cendara University Special Collections and local archives.\nPrerequisites: HIST 505"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 521: Seminar in Early Modern History",
+                "level": 3,
+                "location": {
+                  "line": 111,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 112,
+                      "heading": "HIST 521: Seminar in Early Modern History"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nGraduate-level analysis of key issues in early modern global history. Emphasis on comparative empire studies, religious reforms, and scientific revolutions.\nPrerequisites: HIST 505 or consent of instructor"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 532: Topics in American Historiography",
+                "level": 3,
+                "location": {
+                  "line": 119,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 120,
+                      "heading": "HIST 532: Topics in American Historiography"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nExplores major topics and methodological innovations in the writing of American history, with critical evaluation of primary and secondary sources.\nPrerequisites: HIST 505"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 545: Digital History and Public Engagement",
+                "level": 3,
+                "location": {
+                  "line": 127,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 128,
+                      "heading": "HIST 545: Digital History and Public Engagement"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nThis course introduces digital tools for historical research and public presentation, including GIS mapping, digital exhibition design, and social media outreach. Students develop and present collaborative digital projects.\nPrerequisites: HIST 511"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 587: History and Memory",
+                "level": 3,
+                "location": {
+                  "line": 135,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 136,
+                      "heading": "HIST 587: History and Memory"
+                    },
+                    "text": "Credit Hours: 3\nDescription:\nAn interdisciplinary seminar on the uses of memory in shaping historical narratives, including studies of commemoration, collective memory, and the politics of remembrance.\nPrerequisites: HIST 505"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 610: Advanced Research Seminar",
+                "level": 3,
+                "location": {
+                  "line": 143,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 144,
+                      "heading": "HIST 610: Advanced Research Seminar"
+                    },
+                    "text": "Credit Hours: 4\nDescription:\nDesigned for students preparing thesis or dissertation projects. Students present their research, receive critiques, and engage in in-depth methodological discussions.\nPrerequisites: 18 graduate credit hours in History, including HIST 505 and HIST 511"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "HIST 699: Dissertation Research",
+                "level": 3,
+                "location": {
+                  "line": 151,
+                  "heading": "Graduate Courses (M.A./Ph.D. in History)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 152,
+                      "heading": "HIST 699: Dissertation Research"
+                    },
+                    "text": "Credit Hours: Variable (1–9)\nDescription:\nIndependent research under the supervision of a faculty advisor leading to the doctoral dissertation. May be repeated for credit.\nPrerequisites: Admission to candidacy for Ph.D. in History"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Notes",
+            "level": 2,
+            "location": {
+              "line": 159,
+              "heading": "Cendara University"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 160,
+                  "heading": "Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Some electives and special topics courses vary by semester and require departmental approval.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For full degree requirements, see the Department of History program guidelines.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

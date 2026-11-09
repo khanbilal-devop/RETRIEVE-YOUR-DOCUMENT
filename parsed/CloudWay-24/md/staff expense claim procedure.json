@@ -1,0 +1,325 @@
+{
+  "doc_id": "c4dfd7a62df9ed3d342e309306c490fbedfa50c63d03f7c945e6de709b06a9ca",
+  "doc_key": [
+    "staff expense claim procedure"
+  ],
+  "path": "CloudWay-24/md/Staff Expense Claim Procedure.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Staff Expense Claim Procedure",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 2,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "text": "For Pilots and Cabin Crew – Non-Accommodation and Non-Transport Expenses"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 6,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "Overview"
+                },
+                "text": "This procedure outlines how CloudWay 24 Pilots and Cabin Crew may claim reimbursement for approved expenses incurred during duty travel, excluding accommodation and transport (which are already provided by the airline)."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "1. Eligible Expenses",
+            "level": 2,
+            "location": {
+              "line": 11,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 13,
+                  "heading": "1. Eligible Expenses"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meals & Refreshments: When not provided by CloudWay 24 during layovers.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Communication Costs: Work-related calls/internet when airline-provided options are unavailable.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Uniform Maintenance: Laundry or pressing services during extended layovers (minimum 2 nights).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Official Miscellaneous Purchases: Items bought at the explicit request of a supervisor (e.g., minor crew supplies).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Other Approved Costs: As pre-authorized by Flight Operations or Cabin Services Management.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 19,
+                  "heading": "1. Eligible Expenses"
+                },
+                "text": "Personal entertainment, alcohol (unless required for official functions), souvenirs, or gifts are NOT reimbursable."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Expense Limits",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "2. Expense Limits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Meal Allowance: Per-diem rates as per company policy by city/destination (refer to Intranet or ask HR).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Communication: Maximum INR 1,000 per trip, unless pre-approved for higher spend.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Uniform Maintenance: Up to INR 500 per eligible layover.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 29,
+                  "heading": "2. Expense Limits"
+                },
+                "text": "If in doubt, seek written approval from your Line Manager before incurring the expense."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Claim Submission Process",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "a) Documentation Required",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "3. Claim Submission Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "a) Documentation Required"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Original Receipts: Must state amount, date, item/service, and location.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Expense Claim Form: Downloadable from CloudWay 24 Staff Portal.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Supervisor Approval: (If claiming under ‘Other Approved Costs’).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "b) Submission Timeline",
+                "level": 3,
+                "location": {
+                  "line": 40,
+                  "heading": "3. Claim Submission Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "b) Submission Timeline"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Submit claims within 30 days of completion of the trip/duty.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "c) How to Submit",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "3. Claim Submission Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 44,
+                      "heading": "c) How to Submit"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Log in to CloudWay 24 Staff Portal.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Navigate to: HR Services > Expense Claims.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fill in all required details, upload scanned receipts.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Add any required remarks/supervisory approvals.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Submit for Processing.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "4. Processing & Reimbursement",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "4. Processing & Reimbursement"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Claims reviewed within 7 business days.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If approved, reimbursement via salary or direct bank credit in the next pay cycle.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Incomplete or non-compliant claims will be returned for correction.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Contact",
+            "level": 2,
+            "location": {
+              "line": 60,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 62,
+                  "heading": "5. Contact"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "For claim status, contact: HR Helpdesk (hr@cloudway24.com)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For policy clarifications, contact: Flight Ops Admin Team or Cabin Services Admin Team",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 67,
+                  "heading": "5. Contact"
+                },
+                "text": "Remember: Falsification of expenses may result in disciplinary action, up to and including termination of employment."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,933 @@
+{
+  "doc_id": "89082e3dd3f82ccc005b8ecee73b64c9e0e3e52f10d1fc25a322f99539be2d55",
+  "doc_key": [
+    "program_catalog"
+  ],
+  "path": "Cendara University/md/program_catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Academic Programs Summary",
+        "level": 1,
+        "location": {
+          "line": 3
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Cendara University Academic Programs Summary"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "Overview"
+                },
+                "text": "Cendara University offers a comprehensive range of academic programs through its constituent schools and departments. Our commitment to fostering innovation, leadership, and critical inquiry is reflected in the diversity and rigor of our degree offerings. Below is a summary of all degrees, schools, departments, and specialized programs currently available at Cendara University."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Schools and Departments",
+            "level": 2,
+            "location": {
+              "line": 11,
+              "heading": "Cendara University Academic Programs Summary"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. School of Arts & Humanities",
+                "level": 3,
+                "location": {
+                  "line": 13,
+                  "heading": "Schools and Departments"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 15,
+                      "heading": "1. School of Arts & Humanities"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Department of English and Comparative Literature",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of History",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Philosophy",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Modern Languages",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. School of Sciences",
+                "level": 3,
+                "location": {
+                  "line": 20,
+                  "heading": "Schools and Departments"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 22,
+                      "heading": "2. School of Sciences"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Department of Biology",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Chemistry",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Physics",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Mathematics and Statistics",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. School of Engineering & Technology",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Schools and Departments"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 29,
+                      "heading": "3. School of Engineering & Technology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Department of Computer Science",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Mechanical Engineering",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Electrical Engineering",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Civil and Environmental Engineering",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. School of Social Sciences",
+                "level": 3,
+                "location": {
+                  "line": 34,
+                  "heading": "Schools and Departments"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "4. School of Social Sciences"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Department of Psychology",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Political Science",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Sociology and Anthropology",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Economics",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. School of Business",
+                "level": 3,
+                "location": {
+                  "line": 41,
+                  "heading": "Schools and Departments"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 43,
+                      "heading": "5. School of Business"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Department of Management",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Finance and Accounting",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Marketing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Entrepreneurship",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. School of Education",
+                "level": 3,
+                "location": {
+                  "line": 48,
+                  "heading": "Schools and Departments"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 50,
+                      "heading": "6. School of Education"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Department of Curriculum & Instruction",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Special Education",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Educational Leadership",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. School of Health Sciences",
+                "level": 3,
+                "location": {
+                  "line": 54,
+                  "heading": "Schools and Departments"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 56,
+                      "heading": "7. School of Health Sciences"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Department of Nursing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Public Health",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Nutrition and Dietetics",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Degrees Offered",
+            "level": 2,
+            "location": {
+              "line": 62,
+              "heading": "Cendara University Academic Programs Summary"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 64,
+                  "heading": "Degrees Offered"
+                },
+                "header": [
+                  "Degree",
+                  "Schools/Departments"
+                ],
+                "rows": [
+                  [
+                    "Bachelor of Arts (B.A.)",
+                    "English, History, Philosophy, Modern Languages, Psychology, Political Science, Sociology"
+                  ],
+                  [
+                    "Bachelor of Science (B.Sc.)",
+                    "Biology, Chemistry, Physics, Mathematics, Computer Science, Economics, Environmental Engineering"
+                  ],
+                  [
+                    "Bachelor of Engineering (B.Eng.)",
+                    "Mechanical, Electrical, Civil and Environmental Engineering"
+                  ],
+                  [
+                    "Bachelor of Business Administration (B.B.A.)",
+                    "Management, Finance, Marketing, Entrepreneurship"
+                  ],
+                  [
+                    "Bachelor of Education (B.Ed.)",
+                    "Curriculum & Instruction, Special Education"
+                  ],
+                  [
+                    "Bachelor of Nursing Science (B.N.S.)",
+                    "Nursing"
+                  ],
+                  [
+                    "Master of Arts (M.A.)",
+                    "English, History, Modern Languages, Philosophy"
+                  ],
+                  [
+                    "Master of Science (M.Sc.)",
+                    "Biology, Chemistry, Physics, Mathematics, Computer Science, Public Health, Nutrition"
+                  ],
+                  [
+                    "Master of Engineering (M.Eng.)",
+                    "Mechanical, Electrical, Civil and Environmental Engineering"
+                  ],
+                  [
+                    "Master of Business Administration (M.B.A.)",
+                    "Management, Finance, Marketing"
+                  ],
+                  [
+                    "Doctor of Philosophy (Ph.D.)",
+                    "English, History, Biology, Physics, Computer Science, Psychology, Education, Business"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Specialized Programs",
+            "level": 2,
+            "location": {
+              "line": 80,
+              "heading": "Cendara University Academic Programs Summary"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 82,
+                  "heading": "Specialized Programs"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Honors College: Interdisciplinary honors curriculum for high-achieving undergraduates across all schools.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sustainable Technology Initiative: Focused track within Engineering on renewable energy and sustainable infrastructure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "International Business Concentration: Specialized track within B.B.A. and M.B.A. integrating global business studies.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Undergraduate Research Scholars Program: Mentoring and research funding for undergraduates in STEM fields.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Global Education Exchange: Semester-abroad and dual-degree programs with partner institutions in Europe and Asia.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Teacher Residency Program: A year-long mentored teaching placement for M.Ed. students in area schools.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Health Informatics Certification: Post-baccalaureate certificate offered through Health Sciences.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Environmental Policy Minor: Interdisciplinary minor drawing on Environmental Engineering, Political Science, and Economics.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Cendara University Program Catalog",
+        "level": 1,
+        "location": {
+          "line": 93
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "School of Arts & Humanities",
+            "level": 2,
+            "location": {
+              "line": 95,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of English and Comparative Literature",
+                "level": 3,
+                "location": {
+                  "line": 97,
+                  "heading": "School of Arts & Humanities"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 99,
+                      "heading": "Department of English and Comparative Literature"
+                    },
+                    "text": "B.A. in English\nA diverse curriculum covering literature, writing, linguistics, and media studies."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 102,
+                      "heading": "Department of English and Comparative Literature"
+                    },
+                    "text": "M.A./Ph.D. in English\nAdvanced literary analysis, critical theory, and research methods."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of History",
+                "level": 3,
+                "location": {
+                  "line": 105,
+                  "heading": "School of Arts & Humanities"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 107,
+                      "heading": "Department of History"
+                    },
+                    "text": "B.A. in History\nCourses in world history, American history, historical methods, and public history."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 110,
+                      "heading": "Department of History"
+                    },
+                    "text": "M.A./Ph.D. in History\nEmphasis on original research, historiography, and archival studies."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 113,
+                  "heading": "School of Arts & Humanities"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 115,
+                      "heading": "Department of Philosophy"
+                    },
+                    "text": "B.A./M.A. in Philosophy\nTraining in logic, ethics, epistemology, and the history of philosophy."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Sciences",
+            "level": 2,
+            "location": {
+              "line": 120,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Biology",
+                "level": 3,
+                "location": {
+                  "line": 122,
+                  "heading": "School of Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 124,
+                      "heading": "Department of Biology"
+                    },
+                    "text": "B.Sc. in Biology\nConcentrations: Molecular Biology, Ecology, Marine Biology"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 127,
+                      "heading": "Department of Biology"
+                    },
+                    "text": "M.Sc./Ph.D. in Biology\nSpecializations in Genetics, Conservation Biology, and Cell Biology"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 130,
+                  "heading": "School of Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 132,
+                      "heading": "Department of Chemistry"
+                    },
+                    "text": "B.Sc. in Chemistry\nCore curriculum: Organic, Inorganic, Analytical, Physical Chemistry"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 135,
+                      "heading": "Department of Chemistry"
+                    },
+                    "text": "M.Sc. in Chemistry\nResearch-based thesis program in advanced chemistry topics"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Mathematics and Statistics",
+                "level": 3,
+                "location": {
+                  "line": 138,
+                  "heading": "School of Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 140,
+                      "heading": "Department of Mathematics and Statistics"
+                    },
+                    "text": "B.Sc. in Mathematics\nPathways: Pure Mathematics, Applied Mathematics, Data Science"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 143,
+                      "heading": "Department of Mathematics and Statistics"
+                    },
+                    "text": "M.Sc. in Mathematics\nResearch in algebra, combinatorics, and mathematical modeling"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Engineering & Technology",
+            "level": 2,
+            "location": {
+              "line": 148,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Computer Science",
+                "level": 3,
+                "location": {
+                  "line": 150,
+                  "heading": "School of Engineering & Technology"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 152,
+                      "heading": "Department of Computer Science"
+                    },
+                    "text": "B.Sc. in Computer Science\nTracks: Software Engineering, Artificial Intelligence, Cybersecurity"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 155,
+                      "heading": "Department of Computer Science"
+                    },
+                    "text": "M.Sc./Ph.D. in Computer Science\nFocus on research, advanced algorithms, machine learning"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Mechanical Engineering",
+                "level": 3,
+                "location": {
+                  "line": 158,
+                  "heading": "School of Engineering & Technology"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 160,
+                      "heading": "Department of Mechanical Engineering"
+                    },
+                    "text": "B.Eng./M.Eng. in Mechanical Engineering\nCore subjects: Thermodynamics, Mechanics, CAD/CAM, Mechatronics"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Electrical Engineering",
+                "level": 3,
+                "location": {
+                  "line": 163,
+                  "heading": "School of Engineering & Technology"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 165,
+                      "heading": "Department of Electrical Engineering"
+                    },
+                    "text": "B.Eng./M.Eng. in Electrical Engineering\nCourses in circuit analysis, signal processing, embedded systems"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Social Sciences",
+            "level": 2,
+            "location": {
+              "line": 170,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Psychology",
+                "level": 3,
+                "location": {
+                  "line": 172,
+                  "heading": "School of Social Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 174,
+                      "heading": "Department of Psychology"
+                    },
+                    "text": "B.A./M.Sc./Ph.D. in Psychology\nAreas of study: Clinical, Developmental, Cognitive, Social Psychology"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Economics",
+                "level": 3,
+                "location": {
+                  "line": 177,
+                  "heading": "School of Social Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 179,
+                      "heading": "Department of Economics"
+                    },
+                    "text": "B.Sc. in Economics\nSpecializations: Macroeconomics, Econometrics, International Economics"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 182,
+                      "heading": "Department of Economics"
+                    },
+                    "text": "M.Sc. in Economics\nAdvanced microeconomic and macroeconomic theory, applied research"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Business",
+            "level": 2,
+            "location": {
+              "line": 187,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Management",
+                "level": 3,
+                "location": {
+                  "line": 189,
+                  "heading": "School of Business"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 191,
+                      "heading": "Department of Management"
+                    },
+                    "text": "B.B.A./M.B.A. in Management\nEntrepreneurship, human resources, operations, and strategic management"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Finance and Accounting",
+                "level": 3,
+                "location": {
+                  "line": 194,
+                  "heading": "School of Business"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 196,
+                      "heading": "Department of Finance and Accounting"
+                    },
+                    "text": "B.B.A. in Finance\nInvestment analysis, corporate finance, financial markets"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Education",
+            "level": 2,
+            "location": {
+              "line": 201,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Curriculum & Instruction",
+                "level": 3,
+                "location": {
+                  "line": 203,
+                  "heading": "School of Education"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 205,
+                      "heading": "Department of Curriculum & Instruction"
+                    },
+                    "text": "B.Ed. in Elementary Education\nFoundational studies in curriculum development and pedagogy"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 208,
+                      "heading": "Department of Curriculum & Instruction"
+                    },
+                    "text": "M.Ed. in Curriculum & Instruction\nAdvanced curriculum design, instructional theory, classroom technologies"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Health Sciences",
+            "level": 2,
+            "location": {
+              "line": 213,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Nursing",
+                "level": 3,
+                "location": {
+                  "line": 215,
+                  "heading": "School of Health Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 217,
+                      "heading": "Department of Nursing"
+                    },
+                    "text": "B.N.S. in Nursing\nPrepares for registered nurse licensure, clinical placements in partner hospitals"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Public Health",
+                "level": 3,
+                "location": {
+                  "line": 220,
+                  "heading": "School of Health Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 222,
+                      "heading": "Department of Public Health"
+                    },
+                    "text": "B.Sc. in Public Health\nConcentrations: Epidemiology, Health Policy, Community Health"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 225,
+                      "heading": "Department of Public Health"
+                    },
+                    "text": "M.Sc. in Public Health\nResearch in population health, environmental health, health informatics"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Additional Academic Opportunities",
+            "level": 2,
+            "location": {
+              "line": 230,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 232,
+                  "heading": "Additional Academic Opportunities"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Undergraduate Minors: Art History, Creative Writing, Environmental Policy, Global Studies, Data Science",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Double Majors/Dual Degrees: Available in select programs with academic advising",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Evening & Online Programs: Business, Computer Science, and Education courses available online and evenings for working professionals",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 238,
+                  "heading": "Additional Academic Opportunities"
+                },
+                "text": "For full program details, course descriptions, admissions prerequisites, and application deadlines, please refer to the Cendara University Academic Catalog (https://catalog.cendara.edu) or contact the Office of Admissions at admissions@cendara.edu."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

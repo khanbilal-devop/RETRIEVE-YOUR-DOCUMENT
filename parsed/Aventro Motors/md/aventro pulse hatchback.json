@@ -1,0 +1,462 @@
+{
+  "doc_id": "0a03cce183f544e537ad03347104a6aeacf370f0a2a06cc393d9fe1cadce6bf4",
+  "doc_key": [
+    "aventro pulse hatchback"
+  ],
+  "path": "Aventro Motors/md/Aventro Pulse Hatchback.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Pulse Hatchback",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 10,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 12,
+                  "heading": "Overview"
+                },
+                "text": "Aventro Pulse Hatchback is the perfect blend of peppy performance, efficiency, and feature-rich technology, making it an ideal city companion. With striking looks and a youthful personality, Pulse is as versatile as your everyday needs."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Specifications",
+            "level": 2,
+            "location": {
+              "line": 16,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 18,
+                  "heading": "Key Specifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Body Type: Hatchback",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seating Capacity: 5",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Boot Space: 270L (approx.)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety Features: Dual airbags, ABS with EBD, Reverse Parking Sensors (on all variants)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Infotainment: Upto 11-inch touchscreen (on X & ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Advanced Driver Assistance: ADAS from X variant onwards",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Available in: Petrol, Diesel, Electric, Hybrid",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Variant & Price List",
+            "level": 2,
+            "location": {
+              "line": 28,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 30,
+                  "heading": "Variant & Price List"
+                },
+                "header": [
+                  "Variant",
+                  "Fuel Type",
+                  "Trim",
+                  "Price (Lakh)",
+                  "Key Features"
+                ],
+                "rows": [
+                  [
+                    "Pulse Petrol",
+                    "Petrol",
+                    "Base",
+                    "5.5",
+                    "7\" Touchscreen, 2 Airbags, Manual AC, Rear Parking Sensors"
+                  ],
+                  [
+                    "Pulse Petrol",
+                    "Petrol",
+                    "X",
+                    "6.0",
+                    "11\" Infotainment, ADAS L1, Reverse Camera, Auto AC"
+                  ],
+                  [
+                    "Pulse Petrol",
+                    "Petrol",
+                    "ZX",
+                    "6.5",
+                    "11\" Harman System, 360° Camera, ADAS L2, Leather Seats, Alloys"
+                  ],
+                  [
+                    "Pulse Diesel",
+                    "Diesel",
+                    "Base",
+                    "7.5",
+                    "7\" Touchscreen, 2 Airbags, Manual AC, Rear Sensors"
+                  ],
+                  [
+                    "Pulse Diesel",
+                    "Diesel",
+                    "X",
+                    "8.0",
+                    "11\" Infotainment, ADAS L1, Reverse Camera"
+                  ],
+                  [
+                    "Pulse Diesel",
+                    "Diesel",
+                    "ZX",
+                    "8.5",
+                    "11\" Harman System, 360° Camera, ADAS L2, Leather Seats"
+                  ],
+                  [
+                    "Pulse Electric",
+                    "Electric",
+                    "Base",
+                    "12.5",
+                    "7\" Touchscreen, Fast Charging Port"
+                  ],
+                  [
+                    "Pulse Electric",
+                    "Electric",
+                    "X",
+                    "13.0",
+                    "11\" Infotainment, ADAS L1, Fast Charging, Hill Start Assist"
+                  ],
+                  [
+                    "Pulse Electric",
+                    "Electric",
+                    "ZX",
+                    "13.5",
+                    "11\" Harman System, 360° Camera, ADAS L2, Leather Seats"
+                  ],
+                  [
+                    "Pulse Hybrid",
+                    "Hybrid",
+                    "Base",
+                    "9.0",
+                    "7\" Touchscreen, Manual AC, Dual Airbags"
+                  ],
+                  [
+                    "Pulse Hybrid",
+                    "Hybrid",
+                    "X",
+                    "9.5",
+                    "11\" Infotainment, ADAS L1, Auto AC"
+                  ],
+                  [
+                    "Pulse Hybrid",
+                    "Hybrid",
+                    "ZX",
+                    "10.0",
+                    "11\" Harman System, 360° Camera, ADAS L2, Leather Seats"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Feature Highlights",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Standard Across All Variants",
+                "level": 3,
+                "location": {
+                  "line": 49,
+                  "heading": "Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 51,
+                      "heading": "Standard Across All Variants"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dual Airbags",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ABS with EBD",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front Power Windows",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Remote Central Locking",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Manual/Auto AC (from X)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "7\" Touchscreen Infotainment (Base)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "X Variant (From X for All Fuel Types)",
+                "level": 3,
+                "location": {
+                  "line": 58,
+                  "heading": "Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 60,
+                      "heading": "X Variant (From X for All Fuel Types)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch Infotainment System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 1 (Lane Departure Warning, Collision Alert, Auto Emergency Braking)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear View Camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Height Adjustable Driver Seat",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ZX Variant (From ZX for All Fuel Types)",
+                "level": 3,
+                "location": {
+                  "line": 65,
+                  "heading": "Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 67,
+                      "heading": "ZX Variant (From ZX for All Fuel Types)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch Infotainment System with Harman Premium Audio",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 2 (adds Adaptive Cruise, Lane Keep Assist, Traffic Sign Recognition)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "360-Degree Surround View Camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Leather Upholstery",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Alloy Wheels",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wireless Smartphone Connectivity",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Color Options",
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Color Options"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Crimson Red",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pearl White",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Deep Blue",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Graphite Grey",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Silver Mist",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Why Pulse?",
+            "level": 2,
+            "location": {
+              "line": 86,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 88,
+                  "heading": "Why Pulse?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Eco-Friendly options: Choose from Petrol, Diesel, Electric, or Hybrid",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety tech: ADAS Level 1/2 on higher trims",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Premium features: Segment-leading infotainment and comfort in ZX",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "For Test Drive or Enquiry",
+            "level": 2,
+            "location": {
+              "line": 94,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 96,
+                  "heading": "For Test Drive or Enquiry"
+                },
+                "text": "Mail: info@aventromotors.com\nCall: +91 124 1234567"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 99,
+                  "heading": "For Test Drive or Enquiry"
+                },
+                "text": "Or visit your nearest Aventro Service Center (Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune, Kolkata, and more...)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 103,
+                  "heading": "For Test Drive or Enquiry"
+                },
+                "text": "Your City Drive, Accelerated With Aventro Pulse!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

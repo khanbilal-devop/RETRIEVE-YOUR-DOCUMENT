@@ -1,0 +1,499 @@
+{
+  "doc_id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f",
+  "doc_key": [
+    "velvera_nexus"
+  ],
+  "path": "Velvera Technologies/md/velvera_nexus.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Nexus 1 Series — Specifications",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Nexus 1 Series — Specifications"
+            },
+            "text": "The Velvera Nexus 1 Series is built for creators, developers, and productivity-first users. Featuring AI-first architecture powered by Velvera NeuralCore, this series delivers real-time offline intelligence, immersive visuals, and Velvera Studio — a complete AI productivity suite — preinstalled on every device."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Model Variants",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Nexus 1 Series — Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Model Variants"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Velvera Nexus 1 (256GB / 512GB)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Velvera Nexus 1 Pro (512GB / 1TB)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Nexus 1 (Standard Series)",
+            "level": 2,
+            "location": {
+              "line": 14,
+              "heading": "Velvera Nexus 1 Series — Specifications"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Shared Specifications",
+                "level": 3,
+                "location": {
+                  "line": 16,
+                  "heading": "Velvera Nexus 1 (Standard Series)"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 18,
+                      "heading": "Shared Specifications"
+                    },
+                    "header": [
+                      "Component",
+                      "Specification"
+                    ],
+                    "rows": [
+                      [
+                        "Launch Year",
+                        "2024"
+                      ],
+                      [
+                        "Display",
+                        "6.6\" OLED, Full HD+ (2400 × 1080), HDR10, 120Hz, Gorilla Glass Victus"
+                      ],
+                      [
+                        "Chipset",
+                        "Velvera PrimeChip v2.7 (Octa-core, 3.1GHz)"
+                      ],
+                      [
+                        "Neural Engine",
+                        "Velvera NeuralCore X"
+                      ],
+                      [
+                        "GPU",
+                        "Custom AI-optimized"
+                      ],
+                      [
+                        "OS",
+                        "Velvera OS 3.0 (Android 14-based)"
+                      ],
+                      [
+                        "Rear Cameras",
+                        "50MP (wide) + 16MP (ultra-wide) + 8MP (telephoto 3x OIS)"
+                      ],
+                      [
+                        "Front Camera",
+                        "32MP f/2.0"
+                      ],
+                      [
+                        "Video Recording",
+                        "Up to 4K @ 60fps"
+                      ],
+                      [
+                        "Battery",
+                        "5000mAh, 65W wired / 30W wireless / 10W reverse"
+                      ],
+                      [
+                        "Connectivity",
+                        "5G SA/NSA, Wi-Fi 6E, BT 5.3, NFC, USB-C 3.2, Nano + eSIM"
+                      ],
+                      [
+                        "Audio",
+                        "Stereo Speakers, Dolby Atmos, Hi-Res audio formats supported"
+                      ],
+                      [
+                        "Security",
+                        "In-display optical fingerprint, AI Face Unlock"
+                      ],
+                      [
+                        "Build",
+                        "Aluminum frame, matte Gorilla Glass 6 back, IP68"
+                      ],
+                      [
+                        "Sensors",
+                        "Accelerometer, Gyro, Proximity, Compass, Barometer"
+                      ],
+                      [
+                        "Colors",
+                        "Obsidian Black, Aurora Blue, Ivory White"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "AI Features (Standard)",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "Velvera Nexus 1 (Standard Series)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 39,
+                      "heading": "AI Features (Standard)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "On-device transcription (real-time + offline)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Auto-summary of meetings, calls, and notes",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Smart Edit in gallery and notes",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Always-On AI suggestions",
+                        "depth": 0
+                      },
+                      {
+                        "text": "AI portrait and photo enhancement",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Velvera Nexus 1 Variants",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Velvera Nexus 1 (Standard Series)"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 47,
+                      "heading": "Velvera Nexus 1 Variants"
+                    },
+                    "header": [
+                      "Variant",
+                      "Storage",
+                      "RAM",
+                      "Price (INR / USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Nexus 1 256GB",
+                        "256GB UFS 4",
+                        "12GB",
+                        "₹59,999 / $719"
+                      ],
+                      [
+                        "Nexus 1 512GB",
+                        "512GB UFS 4",
+                        "12GB",
+                        "₹67,999 / $819"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Velvera Nexus 1 Pro Series",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Velvera Nexus 1 Series — Specifications"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 56,
+                  "heading": "Velvera Nexus 1 Pro Series"
+                },
+                "text": "Built for professionals, engineers, and creatives, the Nexus 1 Pro Series delivers top-tier specs, advanced AI, and pro-grade performance for productivity, photography, and development tasks."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Shared Specifications",
+                "level": 3,
+                "location": {
+                  "line": 58,
+                  "heading": "Velvera Nexus 1 Pro Series"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 60,
+                      "heading": "Shared Specifications"
+                    },
+                    "header": [
+                      "Component",
+                      "Specification"
+                    ],
+                    "rows": [
+                      [
+                        "Launch Year",
+                        "2024"
+                      ],
+                      [
+                        "Display",
+                        "6.8\" LTPO OLED, Quad HD+ (3200 × 1440), HDR10+, 1–120Hz, Gorilla Glass Victus 2"
+                      ],
+                      [
+                        "Chipset",
+                        "Velvera PrimeChip Ultra (Octa-core, 3.4GHz)"
+                      ],
+                      [
+                        "Neural Engine",
+                        "Velvera NeuralCore X+ (Dual-Core AI accelerator)"
+                      ],
+                      [
+                        "GPU",
+                        "Custom AI-accelerated graphics"
+                      ],
+                      [
+                        "OS",
+                        "Velvera OS 3.0 Pro (Android 14-based)"
+                      ],
+                      [
+                        "Rear Cameras",
+                        "108MP (wide) + 24MP (ultra-wide) + 12MP (5x periscope OIS)"
+                      ],
+                      [
+                        "Front Camera",
+                        "40MP f/1.8 AI Beauty Pro"
+                      ],
+                      [
+                        "Video Recording",
+                        "Up to 8K @ 30fps, 4K @ 120fps"
+                      ],
+                      [
+                        "Battery",
+                        "5200mAh, 80W wired / 50W wireless / 15W reverse"
+                      ],
+                      [
+                        "Connectivity",
+                        "5G (mmWave + sub-6), Wi-Fi 7, BT 5.4, USB-C 4.0 (Thunderbolt), NFC, Nano + eSIM"
+                      ],
+                      [
+                        "Audio",
+                        "Quad stereo speakers, Dolby Atmos Extreme, AptX Adaptive"
+                      ],
+                      [
+                        "Security",
+                        "Ultrasonic fingerprint sensor, NeuralCore Face Unlock"
+                      ],
+                      [
+                        "Build",
+                        "Aerospace-grade Titanium frame, IP69, Textured Gorilla Glass Victus 2"
+                      ],
+                      [
+                        "Sensors",
+                        "Accelerometer, Gyro, Proximity, Compass, Barometer, Thermometer, UWB"
+                      ],
+                      [
+                        "Colors",
+                        "Shadow Black, Arctic Silver, Solar Gold"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "AI Features (Pro)",
+                "level": 3,
+                "location": {
+                  "line": 79,
+                  "heading": "Velvera Nexus 1 Pro Series"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 81,
+                      "heading": "AI Features (Pro)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Live Note: multilingual transcription + real-time captioning",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Smart Edit Pro: AI enhancements for docs, code, and media",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Code inference & suggestion engine (dev-ready)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Contextual translation across all apps (multi-language)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "On-device search, summarization, noise filtering, and voice control",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Velvera Nexus 1 Pro Variants",
+                "level": 3,
+                "location": {
+                  "line": 87,
+                  "heading": "Velvera Nexus 1 Pro Series"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 89,
+                      "heading": "Velvera Nexus 1 Pro Variants"
+                    },
+                    "header": [
+                      "Variant",
+                      "Storage",
+                      "RAM",
+                      "Price (INR / USD)"
+                    ],
+                    "rows": [
+                      [
+                        "Nexus 1 Pro 512GB",
+                        "512GB UFS 4",
+                        "16GB",
+                        "₹74,999 / $899"
+                      ],
+                      [
+                        "Nexus 1 Pro 1TB",
+                        "1TB UFS 4",
+                        "16GB",
+                        "₹89,999 / $1,049"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "What’s in the Box",
+            "level": 2,
+            "location": {
+              "line": 96,
+              "heading": "Velvera Nexus 1 Series — Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 98,
+                  "heading": "What’s in the Box"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Velvera Nexus 1 / Nexus 1 Pro device",
+                    "depth": 0
+                  },
+                  {
+                    "text": "65W / 80W Fast Charger (model-dependent)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "USB-C to USB-C cable",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Protective Case (clear)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SIM Ejector Tool",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Start Guide",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 107,
+                  "heading": "What’s in the Box"
+                },
+                "text": "For users focused on compact power, see the Velvera Edge Series. For flagship all-rounders, refer to the Velvera One Series and Ultra Series."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 109,
+                  "heading": "What’s in the Box"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 111,
+                  "heading": "What’s in the Box"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

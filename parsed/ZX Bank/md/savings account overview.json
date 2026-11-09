@@ -1,0 +1,341 @@
+{
+  "doc_id": "90b1b29fbe5faa35932a59afaa14fa0d02454f08e030d329dbb2d259e0a69f72",
+  "doc_key": [
+    "savings account overview"
+  ],
+  "path": "ZX Bank/md/Savings Account Overview.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Ltd. – Savings Account Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Ltd. – Savings Account Overview"
+            },
+            "text": "ZX Bank’s Savings Account is designed to give you a blend of convenience, security, and rewarding benefits, with a focus on easy access and digital-first banking. Below you'll find detailed information on features, application process, minimum balance, and the exclusive Savings Account Kit offered to new account holders."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Savings Account Features",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Ltd. – Savings Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Savings Account Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Attractive Interest Rates: Earn competitive interest on your daily balance.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Zero or Low Minimum Balance Options: Choose accounts that suit your needs and avoid penalties.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Instant Account Activation: Through fully digital onboarding (e-KYC) and AI-powered support.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Free International Debit Card: Accepted worldwide for shopping, travel, and online payments.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seamless Digital Access: Manage your account via ZX Bank Asia mobile app and NetBanking.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "UPI & QR Payments: Fast money transfers and secure payments on the go.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Reward Points: Earn rewards on all debit transactions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safe & Secure: Biometric login, card controls, and transaction alerts for peace of mind.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Nomination Facility: Assign a nominee for account safety.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply for a ZX Bank Savings Account",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "ZX Bank Ltd. – Savings Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 23,
+                  "heading": "How to Apply for a ZX Bank Savings Account"
+                },
+                "text": "You can open a ZX Bank Savings Account easily through these channels:"
+              }
+            ],
+            "sections": [
+              {
+                "title": "1. Via Mobile App or Website",
+                "level": 3,
+                "location": {
+                  "line": 25,
+                  "heading": "How to Apply for a ZX Bank Savings Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "1. Via Mobile App or Website"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Download the ZX Bank Asia app (Android/iOS) or visit www.zxbank.asia (https://www.zxbank.asia)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Click “Open Savings Account”",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fill in your details and upload necessary documents (PAN/ID, Address Proof)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Complete e-KYC via video or Aadhaar OTP",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Account activation is done within minutes!",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. At Branch",
+                "level": 3,
+                "location": {
+                  "line": 32,
+                  "heading": "How to Apply for a ZX Bank Savings Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 33,
+                      "heading": "2. At Branch"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visit your nearest ZX Bank branch",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Submit KYC documents with a duly filled application form",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Staff will assist you with on-the-spot e-KYC",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Collect your Welcome Kit instantly",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Minimum Balance Requirements",
+            "level": 2,
+            "location": {
+              "line": 40,
+              "heading": "ZX Bank Ltd. – Savings Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 42,
+                  "heading": "Minimum Balance Requirements"
+                },
+                "header": [
+                  "Account Type",
+                  "Minimum Balance"
+                ],
+                "rows": [
+                  [
+                    "Regular Savings",
+                    "₹5,000 (India) / LKR 3,000 (Sri Lanka)"
+                  ],
+                  [
+                    "Digital Zero Balance",
+                    "Nil (No minimum balance)"
+                  ],
+                  [
+                    "Senior Citizens/Students",
+                    "₹1,000 (India)"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 48,
+                  "heading": "Minimum Balance Requirements"
+                },
+                "text": "Note: Minimum balance varies by country and account variant. Please check with your local branch or the website for details."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "ZX Bank Savings Account Kit",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "ZX Bank Ltd. – Savings Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 54,
+                  "heading": "ZX Bank Savings Account Kit"
+                },
+                "text": "All new ZX Bank Savings Account holders receive an exclusive Savings Account Kit, enhancing your banking and travel experiences."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Kit Includes:",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "ZX Bank Savings Account Kit"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 58,
+                      "heading": "Kit Includes:"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Welcome Travel Bag: Stylish, durable bag perfect for daily commutes or travel",
+                        "depth": 0
+                      },
+                      {
+                        "text": "4 Plugs 150 Countries Travel Adapter: A universal adapter supporting plug points in 150 countries - just right for your international adventures!",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Debit Card: Globally accepted EMV chip debit card",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Passbook & Cheque Book: Physical passbook and personalized cheque book (optional in some digital accounts)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "User Guide: Instructions for activating mobile/internet banking, card use, and customer support",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "ZX Bank Ltd. – Savings Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 68,
+                  "heading": "Need Help?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Chat with “Zia”: Your AI-based virtual assistant in the mobile app or on website",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visit our branch or call the 24x7 customer care",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 73,
+                  "heading": "Need Help?"
+                },
+                "text": "Open your ZX Bank Savings Account today to enjoy effortless banking, exciting rewards, and exclusive travel perks!"
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 75,
+                  "heading": "Need Help?"
+                },
+                "text": "For more details, visit www.zxbank.asia (https://www.zxbank.asia) or download ZX Bank Asia from your app store."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

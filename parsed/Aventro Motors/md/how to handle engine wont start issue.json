@@ -1,0 +1,320 @@
+{
+  "doc_id": "ef45e38ea3806cd8eb7f9caf6f559d9fbf182d8e93c266b5ba6b9ea6bce6f751",
+  "doc_key": [
+    "how to handle engine wont start issue"
+  ],
+  "path": "Aventro Motors/md/How to Handle Engine Wont Start Issue.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Handle \"Engine Won't Start\" Issue",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "text": "When your Aventro vehicle’s engine refuses to start, it can be frustrating. Use this step-by-step guide to help diagnose and resolve the problem, or to gather information before contacting an Aventro Service Center."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Check the Basics",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 8,
+                  "heading": "1. Check the Basics"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Gear Position: Ensure the car is in 'Park' (automatic) or 'Neutral' (manual).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Steering Lock: Gently turn the steering wheel while turning the key if steering is locked.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Key/Start Button: Switch ignition off and retry. For push-button start, press brake/clutch while starting.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Battery Check",
+            "level": 2,
+            "location": {
+              "line": 14,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 15,
+                  "heading": "2. Battery Check"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Symptoms: No lights/display, slow/absent cranking sounds, clicking noise.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Actions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Inspect dashboard for dim or no lights.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Try using headlights or infotainment; if dim or off, battery may be the culprit.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "If available, try jump-starting with a healthy battery.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "For Electric variants: Ensure Battery Pack has adequate charge. Attempt Fast Charging if possible.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Fuel System Inspection",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "3. Fuel System Inspection"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Low Fuel/Empty Tank: Check fuel gauge and fill if necessary.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Diesel Vehicles: Ensure there’s no air lock or recent filter change.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hybrid/Electric: Ensure main battery charge is sufficient.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Starter Motor & Electricals",
+            "level": 2,
+            "location": {
+              "line": 31,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 32,
+                  "heading": "4. Starter Motor & Electricals"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Symptoms: Single click or silence, even with good battery.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Actions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Check for blown fuses (refer to user manual location).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Test if interior lights stay bright when key is turned; if yes, suspect starter relay/motor.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Check Engine Warning Lights",
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 40,
+                  "heading": "5. Check Engine Warning Lights"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Look for: Engine/Malfunction lights on dashboard.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Action: If warning lights appear, note down symbol/color for service personnel.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Listen for Sounds",
+            "level": 2,
+            "location": {
+              "line": 45,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "6. Listen for Sounds"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Rapid Clicking: Battery/starter issues.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Engine Cranking (but not starting): Possible fuel, ignition, or electrical problems.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "No Sound at all: Battery, ignition switch, or starter.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Check Engine Components",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "7. Check Engine Components"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Loose Battery Terminals: Tighten if needed.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Corroded Terminals: Clean carefully.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fuses: Replace if blown (carry spare fuses if possible).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Relays: Swap with identical relays if available for testing.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Security Systems: Deactivate aftermarket alarms/immobilizers, if installed.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "8. Call Aventro Roadside Assistance",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "How to Handle \"Engine Won't Start\" Issue"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 62,
+                  "heading": "8. Call Aventro Roadside Assistance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "If the car still won’t start after these checks, contact Aventro Roadside Assistance:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Location: Find nearest Aventro Service Center (#service-center-locations).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Helpline: +91 124 1234567",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

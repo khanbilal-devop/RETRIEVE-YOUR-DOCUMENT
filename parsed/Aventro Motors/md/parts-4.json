@@ -1,0 +1,199 @@
+{
+  "doc_id": "fd79ef64fd7357a57cb58d80e605d4579bcbf33b8594abec82a604ac99ae8206",
+  "doc_key": [
+    "parts-4"
+  ],
+  "path": "Aventro Motors/md/Parts-4.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 2,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "text": "Parts and Services Price List – Industry Standard Reference"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Parts Price List",
+            "level": 2,
+            "location": {
+              "line": 6,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 8,
+                  "heading": "Parts Price List"
+                },
+                "header": [
+                  "S.No",
+                  "Part Name",
+                  "Industry Standard Price (₹, in thousands)",
+                  "Notes"
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Seats",
+                    "18 – 45",
+                    "Varies by material, segment"
+                  ],
+                  [
+                    "2",
+                    "Door Locks",
+                    "2.5 – 7",
+                    "Central locking cost extra"
+                  ],
+                  [
+                    "3",
+                    "Exhaust System",
+                    "9 – 20",
+                    "Depends on vehicle & material"
+                  ],
+                  [
+                    "4",
+                    "Steering Column",
+                    "11 – 22",
+                    "Could be manual or power"
+                  ],
+                  [
+                    "5",
+                    "Side Mirrors",
+                    "2 – 8",
+                    "With/without electrical adjust"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Types of Services & Pricing",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 20,
+                  "heading": "Types of Services & Pricing"
+                },
+                "header": [
+                  "S.No",
+                  "Service Type",
+                  "Industry Standard Price (₹, in thousands)",
+                  "Frequency/Notes"
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Regular Maintenance",
+                    "3.5 – 7.5",
+                    "Per service, varies by model"
+                  ],
+                  [
+                    "2",
+                    "Engine Overhaul",
+                    "18 – 35",
+                    "Rare, depends on engine size"
+                  ],
+                  [
+                    "3",
+                    "Battery Replacement",
+                    "5 – 18 (petrol/diesel)<br>50 – 160 (EV)",
+                    "Lower for standard, high for EV"
+                  ],
+                  [
+                    "4",
+                    "Transmission Repair",
+                    "10 – 28",
+                    "AT costlier than MT"
+                  ],
+                  [
+                    "5",
+                    "Brake Service",
+                    "2.2 – 6.5",
+                    "Pads & discs extra"
+                  ],
+                  [
+                    "6",
+                    "Suspension Check",
+                    "1.2 – 3.5",
+                    "Excludes actual part replacement"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notes",
+            "level": 2,
+            "location": {
+              "line": 31,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 32,
+                  "heading": "Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Prices are in thousands of Indian Rupees (₹), exclusive of taxes and labour unless specified.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Actual prices at Aventro Motors authorized service centers may vary depending on city, model, and part variants.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For Electric Vehicles (EV), battery costs are significantly higher due to advanced technology.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All service estimates are approximations and subject to vehicle condition and variant.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 39,
+                  "heading": "Notes"
+                },
+                "text": "For parts/service-specific quote and booking:\nContact: info@aventromotors.com (mailto:info@aventromotors.com)\nOr visit your nearest Aventro Service Center (#)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

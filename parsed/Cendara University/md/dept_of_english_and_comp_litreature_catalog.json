@@ -1,0 +1,764 @@
+{
+  "doc_id": "6bcfe044aa570e5c1cfdd6c350361ecc59644c50de9c8a1c8ebc4136aab74833",
+  "doc_key": [
+    "dept_of_english_and_comp_litreature_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_English_and_Comp_Litreature_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of English and Comparative Literature",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "2024–2025 Course Catalog",
+                "level": 3,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of English and Comparative Literature"
+                },
+                "blocks": [],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Undergraduate Courses",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "ENGL 101: Introduction to Literature",
+                "level": 3,
+                "location": {
+                  "line": 7,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 9,
+                      "heading": "ENGL 101: Introduction to Literature"
+                    },
+                    "text": "Credits: 3\nDescription:\nFoundational exploration of major genres—poetry, fiction, and drama—from diverse cultures and historical periods. Emphasis on close reading, interpretive strategies, and critical discussion."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 13,
+                      "heading": "ENGL 101: Introduction to Literature"
+                    },
+                    "text": "Prerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 102: Fundamentals of Academic Writing",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 19,
+                      "heading": "ENGL 102: Fundamentals of Academic Writing"
+                    },
+                    "text": "Credits: 3\nDescription:\nPractice in formal writing for a variety of academic disciplines. Topics include thesis development, argumentation, research methods, and citation styles."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 23,
+                      "heading": "ENGL 102: Fundamentals of Academic Writing"
+                    },
+                    "text": "Prerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 203: British Literature I",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 29,
+                      "heading": "ENGL 203: British Literature I"
+                    },
+                    "text": "Credits: 3\nDescription:\nA survey of British literature from the Anglo-Saxon period through the 18th century, including key texts by Chaucer, Shakespeare, and Milton. Attention to literary traditions, historical contexts, and cultural influence."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 33,
+                      "heading": "ENGL 203: British Literature I"
+                    },
+                    "text": "Prerequisites: ENGL 101"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 204: British Literature II",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 39,
+                      "heading": "ENGL 204: British Literature II"
+                    },
+                    "text": "Credits: 3\nDescription:\nContinuation of ENGL 203, focusing on Romanticism, Victorian literature, and Modernism. Authors include Wordsworth, Tennyson, Woolf, and Joyce."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 43,
+                      "heading": "ENGL 204: British Literature II"
+                    },
+                    "text": "Prerequisites: ENGL 101"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 211: American Literature to 1865",
+                "level": 3,
+                "location": {
+                  "line": 47,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 49,
+                      "heading": "ENGL 211: American Literature to 1865"
+                    },
+                    "text": "Credits: 3\nDescription:\nExamination of major works and authors from colonization through the Civil War, including Native American, African American, and immigrant voices."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 53,
+                      "heading": "ENGL 211: American Literature to 1865"
+                    },
+                    "text": "Prerequisites: ENGL 101"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 212: American Literature Since 1865",
+                "level": 3,
+                "location": {
+                  "line": 57,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 59,
+                      "heading": "ENGL 212: American Literature Since 1865"
+                    },
+                    "text": "Credits: 3\nDescription:\nA study of representative American literary works from the late 19th century to the present. Emphasizes realism, modernism, postmodernism, and contemporary trends."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 63,
+                      "heading": "ENGL 212: American Literature Since 1865"
+                    },
+                    "text": "Prerequisites: ENGL 101"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 220: World Literature in Translation",
+                "level": 3,
+                "location": {
+                  "line": 67,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 69,
+                      "heading": "ENGL 220: World Literature in Translation"
+                    },
+                    "text": "Credits: 3\nDescription:\nWorks from outside the British and American traditions, read in English translation. Includes poetry, drama, and prose from Asia, Africa, Latin America, and the Middle East."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 73,
+                      "heading": "ENGL 220: World Literature in Translation"
+                    },
+                    "text": "Prerequisites: ENGL 101"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 231: Introduction to Linguistics",
+                "level": 3,
+                "location": {
+                  "line": 77,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 79,
+                      "heading": "ENGL 231: Introduction to Linguistics"
+                    },
+                    "text": "Credits: 3\nDescription:\nIntroduction to the scientific study of language, including phonetics, syntax, morphology, semantics, and language acquisition."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 83,
+                      "heading": "ENGL 231: Introduction to Linguistics"
+                    },
+                    "text": "Prerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 251: Creative Writing",
+                "level": 3,
+                "location": {
+                  "line": 87,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 89,
+                      "heading": "ENGL 251: Creative Writing"
+                    },
+                    "text": "Credits: 3\nDescription:\nWorkshop-based introduction to writing poetry, short fiction, and creative nonfiction. Supports development of personal voice and style."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 93,
+                      "heading": "ENGL 251: Creative Writing"
+                    },
+                    "text": "Prerequisites: ENGL 102 or instructor permission"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 260: Literature and Film",
+                "level": 3,
+                "location": {
+                  "line": 97,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 99,
+                      "heading": "ENGL 260: Literature and Film"
+                    },
+                    "text": "Credits: 3\nDescription:\nExplores the relationship between written texts and film adaptations. Comparative analysis of narrative strategies, genre conventions, and cultural contexts."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 103,
+                      "heading": "ENGL 260: Literature and Film"
+                    },
+                    "text": "Prerequisites: ENGL 101"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 299: Special Topics in English",
+                "level": 3,
+                "location": {
+                  "line": 107,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 109,
+                      "heading": "ENGL 299: Special Topics in English"
+                    },
+                    "text": "Credits: 1–3\nDescription:\nRotating topics of current interest in literature, writing, or linguistics. Recent offerings have included \"The Gothic Imagination,\" \"Digital Storytelling,\" and \"Eco-Criticism.\""
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 113,
+                      "heading": "ENGL 299: Special Topics in English"
+                    },
+                    "text": "Prerequisites: At least one prior ENGL course"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Upper-Level Undergraduate and Graduate Courses",
+            "level": 2,
+            "location": {
+              "line": 117,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "ENGL 301: Shakespeare",
+                "level": 3,
+                "location": {
+                  "line": 119,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 121,
+                      "heading": "ENGL 301: Shakespeare"
+                    },
+                    "text": "Credits: 3\nDescription:\nIntensive analysis of selected plays and poetry by William Shakespeare. Focus on themes, language, dramatic structure, and socio-historical context."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 125,
+                      "heading": "ENGL 301: Shakespeare"
+                    },
+                    "text": "Prerequisites: ENGL 203"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 315: The African Diaspora in Literature",
+                "level": 3,
+                "location": {
+                  "line": 129,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 131,
+                      "heading": "ENGL 315: The African Diaspora in Literature"
+                    },
+                    "text": "Credits: 3\nDescription:\nStudy of literary works by writers of the African diaspora, addressing themes of identity, migration, and community. Authors include Chimamanda Ngozi Adichie, Derek Walcott, and Ta-Nehisi Coates."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 135,
+                      "heading": "ENGL 315: The African Diaspora in Literature"
+                    },
+                    "text": "Prerequisites: ENGL 101 or 211"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 332: Advanced Grammar and Style",
+                "level": 3,
+                "location": {
+                  "line": 139,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 141,
+                      "heading": "ENGL 332: Advanced Grammar and Style"
+                    },
+                    "text": "Credits: 3\nDescription:\nDetailed examination of English grammar and stylistic conventions, emphasizing practical application in editing and writing."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 145,
+                      "heading": "ENGL 332: Advanced Grammar and Style"
+                    },
+                    "text": "Prerequisites: ENGL 231"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 340: Literary Theory and Criticism",
+                "level": 3,
+                "location": {
+                  "line": 149,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 151,
+                      "heading": "ENGL 340: Literary Theory and Criticism"
+                    },
+                    "text": "Credits: 3\nDescription:\nSurvey of major theoretical frameworks, including structuralism, postcolonialism, feminism, and psychoanalytic criticism. Application to selected texts."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 155,
+                      "heading": "ENGL 340: Literary Theory and Criticism"
+                    },
+                    "text": "Prerequisites: Two 200-level ENGL courses"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 350: Writing for Digital Media",
+                "level": 3,
+                "location": {
+                  "line": 159,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 161,
+                      "heading": "ENGL 350: Writing for Digital Media"
+                    },
+                    "text": "Credits: 3\nDescription:\nStudy and practice of writing for online platforms, including blogs, podcasts, and social media. Attention to audience, ethics, and multimodal storytelling."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 165,
+                      "heading": "ENGL 350: Writing for Digital Media"
+                    },
+                    "text": "Prerequisites: ENGL 102"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 370: Studies in Modern Poetry",
+                "level": 3,
+                "location": {
+                  "line": 169,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 171,
+                      "heading": "ENGL 370: Studies in Modern Poetry"
+                    },
+                    "text": "Credits: 3\nDescription:\nExploration of major poets and modern poetic movements from the 20th century to the present. Includes work from Eliot, Plath, Hughes, Bishop, and Heaney."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 175,
+                      "heading": "ENGL 370: Studies in Modern Poetry"
+                    },
+                    "text": "Prerequisites: ENGL 203 or 204"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 451: Senior Seminar in English",
+                "level": 3,
+                "location": {
+                  "line": 179,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 181,
+                      "heading": "ENGL 451: Senior Seminar in English"
+                    },
+                    "text": "Credits: 3\nDescription:\nCapstone seminar for senior English majors. Students complete independent research projects and present their findings in a public symposium."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 185,
+                      "heading": "ENGL 451: Senior Seminar in English"
+                    },
+                    "text": "Prerequisites: Senior standing; completion of at least two 300-level ENGL courses"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 498: Honors Thesis",
+                "level": 3,
+                "location": {
+                  "line": 189,
+                  "heading": "Upper-Level Undergraduate and Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 191,
+                      "heading": "ENGL 498: Honors Thesis"
+                    },
+                    "text": "Credits: 6 (over two semesters)\nDescription:\nIndividualized research and thesis writing under faculty supervision on a topic approved by the department."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 195,
+                      "heading": "ENGL 498: Honors Thesis"
+                    },
+                    "text": "Prerequisites: Invitation to Honors Program; ENGL 340"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Graduate Courses",
+            "level": 2,
+            "location": {
+              "line": 199,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "ENGL 520: Research Methods in Literary Studies",
+                "level": 3,
+                "location": {
+                  "line": 201,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 203,
+                      "heading": "ENGL 520: Research Methods in Literary Studies"
+                    },
+                    "text": "Credits: 3\nDescription:\nFundamentals of advanced research, bibliographical strategies, and theory application in literary study. Preparation for thesis work."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 207,
+                      "heading": "ENGL 520: Research Methods in Literary Studies"
+                    },
+                    "text": "Prerequisites: Admission to M.A. or Ph.D. program"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 531: Seminar in Comparative Literature",
+                "level": 3,
+                "location": {
+                  "line": 211,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 213,
+                      "heading": "ENGL 531: Seminar in Comparative Literature"
+                    },
+                    "text": "Credits: 3\nDescription:\nComparative analysis of texts from different literary traditions, periods, or languages. Emphasizes interdisciplinary approaches."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 217,
+                      "heading": "ENGL 531: Seminar in Comparative Literature"
+                    },
+                    "text": "Prerequisites: Graduate standing"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 550: Critical Theory",
+                "level": 3,
+                "location": {
+                  "line": 221,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 223,
+                      "heading": "ENGL 550: Critical Theory"
+                    },
+                    "text": "Credits: 3\nDescription:\nClose study of key texts in 20th and 21st-century critical theory. Topics include deconstruction, queer theory, new historicism, and more."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 227,
+                      "heading": "ENGL 550: Critical Theory"
+                    },
+                    "text": "Prerequisites: ENGL 340 or equivalent"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 571: Pedagogy in English Studies",
+                "level": 3,
+                "location": {
+                  "line": 231,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 233,
+                      "heading": "ENGL 571: Pedagogy in English Studies"
+                    },
+                    "text": "Credits: 3\nDescription:\nIntroduction to theories and practices of teaching composition and literature at the college level. Includes supervised teaching practicum."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 237,
+                      "heading": "ENGL 571: Pedagogy in English Studies"
+                    },
+                    "text": "Prerequisites: Graduate standing"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 598: Directed Reading",
+                "level": 3,
+                "location": {
+                  "line": 241,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 243,
+                      "heading": "ENGL 598: Directed Reading"
+                    },
+                    "text": "Credits: 1–3\nDescription:\nSupervised reading program on a specialized topic not covered in regular courses, developed in consultation with a faculty mentor."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 247,
+                      "heading": "ENGL 598: Directed Reading"
+                    },
+                    "text": "Prerequisites: Departmental approval"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ENGL 599: Thesis Research",
+                "level": 3,
+                "location": {
+                  "line": 251,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 253,
+                      "heading": "ENGL 599: Thesis Research"
+                    },
+                    "text": "Credits: 6 (over two semesters)\nDescription:\nM.A. and Ph.D. thesis research and writing under supervision of a departmental advisor. Oral defense required."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 257,
+                      "heading": "ENGL 599: Thesis Research"
+                    },
+                    "text": "Prerequisites: Completion of coursework and proposal approval"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 261,
+                      "heading": "ENGL 599: Thesis Research"
+                    },
+                    "text": "Note:\nSome courses may be offered only in alternate years or terms. For scheduling and instructor assignments, consult the departmental website or contact the Office of the Registrar."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

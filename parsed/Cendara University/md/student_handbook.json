@@ -1,0 +1,1164 @@
+{
+  "doc_id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54",
+  "doc_key": [
+    "student_handbook"
+  ],
+  "path": "Cendara University/md/student_handbook.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Student Handbook",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Table of Contents",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 5,
+                  "heading": "Table of Contents"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Welcome Message (#welcome-message)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Campus Overview (#campus-overview)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Academic Policies (#academic-policies)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Academic Standards",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Grading System",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Attendance Policy",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Academic Integrity Policy",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Course Registration and Withdrawal",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Campus Life (#campus-life)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Student Organizations",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Residence Life",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dining Services",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Campus Events",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Athletics & Recreation",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Student Resources (#student-resources)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Library Services",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Health & Wellness Center",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Counseling Services",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Career Development",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Technology Support",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Code of Conduct (#code-of-conduct)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety & Security (#safety--security)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Diversity & Inclusion (#diversity--inclusion)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Important Contacts (#important-contacts)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Welcome Message",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 34,
+                  "heading": "Welcome Message"
+                },
+                "text": "Dear Cendara University Students,"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 36,
+                  "heading": "Welcome Message"
+                },
+                "text": "Welcome to Cendara University! We are excited to have you as part of our vibrant, diverse, and innovative community. This handbook is designed to be your guide to campus life, helping you navigate academic expectations, student support resources, community standards, and the myriad opportunities available. If you have any questions, please reach out to Student Affairs at student.affairs@cendara.edu."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 38,
+                  "heading": "Welcome Message"
+                },
+                "text": "Wishing you a successful year ahead,"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 40,
+                  "heading": "Welcome Message"
+                },
+                "text": "Dr. Susan A. Forelli\nVice President for Student Affairs"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Campus Overview",
+            "level": 2,
+            "location": {
+              "line": 45,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 47,
+                  "heading": "Campus Overview"
+                },
+                "text": "Cendara University is located in the thriving city of Larkspur, blending urban energy with the serenity of a landscaped, modern campus. Founded in 1927, Cendara is home to over 8,000 undergraduate and graduate students. Our campus includes:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "Campus Overview"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Arches Academic Complex: Home to the Faculty of Sciences and lecture halls.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Silverleaf Library: Centrally located with extensive study spaces and digital resources.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Aspen Residence Hall: A state-of-the-art dormitory for first-year students.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Willows Student Center: Hub for student organizations and recreational activities.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cendara Athletics Pavilion: Fitness center, swimming pool, and courts.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Academic Policies",
+            "level": 2,
+            "location": {
+              "line": 57,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Academic Standards",
+                "level": 3,
+                "location": {
+                  "line": 59,
+                  "heading": "Academic Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 61,
+                      "heading": "Academic Standards"
+                    },
+                    "text": "All students must maintain satisfactory academic progress, defined as a minimum cumulative GPA of 2.0 for undergraduates and 3.0 for graduate students, and complete at least 67% of attempted credits per semester."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Grading System",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Academic Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 65,
+                      "heading": "Grading System"
+                    },
+                    "text": "Cendara University uses the following grading scale:"
+                  },
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 67,
+                      "heading": "Grading System"
+                    },
+                    "header": [
+                      "Grade",
+                      "Percentage",
+                      "GPA Points",
+                      "Description"
+                    ],
+                    "rows": [
+                      [
+                        "A",
+                        "93-100%",
+                        "4.00",
+                        "Excellent"
+                      ],
+                      [
+                        "A-",
+                        "90-92%",
+                        "3.70",
+                        ""
+                      ],
+                      [
+                        "B+",
+                        "87-89%",
+                        "3.30",
+                        "Very Good"
+                      ],
+                      [
+                        "B",
+                        "83-86%",
+                        "3.00",
+                        "Good"
+                      ],
+                      [
+                        "B-",
+                        "80-82%",
+                        "2.70",
+                        ""
+                      ],
+                      [
+                        "C+",
+                        "77-79%",
+                        "2.30",
+                        "Satisfactory"
+                      ],
+                      [
+                        "C",
+                        "73-76%",
+                        "2.00",
+                        ""
+                      ],
+                      [
+                        "C-",
+                        "70-72%",
+                        "1.70",
+                        ""
+                      ],
+                      [
+                        "D",
+                        "60-69%",
+                        "1.00",
+                        "Marginal Pass"
+                      ],
+                      [
+                        "F",
+                        "0-59%",
+                        "0.00",
+                        "Fail"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Attendance Policy",
+                "level": 3,
+                "location": {
+                  "line": 80,
+                  "heading": "Academic Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 82,
+                      "heading": "Attendance Policy"
+                    },
+                    "text": "Students are expected to attend all scheduled classes. Absences exceeding 20% of class meetings may result in grade penalties or withdrawal from the course. Medical or emergency absences require official documentation."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Academic Integrity Policy",
+                "level": 3,
+                "location": {
+                  "line": 84,
+                  "heading": "Academic Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 86,
+                      "heading": "Academic Integrity Policy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Plagiarism: All work must be original. Copying or paraphrasing without citation is prohibited.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cheating: Using unauthorized materials during exams or assignments is strictly forbidden.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Collaboration: Only permitted when expressly authorized by the instructor.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Consequences: Violations may result in a failing grade, formal warning, suspension, or expulsion.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Course Registration and Withdrawal",
+                "level": 3,
+                "location": {
+                  "line": 91,
+                  "heading": "Academic Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 93,
+                      "heading": "Course Registration and Withdrawal"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Registration opens twice a year: May 10 for Fall, November 15 for Spring.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Add/Drop Period: First two weeks of the semester.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Withdrawal deadline: End of Week 10. W on transcript, no impact on GPA.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Late withdrawal requests require approval from the Dean of Students.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Campus Life",
+            "level": 2,
+            "location": {
+              "line": 100,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Student Organizations",
+                "level": 3,
+                "location": {
+                  "line": 102,
+                  "heading": "Campus Life"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 104,
+                      "heading": "Student Organizations"
+                    },
+                    "text": "Cendara students pursue passions through 90+ clubs and societies, including:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 106,
+                      "heading": "Student Organizations"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Cendara Debate Society",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Women in Robotics",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Black Student Union",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Green Thumb (Environmental Club)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "International Students Association",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Chess and Go Club",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 113,
+                      "heading": "Student Organizations"
+                    },
+                    "text": "You can start a new organization by submitting a proposal to the Student Life Office."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Residence Life",
+                "level": 3,
+                "location": {
+                  "line": 115,
+                  "heading": "Campus Life"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 117,
+                      "heading": "Residence Life"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Residence Halls: Aspen, Birch, Linden, and Juniper Halls.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Room Assignment: Incoming first-years guaranteed housing; upperclass students apply via housing lottery.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Resident Advisors (RAs): Each floor has an RA for support and community events.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Quiet Hours: 10:00 PM – 8:00 AM weekdays; midnight – 9:00 AM weekends.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Dining Services",
+                "level": 3,
+                "location": {
+                  "line": 122,
+                  "heading": "Campus Life"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 124,
+                      "heading": "Dining Services"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dining Halls: Oakleaf Commons and Willow Café. Vegetarian, vegan, and gluten-free meal options available.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Meal Plans: All resident students must purchase a meal plan (Silver, Gold, Platinum).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Hours: 7:00 AM – 10:00 PM weekdays; 8:00 AM – 9:00 PM weekends.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Campus Events",
+                "level": 3,
+                "location": {
+                  "line": 128,
+                  "heading": "Campus Life"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 130,
+                      "heading": "Campus Events"
+                    },
+                    "text": "Signature campus events include:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 132,
+                      "heading": "Campus Events"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Welcome Week: Social, academic, and orientation activities for all new students, August 28 – September 2.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Spring Carnival: April 21–23 — music, food trucks, inflatables, and art showcases.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Research Expo: November 3 — student research presentations and guest speakers.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cultural Night: March 10 — celebrating campus diversity with performance and cuisine.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Athletics & Recreation",
+                "level": 3,
+                "location": {
+                  "line": 137,
+                  "heading": "Campus Life"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 139,
+                      "heading": "Athletics & Recreation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Varsity Teams: Falcons (Basketball, Soccer, Volleyball, Track & Field)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Intramural Sports: Flag Football, Ultimate Frisbee, Table Tennis, Badminton",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fitness Classes: Yoga, Zumba, HIIT, Aqua Aerobics offered at Cendara Athletics Pavilion.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Outdoor Trails: 3 miles of walking and jogging paths through Cendara Arboretum.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Student Resources",
+            "level": 2,
+            "location": {
+              "line": 146,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Library Services",
+                "level": 3,
+                "location": {
+                  "line": 148,
+                  "heading": "Student Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 150,
+                      "heading": "Library Services"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Silverleaf Library: 120,000 print volumes, 400,000 digital items, 100 study carrels.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Hours: 8:00 AM – midnight (Mon–Thurs), closes at 10:00 PM Fri–Sun.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Services:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Research consultations",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Laptop loans",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Group study rooms (reserve online)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Printing and scanning",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Health & Wellness Center",
+                "level": 3,
+                "location": {
+                  "line": 158,
+                  "heading": "Student Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 160,
+                      "heading": "Health & Wellness Center"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Location: West end of Arches Academic Complex",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Hours: 8:30 AM – 6:00 PM (Weekdays)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Services:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "General health (routine check-ups, immunizations)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Sexual health and counseling",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Telemedicine appointments",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Counseling Services",
+                "level": 3,
+                "location": {
+                  "line": 167,
+                  "heading": "Student Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 169,
+                      "heading": "Counseling Services"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Confidential mental health support",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Free short-term individual counseling",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Support groups on topics such as stress, anxiety, and academic pressure",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Workshops and outreach programs",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Career Development",
+                "level": 3,
+                "location": {
+                  "line": 174,
+                  "heading": "Student Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 176,
+                      "heading": "Career Development"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Resources:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Resume and cover letter reviews",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Mock interviews",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Alumni networking events",
+                        "depth": 1
+                      },
+                      {
+                        "text": "On-campus career fairs (Fall and Spring)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Internship and job search portal available at careers.cendara.edu (https://careers.cendara.edu)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Technology Support",
+                "level": 3,
+                "location": {
+                  "line": 183,
+                  "heading": "Student Resources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 185,
+                      "heading": "Technology Support"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "IT Help Desk: helpdesk@cendara.edu, (473) 555-0197",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Services:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Free campus Wi-Fi (use login: studentID@cendara.edu)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Computer labs in Academic Complex and Library",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Software downloads (Microsoft 365, Matlab, Adobe Creative Suite)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "24/7 emergency tech support",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Code of Conduct",
+            "level": 2,
+            "location": {
+              "line": 194,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 196,
+                  "heading": "Code of Conduct"
+                },
+                "text": "Cendara University expects all students to uphold principles of respect, responsibility, and integrity. The following are strictly prohibited:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 198,
+                  "heading": "Code of Conduct"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Harassment, discrimination, or hate speech of any kind",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Violence, threats, or intimidation",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Theft or destruction of property",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Alcohol or drug use on campus (unless permitted at registered, age-verified events)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Academic dishonesty (see Academic Integrity Policy)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 204,
+                  "heading": "Code of Conduct"
+                },
+                "text": "Violations are subject to investigation and disciplinary action, including warnings, probation, suspension, and expulsion. Appeals can be made through the Office of Student Conduct."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Safety & Security",
+            "level": 2,
+            "location": {
+              "line": 208,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 210,
+                  "heading": "Safety & Security"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Campus Safety Office: Located in Willows Student Center (open 24/7)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Emergency Contacts: (473) 555-0111 (emergency), (473) 555-0120 (non-emergency)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safe Ride Program: Free rides from 6:00 PM to 2:00 AM daily",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Blue Light Phones: 25 locations across campus for immediate assistance",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fire Drills & Emergency Procedures: Conducted each semester—see posted instructions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personal Property Tips:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lock doors and bikes at all times.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Report suspicious activity.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Register laptops and valuables with Campus Safety.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Diversity & Inclusion",
+            "level": 2,
+            "location": {
+              "line": 222,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 224,
+                  "heading": "Diversity & Inclusion"
+                },
+                "text": "Cendara University is committed to building a welcoming and equitable community. The Office of Diversity, Equity, & Inclusion (ODEI) leads campus-wide efforts in:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 226,
+                  "heading": "Diversity & Inclusion"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Bias incident reporting and response",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Support for affinity groups (LGBTQ+, cultural groups, first-generation students)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Workshops on cultural competence and allyship",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Scholarships and mentoring for underrepresented students",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 231,
+                  "heading": "Diversity & Inclusion"
+                },
+                "text": "For more information, contact odei@cendara.edu or visit their office in the Willows Student Center."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Contacts",
+            "level": 2,
+            "location": {
+              "line": 235,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 237,
+                  "heading": "Important Contacts"
+                },
+                "header": [
+                  "Office",
+                  "Location",
+                  "Phone",
+                  "Email"
+                ],
+                "rows": [
+                  [
+                    "Student Affairs",
+                    "Willows Student Center, 2nd Fl.",
+                    "(473) 555-0150",
+                    "student.affairs@cendara.edu"
+                  ],
+                  [
+                    "Academic Advising",
+                    "Arches Complex, Room 104",
+                    "(473) 555-0172",
+                    "advising@cendara.edu"
+                  ],
+                  [
+                    "Residence Life",
+                    "Birch Hall, Lobby",
+                    "(473) 555-0166",
+                    "reslife@cendara.edu"
+                  ],
+                  [
+                    "Health & Wellness",
+                    "Arches Complex, West End",
+                    "(473) 555-0184",
+                    "healthcenter@cendara.edu"
+                  ],
+                  [
+                    "Counseling Services",
+                    "Willows Student Center, 3rd Fl.",
+                    "(473) 555-0135",
+                    "counseling@cendara.edu"
+                  ],
+                  [
+                    "Campus Safety",
+                    "Willows Student Center, 1st Fl.",
+                    "(473) 555-0111",
+                    "safety@cendara.edu"
+                  ],
+                  [
+                    "Diversity, Equity & Inclusion",
+                    "Willows Student Center, 1st Fl.",
+                    "(473) 555-0243",
+                    "odei@cendara.edu"
+                  ],
+                  [
+                    "Library",
+                    "Silverleaf Library, Main Desk",
+                    "(473) 555-0142",
+                    "library@cendara.edu"
+                  ],
+                  [
+                    "IT Help Desk",
+                    "Academic Complex, Room 017",
+                    "(473) 555-0197",
+                    "helpdesk@cendara.edu"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 251,
+                  "heading": "Important Contacts"
+                },
+                "text": "For questions or updates to this handbook, please contact student.affairs@cendara.edu."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

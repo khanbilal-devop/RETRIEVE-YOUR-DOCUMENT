@@ -1,0 +1,200 @@
+{
+  "doc_id": "87e91083023e08d3e9204bb31fceb292f3fef71709c5f577c1806c86badd86e3",
+  "doc_key": [
+    "awards_and_recognition"
+  ],
+  "path": "Velvera Technologies/md/awards_and_recognition.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera: Awards and Recognition",
+        "level": 1,
+        "location": {
+          "line": 2
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 4,
+              "heading": "Velvera: Awards and Recognition"
+            },
+            "text": "Our commitment to ethical innovation, privacy leadership, and sustainable excellence has been recognized by renowned industry authorities and global institutions. Below is a selection of our most meaningful accolades and recognitions."
+          },
+          {
+            "type": "table",
+            "location": {
+              "line": 8,
+              "heading": "Velvera: Awards and Recognition"
+            },
+            "header": [
+              "Award / Recognition",
+              "Organization",
+              "Year",
+              "Recognized Product/Category",
+              "Description",
+              "Country"
+            ],
+            "rows": [
+              [
+                "Red Dot Product Design Award – Winner",
+                "Red Dot GmbH & Co. KG",
+                "2025",
+                "Velvera One Pro",
+                "Honored for exceptional product design harmonizing ergonomics, aesthetics, and sustainability.",
+                "Germany"
+              ],
+              [
+                "Global 100 Most Ethical Companies",
+                "Ethisphere Institute",
+                "2025",
+                "Corporate Ethics & Responsibility",
+                "Awarded for transparent supply chain, fair labor, and industry-leading privacy standards.",
+                "USA"
+              ],
+              [
+                "Privacy Innovation Award – Mobile",
+                "European Data Protection Authority",
+                "2024",
+                "Hardware-level Privacy & Security",
+                "Recognized for world-class device encryption and hardware-embedded privacy on all Velvera devices.",
+                "EU"
+              ],
+              [
+                "Best Green Consumer Electronics Brand",
+                "GreenTech World Awards",
+                "2025",
+                "Sustainability & Circular Economy",
+                "Cited for carbon-neutral manufacturing, recyclable packaging, and take-back/e-waste programs.",
+                "UK"
+              ],
+              [
+                "IF Design Award – Communication Technology",
+                "International Forum Design (iF)",
+                "2025",
+                "Velvera Nexus 1 Pro",
+                "Honored for minimalist interface and seamless AI integration enhancing productivity and accessibility.",
+                "Germany"
+              ],
+              [
+                "Mobile Security Leadership Award",
+                "Frost & Sullivan",
+                "2024",
+                "Enterprise Mobile Security",
+                "Awarded for pioneering secure boot architecture and device management for enterprise clients.",
+                "USA"
+              ],
+              [
+                "Gold Certification – EcoVadis",
+                "EcoVadis SAS",
+                "2025",
+                "Environmental, Social, Governance",
+                "Scored in the top 5% globally for sustainability and ethical business practices.",
+                "France"
+              ],
+              [
+                "Editor’s Choice – Best Premium Smartphone",
+                "TechRadar Global Awards",
+                "2025",
+                "Velvera One Ultra",
+                "Selected for build quality, software longevity, and privacy-first features amid fierce competition.",
+                "UK/Global"
+              ],
+              [
+                "Outstanding Contribution to Circular Tech",
+                "Sustainable Tech Foundation",
+                "2025",
+                "Device Longevity & Material Recovery",
+                "Recognized for achieving 90%+ recyclable materials across all product lines.",
+                "Switzerland"
+              ],
+              [
+                "Top Startup Employer – Consumer Technology",
+                "LinkedIn / Digital India Chamber",
+                "2024",
+                "Corporate Culture & Employee Growth",
+                "Named for progressive workplace policies, upskilling, and strong employee retention rates.",
+                "India"
+              ]
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "title": "Award Highlights",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "Velvera: Awards and Recognition"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 25,
+                  "heading": "Award Highlights"
+                },
+                "text": "Red Dot Product Design Award (2025) – Velvera One Pro\nVelvera’s signature flagship earned one of the world’s most prestigious design distinctions for its synthesis of durable materials, tactile comfort, and timeless visual identity."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 28,
+                  "heading": "Award Highlights"
+                },
+                "text": "Global 100 Most Ethical Companies (2025) – Ethisphere Institute\nRecognized among the world’s most principled companies for unwavering commitment to transparency, privacy, and social responsibility throughout the organization."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 31,
+                  "heading": "Award Highlights"
+                },
+                "text": "Privacy Innovation Award – European Data Protection Authority (2024)\nCommending Velvera for industry-first hardware-based encryption and privacy protocols, setting a new benchmark for consumer device security in the EU."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 34,
+                  "heading": "Award Highlights"
+                },
+                "text": "Gold EcoVadis Certification (2025)\nAwarded to Velvera for leading environmental performance, responsible sourcing, and carbon footprint minimization—ranking in the global top tier for sustainable operations."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 37,
+                  "heading": "Award Highlights"
+                },
+                "text": "IF Design Award – Velvera Nexus 1 Pro (2025)\nCelebrating excellence in user interface and AI-driven productivity, reinforcing Velvera’s leadership in functional minimalism and accessibility."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 40,
+                  "heading": "Award Highlights"
+                },
+                "text": "Editor’s Choice – TechRadar Global Awards (2025)\nVelvera One Ultra named the premium smartphone of the year for balancing uncompromising security with modern features and standout design."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 45,
+                  "heading": "Award Highlights"
+                },
+                "text": "Velvera remains steadfast in advancing the frontiers of ethical technology, delivering award-winning products and practices that define the future of mobile innovation."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

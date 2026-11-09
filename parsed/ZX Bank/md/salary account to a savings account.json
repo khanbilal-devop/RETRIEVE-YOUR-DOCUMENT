@@ -1,0 +1,319 @@
+{
+  "doc_id": "db095abcb044747f55bfd7585d4ba1a1b06f8c1317fc00f546c78d136106c04e",
+  "doc_key": [
+    "salary account to a savings account"
+  ],
+  "path": "ZX Bank/md/Salary Account to a Savings Account.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Convert Your Salary Account to a Savings Account at ZX Bank",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Convert Your Salary Account to a Savings Account at ZX Bank"
+            },
+            "text": "If your employment has changed, or your salary account is no longer receiving regular salary credits, you may need to convert your Salary Account to a regular Savings Account. At ZX Bank, this process is straightforward. Here’s how you can do it:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Why Convert Your Salary Account?",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Convert Your Salary Account to a Savings Account at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Why Convert Your Salary Account?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Salary accounts are typically provided to employees for salary credits and have special benefits.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If salary credits stop (for 3+ months), your account may be automatically converted to a Savings Account by the bank, but manual conversion avoids service interruptions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Savings accounts have different features and requirements, including minimum balance criteria.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Steps to Convert Salary Account to Savings Account",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "How to Convert Your Salary Account to a Savings Account at ZX Bank"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Visit Your Home Branch",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "Steps to Convert Salary Account to Savings Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 19,
+                      "heading": "1. Visit Your Home Branch"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Locate your nearest ZX Bank branch (especially the one where you opened your salary account).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Carry valid proof of identity (Aadhaar, PAN Card, Passport, etc.) and account passbook/debit card.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Fill Out the Account Conversion Request Form",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "Steps to Convert Salary Account to Savings Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "2. Fill Out the Account Conversion Request Form"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Request a Salary to Savings Account Conversion Form at the branch.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fill in your details, mention your account number, and select “Convert to Savings Account.”",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Attach self-attested copies of requested KYC documents (if required).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Submit the Form and Documents",
+                "level": 3,
+                "location": {
+                  "line": 28,
+                  "heading": "Steps to Convert Salary Account to Savings Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "3. Submit the Form and Documents"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Hand over the filled form and documents to the branch staff.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "The staff will verify your documents and initiate the conversion process.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Maintain Minimum Balance",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Steps to Convert Salary Account to Savings Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 35,
+                      "heading": "4. Maintain Minimum Balance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Ensure you maintain the required minimum balance for Savings Accounts as per ZX Bank guidelines, to avoid charges.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Get Confirmation",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "Steps to Convert Salary Account to Savings Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 39,
+                      "heading": "5. Get Confirmation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "You will receive confirmation via SMS/email once the conversion is complete.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Existing debit card, chequebook, and account number typically remain unchanged.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Alternative: Conversion via Digital Banking",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "How to Convert Your Salary Account to a Savings Account at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 46,
+                  "heading": "Alternative: Conversion via Digital Banking"
+                },
+                "text": "ZX Bank also enables digital requests:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "Alternative: Conversion via Digital Banking"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Open the ZX Bank Asia Mobile App or log into NetBanking.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Go to “Service Requests” > “Convert Salary Account to Savings Account.”",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fill in details and upload necessary KYC docs, if asked.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Receive confirmation after processing.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 55,
+              "heading": "How to Convert Your Salary Account to a Savings Account at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 57,
+                  "heading": "Need Help?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Call Customer Care: ZX Bank Contact (https://www.zxbank.asia/contact)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visit your Branch: Find locations here (https://www.zxbank.asia/branches)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use Zia, the AI Chatbot: Available in the ZX Bank Asia app for instant assistance",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 63,
+                  "heading": "Need Help?"
+                },
+                "text": "Note: If the account is not converted and continues to have no salary credits, ZX Bank may automatically convert it to a savings account after a stipulated period as per bank policy."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 67,
+                  "heading": "Need Help?"
+                },
+                "text": "ZX Bank Ltd. | Your trusted banking partner in South Asia"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

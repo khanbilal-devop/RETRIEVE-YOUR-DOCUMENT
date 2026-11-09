@@ -1,0 +1,394 @@
+{
+  "doc_id": "f4a3259b1b6e5564af2c15176ddd113992cb915e6c0379acc45686f8087fc595",
+  "doc_key": [
+    "adjusting the steering wheel"
+  ],
+  "path": "Aventro Motors/md/Adjusting the Steering Wheel.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Adjusting the Steering Wheel",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "text": "Proper steering wheel adjustment is essential for comfortable and safe driving. Follow these steps to adjust your steering wheel for an optimal driving position."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Why Adjust the Steering Wheel?",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Why Adjust the Steering Wheel?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Comfort: Reduces fatigue during long drives.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Control: Ensures effective steering and better handling.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety: Ensures clear view of the instrument cluster and optimal airbag positioning.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Types of Steering Wheel Adjustments",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 17,
+                  "heading": "Types of Steering Wheel Adjustments"
+                },
+                "text": "Most Aventro Motors vehicles come with either or both of the following:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 19,
+                  "heading": "Types of Steering Wheel Adjustments"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Tilt Adjustment: Allows the wheel to move up and down.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Telescopic Adjustment: Allows the wheel to move closer or farther from the driver.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step-by-Step Guide",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Park the Vehicle Safely",
+                "level": 3,
+                "location": {
+                  "line": 26,
+                  "heading": "Step-by-Step Guide"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 27,
+                      "heading": "1. Park the Vehicle Safely"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Ensure the vehicle is on a flat surface and engage the parking brake.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Turn off the engine for safety.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Locate the Adjustment Lever",
+                "level": 3,
+                "location": {
+                  "line": 30,
+                  "heading": "Step-by-Step Guide"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "2. Locate the Adjustment Lever"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Look for the steering adjustment lever beneath or on the side of the steering column, usually beneath the wheel.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Release the Lever",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Step-by-Step Guide"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 34,
+                      "heading": "3. Release the Lever"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Pull (or push, depending on the model) the adjustment lever to unlock the steering wheel movement.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Adjust the Steering Wheel",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "Step-by-Step Guide"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "4. Adjust the Steering Wheel"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Tilt: Move the wheel up or down to a comfortable height.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Telescopic: Pull the wheel towards you or push it away to set a comfortable distance.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "The steering wheel should not obstruct your view of the gauges.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Lock the Steering Wheel Position",
+                "level": 3,
+                "location": {
+                  "line": 41,
+                  "heading": "Step-by-Step Guide"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 42,
+                      "heading": "5. Lock the Steering Wheel Position"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Once set, firmly push the adjustment lever back to the locked position.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Check Positioning",
+                "level": 3,
+                "location": {
+                  "line": 44,
+                  "heading": "Step-by-Step Guide"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 45,
+                      "heading": "6. Check Positioning"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "With your back against the seat, extend your arms and rest your wrists on top of the wheel; your elbows should be slightly bent.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ensure there is at least 25 cm (10 inches) between your chest and the wheel (important for airbag safety).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Confirm that all indicator lights and gauges are fully visible.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Tips",
+            "level": 2,
+            "location": {
+              "line": 51,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Adjust your seat first before the steering wheel.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If your vehicle has a heated steering wheel or steering wheel memory settings, consult your owner's manual for additional features.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Never adjust the steering wheel while driving.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Troubleshooting",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "Troubleshooting"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Stuck Lever: Check for obstructions under/around the lever or consult your nearest Aventro Service Center.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loose Wheel: Ensure the lever is locked; if the wheel remains loose, have it inspected by a professional.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "For Further Assistance",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 68,
+                  "heading": "For Further Assistance"
+                },
+                "text": "If you encounter issues or need help with adjustments, visit your nearest Aventro Service Center (#) or contact Aventro Motors Support:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 70,
+                  "heading": "For Further Assistance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Email: info@aventromotors.com",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Phone: +91 124 1234567",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 75,
+                  "heading": "For Further Assistance"
+                },
+                "text": "Drive safely and comfortably!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

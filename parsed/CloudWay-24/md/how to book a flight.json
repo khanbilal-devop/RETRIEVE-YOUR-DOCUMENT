@@ -1,0 +1,419 @@
+{
+  "doc_id": "5236c3d8324a9f4709f355f7d2b9f1823d89f2b08920fac01ef7c65b4186e496",
+  "doc_key": [
+    "how to book a flight"
+  ],
+  "path": "CloudWay-24/md/How to Book a Flight.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Book a Flight with CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Book a Flight with CloudWay 24"
+            },
+            "text": "CloudWay 24 offers an easy and seamless booking experience via their website and mobile app (available for iOS and Android). Follow these steps to book your next international journey!"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Step-by-Step Guide to Booking a Flight",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Book a Flight with CloudWay 24"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Sign Up / Log In",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 10,
+                      "heading": "1. Sign Up / Log In"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visit CloudWay24.com (https://cloudway24.com) or open the CloudWay 24 app.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sign up or log in using your email address or mobile number.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Start Your Booking",
+                "level": 3,
+                "location": {
+                  "line": 15,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 16,
+                      "heading": "2. Start Your Booking"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Click or tap on \"Plan My Flight\".",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Select Your Trip Type",
+                "level": 3,
+                "location": {
+                  "line": 20,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 21,
+                      "heading": "3. Select Your Trip Type"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Choose either:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Round Trip",
+                        "depth": 1
+                      },
+                      {
+                        "text": "One Way",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Choose Your Route",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "4. Choose Your Route"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Select your:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Source city (e.g., Mumbai, Delhi, Bengaluru)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Destination city (e.g., New York, London, Dubai, Sydney, etc.)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enter preferred departure and (if round-trip) return dates.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Pick Your Cabin Class",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "5. Pick Your Cabin Class"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "CloudLux (First Class)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "CloudElite (Business Class)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "CloudComfort (Premium Economy)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "CloudSaver (Economy)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Confirm Flight Options",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 44,
+                      "heading": "6. Confirm Flight Options"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Browse available flights and select the one that best suits your schedule and preferences.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Enter Passenger Details",
+                "level": 3,
+                "location": {
+                  "line": 48,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 49,
+                      "heading": "7. Enter Passenger Details"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Fill in details for all travelers in your booking.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Payment",
+                "level": 3,
+                "location": {
+                  "line": 53,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 54,
+                      "heading": "8. Payment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Choose your payment method:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Card",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Debit Card",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Netbanking",
+                        "depth": 1
+                      },
+                      {
+                        "text": "SkyPoints 24 loyalty points (for eligible members)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Complete the payment process to confirm your booking.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "9. Booking Confirmation",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Step-by-Step Guide to Booking a Flight"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 64,
+                      "heading": "9. Booking Confirmation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Receive an instant booking confirmation via email and SMS.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Your itinerary will also be available in the \"Manage My Flight\" section.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Additional Features",
+            "level": 2,
+            "location": {
+              "line": 69,
+              "heading": "How to Book a Flight with CloudWay 24"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Manage My Flight",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Additional Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 72,
+                      "heading": "Manage My Flight"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Cancel your booking",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Change your booking",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Choose or change your seat",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Upgrade your flight",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Manage chauffeur-drive",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Book accessible travel",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Check-in online (or use other check-in options)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Contact & Support",
+                "level": 3,
+                "location": {
+                  "line": 82,
+                  "heading": "Additional Features"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 83,
+                      "heading": "Contact & Support"
+                    },
+                    "text": "For additional assistance, visit CloudWay24.com (https://cloudway24.com) or use in-app support."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 87,
+                      "heading": "Contact & Support"
+                    },
+                    "text": "Enjoy a seamless booking and flying experience with CloudWay 24 – Seamless Skies, Global Reach."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

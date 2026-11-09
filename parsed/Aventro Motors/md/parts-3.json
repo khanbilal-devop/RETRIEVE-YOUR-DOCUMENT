@@ -1,0 +1,191 @@
+{
+  "doc_id": "b070d0ce51204c6900553b8c538ccc8fbdca8e5714f189fa4aa30695b1b52fe4",
+  "doc_key": [
+    "parts-3"
+  ],
+  "path": "Aventro Motors/md/Parts-3.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 2,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "text": "Automotive Parts List & Prices (Industry Standard Reference)"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Parts - Details & Prices",
+            "level": 2,
+            "location": {
+              "line": 6,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 8,
+                  "heading": "Parts - Details & Prices"
+                },
+                "header": [
+                  "S.No",
+                  "Part Name",
+                  "Description",
+                  "Industry Standard Price (INR)",
+                  "Industry Standard Price (in Lakh)"
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Windshield Wipers",
+                    "High-quality silicone blade with motor, pair",
+                    "1,500 – 3,500",
+                    "0.015 – 0.035"
+                  ],
+                  [
+                    "2",
+                    "Dashboard Display",
+                    "Digital LCD/Cluster Display Unit",
+                    "25,000 – 45,000",
+                    "0.25 – 0.45"
+                  ],
+                  [
+                    "3",
+                    "Infotainment System",
+                    "Touchscreen, Bluetooth, Android Auto/CarPlay",
+                    "30,000 – 75,000",
+                    "0.30 – 0.75"
+                  ],
+                  [
+                    "4",
+                    "AC Compressor",
+                    "OEM rotary/vane, all variants",
+                    "12,000 – 25,000",
+                    "0.12 – 0.25"
+                  ],
+                  [
+                    "5",
+                    "Shock Absorber",
+                    "Gas-filled, per piece, front/rear",
+                    "2,200 – 8,000",
+                    "0.022 – 0.08"
+                  ],
+                  [
+                    "6",
+                    "Radiator",
+                    "Aluminium core, OE specifications",
+                    "8,000 – 18,000",
+                    "0.08 – 0.18"
+                  ],
+                  [
+                    "7",
+                    "Alternator",
+                    "12V–14V OEM, assembly",
+                    "8,500 – 18,000",
+                    "0.085 – 0.18"
+                  ],
+                  [
+                    "8",
+                    "Bumper",
+                    "Painted/Unpainted, OEM grade, front/rear",
+                    "6,000 – 20,000",
+                    "0.06 – 0.20"
+                  ],
+                  [
+                    "9",
+                    "Seats",
+                    "Fabric/PU Leather, with recline, per piece",
+                    "8,000 – 25,000",
+                    "0.08 – 0.25"
+                  ]
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Notes",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "Parts - Details & Prices"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 23,
+                      "heading": "Notes"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Prices are inclusive of GST, exclusive of installation charges.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prices are reference only and may vary by location and model.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "All parts are OEM grade and compatible with Aventro Motors models.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prices as of June 2024 (Industry Estimates).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Contact & Support",
+                "level": 3,
+                "location": {
+                  "line": 30,
+                  "heading": "Parts - Details & Prices"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 32,
+                      "heading": "Contact & Support"
+                    },
+                    "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 37,
+                      "heading": "Contact & Support"
+                    },
+                    "text": "Find authorized service centers across India. (#)"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

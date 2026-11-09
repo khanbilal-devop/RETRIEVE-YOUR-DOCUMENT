@@ -1,0 +1,397 @@
+{
+  "doc_id": "d9cc12be28e8420d84006005c1bef7ffb4323df2451dea14695ad1618815957e",
+  "doc_key": [
+    "aventro swift sedan"
+  ],
+  "path": "Aventro Motors/md/Aventro Swift Sedan.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Swift Sedan",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Overview"
+                },
+                "text": "Aventro Swift Sedan is an elegant and performance-driven sedan designed for Indian roads. With a blend of advanced safety, modern features, and fuel-efficient technology, the Swift promises comfort, technology, and style. Available in Petrol, Diesel, Electric, and Hybrid variants."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Specifications",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 11,
+                  "heading": "Key Specifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Body Type: Sedan",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seating Capacity: 5",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Transmission: Manual / Automatic (depending on variant)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Infotainment System: Up to 11-inch touchscreen",
+                    "depth": 0
+                  },
+                  {
+                    "text": "ADAS: Level 1 and Level 2 (on higher trims)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Audio: Up to Harman sound system",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Upholstery: Premium leather seats (on ZX)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Engine & Performance Specs",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 23,
+                  "heading": "Engine & Performance Specs"
+                },
+                "header": [
+                  "Variant",
+                  "Engine Type",
+                  "Transmission",
+                  "Max Power",
+                  "Fuel Type / Battery"
+                ],
+                "rows": [
+                  [
+                    "Petrol",
+                    "1.5L SmartTech Engine",
+                    "5MT / 6AT",
+                    "113 ps",
+                    "Petrol"
+                  ],
+                  [
+                    "Diesel",
+                    "1.5L TurboCRDi Diesel",
+                    "6MT",
+                    "108 ps",
+                    "Diesel"
+                  ],
+                  [
+                    "Electric",
+                    "50 kWh Li-ion battery, FWD",
+                    "Automatic",
+                    "136 ps",
+                    "Electric"
+                  ],
+                  [
+                    "Hybrid",
+                    "1.5L Hybrid Petrol-Electric",
+                    "CVT",
+                    "105 ps",
+                    "Hybrid"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notable Features",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "Notable Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Safety: Dual airbags, ABS with EBD, Rear parking sensors, ESC",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Technology: 11-inch touchscreen entertainment (X & ZX), Android Auto/Apple CarPlay",
+                    "depth": 0
+                  },
+                  {
+                    "text": "ADAS: Level 1 (X), Level 2 (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Entertainment: Harman Audio System (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Convenience: Push-button start, Keyless entry",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Comfort: Automatic climate control, Leather seats (ZX only)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Camera: 360º camera (ZX only)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wheels: 16\" dual-tone alloy wheels (X & ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lighting: LED headlamps and DRLs",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Swift Sedan Variants & Prices",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 48,
+                  "heading": "Swift Sedan Variants & Prices"
+                },
+                "header": [
+                  "Variant",
+                  "Trim",
+                  "Price (Lakh ₹)",
+                  "Highlighted Features"
+                ],
+                "rows": [
+                  [
+                    "Petrol",
+                    "Base",
+                    "7.6",
+                    "Standard safety & comfort features"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "8.1",
+                    "11-inch infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "8.6",
+                    "11-inch + Harman Audio, 360º camera, ADAS Level 2, Leather seats"
+                  ],
+                  [
+                    "Diesel",
+                    "Base",
+                    "11.6",
+                    "Standard safety & comfort features"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "12.1",
+                    "11-inch infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "12.6",
+                    "11-inch + Harman Audio, 360º camera, ADAS Level 2, Leather seats"
+                  ],
+                  [
+                    "Electric",
+                    "Base",
+                    "14.6",
+                    "Standard EV features, fast charging"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "15.1",
+                    "11-inch infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "15.6",
+                    "11-inch + Harman Audio, 360º camera, ADAS Level 2, Leather seats"
+                  ],
+                  [
+                    "Hybrid",
+                    "Base",
+                    "11.1",
+                    "Standard hybrid features"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "11.6",
+                    "11-inch infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "12.1",
+                    "11-inch + Harman Audio, 360º camera, ADAS Level 2, Leather seats"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Highlight: Technology Upgrades",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Highlight: Technology Upgrades"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "X Trim:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "11-inch Advanced Touchscreen Infotainment System",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ADAS Level 1 (Collision Warning, Lane Assist, Emergency Braking)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ZX Trim:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "11-inch Infotainment with Harman Premium Audio System",
+                    "depth": 1
+                  },
+                  {
+                    "text": "360º Camera System",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ADAS Level 2 (Adaptive Cruise Control, Traffic Jam Assist, etc.)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Premium Leather Seats",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Additional Driver Assistance & Comfort features",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact & Test Drive",
+            "level": 2,
+            "location": {
+              "line": 79,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 81,
+                  "heading": "Contact & Test Drive"
+                },
+                "text": "For bookings or a test drive, contact your nearest Aventro dealership or service center."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 83,
+                  "heading": "Contact & Test Drive"
+                },
+                "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nPhone: +91 124 1234567\nEmail: info@aventromotors.com (mailto:info@aventromotors.com)\nWebsite: www.aventromotors.com (http://www.aventromotors.com)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 91,
+                  "heading": "Contact & Test Drive"
+                },
+                "text": "Experience the next level of comfort, technology, and safety with the Aventro Swift Sedan!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

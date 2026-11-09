@@ -1,0 +1,432 @@
+{
+  "doc_id": "5c84b7d04fe2668ca5c4b29c9d9cc9919f1fb18c3b0e123b61bea421dec04b1b",
+  "doc_key": [
+    "aventro edge sedan"
+  ],
+  "path": "Aventro Motors/md/Aventro Edge Sedan.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Edge Sedan",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Overview"
+                },
+                "text": "The Aventro Edge Sedan is a sophisticated blend of contemporary design, innovative technology, and reliable performance. Aimed at customers who value comfort, safety, and modern features, the Edge comes in a variety of engine options, packed with advanced connectivity and safety features for city and highway use alike."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Specifications",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 11,
+                  "heading": "Specifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Class: Sedan",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seating Capacity: 5",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Boot Space: 480 L",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Transmission: 6-Speed Manual / Automatic (Depending on variant)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Airbags: Dual front (Standard), up to 6 in higher variants",
+                    "depth": 0
+                  },
+                  {
+                    "text": "ABS & EBD: Standard across all variants",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wheel Options: 16-inch Alloy Wheels (Standard)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fuel Options: Petrol, Diesel, Electric, Hybrid",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dimensions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Length: 4,650 mm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Width: 1,780 mm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Height: 1,470 mm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Wheelbase: 2,700 mm",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Features",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 29,
+                  "heading": "Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "LED DRLs & Headlamps",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Projector headlamps (from X variant upwards)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cruise Control",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wireless Charging (from X variant)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Automatic Climate Control (all variants)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rear AC Vent",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Push Button Start",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Keyless Entry",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rear Parking Sensors (all variants)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electrically Adjustable ORVMs",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fast charging (Electric variant)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Variants & Pricing",
+            "level": 2,
+            "location": {
+              "line": 43,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 45,
+                  "heading": "Variants & Pricing"
+                },
+                "header": [
+                  "Variant",
+                  "Engine Type",
+                  "Price (Lakh ₹)",
+                  "Key Features"
+                ],
+                "rows": [
+                  [
+                    "Edge Sedan Petrol Base",
+                    "Petrol",
+                    "9.8",
+                    "8-inch Infotainment, ABS, Dual Airbags, LED DRL"
+                  ],
+                  [
+                    "Edge Sedan Petrol X",
+                    "Petrol",
+                    "10.3",
+                    "11-inch Infotainment System, ADAS Level 1, Rear Camera, Wireless Charging"
+                  ],
+                  [
+                    "Edge Sedan Petrol ZX",
+                    "Petrol",
+                    "10.8",
+                    "360 Camera, 11-inch Infotainment (Harman Audio), ADAS Level 2, Leather Seats, Premium Alloys, Ambient Lighting"
+                  ],
+                  [
+                    "Edge Sedan Diesel Base",
+                    "Diesel",
+                    "13.8",
+                    "(Features as per Petrol Base)"
+                  ],
+                  [
+                    "Edge Sedan Diesel X",
+                    "Diesel",
+                    "14.3",
+                    "(Features as per Petrol X)"
+                  ],
+                  [
+                    "Edge Sedan Diesel ZX",
+                    "Diesel",
+                    "14.8",
+                    "(Features as per Petrol ZX)"
+                  ],
+                  [
+                    "Edge Sedan Electric Base",
+                    "Electric",
+                    "16.8",
+                    "(Features as per Petrol Base, Fast Charging Support, EV Range 380km*)"
+                  ],
+                  [
+                    "Edge Sedan Electric X",
+                    "Electric",
+                    "17.3",
+                    "(Features as per Petrol X, Fast Charging Support)"
+                  ],
+                  [
+                    "Edge Sedan Electric ZX",
+                    "Electric",
+                    "17.8",
+                    "(Features as per Petrol ZX, Fast Charging Support)"
+                  ],
+                  [
+                    "Edge Sedan Hybrid Base",
+                    "Hybrid",
+                    "13.3",
+                    "(Features as per Petrol Base)"
+                  ],
+                  [
+                    "Edge Sedan Hybrid X",
+                    "Hybrid",
+                    "13.8",
+                    "(Features as per Petrol X)"
+                  ],
+                  [
+                    "Edge Sedan Hybrid ZX",
+                    "Hybrid",
+                    "14.3",
+                    "(Features as per Petrol ZX)"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 60,
+                  "heading": "Variants & Pricing"
+                },
+                "text": "*Prices Ex-Showroom. Features may vary as per variant and regulations."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Variant Key Feature Highlights",
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Edge X Model",
+                "level": 3,
+                "location": {
+                  "line": 66,
+                  "heading": "Variant Key Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 67,
+                      "heading": "Edge X Model"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch Touchscreen Infotainment System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 1 (Advanced Driver Assistance: Lane Keep Assist, Collision Warning, Automatic Emergency Braking)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wireless Charging",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear-view Camera",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Edge ZX Model",
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "Variant Key Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 73,
+                      "heading": "Edge ZX Model"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "360-degree Camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch Touchscreen Infotainment with Harman Premium Audio",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 2 (Advanced: Adaptive Cruise, Lane Change Assist, Traffic Sign Recognition)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Leather Seats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ambient Interior Lighting",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Available Engine Options",
+            "level": 2,
+            "location": {
+              "line": 81,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 83,
+                  "heading": "Available Engine Options"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Petrol: 1.5L Turbo, 120 HP",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Diesel: 1.6L Turbo, 115 HP",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electric: 55kWh Battery, 380 km ARAI Range*",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hybrid: 1.5L Petrol + 48V Mild Hybrid System",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 90,
+                  "heading": "Available Engine Options"
+                },
+                "text": "For full technical breakdown and variant comparison, visit aventromotors.com (https://aventromotors.com).\nFor bookings or test drive queries, contact your nearest Aventro Service Center."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 94,
+                  "heading": "Available Engine Options"
+                },
+                "text": "Aventro Motors Pvt. Ltd.<br>\nAventro Tower, Sector 18, Gurgaon, Haryana, India\ninfo@aventromotors.com (mailto:info@aventromotors.com) | +91 124 1234567"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

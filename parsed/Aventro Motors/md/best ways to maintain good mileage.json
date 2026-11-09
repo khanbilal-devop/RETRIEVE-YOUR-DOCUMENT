@@ -1,0 +1,361 @@
+{
+  "doc_id": "0ac5d30e2951f4c6fde0c35386a3e2d9c4f7bbe157ad1d33a31f38d5e2ac80f0",
+  "doc_key": [
+    "best ways to maintain good mileage"
+  ],
+  "path": "Aventro Motors/md/Best Ways to Maintain Good Mileage.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Best Ways to Maintain Good Mileage",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "text": "Achieving and maintaining good mileage is essential for saving fuel costs, reducing environmental impact, and ensuring your vehicle’s long-term health. Whether you drive a petrol, diesel, hybrid, or electric car from Aventro Motors, the following practices will help you get the most out of every journey."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Regular Maintenance",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "1. Regular Maintenance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Follow Service Schedules: Stick to the manufacturer's recommended service intervals for oil changes, air filter replacements, and other checks.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use Genuine Parts: Always use genuine Aventro spare parts for optimal performance (e.g., Air Filter, Spark Plug, Oil Filter).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Check Tyre Pressure",
+            "level": 2,
+            "location": {
+              "line": 12,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 14,
+                  "heading": "2. Check Tyre Pressure"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Maintain Proper Pressure: Under-inflated tyres increase rolling resistance and decrease mileage.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Check Regularly: Inspect tyre pressure at least once a month and before long trips.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Drive Smoothly",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 19,
+                  "heading": "3. Drive Smoothly"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Avoid Sudden Acceleration or Braking: Rapid changes waste fuel and energy.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use Gentle Throttle Inputs: Gradual acceleration and deceleration help maximize efficiency.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Limit Idling",
+            "level": 2,
+            "location": {
+              "line": 22,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 24,
+                  "heading": "4. Limit Idling"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Turn Off Engine at Long Stops: Idling consumes fuel needlessly in petrol/diesel vehicles.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use Start-Stop Feature If Equipped: Many Aventro models have this for additional savings.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Reduce Excess Weight",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 29,
+                  "heading": "5. Reduce Excess Weight"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Remove Unnecessary Items: Extra load in the boot or cabin means more work for your engine.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Avoid Unused Racks: Roof boxes or roof racks can reduce aerodynamic efficiency.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Monitor Battery Health (For Hybrids & Electrics)",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "6. Monitor Battery Health (For Hybrids & Electrics)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Regular Battery Checks: Ensure the battery pack is in good health to maximize the range.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use Fast Charging Sparingly: Reserve fast-charging for emergencies to prolong battery life.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Use the Right Fuel & Lubricants",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 39,
+                  "heading": "7. Use the Right Fuel & Lubricants"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Recommended Grade: Always use the manufacturer-recommended fuel and lubricants for your vehicle.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "High-Quality Products: Inferior products can harm efficiency and engine health.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "8. Maintain Alignment and Suspension",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 44,
+                  "heading": "8. Maintain Alignment and Suspension"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Wheel Alignment: Misaligned wheels can drag and reduce mileage.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Suspension Health: Worn-out suspension components (like Shock Absorbers) affect efficiency.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "9. Use Air Conditioning Wisely",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "9. Use Air Conditioning Wisely"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "AC Usage: Use Air Conditioning only when necessary as it can put extra load on the engine.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ventilation First: Try ventilation on cooler days instead of AC.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "10. Smart Driving Habits",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "10. Smart Driving Habits"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Maintain Steady Speeds: Use cruise control on highways if available.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Plan Routes: Avoid congested routes which lead to excessive stop-start driving.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Aventro Service Tip",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 61,
+                  "heading": "Aventro Service Tip"
+                },
+                "text": "Visit your nearest Aventro Service Center for a mileage check-up and expert maintenance.\nFind a Service Center › (#)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 66,
+                  "heading": "Aventro Service Tip"
+                },
+                "text": "Maintaining good mileage is not only about saving money but also about fostering a responsible, eco-friendly driving culture. Start today for a smoother, more efficient journey!"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 70,
+                  "heading": "Aventro Service Tip"
+                },
+                "text": "For bookings and more tips, contact:\nAventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nEmail: info@aventromotors.com | Contact: +91 124 1234567"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

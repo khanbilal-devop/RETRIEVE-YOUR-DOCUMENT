@@ -1,0 +1,366 @@
+{
+  "doc_id": "e77dbc5c7c16dcc67f0b0175c443363029b74b14317c23c86910f3f4fdf2da17",
+  "doc_key": [
+    "atm locations in sri lanka"
+  ],
+  "path": "ZX Bank/md/ATM Locations in Sri Lanka.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank – ATM Locations in Sri Lanka",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "text": "ZX Bank is committed to providing convenient and secure banking services across Sri Lanka. Below is a list of prominent ATM locations throughout the country along with their addresses (dummy/sample addresses)."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Colombo",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Colombo"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Main Branch ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 100 Galle Road, Colombo 03, Colombo District",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ZX Bank – Borella Branch ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 45 Baseline Road, Borella, Colombo 08",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ZX Bank – Pettah ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 77 Main Street, Pettah, Colombo 11",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kandy",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 22,
+                  "heading": "Kandy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – City Centre ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kandy City Centre, Dalada Veediya, Kandy",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ZX Bank – Peradeniya Branch ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 133 Peradeniya Road, Kandy",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Galle",
+            "level": 2,
+            "location": {
+              "line": 30,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 32,
+                  "heading": "Galle"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Galle Fort ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 15 Pedlar Street, Galle Fort, Galle",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Jaffna",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 39,
+                  "heading": "Jaffna"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Hospital Road ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 22 Hospital Road, Jaffna",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Negombo",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "Negombo"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Main Street ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 59 Main Street, Negombo",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Matara",
+            "level": 2,
+            "location": {
+              "line": 51,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "Matara"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Matara City ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 34 Beach Road, Matara",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kurunegala",
+            "level": 2,
+            "location": {
+              "line": 58,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 60,
+                  "heading": "Kurunegala"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Kurunegala Branch ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 72 Bauddhaloka Mawatha, Kurunegala",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ratnapura",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Ratnapura"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Ratnapura Town ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 11 Main Street, Ratnapura",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Anuradhapura",
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 74,
+                  "heading": "Anuradhapura"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – New Town ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 25 Mihindu Mawatha, Anuradhapura",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Trincomalee",
+            "level": 2,
+            "location": {
+              "line": 79,
+              "heading": "ZX Bank – ATM Locations in Sri Lanka"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 81,
+                  "heading": "Trincomalee"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank – Market Road ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 17 Market Road, Trincomalee",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 86,
+                  "heading": "Trincomalee"
+                },
+                "text": "Note: Many more ATMs are available in cities and rural towns across Sri Lanka. For the latest and exact location, please visit ZX Bank’s ATM Locator (https://www.zxbank.asia/atm-locator) or use the “ATM Finder” in the ZX Bank Asia Mobile App."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 90,
+                  "heading": "Trincomalee"
+                },
+                "text": "ZX Bank Ltd. – Banking made easy, wherever you are in Sri Lanka!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

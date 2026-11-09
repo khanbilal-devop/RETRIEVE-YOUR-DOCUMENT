@@ -1,0 +1,975 @@
+{
+  "doc_id": "edddcd0cb34b215e25588b4ab769f0add0e7e7374185ad1dfb7669f13d53f3ce",
+  "doc_key": [
+    "faculty_directory"
+  ],
+  "path": "Cendara University/md/faculty_directory.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Faculty Directory",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "text": "Below is the current faculty directory for Cendara University, organized by school and department. This directory includes full-time professors, associate professors, assistant professors, and senior lecturers actively teaching and conducting research as of Spring 2024."
+          }
+        ],
+        "sections": [
+          {
+            "title": "School of Arts & Humanities",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of English and Comparative Literature",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "School of Arts & Humanities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 11,
+                      "heading": "Department of English and Comparative Literature"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Miriam Valdez\nProfessor & Department Chair\nvaldez.miriam@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Anthony R. Sloane\nAssociate Professor, Renaissance Literature\nsloane.anthony@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Anisa Ganesha\nAssistant Professor, Comparative Literature\nganesha.anisa@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Corrine Thuy-Bao\nSenior Lecturer, Media Studies & Linguistics\nbao.corrine@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of History",
+                "level": 3,
+                "location": {
+                  "line": 29,
+                  "heading": "School of Arts & Humanities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "Department of History"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Jerome Pavlenco\nProfessor of Modern European History\npavlenco.jerome@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Judith Maynard\nProfessor & Department Chair\nmaynard.judith@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Diego Lumumba\nAssociate Professor, African & Global History\nlumumba.diego@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Natalia Serbanescu\nLecturer, American History\nserbanescu.natalia@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 49,
+                  "heading": "School of Arts & Humanities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 51,
+                      "heading": "Department of Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Peter Ji-Won Seo\nProfessor, Ethics and Social Philosophy\nseopj@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Martina L. Farrow\nAssistant Professor, Epistemology\nfarrow.martina@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Chandan Nair\nAssociate Professor, Eastern Philosophy\nnair.chandan@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Modern Languages",
+                "level": 3,
+                "location": {
+                  "line": 65,
+                  "heading": "School of Arts & Humanities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 67,
+                      "heading": "Department of Modern Languages"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Silvia Fontaine\nProfessor of Spanish & French\nfontaine.silvia@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Ryo Hashimoto\nAssociate Professor, Japanese Language\nhashimoto.ryo@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Lucia Bernal\nSenior Lecturer, Italian Studies\nbernal.lucia@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Sciences",
+            "level": 2,
+            "location": {
+              "line": 81,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Biology",
+                "level": 3,
+                "location": {
+                  "line": 83,
+                  "heading": "School of Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 85,
+                      "heading": "Department of Biology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Leandro Gutierrez\nProfessor & Department Chair, Molecular Biology\ngutierrez.leandro@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Helena Sikorska\nAssociate Professor, Ecology\nsikorska.helena@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Pritha Prasad\nAssistant Professor, Genetics\nprasad.pritha@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 99,
+                  "heading": "School of Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 101,
+                      "heading": "Department of Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Faisal Khoury\nProfessor, Physical Chemistry\nkhoury.faisal@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Jenna Boyle\nAssociate Professor & Department Chair\nboyle.jenna@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Akash Tomlinson\nLecturer, Analytical Chemistry\ntomlinson.akash@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Physics",
+                "level": 3,
+                "location": {
+                  "line": 115,
+                  "heading": "School of Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 117,
+                      "heading": "Department of Physics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Sharon L. Kanter\nProfessor, Astrophysics\nkanter.sharon@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Eduard Denes\nAssociate Professor, Particle Physics\ndenes.eduard@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Ema J. Mensah\nAssistant Professor, Applied Physics\nmensah.ema@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Mathematics and Statistics",
+                "level": 3,
+                "location": {
+                  "line": 131,
+                  "heading": "School of Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 133,
+                      "heading": "Department of Mathematics and Statistics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Anders Rutledge\nProfessor & Department Chair, Pure Mathematics\nrutledge.anders@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Liwen Tang\nAssociate Professor, Data Science\ntang.liwen@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Melinda Correia\nAssistant Professor, Statistics\ncorreia.melinda@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Engineering & Technology",
+            "level": 2,
+            "location": {
+              "line": 147,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Computer Science",
+                "level": 3,
+                "location": {
+                  "line": 149,
+                  "heading": "School of Engineering & Technology"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 151,
+                      "heading": "Department of Computer Science"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Uma Raghavan\nProfessor & Department Chair, Machine Learning\nraghavan.uma@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Isaac Wong\nAssociate Professor, Cybersecurity\nwong.isaac@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Elena Y. Orlov\nAssistant Professor, Software Engineering\norlov.elena@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Mark O’Brien\nSenior Lecturer, Computer Systems\nobrien.mark@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Mechanical Engineering",
+                "level": 3,
+                "location": {
+                  "line": 169,
+                  "heading": "School of Engineering & Technology"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 171,
+                      "heading": "Department of Mechanical Engineering"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Rune Sorensen\nProfessor, Thermodynamics & Fluid Mechanics\nsorensen.rune@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Priya Choudhury\nAssociate Professor, Mechatronics\nchoudhury.priya@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Timothy Keane\nAssistant Professor, Computer-Aided Design\nkeane.timothy@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Electrical Engineering",
+                "level": 3,
+                "location": {
+                  "line": 185,
+                  "heading": "School of Engineering & Technology"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 187,
+                      "heading": "Department of Electrical Engineering"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Tamara Ioannidis\nProfessor & Department Chair, Embedded Systems\nioannidis.tamara@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Marcel Doshi\nAssociate Professor, Signal Processing\ndoshi.marcel@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Daisy M. Sefa\nAssistant Professor, Integrated Circuits\nsefa.daisy@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Civil and Environmental Engineering",
+                "level": 3,
+                "location": {
+                  "line": 201,
+                  "heading": "School of Engineering & Technology"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 203,
+                      "heading": "Department of Civil and Environmental Engineering"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Prof. Yusuf Suleman\nProfessor, Structural Engineering\nsuleman.yusuf@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Hannah Feldman\nAssociate Professor, Environmental Systems\nfeldman.hannah@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Omar El-Sharif\nLecturer, Transportation Engineering\nelsharif.omar@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Social Sciences",
+            "level": 2,
+            "location": {
+              "line": 217,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Psychology",
+                "level": 3,
+                "location": {
+                  "line": 219,
+                  "heading": "School of Social Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 221,
+                      "heading": "Department of Psychology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Alexa Simonsen\nProfessor & Department Chair, Clinical Psychology\nsimonsen.alexa@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Tolu Yusuf-Adeyemi\nAssociate Professor, Developmental Psychology\nyusuf.tolu@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Sara Chabert\nAssistant Professor, Cognitive Neuroscience\nchabert.sara@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Political Science",
+                "level": 3,
+                "location": {
+                  "line": 235,
+                  "heading": "School of Social Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 237,
+                      "heading": "Department of Political Science"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Felipe Monteiro\nProfessor, International Relations\nmonteiro.felipe@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Rachel D. Holt\nAssociate Professor & Department Chair, Comparative Politics\nholt.rachel@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Vishal Anand\nLecturer, Public Policy\nanand.vishal@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Sociology and Anthropology",
+                "level": 3,
+                "location": {
+                  "line": 251,
+                  "heading": "School of Social Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 253,
+                      "heading": "Department of Sociology and Anthropology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Mona Youssef\nProfessor, Urban Sociology\nyoussef.mona@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Hugo van der Meer\nAssociate Professor, Cultural Anthropology\nvandermeer.hugo@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Elif Topal\nAssistant Professor, Social Change\ntopal.elif@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Economics",
+                "level": 3,
+                "location": {
+                  "line": 267,
+                  "heading": "School of Social Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 269,
+                      "heading": "Department of Economics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Zhiqiang Li\nProfessor & Department Chair, Macroeconomics\nlizhiqiang@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Abigail F. Morgan\nAssociate Professor, Econometrics\nmorgan.abigail@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Meral Polat\nAssistant Professor, International Economics\npolat.meral@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Business",
+            "level": 2,
+            "location": {
+              "line": 283,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Management",
+                "level": 3,
+                "location": {
+                  "line": 285,
+                  "heading": "School of Business"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 287,
+                      "heading": "Department of Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Robert J. Ellison\nProfessor, Strategic Management\nellison.robert@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Julia V. Ilunga\nAssociate Professor, Organizational Behavior\nilunga.julia@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Gabriella Chang\nAssistant Professor, Entrepreneurship\nchang.gabriella@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Finance and Accounting",
+                "level": 3,
+                "location": {
+                  "line": 301,
+                  "heading": "School of Business"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 303,
+                      "heading": "Department of Finance and Accounting"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Nathaniel Kwong\nProfessor, Corporate Finance\nkwong.nathaniel@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Emily Bird\nAssociate Professor & Department Chair, Accounting\nbird.emily@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Igor Draganov\nLecturer, Financial Markets\ndraganov.igor@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Marketing",
+                "level": 3,
+                "location": {
+                  "line": 317,
+                  "heading": "School of Business"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 319,
+                      "heading": "Department of Marketing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Isabel Moretti\nProfessor, Digital Marketing Strategy\nmoretti.isabel@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Sanjay Nambiar\nAssistant Professor, Brand Management\nnambiar.sanjay@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Linda Verbeek\nSenior Lecturer, Consumer Behavior\nverbeek.linda@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Entrepreneurship",
+                "level": 3,
+                "location": {
+                  "line": 333,
+                  "heading": "School of Business"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 335,
+                      "heading": "Department of Entrepreneurship"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Kayode Onwudachi\nAssociate Professor & Program Director\nonwudachi.kayode@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Education",
+            "level": 2,
+            "location": {
+              "line": 341,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Curriculum & Instruction",
+                "level": 3,
+                "location": {
+                  "line": 343,
+                  "heading": "School of Education"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 345,
+                      "heading": "Department of Curriculum & Instruction"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Tess Raymond\nProfessor & Department Chair, Curriculum Theory\nraymond.tess@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Peter Mensah\nAssociate Professor, Instructional Design\nmensah.peter@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Danielle Hoffman\nLecturer, Educational Technology\nhoffman.danielle@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Special Education",
+                "level": 3,
+                "location": {
+                  "line": 359,
+                  "heading": "School of Education"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 361,
+                      "heading": "Department of Special Education"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Camila Sandoval\nProfessor, Inclusive Education\nsandoval.camila@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Julius Atkinson\nAssociate Professor, Learning Disabilities\natkinson.julius@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Educational Leadership",
+                "level": 3,
+                "location": {
+                  "line": 371,
+                  "heading": "School of Education"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 373,
+                      "heading": "Department of Educational Leadership"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Sonia Alvarez\nProfessor & Department Chair, Leadership in Education\nalvarez.sonia@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Lars Nyström\nAssistant Professor, School Administration\nnystrom.lars@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "School of Health Sciences",
+            "level": 2,
+            "location": {
+              "line": 383,
+              "heading": "Cendara University Faculty Directory"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Department of Nursing",
+                "level": 3,
+                "location": {
+                  "line": 385,
+                  "heading": "School of Health Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 387,
+                      "heading": "Department of Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Eva B. Andersson\nProfessor & Department Chair, Evidence-Based Nursing\nandersson.eva@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Jasmine Ndlovu\nAssociate Professor, Clinical Simulations\nndlovu.jasmine@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Thomas Finlay\nLecturer, Pediatric Nursing\nfinlay.thomas@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Public Health",
+                "level": 3,
+                "location": {
+                  "line": 401,
+                  "heading": "School of Health Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 403,
+                      "heading": "Department of Public Health"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Minh Chau Tran\nProfessor, Epidemiology\ntran.minhchau@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Sofia Papadakis\nAssociate Professor, Health Policy\npapadakis.sofia@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Lara Grobler\nAssistant Professor, Community Health\ngrobler.lara@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Department of Nutrition and Dietetics",
+                "level": 3,
+                "location": {
+                  "line": 417,
+                  "heading": "School of Health Sciences"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 419,
+                      "heading": "Department of Nutrition and Dietetics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Fiona McGrath\nProfessor & Program Director\nmcgrath.fiona@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Samiha Al-Khatib\nAssociate Professor, Clinical Nutrition\nalkhatib.samiha@cendara.edu",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Renata Estevez\nLecturer, Food Science\nestevez.renata@cendara.edu",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 433,
+                      "heading": "Department of Nutrition and Dietetics"
+                    },
+                    "text": "For all general inquiries, contact the Office of the Provost at provost@cendara.edu. Full faculty biographies and research profiles are available at faculty.cendara.edu (https://faculty.cendara.edu)."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

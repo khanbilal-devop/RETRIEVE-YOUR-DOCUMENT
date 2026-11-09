@@ -1,0 +1,320 @@
+{
+  "doc_id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04",
+  "doc_key": [
+    "software_upgrade_policy"
+  ],
+  "path": "Velvera Technologies/md/software_upgrade_policy.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Software & Updates",
+        "level": 2,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Software & Updates"
+            },
+            "text": "Velvera smartphones run on VelveraOS, a secure, AI-enhanced, and privacy-respecting operating system optimized for performance and longevity. Software support and feature availability vary by series to best match user needs — whether you're a power user, gamer, student, or first-time smartphone owner."
+          }
+        ],
+        "sections": [
+          {
+            "title": "VelveraOS Features by Series",
+            "level": 3,
+            "location": {
+              "line": 7,
+              "heading": "Software & Updates"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "VelveraOS Features by Series"
+                },
+                "header": [
+                  "Feature",
+                  "One Series",
+                  "Edge Series",
+                  "Nexus Series",
+                  "Core Series",
+                  "Start Series"
+                ],
+                "rows": [
+                  [
+                    "VelveraOS Version",
+                    "6.0",
+                    "6.0",
+                    "6.0 AI",
+                    "6.0 Lite",
+                    "6.0 Go"
+                  ],
+                  [
+                    "AI Assistant",
+                    "Advanced",
+                    "Standard",
+                    "Premium",
+                    "Basic",
+                    "No"
+                  ],
+                  [
+                    "Gaming Mode",
+                    "Pro",
+                    "Standard",
+                    "Pro",
+                    "Basic",
+                    "No"
+                  ],
+                  [
+                    "Desktop Mode",
+                    "✅",
+                    "✅",
+                    "✅",
+                    "❌",
+                    "❌"
+                  ],
+                  [
+                    "Multi-Window Multitask",
+                    "Advanced",
+                    "Standard",
+                    "Advanced",
+                    "Basic",
+                    "No"
+                  ],
+                  [
+                    "Privacy Dashboard",
+                    "✅",
+                    "✅",
+                    "✅",
+                    "✅",
+                    "✅"
+                  ],
+                  [
+                    "Live Translate",
+                    "Yes",
+                    "Yes",
+                    "Yes (AI-enhanced)",
+                    "No",
+                    "No"
+                  ],
+                  [
+                    "Velvera Studio (AI Suite)",
+                    "Included",
+                    "Optional",
+                    "Pre-installed",
+                    "Not Supported",
+                    "Not Supported"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Update Timeline",
+            "level": 3,
+            "location": {
+              "line": 22,
+              "heading": "Software & Updates"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 24,
+                  "heading": "Update Timeline"
+                },
+                "text": "Velvera ensures long-term device viability through a clear and transparent software lifecycle policy."
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 26,
+                  "heading": "Update Timeline"
+                },
+                "header": [
+                  "Series",
+                  "Major OS Updates",
+                  "Security Patches",
+                  "End of Official Support"
+                ],
+                "rows": [
+                  [
+                    "One Series",
+                    "4 Years",
+                    "5 Years",
+                    "December 2030"
+                  ],
+                  [
+                    "Edge Series",
+                    "3 Years",
+                    "4 Years",
+                    "October 2029"
+                  ],
+                  [
+                    "Nexus Series",
+                    "4 Years",
+                    "5 Years",
+                    "December 2030"
+                  ],
+                  [
+                    "Core Series",
+                    "2 Years",
+                    "3 Years",
+                    "August 2028"
+                  ],
+                  [
+                    "Start Series",
+                    "1 Year",
+                    "2 Years",
+                    "March 2027"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 34,
+                  "heading": "Update Timeline"
+                },
+                "text": "Update Frequency:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 35,
+                  "heading": "Update Timeline"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "OS Upgrades: Annually in Q2 (e.g., VelveraOS 7 in Q2 2026)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Security Patches: Monthly (1st Monday of each month)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bug Fixes & App Updates: Rolled out bi-weekly via Velvera System Updater",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Software Integrity & Privacy",
+            "level": 3,
+            "location": {
+              "line": 41,
+              "heading": "Software & Updates"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 43,
+                  "heading": "Software Integrity & Privacy"
+                },
+                "text": "All updates are:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 44,
+                  "heading": "Software Integrity & Privacy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Digitally Signed and delivered over encrypted channels.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Privacy-Audited and Ad-Free, in line with Velvera’s no-tracking policy.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rolled out in phased batches, with staged rollout status viewable in the \"Updates\" section of the device settings.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Upgrade Recommendations",
+            "level": 3,
+            "location": {
+              "line": 50,
+              "heading": "Software & Updates"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 52,
+                  "heading": "Upgrade Recommendations"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "For Power Users: Stick with One or Nexus series to enjoy full feature continuity through OS 7, 8, and beyond.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For Budget Users: Core and Start Series still get essential security updates and performance enhancements for peace of mind.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For Developers & Early Adopters: Nexus series gets Beta Access to future VelveraOS versions through the Velvera Labs Program.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 56,
+                  "heading": "Upgrade Recommendations"
+                },
+                "text": "For update status by region or model, visit: velvera.com/os-updates (https://velvera.com/os-updates)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 59,
+                  "heading": "Upgrade Recommendations"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 61,
+                  "heading": "Upgrade Recommendations"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

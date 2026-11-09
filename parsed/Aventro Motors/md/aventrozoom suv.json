@@ -1,0 +1,437 @@
+{
+  "doc_id": "67c0f0bfcc4c82b64a8b6488dac208ff5da08a189462891e6de4e03d1e34aa47",
+  "doc_key": [
+    "aventrozoom suv"
+  ],
+  "path": "Aventro Motors/md/ AventroZoom SUV.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Model Overview: Zoom SUV",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "About Zoom SUV",
+                "level": 3,
+                "location": {
+                  "line": 5,
+                  "heading": "Model Overview: Zoom SUV"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 7,
+                      "heading": "About Zoom SUV"
+                    },
+                    "text": "The Aventro Zoom is a versatile and robust SUV, perfect for families and adventure-lovers alike. It offers a dynamic blend of performance, comfort, and next-generation technology, making it a top contender in its segment. Zoom is available in four powertrains—Petrol, Diesel, Electric, and Hybrid—with three trim levels each: Base, X, and ZX."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Technical Specifications (Select Highlights)",
+            "level": 2,
+            "location": {
+              "line": 11,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 13,
+                  "heading": "Technical Specifications (Select Highlights)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Length: 4,655 mm",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Width: 1,840 mm",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Height: 1,690 mm",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wheelbase: 2,730 mm",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Boot Space: 540 litres",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seating Capacity: 5",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Transmission: Manual / Automatic (varies by variant)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Drive Type: Front-wheel / All-wheel drive (select models)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Available Variants & Prices (Ex-Showroom, in Lakh INR)",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 26,
+                  "heading": "Available Variants & Prices (Ex-Showroom, in Lakh INR)"
+                },
+                "header": [
+                  "Variant",
+                  "Petrol",
+                  "Diesel",
+                  "Electric",
+                  "Hybrid"
+                ],
+                "rows": [
+                  [
+                    "Base",
+                    "12.0",
+                    "16.0",
+                    "19.0",
+                    "15.5"
+                  ],
+                  [
+                    "X",
+                    "12.5",
+                    "16.5",
+                    "19.5",
+                    "16.0"
+                  ],
+                  [
+                    "ZX",
+                    "13.0",
+                    "17.0",
+                    "20.0",
+                    "16.5"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Variants & Feature Highlights",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Zoom SUV Base",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "Variants & Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "Zoom SUV Base"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Standard 7-inch Infotainment System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dual front airbags, ABS with EBD",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Manual AC",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fabric seats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear parking sensors",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Zoom SUV X",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Variants & Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "Zoom SUV X"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Upgrade Highlights:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch Infotainment System",
+                        "depth": 1
+                      },
+                      {
+                        "text": "ADAS Level 1 (Advanced Driver Assistance System)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Cruise Control",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Automatic Climate Control",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Alloy Wheels",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Steering-mounted controls",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Zoom SUV ZX",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "Variants & Feature Highlights"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 57,
+                      "heading": "Zoom SUV ZX"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "All Features of X, plus:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch Infotainment System with Harman Sound System",
+                        "depth": 1
+                      },
+                      {
+                        "text": "ADAS Level 2",
+                        "depth": 1
+                      },
+                      {
+                        "text": "360° Camera",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Premium Leather Seats",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Wireless charging",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Panoramic Sunroof",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Powertrain Options",
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 69,
+                  "heading": "Powertrain Options"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Petrol Engine: Responsive and efficient for city and highway drives.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Diesel Engine: High-torque performer for long-distance cruising.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electric Variant: Zero emission, fast charging, and long range for the sustainable commuter.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hybrid Variant: Intelligent fuel efficiency blending petrol and electric power.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Features & Technology",
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Key Features & Technology"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ADAS (Advanced Driver Assistance Systems):",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Level 1 (X): Lane departure warning, forward collision warning",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Level 2 (ZX): Lane keep assist, adaptive cruise control, emergency braking",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Infotainment: 7-inch (Base), 11-inch (X & ZX, Harman system on ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "360° Camera (ZX only): For effortless parking and tight situations",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Connected Car Suite: App-based remote commands (lock/unlock, location, diagnostics)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety: Up to 6 airbags, ESC, ISOfix child seat mounts",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Luxury: Panoramic sunroof (ZX), leather seats (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Comfort: Rear AC vents, large boot, spacious cabin",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact & Bookings",
+            "level": 2,
+            "location": {
+              "line": 90,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 92,
+                  "heading": "Contact & Bookings"
+                },
+                "text": "For more details, visit your nearest Aventro showroom or contact us:"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 94,
+                  "heading": "Contact & Bookings"
+                },
+                "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 101,
+                  "heading": "Contact & Bookings"
+                },
+                "text": "Explore the new Zoom SUV — Unleash Performance. Embrace Technology. Drive the Future."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "doc_id": "48de092ede86750b9de770b292ce4b019a9a14eb600a22f6ead8e951df0335dc",
+  "doc_key": [
+    "aventro prime sedan"
+  ],
+  "path": "Aventro Motors/md/Aventro Prime Sedan.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Prime Sedan",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Prime Sedan"
+            },
+            "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana – 122018, India\nContact: +91 124 1234567 | Email: info@aventromotors.com"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Aventro Prime Sedan"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 11,
+                  "heading": "Overview"
+                },
+                "text": "The Aventro Prime is an advanced sedan that blends style, comfort, and technology for the discerning modern driver. Designed for those who seek luxury and performance, the Prime boasts a sleek aerodynamic profile, a spacious interior, and state-of-the-art features across its variants. The Prime is available in four efficient powertrains: Petrol, Diesel, Electric, and Hybrid."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Specifications",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Aventro Prime Sedan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 17,
+                  "heading": "Key Specifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Model Type: Sedan",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seating Capacity: 5",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Transmission: 6-speed Manual / 6-speed Automatic (Varies by trim)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety: 6 Airbags, ABS with EBD, ESP, Hill Hold Assist",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Length x Width x Height: 4675 x 1815 x 1445 mm",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Boot Space: 450 L",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Features by Variant",
+            "level": 2,
+            "location": {
+              "line": 26,
+              "heading": "Aventro Prime Sedan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 28,
+                  "heading": "Features by Variant"
+                },
+                "header": [
+                  "Feature",
+                  "Base",
+                  "X",
+                  "ZX"
+                ],
+                "rows": [
+                  [
+                    "Multi-function Steering Wheel",
+                    "✔️",
+                    "✔️",
+                    "✔️"
+                  ],
+                  [
+                    "Auto Climate Control",
+                    "✔️",
+                    "✔️",
+                    "✔️"
+                  ],
+                  [
+                    "LED Headlamps & DRLs",
+                    "✔️",
+                    "✔️",
+                    "✔️"
+                  ],
+                  [
+                    "Alloy Wheels",
+                    "✔️",
+                    "✔️",
+                    "✔️"
+                  ],
+                  [
+                    "Touch Infotainment System",
+                    "7-inch",
+                    "11-inch",
+                    "11-inch (Harman-Kardon)"
+                  ],
+                  [
+                    "ADAS (Advanced Driver Assist)",
+                    "–",
+                    "Level 1",
+                    "Level 2"
+                  ],
+                  [
+                    "Rear Parking Camera",
+                    "✔️",
+                    "✔️",
+                    "360° Camera"
+                  ],
+                  [
+                    "Premium Upholstery",
+                    "Fabric",
+                    "Premium Fabric",
+                    "Leather Seats"
+                  ],
+                  [
+                    "Wireless Charging",
+                    "–",
+                    "✔️",
+                    "✔️"
+                  ],
+                  [
+                    "Smart Key with Push Start",
+                    "✔️",
+                    "✔️",
+                    "✔️"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Variants & Ex-Showroom Prices (in Lakhs)",
+            "level": 2,
+            "location": {
+              "line": 43,
+              "heading": "Aventro Prime Sedan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 45,
+                  "heading": "Variants & Ex-Showroom Prices (in Lakhs)"
+                },
+                "header": [
+                  "Variant & Fuel Type",
+                  "Base",
+                  "X",
+                  "ZX"
+                ],
+                "rows": [
+                  [
+                    "Prime Petrol",
+                    "10.2",
+                    "10.7",
+                    "11.2"
+                  ],
+                  [
+                    "Prime Diesel",
+                    "14.2",
+                    "14.7",
+                    "15.2"
+                  ],
+                  [
+                    "Prime Electric",
+                    "17.2",
+                    "17.7",
+                    "18.2"
+                  ],
+                  [
+                    "Prime Hybrid",
+                    "13.7",
+                    "14.2",
+                    "14.7"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notable Features",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Aventro Prime Sedan"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "X Trim (In addition to Base)",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "Notable Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 57,
+                      "heading": "X Trim (In addition to Base)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch Floating Infotainment System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Advanced Driver Assistance System (ADAS) Level 1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wireless Smartphone Integration",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Premium Fabric Upholstery",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ZX Trim (In addition to X)",
+                "level": 3,
+                "location": {
+                  "line": 62,
+                  "heading": "Notable Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 63,
+                      "heading": "ZX Trim (In addition to X)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "360° Surround View Camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch Harman-Kardon Infotainment with Enhanced Audio",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 2 Safety Suite",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Luxurious Leather Seats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Powered Driver’s Seat",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Visit a Service Center Near You",
+            "level": 2,
+            "location": {
+              "line": 71,
+              "heading": "Aventro Prime Sedan"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 73,
+                  "heading": "Visit a Service Center Near You"
+                },
+                "text": "Find your nearest Aventro Service Center for service, support, or a test drive!\nExample:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 75,
+                  "heading": "Visit a Service Center Near You"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Aventro Service Center, Gurugram: Sector 50, Gurugram, Haryana",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Aventro Service Center, Mumbai: Andheri East, Mumbai, Maharashtra",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 78,
+                  "heading": "Visit a Service Center Near You"
+                },
+                "text": "For full service location list, visit our official website or contact customer care."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "To Book a Test Drive or for More Details:",
+            "level": 2,
+            "location": {
+              "line": 82,
+              "heading": "Aventro Prime Sedan"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 84,
+                  "heading": "To Book a Test Drive or for More Details:"
+                },
+                "text": "Contact: +91 124 1234567\nEmail: info@aventromotors.com\nWebsite: www.aventromotors.com (http://www.aventromotors.com)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

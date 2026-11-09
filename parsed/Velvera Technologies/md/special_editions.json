@@ -1,0 +1,288 @@
+{
+  "doc_id": "41ea221d4def724a1dccaacf489bf8e61f43ad1c344c464d0695326da2b1a223",
+  "doc_key": [
+    "special_editions"
+  ],
+  "path": "Velvera Technologies/md/special_editions.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Special Edition & Anniversary Edition Models",
+        "level": 2,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Special Edition & Anniversary Edition Models"
+            },
+            "text": "To celebrate milestones and offer unique collector’s pieces, Velvera unveils a curated line of Special and Anniversary Edition products. These exclusive models combine technological excellence with commemorative artistry, distinctive finishes, and bundled exclusives."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Velvera Special & Anniversary Edition Smartphones",
+            "level": 3,
+            "location": {
+              "line": 7,
+              "heading": "Special Edition & Anniversary Edition Models"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Velvera Special & Anniversary Edition Smartphones"
+                },
+                "header": [
+                  "Model",
+                  "Edition Name",
+                  "Display",
+                  "Storage/RAM",
+                  "Unique Features",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera One Ultra 1TB Astral Edition",
+                    "Astral Special Edition (2025)",
+                    "6.9\" LTPO 2.0, 144Hz",
+                    "1TB / 16GB",
+                    "Blue titanium frame, Meteorite Black back, Engraved serial, Custom theme, Numbered units",
+                    "₹1,09,999",
+                    "$1,319"
+                  ],
+                  [
+                    "Velvera One Pro 512GB Aurora Gold",
+                    "10th Anniversary Collector’s Edition",
+                    "6.7\" AMOLED HDR10+",
+                    "512GB / 12GB",
+                    "Aurora Gold finish, Commemorative box, Signed certificate, Anniversary UI accents",
+                    "₹87,999",
+                    "$1,059"
+                  ],
+                  [
+                    "Velvera Edge Pro 256GB Alpine White",
+                    "Alpine Limited Edition",
+                    "6.1\" OLED",
+                    "256GB / 12GB",
+                    "Matte Alpine White, Frosted alloy sides, Exclusive wallpapers, Etched edition number",
+                    "₹63,999",
+                    "$769"
+                  ],
+                  [
+                    "Velvera Nexus 1 Pro 1TB Iridescent",
+                    "Aurora Prism Special Edition",
+                    "6.8\" HDR10+ LTPO",
+                    "1TB / 16GB",
+                    "Iridescent glass back, AI-tuned sound pack, Aurora UI package, Limited to 600 units",
+                    "₹99,999",
+                    "$1,199"
+                  ],
+                  [
+                    "Velvera Core Max 256GB Forest Green",
+                    "Eco+ Plant-a-Tree Edition",
+                    "6.7\" FHD+",
+                    "256GB / 6GB",
+                    "Forest Green textured finish, Biodegradable case included, Tree planted per unit",
+                    "₹34,999",
+                    "$429"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Special & Collector Watch Editions",
+            "level": 3,
+            "location": {
+              "line": 19,
+              "heading": "Special Edition & Anniversary Edition Models"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 21,
+                  "heading": "Velvera Special & Collector Watch Editions"
+                },
+                "header": [
+                  "Model",
+                  "Edition Name",
+                  "Display",
+                  "Health Features",
+                  "Unique Features",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Watch Deluxe 46mm Heritage",
+                    "Heritage Edition",
+                    "1.9\" LTPO AMOLED",
+                    "ECG, SpO2, Stress, GPS",
+                    "Classic brown leather band, Blue domed crown, Numbered caseback, Heritage interface",
+                    "₹44,999",
+                    "$545"
+                  ],
+                  [
+                    "Velvera Watch Premium 49mm Mariner",
+                    "Mariner Anniversary Edition",
+                    "2.1\" Sapphire AMOLED",
+                    "All Pro features + Diving mode",
+                    "Deep Blue ceramic, Brass bezel, Engraved anniversary logo, Exclusive tide faces",
+                    "₹69,999",
+                    "$849"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Velvera Pad & Audio Special Edition Lineup",
+            "level": 3,
+            "location": {
+              "line": 28,
+              "heading": "Special Edition & Anniversary Edition Models"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 30,
+                  "heading": "Velvera Pad & Audio Special Edition Lineup"
+                },
+                "header": [
+                  "Model",
+                  "Edition Name",
+                  "Storage/RAM",
+                  "Unique Features",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Pad Pro 12.9\" 1TB Midnight",
+                    "Midnight Gallery Edition",
+                    "1TB / 16GB",
+                    "Deep matte black, Artful etching, Stylus with special tip, Exclusive digital artwork pack",
+                    "₹97,999",
+                    "$1,169"
+                  ],
+                  [
+                    "Velvera Buds Deluxe Sakura",
+                    "Sakura Pink Limited Edition",
+                    "N/A",
+                    "Metallic Sakura Pink, Cherry blossom case, Spring sound presets, Numbered set",
+                    "₹19,499",
+                    "$237"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Exclusive Bundles & Accessories",
+            "level": 3,
+            "location": {
+              "line": 37,
+              "heading": "Special Edition & Anniversary Edition Models"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 39,
+                  "heading": "Exclusive Bundles & Accessories"
+                },
+                "header": [
+                  "Bundle Name",
+                  "Included Products",
+                  "Unique Items",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera One Collector Set",
+                    "Velvera One Ultra Astral Edition + Leather Case + 65W GaN Charger + Certificate",
+                    "Numbered display stand, Commemorative book",
+                    "₹1,24,999",
+                    "$1,509"
+                  ],
+                  [
+                    "Velvera Anniversary Experience Box",
+                    "Velvera One Pro Anniversary Edition + Buds Sakura + Watch Heritage",
+                    "Custom gift wrap, Thank you letter signed by CEO",
+                    "₹1,39,999",
+                    "$1,689"
+                  ]
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Key Details",
+                "level": 4,
+                "location": {
+                  "line": 46,
+                  "heading": "Exclusive Bundles & Accessories"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "Key Details"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Special & Anniversary Editions are produced in limited runs, individually numbered, and authenticated with certificates of origin.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "All special models feature edition-exclusive themes, wallpapers, and packaging.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Premium after-sales support included for Special Edition holders.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Availability: Select online channels and flagship Velvera retail lounges.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 55,
+                      "heading": "Key Details"
+                    },
+                    "text": "For more information on pre-orders and collector’s events, contact:\ncollectors@velvera.com\nVelvera Special Editions Team"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

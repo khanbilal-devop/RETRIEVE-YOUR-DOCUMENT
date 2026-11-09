@@ -1,0 +1,508 @@
+{
+  "doc_id": "2d1809c0abb128b823f9bcfb2febb42bd08921fecdb0dd3ca18d6090dfb69789",
+  "doc_key": [
+    "aventro aero"
+  ],
+  "path": "Aventro Motors/md/Aventro Aero.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Aero – Model Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "text": "Manufacturer: Aventro Motors Pvt. Ltd.\nHead Office: Aventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567 | info@aventromotors.com (mailto:info@aventromotors.com)"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Introduction",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 11,
+                  "heading": "Introduction"
+                },
+                "text": "The Aventro Aero is a versatile and dynamic hatchback designed for the urban commuter and small families. With cutting-edge technology, futuristic design, multiple drivetrain options, and rich features across variants, the Aero caters to every need—whether fuel efficiency, ecology, or performance."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Aero Model Variants & Prices",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 17,
+                  "heading": "Aero Model Variants & Prices"
+                },
+                "header": [
+                  "Variant",
+                  "Trim",
+                  "Price (Lakh ₹)"
+                ],
+                "rows": [
+                  [
+                    "Petrol",
+                    "Base",
+                    "6.5"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "7.0"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "7.5"
+                  ],
+                  [
+                    "Diesel",
+                    "Base",
+                    "8.5"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "9.0"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "9.5"
+                  ],
+                  [
+                    "Electric",
+                    "Base",
+                    "13.5"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "14.0"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "14.5"
+                  ],
+                  [
+                    "Hybrid",
+                    "Base",
+                    "10.0"
+                  ],
+                  [
+                    "",
+                    "X",
+                    "10.5"
+                  ],
+                  [
+                    "",
+                    "ZX",
+                    "11.0"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Drivetrain Options",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "Drivetrain Options"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Petrol: Efficient and peppy for city drives.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Diesel: Fuel-saving and torquey for long-distances.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electric: Zero-emission, high torque, and ultra-smooth.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hybrid: Eco-friendly blend of petrol and electric, with great efficiency.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Specifications (Standard Features)",
+            "level": 2,
+            "location": {
+              "line": 43,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 45,
+                  "heading": "Key Specifications (Standard Features)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Body Type: Hatchback",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seating: 5",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Transmission: Manual & Automatic (variant dependent)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Safety: Dual airbags, ABS with EBD, Rear Parking Sensors",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Comfort: Power windows, remote locking, auto climate control",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Infotainment: Touchscreen (Base depends on variant)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Feature Highlights by Trim",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Base",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "Feature Highlights by Trim"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 58,
+                      "heading": "Base"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "7-inch touchscreen infotainment system",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Manual AC",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Standard fabric seats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bluetooth & USB connectivity",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dual airbags, ABS, EBD",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "X Trim (Enhanced Features)",
+                "level": 3,
+                "location": {
+                  "line": 66,
+                  "heading": "Feature Highlights by Trim"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 68,
+                      "heading": "X Trim (Enhanced Features)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch Infotainment System (Touchscreen)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 1 (Advanced Driver Assistance Systems):",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lane Departure Warning",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Forward Collision Alert",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Rear parking camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Steering-mounted controls",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Remote engine start (for petrol & diesel)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ZX Trim (Top of the Line)",
+                "level": 3,
+                "location": {
+                  "line": 78,
+                  "heading": "Feature Highlights by Trim"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 80,
+                      "heading": "ZX Trim (Top of the Line)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "360-Degree Camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch Infotainment System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Harman Premium Audio System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 2:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Adaptive Cruise Control",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Lane Centering",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Automatic Emergency Braking",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Leather Seats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wireless charging",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ambient cabin lighting",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear-seat armrest with cup holder",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Aero: Quick Comparison (ZX vs X vs Base)",
+            "level": 2,
+            "location": {
+              "line": 94,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 96,
+                  "heading": "Aero: Quick Comparison (ZX vs X vs Base)"
+                },
+                "header": [
+                  "Feature",
+                  "Base",
+                  "X",
+                  "ZX"
+                ],
+                "rows": [
+                  [
+                    "Infotainment",
+                    "7\"",
+                    "11\"",
+                    "11\" Harman"
+                  ],
+                  [
+                    "ADAS",
+                    "No",
+                    "Level 1",
+                    "Level 2"
+                  ],
+                  [
+                    "360 Camera",
+                    "No",
+                    "No",
+                    "Yes"
+                  ],
+                  [
+                    "Leather Seats",
+                    "No",
+                    "No",
+                    "Yes"
+                  ],
+                  [
+                    "Premium Audio",
+                    "Std",
+                    "Std",
+                    "Harman"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Why Choose Aventro Aero?",
+            "level": 2,
+            "location": {
+              "line": 106,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 108,
+                  "heading": "Why Choose Aventro Aero?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Multiple Fuel Options: Petrol, Diesel, Electric, Hybrid",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Segment-leading Tech: ADAS, 360 Camera, 11\" Infotainment",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Futuristic Design and Spacious Interior",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Industry-best Safety Standards",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "To Book a Test Drive or for Any Queries",
+            "level": 2,
+            "location": {
+              "line": 115,
+              "heading": "Aventro Aero – Model Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 117,
+                  "heading": "To Book a Test Drive or for Any Queries"
+                },
+                "text": "Contact Us:\nAventro Motors Pvt. Ltd., Aventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nPhone: +91 124 1234567\nEmail: info@aventromotors.com (mailto:info@aventromotors.com)\nWebsite: www.aventromotors.com (https://www.aventromotors.com)"
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 123,
+                  "heading": "To Book a Test Drive or for Any Queries"
+                },
+                "text": "Aventro Aero – Drive Your Future. Today!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

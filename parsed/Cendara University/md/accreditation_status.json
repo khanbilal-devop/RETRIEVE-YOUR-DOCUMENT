@@ -1,0 +1,386 @@
+{
+  "doc_id": "57f634d13d877250637a81f64fe71b338f342fbe3149fff643994df5296c80bf",
+  "doc_key": [
+    "accreditation_status"
+  ],
+  "path": "Cendara University/md/accreditation_status.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Accreditation Status",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Overview"
+                },
+                "text": "Cendara University is a fully accredited higher education institution recognized nationally and internationally for its commitment to academic excellence, research innovation, and student support. Below is a summary of the university’s current accreditation status, accrediting bodies, certification levels, and institutional recognition."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "1. Regional Accreditation",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Accrediting Body",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "1. Regional Accreditation"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 13,
+                      "heading": "Accrediting Body"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Midland Commission on Colleges and Universities (MCCU)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Accredited since: August 15, 1968",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Most recent reaffirmation visit: March 2022",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Accreditation valid through: June 2028",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Certification Level",
+                "level": 3,
+                "location": {
+                  "line": 18,
+                  "heading": "1. Regional Accreditation"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 20,
+                      "heading": "Certification Level"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Level VI (Highest level for doctoral-granting institutions)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Scope",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "1. Regional Accreditation"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "Scope"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Institutional accreditation covering all undergraduate, graduate, and professional degree programs offered by Cendara University at all campus locations.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Evaluation Comments (2022 Report)",
+                "level": 3,
+                "location": {
+                  "line": 26,
+                  "heading": "1. Regional Accreditation"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "Evaluation Comments (2022 Report)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "“Cendara University demonstrates sustained excellence in academic rigor, faculty qualifications, and student-centered support. The Commission commends the university’s commitment to continuous improvement and community engagement.”",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "2. Programmatic Accreditation",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 34,
+                  "heading": "2. Programmatic Accreditation"
+                },
+                "header": [
+                  "Academic Program",
+                  "Accrediting Body",
+                  "Certification Level",
+                  "Accreditation Period"
+                ],
+                "rows": [
+                  [
+                    "Bachelor of Science in Nursing",
+                    "National Council for Nursing Education (NCNE)",
+                    "Full",
+                    "2021–2029"
+                  ],
+                  [
+                    "Master of Business Administration",
+                    "International Association of Business Schools (IABS)",
+                    "Advanced",
+                    "2020–2027"
+                  ],
+                  [
+                    "Bachelor of Engineering",
+                    "Accreditation Board for Engineering Disciplines (ABED)",
+                    "Full",
+                    "2018–2025"
+                  ],
+                  [
+                    "Doctor of Clinical Psychology",
+                    "Council on Doctoral Accreditation in Psychology (CDAP)",
+                    "Accredited",
+                    "2019–2026"
+                  ],
+                  [
+                    "Master of Public Health",
+                    "Council for Accreditation of Public Health (CAPH)",
+                    "Accredited",
+                    "2022–2029"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. State and Federal Recognition",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "3. State and Federal Recognition"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "State of Eddington Department of Higher Education",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cendara University is licensed under the State of Eddington Higher Education Act, Section 312.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Current registration number: EDU-340182",
+                    "depth": 1
+                  },
+                  {
+                    "text": "U.S. Department of Education Recognition",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Listed as an Eligible Institution for Federal Student Aid (Title IV)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "OPE ID: 00721800",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Updated status: Compliant as of January 2024",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. International Partnerships and Recognition",
+            "level": 2,
+            "location": {
+              "line": 57,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 59,
+                  "heading": "4. International Partnerships and Recognition"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Recognized by the International Federation of Universities (IFU) as a member institution in good standing.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Exchange agreements with:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "University of Hanseaticia (Germany)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Akari National University (Japan)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "São Lucas Institute of Technology (Brazil)",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Recent Accreditation Milestones",
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 69,
+                  "heading": "5. Recent Accreditation Milestones"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "2022: Achieved MCCU reaffirmation with commendation for community-engaged scholarship.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2021: Nursing program awarded “Center of Excellence in Nursing Education” by NCNE.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2019: Awarded “Outstanding Institutional Assessment” by the ABED during engineering re-accreditation review.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Accreditation Documents Access",
+            "level": 2,
+            "location": {
+              "line": 75,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 77,
+                  "heading": "6. Accreditation Documents Access"
+                },
+                "text": "Official documentation and detailed accreditation reports are available by request at the Office of Institutional Compliance, Founders Hall, Room 410, or by email at accreditation@cendara.edu."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact Information",
+            "level": 2,
+            "location": {
+              "line": 81,
+              "heading": "Cendara University Accreditation Status"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 83,
+                  "heading": "Contact Information"
+                },
+                "text": "Office of Institutional Compliance\nCendara University\n1201 Cedar Grove Way\nLakeside City, State of Eddington 45210\nPhone: (341) 555-8923\nEmail: accreditation@cendara.edu"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "doc_id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7",
+  "doc_key": [
+    "baggage allowance"
+  ],
+  "path": "CloudWay-24/md/Baggage Allowance.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Baggage Allowance Policy",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 Baggage Allowance Policy"
+            },
+            "text": "CloudWay 24 offers generous and convenient baggage allowances tailored to each cabin class, ensuring a comfortable and seamless journey for all passengers."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Cabin Baggage Allowance",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 Baggage Allowance Policy"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Cabin Baggage Allowance"
+                },
+                "header": [
+                  "Class",
+                  "Number of Bags",
+                  "Max Weight (per bag)",
+                  "Maximum Dimensions (L x W x H)"
+                ],
+                "rows": [
+                  [
+                    "CloudLux (First)",
+                    "2",
+                    "10 kg each",
+                    "55 x 40 x 23 cm"
+                  ],
+                  [
+                    "CloudElite (Business)",
+                    "2",
+                    "8 kg each",
+                    "55 x 40 x 23 cm"
+                  ],
+                  [
+                    "CloudComfort (Premium Economy)",
+                    "1",
+                    "8 kg",
+                    "55 x 40 x 23 cm"
+                  ],
+                  [
+                    "CloudSaver (Economy)",
+                    "1",
+                    "7 kg",
+                    "55 x 40 x 23 cm"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 16,
+                  "heading": "Cabin Baggage Allowance"
+                },
+                "text": "In addition: 1 small personal item (laptop bag/handbag) per passenger is permitted."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Checked Baggage Allowance",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "CloudWay 24 Baggage Allowance Policy"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 22,
+                  "heading": "Checked Baggage Allowance"
+                },
+                "header": [
+                  "Class",
+                  "Number of Bags",
+                  "Max Weight (per bag)",
+                  "Total Allowance"
+                ],
+                "rows": [
+                  [
+                    "CloudLux (First)",
+                    "3",
+                    "32 kg",
+                    "96 kg"
+                  ],
+                  [
+                    "CloudElite (Business)",
+                    "2",
+                    "32 kg",
+                    "64 kg"
+                  ],
+                  [
+                    "CloudComfort (Premium Economy)",
+                    "2",
+                    "23 kg",
+                    "46 kg"
+                  ],
+                  [
+                    "CloudSaver (Economy)",
+                    "1",
+                    "23 kg",
+                    "23 kg"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 29,
+                  "heading": "Checked Baggage Allowance"
+                },
+                "text": "Bags exceeding 158 cm (62 in) in total dimensions (L+W+H) or the permitted weight may incur excess baggage fees."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Excess Baggage Policy",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "CloudWay 24 Baggage Allowance Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 35,
+                  "heading": "Excess Baggage Policy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Excess Baggage: Can be pre-purchased at a discounted rate via the CloudWay24 app or website during booking or under \"Manage My Flight.\"",
+                    "depth": 0
+                  },
+                  {
+                    "text": "At Airport: Higher fees apply for additional or overweight baggage checked at the airport counter.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SkyPoints 24 Members: Elite tier members may enjoy additional free allowance—check your SkyPoints 24 tier benefits.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Special Baggage",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "CloudWay 24 Baggage Allowance Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 43,
+                  "heading": "Special Baggage"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Sporting equipment and musical instruments accepted as part of checked baggage allowance; items exceeding size/weight limits may attract charges.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Contact customer service for special arrangements or detailed advice.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Guidelines",
+            "level": 2,
+            "location": {
+              "line": 48,
+              "heading": "CloudWay 24 Baggage Allowance Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 50,
+                  "heading": "Important Guidelines"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "All baggage must be properly labeled with your name and contact information.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carry-on luggage must fit in the overhead bin or under the seat.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dangerous or prohibited items not allowed.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 54,
+                  "heading": "Important Guidelines"
+                },
+                "text": "For the most up-to-date baggage rules and detailed FAQs, visit CloudWay24.com/Baggage (https://CloudWay24.com/Baggage) or check the \"Baggage Policy\" section in the CloudWay24 app."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 57,
+                  "heading": "Important Guidelines"
+                },
+                "text": "Travel smooth. Travel CloudWay 24 – Seamless Skies, Global Reach."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,804 @@
+{
+  "doc_id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe",
+  "doc_key": [
+    "dept_of_chemistry_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Chemistry_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Course Catalog",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Chemistry",
+            "level": 3,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University Course Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Academic Year 2024–2025",
+                "level": 4,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of Chemistry"
+                },
+                "blocks": [],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Undergraduate Courses (B.Sc. in Chemistry)",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University Course Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "CHEM 101: General Chemistry I",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 10,
+                      "heading": "CHEM 101: General Chemistry I"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIntroduction to chemical principles including atomic structure, bonding, stoichiometry, and periodic properties. Laboratory work emphasizes basic techniques, data analysis, and safety.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 102: General Chemistry II",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 18,
+                      "heading": "CHEM 102: General Chemistry II"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nContinuation of CHEM 101. Topics include chemical equilibria, acids and bases, thermodynamics, kinetics, and an introduction to electrochemistry. Laboratory includes quantitative analysis and experimentation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 201: Organic Chemistry I",
+                "level": 3,
+                "location": {
+                  "line": 25,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "CHEM 201: Organic Chemistry I"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nStudy of the structure, nomenclature, reactivity, and synthesis of aliphatic and aromatic hydrocarbons, alcohols, and halides. Emphasis on reaction mechanisms and stereochemistry. Laboratory explores organic synthesis and purification techniques.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 102",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 202: Organic Chemistry II",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 34,
+                      "heading": "CHEM 202: Organic Chemistry II"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nA deeper exploration of organic chemistry covering carbonyl compounds, amines, biomolecules, and advanced reaction mechanisms. Laboratory components focus on multi-step syntheses, spectroscopy, and qualitative organic analysis.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 201",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 205: Analytical Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 41,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 42,
+                      "heading": "CHEM 205: Analytical Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nComprehensive examination of quantitative chemical analysis, including gravimetric, volumetric, and instrumental methods. Laboratory experience with titrations, spectrophotometry, and chromatography.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 102",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 210: Inorganic Chemistry I",
+                "level": 3,
+                "location": {
+                  "line": 49,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 50,
+                      "heading": "CHEM 210: Inorganic Chemistry I"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nFundamentals of inorganic chemistry: atomic structure, periodic trends, bonding theories, acid-base chemistry, coordination compounds. Laboratory includes synthesis and characterization of inorganic complexes.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 102",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 301: Physical Chemistry I",
+                "level": 3,
+                "location": {
+                  "line": 57,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 58,
+                      "heading": "CHEM 301: Physical Chemistry I"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nThermodynamics, gases, phase equilibria, and properties of solutions. Laboratory incorporates experimental determination of thermodynamic properties and data analysis.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 205, MATH 201 (Calculus I)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 302: Physical Chemistry II",
+                "level": 3,
+                "location": {
+                  "line": 65,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 66,
+                      "heading": "CHEM 302: Physical Chemistry II"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nKinetics, quantum chemistry, molecular spectroscopy, and statistical thermodynamics. Laboratory includes experiments on reaction rates and spectroscopic measurements.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 301",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 320: Instrumental Methods of Analysis",
+                "level": 3,
+                "location": {
+                  "line": 73,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 74,
+                      "heading": "CHEM 320: Instrumental Methods of Analysis"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAdvanced techniques in chemical analysis using spectroscopy, chromatography, electrochemistry, and mass spectrometry. Hands-on laboratory training with modern analytical instruments.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 205",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 350: Biochemistry",
+                "level": 3,
+                "location": {
+                  "line": 81,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 82,
+                      "heading": "CHEM 350: Biochemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nPrinciples of biochemistry focusing on proteins, enzymes, metabolism, and nucleic acids. Laboratory component includes enzyme assays and molecular techniques.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 202",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 401: Advanced Inorganic Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 89,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 90,
+                      "heading": "CHEM 401: Advanced Inorganic Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIn-depth study of transition metal chemistry, organometallics, solid-state structures, and bioinorganic processes. Students conduct advanced laboratory synthesis and characterization.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 210",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 410: Research Methods in Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 97,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 98,
+                      "heading": "CHEM 410: Research Methods in Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nTraining in research methodology, experimental design, literature review, data interpretation, and scientific communication. Students develop an independent research proposal.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Junior standing in Chemistry",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 495: Senior Thesis",
+                "level": 3,
+                "location": {
+                  "line": 105,
+                  "heading": "Undergraduate Courses (B.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 106,
+                      "heading": "CHEM 495: Senior Thesis"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 6",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nCapstone research project undertaken under faculty supervision. Students conduct original research, write a formal thesis, and present their findings to the department.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: CHEM 410, Senior standing",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Graduate Courses (M.Sc. in Chemistry)",
+            "level": 2,
+            "location": {
+              "line": 113,
+              "heading": "Cendara University Course Catalog"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "CHEM 511: Advanced Organic Synthesis",
+                "level": 3,
+                "location": {
+                  "line": 115,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 116,
+                      "heading": "CHEM 511: Advanced Organic Synthesis"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nSynthesis of complex organic molecules, asymmetric catalysis, and retrosynthetic analysis. Emphasis on literature review and advanced reaction mechanisms. Laboratory involves multi-step synthetic routes and purification.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Admission to M.Sc. program; undergraduate Organic Chemistry",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 521: Spectroscopic Methods",
+                "level": 3,
+                "location": {
+                  "line": 123,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 124,
+                      "heading": "CHEM 521: Spectroscopic Methods"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nInstruction in NMR, IR, MS, UV-Vis, and X-ray crystallography for structural determination. Laboratory focuses on sample preparation and data interpretation for research contexts.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 531: Computational Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 131,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 132,
+                      "heading": "CHEM 531: Computational Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nMethods and software for quantum chemical calculations, molecular modeling, and simulation of chemical systems. Application to molecular structure and reaction mechanism problems.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Physical Chemistry (undergraduate)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 541: Advanced Analytical Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 139,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 140,
+                      "heading": "CHEM 541: Advanced Analytical Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nRecent advances in analytical techniques, miniature sensors, environmental and clinical analysis. Laboratory includes projects using advanced instrumentation and data evaluation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Analytical Chemistry (undergraduate)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 551: Organometallic Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 147,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 148,
+                      "heading": "CHEM 551: Organometallic Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nThe chemistry of metal-carbon bonds and applications in catalysis, materials, and biological systems. Includes critical reading of primary literature and a seminar component.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Inorganic Chemistry (undergraduate)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 560: Topics in Supramolecular Chemistry",
+                "level": 3,
+                "location": {
+                  "line": 155,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 156,
+                      "heading": "CHEM 560: Topics in Supramolecular Chemistry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nStudy of non-covalent interactions, host-guest systems, and molecular recognition. Discussion-based seminar with literature presentations and review writing.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 611: Research Seminar",
+                "level": 3,
+                "location": {
+                  "line": 163,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 164,
+                      "heading": "CHEM 611: Research Seminar"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nWeekly presentations by students, faculty, and visiting scholars on current research topics in chemistry. Students are required to present at least once during their program.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "CHEM 699: Master's Thesis Research",
+                "level": 3,
+                "location": {
+                  "line": 171,
+                  "heading": "Graduate Courses (M.Sc. in Chemistry)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 172,
+                      "heading": "CHEM 699: Master's Thesis Research"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 12 (variable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIndependent, faculty-guided research culminating in the defense of an original thesis. Students conduct experimental, theoretical, or computational research and present their findings at a departmental seminar.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Completion of at least 18 credits of graduate coursework in Chemistry",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Key to Course Codes",
+            "level": 2,
+            "location": {
+              "line": 179,
+              "heading": "Cendara University Course Catalog"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 181,
+                  "heading": "Key to Course Codes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "CHEM 1XX, 2XX: Introductory and foundational undergraduate courses",
+                    "depth": 0
+                  },
+                  {
+                    "text": "CHEM 3XX, 4XX: Advanced undergraduate and capstone courses",
+                    "depth": 0
+                  },
+                  {
+                    "text": "CHEM 5XX, 6XX: Graduate courses",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 187,
+                  "heading": "Key to Course Codes"
+                },
+                "text": "For further details regarding course sequencing, electives, or individualized study options, please contact the Office of the Registrar (registrar@cendara.edu) or the Department of Chemistry (chem.dept@cendara.edu)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1003 @@
+{
+  "doc_id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff",
+  "doc_key": [
+    "employee_handbook"
+  ],
+  "path": "Cendara University/md/employee_handbook.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Employee Handbook",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Employee Handbook"
+            },
+            "text": "Last revised: March 18, 2024"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Table of Contents",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University Employee Handbook"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Table of Contents"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Introduction (#introduction)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Workplace Policies (#workplace-policies)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2.1 Equal Employment Opportunity",
+                    "depth": 1
+                  },
+                  {
+                    "text": "2.2 Attendance and Working Hours",
+                    "depth": 1
+                  },
+                  {
+                    "text": "2.3 Remote Work and Flexible Scheduling",
+                    "depth": 1
+                  },
+                  {
+                    "text": "2.4 Safety and Emergency Procedures",
+                    "depth": 1
+                  },
+                  {
+                    "text": "2.5 Use of University Property and Resources",
+                    "depth": 1
+                  },
+                  {
+                    "text": "2.6 Confidentiality and Data Protection",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Benefits Overview (#benefits-overview)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "3.1 Medical, Dental, and Vision Insurance",
+                    "depth": 1
+                  },
+                  {
+                    "text": "3.2 Retirement Plan",
+                    "depth": 1
+                  },
+                  {
+                    "text": "3.3 Paid Time Off (PTO)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "3.4 Professional Development",
+                    "depth": 1
+                  },
+                  {
+                    "text": "3.5 Employee Assistance Program (EAP)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Professional Conduct (#professional-conduct)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "4.1 Code of Ethics",
+                    "depth": 1
+                  },
+                  {
+                    "text": "4.2 Harassment and Discrimination Policy",
+                    "depth": 1
+                  },
+                  {
+                    "text": "4.3 Conflict of Interest",
+                    "depth": 1
+                  },
+                  {
+                    "text": "4.4 Dress Code and Appearance",
+                    "depth": 1
+                  },
+                  {
+                    "text": "4.5 Disciplinary Procedures",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Company Culture (#company-culture)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "5.1 Mission and Values",
+                    "depth": 1
+                  },
+                  {
+                    "text": "5.2 Diversity and Inclusion",
+                    "depth": 1
+                  },
+                  {
+                    "text": "5.3 Collaboration and Communication",
+                    "depth": 1
+                  },
+                  {
+                    "text": "5.4 Community Engagement",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Introduction",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "Cendara University Employee Handbook"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 39,
+                  "heading": "Introduction"
+                },
+                "text": "Welcome to Cendara University! As an esteemed faculty or staff member, you play an essential role in fostering an environment of academic excellence, inclusivity, and professional growth. This handbook provides guidance on policies, benefits, conduct expectations, and the values central to the Cendara University community."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 41,
+                  "heading": "Introduction"
+                },
+                "text": "If you have questions at any time, please contact Human Resources at hr@cendara.edu or visit the HR office in Ferris Hall, Room 206."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Workplace Policies",
+            "level": 2,
+            "location": {
+              "line": 45,
+              "heading": "Cendara University Employee Handbook"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "2.1 Equal Employment Opportunity",
+                "level": 3,
+                "location": {
+                  "line": 47,
+                  "heading": "Workplace Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 49,
+                      "heading": "2.1 Equal Employment Opportunity"
+                    },
+                    "text": "Cendara University is committed to providing an inclusive workplace free of discrimination or harassment based on race, color, religion, gender, age, national origin, disability, marital status, sexual orientation, or veteran status. Employment decisions are based solely on merit and qualifications."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2.2 Attendance and Working Hours",
+                "level": 3,
+                "location": {
+                  "line": 51,
+                  "heading": "Workplace Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 53,
+                      "heading": "2.2 Attendance and Working Hours"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Standard office hours: Monday–Friday, 8:30 a.m. to 5:00 p.m.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Faculty hours may vary by teaching schedules.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "In case of absence or late arrival, notify your supervisor or department chair as early as possible.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Excessive unexcused absences may result in corrective action.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2.3 Remote Work and Flexible Scheduling",
+                "level": 3,
+                "location": {
+                  "line": 58,
+                  "heading": "Workplace Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 60,
+                      "heading": "2.3 Remote Work and Flexible Scheduling"
+                    },
+                    "text": "Cendara University supports a hybrid work environment for eligible positions:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 62,
+                      "heading": "2.3 Remote Work and Flexible Scheduling"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Remote work: Up to 2 days/week with supervisor approval.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Flexible schedules: (e.g., adjusted start/end times) available based on departmental needs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Submit requests in writing to immediate supervisors; approvals are assessed case-by-case.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2.4 Safety and Emergency Procedures",
+                "level": 3,
+                "location": {
+                  "line": 66,
+                  "heading": "Workplace Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 68,
+                      "heading": "2.4 Safety and Emergency Procedures"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Report safety hazards to Campus Safety at (417) 555-3680.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Participate in required annual safety trainings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fire drills are conducted twice per academic year.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "In emergencies, follow posted evacuation routes and instructions from security personnel.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2.5 Use of University Property and Resources",
+                "level": 3,
+                "location": {
+                  "line": 73,
+                  "heading": "Workplace Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 75,
+                      "heading": "2.5 Use of University Property and Resources"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "University devices and resources are for professional, academic, or research purposes.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Personal use should be minimal and not interfere with operations.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Unauthorized removal or misuse of university property will result in disciplinary measures.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "All computer usage is monitored under the Information Technology Acceptable Use Policy.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2.6 Confidentiality and Data Protection",
+                "level": 3,
+                "location": {
+                  "line": 80,
+                  "heading": "Workplace Policies"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 82,
+                      "heading": "2.6 Confidentiality and Data Protection"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Maintain confidentiality regarding student, faculty, and institutional information.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Do not disclose any sensitive information without proper authorization.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Comply with FERPA and all applicable data protection policies.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Report data breaches or suspicious activities to itsecurity@cendara.edu.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Benefits Overview",
+            "level": 2,
+            "location": {
+              "line": 89,
+              "heading": "Cendara University Employee Handbook"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "3.1 Medical, Dental, and Vision Insurance",
+                "level": 3,
+                "location": {
+                  "line": 91,
+                  "heading": "Benefits Overview"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 93,
+                      "heading": "3.1 Medical, Dental, and Vision Insurance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Comprehensive health coverage through NimbusCare.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Coverage starts on the first of the month following your hire date.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Includes annual physicals, prescription drugs, mental health services, and specialist visits.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dental and vision plans administered through BrightSmile and OptiView.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "See the Benefits Guide or email benefits@cendara.edu for plan details.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3.2 Retirement Plan",
+                "level": 3,
+                "location": {
+                  "line": 99,
+                  "heading": "Benefits Overview"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 101,
+                      "heading": "3.2 Retirement Plan"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Participation in the Cendara University Retirement Savings Plan (CURSP) is automatic after 90 days of employment.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "University matches employee contributions up to 6% of salary.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Administered by Granite Financial Services.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Optional voluntary contributions up to IRS limits.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3.3 Paid Time Off (PTO)",
+                "level": 3,
+                "location": {
+                  "line": 106,
+                  "heading": "Benefits Overview"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 108,
+                      "heading": "3.3 Paid Time Off (PTO)"
+                    },
+                    "header": [
+                      "Employee Type",
+                      "Annual Vacation",
+                      "Sick Leave",
+                      "Personal Days",
+                      "Holidays"
+                    ],
+                    "rows": [
+                      [
+                        "Full-time Staff",
+                        "20 days",
+                        "10 days",
+                        "4 days",
+                        "12 days"
+                      ],
+                      [
+                        "Full-time Faculty",
+                        "By appointment",
+                        "10 days",
+                        "2 days",
+                        "12 days"
+                      ],
+                      [
+                        "Part-time Employees",
+                        "Pro-rated",
+                        "Pro-rated",
+                        "2 days",
+                        "12 days"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 114,
+                      "heading": "3.3 Paid Time Off (PTO)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Unused vacation days may be carried over up to a maximum of 10 days per year.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3.4 Professional Development",
+                "level": 3,
+                "location": {
+                  "line": 116,
+                  "heading": "Benefits Overview"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 118,
+                      "heading": "3.4 Professional Development"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Annual stipend of $800 for conferences, workshops, or continuing education.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Tuition reimbursement for approved coursework at Cendara or partner institutions (up to 50% tuition).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Access to on-campus seminars and leadership training.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3.5 Employee Assistance Program (EAP)",
+                "level": 3,
+                "location": {
+                  "line": 122,
+                  "heading": "Benefits Overview"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 124,
+                      "heading": "3.5 Employee Assistance Program (EAP)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Free, confidential counseling (up to 6 sessions per year).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Financial consulting, legal assistance, and support resources for all employees and families.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "EAP contact: (800) 555-9932 or eapservices@cendara.edu.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Professional Conduct",
+            "level": 2,
+            "location": {
+              "line": 130,
+              "heading": "Cendara University Employee Handbook"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "4.1 Code of Ethics",
+                "level": 3,
+                "location": {
+                  "line": 132,
+                  "heading": "Professional Conduct"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 134,
+                      "heading": "4.1 Code of Ethics"
+                    },
+                    "text": "Employees are expected to:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 135,
+                      "heading": "4.1 Code of Ethics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Demonstrate honesty, accountability, and integrity in all interactions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Uphold academic freedom, respect intellectual property, and maintain professionalism.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Report unethical conduct or conflicts of interest to the Office of Compliance.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4.2 Harassment and Discrimination Policy",
+                "level": 3,
+                "location": {
+                  "line": 139,
+                  "heading": "Professional Conduct"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 141,
+                      "heading": "4.2 Harassment and Discrimination Policy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Zero tolerance for harassment, discrimination, or retaliation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Includes but is not limited to: sexual harassment, bullying, offensive language, and intimidation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Incidents should be reported immediately to Office of Equity & Inclusion at equity@cendara.edu.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "All complaints are confidential and thoroughly investigated.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4.3 Conflict of Interest",
+                "level": 3,
+                "location": {
+                  "line": 146,
+                  "heading": "Professional Conduct"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 148,
+                      "heading": "4.3 Conflict of Interest"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Disclose any potential conflicts involving personal, financial, or familial interests that could compromise university decisions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Employees may not accept gifts in excess of $75 from vendors or partners.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Conflicts should be reported using the online disclosure form or to your department head.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4.4 Dress Code and Appearance",
+                "level": 3,
+                "location": {
+                  "line": 152,
+                  "heading": "Professional Conduct"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 154,
+                      "heading": "4.4 Dress Code and Appearance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Business casual is standard for all office and academic settings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lab and clinical staff must adhere to departmental safety attire regulations.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Cendara Pride Fridays” permit university-branded casual wear.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Special dress requirements may apply for events or ceremonies.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4.5 Disciplinary Procedures",
+                "level": 3,
+                "location": {
+                  "line": 159,
+                  "heading": "Professional Conduct"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 161,
+                      "heading": "4.5 Disciplinary Procedures"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Violations of university policies result in progressive discipline:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Verbal warning",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Written warning",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Suspension",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Termination (for serious or repeated violations)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "All disciplinary actions are documented in the employee’s file and handled in accordance with university guidelines.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Company Culture",
+            "level": 2,
+            "location": {
+              "line": 170,
+              "heading": "Cendara University Employee Handbook"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "5.1 Mission and Values",
+                "level": 3,
+                "location": {
+                  "line": 172,
+                  "heading": "Company Culture"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 174,
+                      "heading": "5.1 Mission and Values"
+                    },
+                    "text": "Cendara University fosters inquiry, lifelong learning, and civic engagement. We empower our community members to pursue excellence, innovation, and global citizenship."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 176,
+                      "heading": "5.1 Mission and Values"
+                    },
+                    "text": "Core Values:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 177,
+                      "heading": "5.1 Mission and Values"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Academic integrity and freedom",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Respect and inclusivity",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Service and responsibility",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Creativity and discovery",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5.2 Diversity and Inclusion",
+                "level": 3,
+                "location": {
+                  "line": 182,
+                  "heading": "Company Culture"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 184,
+                      "heading": "5.2 Diversity and Inclusion"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Diversity is integral to our academic mission.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "The Mosaic Initiative advances equity for underrepresented groups in faculty and student recruitment.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Monthly “Voices Forum” discussions and annual Diversity Symposium.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5.3 Collaboration and Communication",
+                "level": 3,
+                "location": {
+                  "line": 188,
+                  "heading": "Company Culture"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 190,
+                      "heading": "5.3 Collaboration and Communication"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Open-door policy among departments and leadership.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Annual university retreat (“Connections Day”) each August for cross-campus networking and team building.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Use of CendaraConnect, an internal communications platform, for updates, discussion, and feedback.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5.4 Community Engagement",
+                "level": 3,
+                "location": {
+                  "line": 194,
+                  "heading": "Company Culture"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 196,
+                      "heading": "5.4 Community Engagement"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Employee Volunteer Day each spring, supporting local nonprofits.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Encouragement of staff participation in community lectures, outreach, and K-12 mentoring programs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cendara’s annual Open Campus Festival invites neighbors, alumni, and civic partners to campus.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 202,
+                      "heading": "5.4 Community Engagement"
+                    },
+                    "text": "Please review this handbook regularly. Cendara University reserves the right to amend any policies or benefits as needed. Updates are communicated via email and posted in the HR section of the university intranet."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 204,
+                      "heading": "5.4 Community Engagement"
+                    },
+                    "text": "Thank you for being a part of Cendara University’s vibrant academic community!"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

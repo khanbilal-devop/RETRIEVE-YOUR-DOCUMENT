@@ -1,0 +1,328 @@
+{
+  "doc_id": "941ca98c61a2d2ab6c40579af28ce822c70c6d72d8a40e0edc909841a2ba785e",
+  "doc_key": [
+    "open a locker"
+  ],
+  "path": "ZX Bank/md/Open a Locker.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Open a Locker at ZX Bank Branch",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "text": "Opening a locker (safe deposit box) at a ZX Bank branch is a secure way to safeguard your valuables and important documents. Follow these simple steps to apply for and access a locker at any of our branches across India, Sri Lanka, Bhutan, or Nepal."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Step 1: Check Locker Availability",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Step 1: Check Locker Availability"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Visit your nearest ZX Bank branch or call the branch directly.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Inquire about locker sizes and availability.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Popular sizes: Small, Medium, Large (availability may vary by location).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 2: Eligibility Criteria",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 17,
+                  "heading": "Step 2: Eligibility Criteria"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Existing ZX Bank customer: You must have (or open) a savings or current account.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "KYC Compliance: Ensure your KYC (Know Your Customer) details are updated.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Valid photo ID (Aadhaar/Passport/Driving License)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Address proof",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Recent passport-sized photo",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 3: Locker Application Process",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 27,
+                  "heading": "Step 3: Locker Application Process"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Visit the Branch: Bring original documents and photocopies.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fill Application Form: Request and complete the ‘Locker Facility Application Form’ at the branch.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit KYC Documents: Attach required KYC documents to your application.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Locker Agreement: Read and sign the Locker Hirer Agreement provided by the bank.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 4: Security Deposit & Rent Payment",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "Step 4: Security Deposit & Rent Payment"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Pay the refundable security deposit (locker rent may vary by size and city).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Locker rent is typically paid annually.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Payment can be made via cash, cheque, or direct bank transfer.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 5: Locker Allotment & Access",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 44,
+                  "heading": "Step 5: Locker Allotment & Access"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Upon approval, a locker number will be allotted.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Receive the locker keys (usually two keys; bank does not keep duplicates).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "The bank officer will guide you on locker location and operating procedure.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 6: Operating the Locker",
+            "level": 2,
+            "location": {
+              "line": 50,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 52,
+                  "heading": "Step 6: Operating the Locker"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Locker can be operated during branch working hours.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visit the branch with your locker keys and valid ID proof.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sign the Locker Access Register each time you access the locker.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All locker operations are conducted in privacy in the vault area.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Additional Guidelines",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "Additional Guidelines"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Nomination: Highly recommended to nominate a beneficiary for your locker.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Joint Locker: You can opt for a joint locker with another account holder.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loss of Key: Inform the bank immediately; charges apply for key duplication/drilling.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Annual Rent: Pay annual rent on time to avoid late fees or locker freeze.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "For Assistance",
+            "level": 2,
+            "location": {
+              "line": 68,
+              "heading": "How to Open a Locker at ZX Bank Branch"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 70,
+                  "heading": "For Assistance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Visit: Nearest ZX Bank branch",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Website: www.zxbank.asia (https://www.zxbank.asia)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Customer Care: Check the contact section on the official website or mobile app",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 74,
+                  "heading": "For Assistance"
+                },
+                "text": "Secure your valuables with peace of mind at ZX Bank!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

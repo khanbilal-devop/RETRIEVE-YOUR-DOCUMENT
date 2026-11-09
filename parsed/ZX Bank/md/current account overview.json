@@ -1,0 +1,367 @@
+{
+  "doc_id": "6faca1f4f569c72736bcd987557e2ca20a9417c242af229c04e8ec2619e38427",
+  "doc_key": [
+    "current account overview"
+  ],
+  "path": "ZX Bank/md/Current Account Overview.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Ltd. – Current Account Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Ltd. – Current Account Overview"
+            },
+            "text": "Welcome to ZX Bank Ltd.! Explore the modern banking experience with our feature-rich Current Account tailor-made for your business and professional needs. We offer an easy account opening process, exclusive account welcome kits, and robust value-added services."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Current Account Features",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Ltd. – Current Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Current Account Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Zero Initial Deposit: Flexible opening policies with no hefty deposit requirements (as per eligibility).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seamless Transactions: High monthly cash deposit/withdrawal limits.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Multi-Location Banking: Access to 560+ branches and 1,200+ ATMs across India and South Asia.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Digital Banking Suite: Instant fund transfers (IMPS/NEFT/RTGS), UPI payments, bill payments, mobile and net banking.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personalised Cheque Book & Debit Card: Complimentary with every account.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Overdraft Facility: Business overdraft (subject to eligibility).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dedicated Relationship Manager: For priority servicing.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Exclusive Offers: Discounted trade finance, corporate credit cards, and priority remittance.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Minimum Balance Requirement",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "ZX Bank Ltd. – Current Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 22,
+                  "heading": "Minimum Balance Requirement"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Monthly Average Balance: Only ₹10,000",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Non-maintenance fee: ₹500/month",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply for a Current Account",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "ZX Bank Ltd. – Current Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 29,
+                  "heading": "How to Apply for a Current Account"
+                },
+                "text": "Online Process:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 30,
+                  "heading": "How to Apply for a Current Account"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Visit www.zxbank.asia (https://www.zxbank.asia/current-account).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Click on ‘Open Current Account’.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Complete digital e-KYC with Aadhaar and PAN.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Upload business documents (as applicable).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Choose branch & verify mobile/email via OTP.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Receive instant account number and digital onboarding kit.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 37,
+                  "heading": "How to Apply for a Current Account"
+                },
+                "text": "Offline Process:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 38,
+                  "heading": "How to Apply for a Current Account"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Visit nearest ZX Bank branch.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fill the current account opening form with your business KYC.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit documents (ID/Address proof, business registration).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Complete in-person biometric verification.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Account activates within 24 hours.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 44,
+                  "heading": "How to Apply for a Current Account"
+                },
+                "text": "Need Help? Contact our 24x7 support or your Relationship Manager."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "ZX Current Account Welcome Kit",
+            "level": 2,
+            "location": {
+              "line": 48,
+              "heading": "ZX Bank Ltd. – Current Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 50,
+                  "heading": "ZX Current Account Welcome Kit"
+                },
+                "text": "Open a ZX Current Account and receive an exclusive Savings Account Kit designed for ambitious professionals:"
+              }
+            ],
+            "sections": [
+              {
+                "title": "What’s in the Kit?",
+                "level": 3,
+                "location": {
+                  "line": 52,
+                  "heading": "ZX Current Account Welcome Kit"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 53,
+                      "heading": "What’s in the Kit?"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Premium Travel Bag – Stylish, durable, perfect for professionals on the move.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Universal Travel Adapter (4 Plugs, 150 Countries) – Compatible for global business trips.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Personalised Debit Card",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Starter Cheque Book",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Instant NetBanking & Mobile App Access",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Exclusive Health Insurance:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Coverage amount: ₹10,00,000 (Ten Lakh)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Cashless hospitalization at partner hospitals.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Covers accidental, medical emergencies and daily benefits.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Why Choose ZX Bank for Your Current Account?",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "ZX Bank Ltd. – Current Account Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Why Choose ZX Bank for Your Current Account?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Paperless Digital Onboarding",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rewarding Welcome Kit",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Easy Access to Funds and Credit",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Comprehensive Insurance Coverage",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pan-South Asia Remittance Support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Priority Servicing",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Full Digital Control via ZX Bank Asia App",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 75,
+                  "heading": "Why Choose ZX Bank for Your Current Account?"
+                },
+                "text": "Start your success journey with ZX Bank’s Current Account."
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 77,
+                  "heading": "Why Choose ZX Bank for Your Current Account?"
+                },
+                "text": "Open Your Account Now (https://www.zxbank.asia/current-account)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 81,
+                  "heading": "Why Choose ZX Bank for Your Current Account?"
+                },
+                "text": "For detailed T&Cs, visit our website or call customer care at 1800-123-ZXBNK."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

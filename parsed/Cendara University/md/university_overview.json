@@ -1,0 +1,506 @@
+{
+  "doc_id": "45810bc27e962ec8bcfee472e390219914485ecfe9f05393dfb3f4e381421be6",
+  "doc_key": [
+    "university_overview"
+  ],
+  "path": "Cendara University/md/university_overview.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Institutional Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Core Values",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Institutional Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Core Values"
+                },
+                "text": "Cendara University is guided by a set of foundational values that inform every decision, policy, and initiative across our academic and administrative landscape. Our core values are:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 7,
+                  "heading": "Core Values"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Integrity\nWe uphold the highest standards of ethical conduct, transparency, and accountability in all university affairs.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Intellectual Curiosity\nWe foster a culture of rigorous inquiry, critical thinking, and continuous learning.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Diversity and Inclusion\nWe embrace and celebrate differences, striving to create an environment where all voices are valued and everyone has the opportunity to succeed.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Community Engagement\nWe are committed to partnering with local, national, and global communities in the pursuit of societal betterment.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Innovation\nWe encourage creative problem-solving and support the bold pursuit of new knowledge, technologies, and approaches to education.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Student-Centeredness\nWe place the student experience at the heart of our mission, prioritizing holistic development, well-being, and academic achievement.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Educational Philosophy",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "Cendara University Institutional Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 29,
+                  "heading": "Educational Philosophy"
+                },
+                "text": "Cendara University’s educational philosophy is founded upon a liberal arts tradition balanced with a progressive focus on research, professional readiness, and global citizenship. Our approach emphasizes:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 31,
+                  "heading": "Educational Philosophy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Interdisciplinary Collaboration\nCrossing traditional academic boundaries to solve contemporary challenges through integrated learning.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Active Learning\nEngaging students with experiential educational methods, including collaborative projects, service learning, and research opportunities from the first year onward.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personalized Guidance\nEmphasizing small class sizes, individualized advising, and faculty mentorship to maximize student potential.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lifelong Learning and Adaptability\nEquipping graduates to navigate rapid societal changes with confidence, resilience, and a passion for continuous self-improvement.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Institutional Purpose",
+            "level": 2,
+            "location": {
+              "line": 45,
+              "heading": "Cendara University Institutional Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 47,
+                  "heading": "Institutional Purpose"
+                },
+                "text": "At Cendara University, our stated purpose is:"
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 49,
+                  "heading": "Institutional Purpose"
+                },
+                "text": "“To empower individuals and communities through transformative education, pioneering research, and service to humanity.”"
+              }
+            ],
+            "sections": [
+              {
+                "title": "Our primary objectives include:",
+                "level": 3,
+                "location": {
+                  "line": 51,
+                  "heading": "Institutional Purpose"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 53,
+                      "heading": "Our primary objectives include:"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Advancing academic excellence across a diverse range of disciplines.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Conducting impactful research that addresses the most pressing challenges of the 21st century.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Developing graduates prepared for ethical leadership and civic responsibility.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Serving as a catalyst for positive economic, cultural, and social change at both the local and global level.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Founding History & Milestones",
+        "level": 1,
+        "location": {
+          "line": 60
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Founding",
+            "level": 2,
+            "location": {
+              "line": 62,
+              "heading": "Founding History & Milestones"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 64,
+                  "heading": "Founding"
+                },
+                "text": "Cendara University was established in the spring of 1956 by Dr. Franklin M. Avery, an educator and philanthropist with a vision to create a center of learning that combined academic rigor with social responsibility. Initially founded as Cendara College with just 87 students and 12 faculty members, the institution was housed in a restored municipal building on East Willow Avenue."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Key Milestones",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "Founding History & Milestones"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1956: Founding & Inaugural Class",
+                "level": 3,
+                "location": {
+                  "line": 68,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 69,
+                      "heading": "1956: Founding & Inaugural Class"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Cendara College opens its doors to students in August.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "First academic programs offered in Humanities, Natural Sciences, and Teacher Education.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "1964: University Charter Granted",
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 73,
+                      "heading": "1964: University Charter Granted"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Achieved status as Cendara University by state legislature recognition.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Expanded campus with the construction of Yale Hall, the first purpose-built academic building.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "1971: First Graduate Programs Launched",
+                "level": 3,
+                "location": {
+                  "line": 76,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 77,
+                      "heading": "1971: First Graduate Programs Launched"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Introduction of Master’s degrees in Biology and Education.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Opening of the Graduate Research Center.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "1985: The Inclusivity Pact",
+                "level": 3,
+                "location": {
+                  "line": 80,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 81,
+                      "heading": "1985: The Inclusivity Pact"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Board of Regents adopts the Inclusivity Pact, mandating active recruitment of underrepresented students and faculty.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Establishment of the Office of Diversity Initiatives.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "1998: The Center for Global Studies Opens",
+                "level": 3,
+                "location": {
+                  "line": 84,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 85,
+                      "heading": "1998: The Center for Global Studies Opens"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Launch of international partnership programs with universities in Asia, Europe, and Africa.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "First cohort of students participates in semester-long study abroad programs.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2007: Sustainability Commitment",
+                "level": 3,
+                "location": {
+                  "line": 88,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 89,
+                      "heading": "2007: Sustainability Commitment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "President Marisol Ortega signs the University Sustainability Pledge.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Campus-wide solar initiative begins, leading to 40% reduction in energy consumption by 2012.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2016: Diamond Jubilee Celebration",
+                "level": 3,
+                "location": {
+                  "line": 92,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 93,
+                      "heading": "2016: Diamond Jubilee Celebration"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "60th anniversary marked by major capital campaign, resulting in the construction of the Santoro Library and Digital Learning Commons.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Alumni giving exceeds $25 million for the first time.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2021: COVID-19 Response and Remote Innovation",
+                "level": 3,
+                "location": {
+                  "line": 96,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 97,
+                      "heading": "2021: COVID-19 Response and Remote Innovation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Rapid transition to hybrid learning models.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Launch of the Cendara Health and Wellness Collaborative supporting student and community mental health.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2023: Center for Interdisciplinary Innovation Established",
+                "level": 3,
+                "location": {
+                  "line": 100,
+                  "heading": "Key Milestones"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 101,
+                      "heading": "2023: Center for Interdisciplinary Innovation Established"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Statewide recognition for fostering entrepreneurship and interdisciplinary solutions to global issues.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Looking Forward",
+            "level": 2,
+            "location": {
+              "line": 105,
+              "heading": "Founding History & Milestones"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 107,
+                  "heading": "Looking Forward"
+                },
+                "text": "Cendara University continually adapts to serve current and future generations. With an alumni network over 46,000 strong and a vibrant, diverse student body, the university remains true to its founding spirit: inspiring minds and transforming lives through education."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

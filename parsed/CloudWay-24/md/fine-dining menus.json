@@ -1,0 +1,292 @@
+{
+  "doc_id": "4ad22d3178f11a61ab8b8528bc22cc1614436f1453c41bdc35344a2b3647cbe3",
+  "doc_key": [
+    "fine-dining menus"
+  ],
+  "path": "CloudWay-24/md/ Fine-Dining Menus.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Fine-Dining Menus (Class-wise Overview)",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 Fine-Dining Menus (Class-wise Overview)"
+            },
+            "text": "At CloudWay 24, our commitment to culinary excellence shines through in every class. Our menus are expertly curated, inspired by global cuisines and regional favorites, and updated seasonally to offer diversity and freshness. Here’s a class-wise overview of the fine-dining experience guests can expect on board:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "CloudLux (First Class)",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 Fine-Dining Menus (Class-wise Overview)"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "CloudLux (First Class)"
+                },
+                "text": "Overview:\nCloudLux guests enjoy a fully customizable, haute-cuisine experience that blends international delicacies with Indian sophistication. Seasonal tasting menus are available, with options tailored to personal preferences."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 12,
+                  "heading": "CloudLux (First Class)"
+                },
+                "text": "Highlights:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 13,
+                  "heading": "CloudLux (First Class)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Multi-course gourmet dining: Starters, main courses, cheese boards, and artisanal desserts",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Curated international wine and champagne list",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fresh, premium ingredients: Caviar, Wagyu, fresh seafood, truffles, and global specialty produce",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personalized service: Order à la carte, or request chef’s special creations on select routes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wide range of world cuisines: French, Italian, Indian Royal, Pan-Asian, Middle Eastern, and more",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Exclusive beverage pairings: High-end spirits, aged whiskies, and luxury teas",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "CloudElite (Business Class)",
+            "level": 2,
+            "location": {
+              "line": 22,
+              "heading": "CloudWay 24 Fine-Dining Menus (Class-wise Overview)"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 24,
+                  "heading": "CloudElite (Business Class)"
+                },
+                "text": "Overview:\nBusiness travelers in CloudElite enjoy restaurant-style dining with extensive menu options, reflecting both international classics and local dishes."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 27,
+                  "heading": "CloudElite (Business Class)"
+                },
+                "text": "Highlights:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 28,
+                  "heading": "CloudElite (Business Class)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Multiple appetizers, mains, and dessert options on every flight",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Refined international cuisine: Grilled meats & fish, traditional Indian curries, Asian specialties, and Mediterranean-inspired dishes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Vegetarian and health-focused selections always available",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Premium bread basket, cheese plates, and fruit selections",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Choice of wine, beer, select spirits, freshly brewed coffee, and teas",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "CloudComfort (Premium Economy)",
+            "level": 2,
+            "location": {
+              "line": 36,
+              "heading": "CloudWay 24 Fine-Dining Menus (Class-wise Overview)"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 38,
+                  "heading": "CloudComfort (Premium Economy)"
+                },
+                "text": "Overview:\nCloudComfort offers enhanced meal choices and upgraded presentations compared to standard economy, bridging comfort and quality."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 41,
+                  "heading": "CloudComfort (Premium Economy)"
+                },
+                "text": "Highlights:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 42,
+                  "heading": "CloudComfort (Premium Economy)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Multi-course meals with a choice of Western, Asian, and Indian dishes",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Salads, fresh bread rolls, and more substantial entrees",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rotating desserts and fruit plates",
+                    "depth": 0
+                  },
+                  {
+                    "text": "A variety of soft drinks, juices, and complimentary hot beverages",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "CloudSaver (Economy Class)",
+            "level": 2,
+            "location": {
+              "line": 49,
+              "heading": "CloudWay 24 Fine-Dining Menus (Class-wise Overview)"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 51,
+                  "heading": "CloudSaver (Economy Class)"
+                },
+                "text": "Overview:\nCloudSaver menus focus on satisfying, flavorful meals inspired by international tastes and comfort food classics."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 54,
+                  "heading": "CloudSaver (Economy Class)"
+                },
+                "text": "Highlights:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 55,
+                  "heading": "CloudSaver (Economy Class)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Tasty, balanced meals with a selection of meat, vegetarian, and regional options",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seasonal accompaniments such as salads or yogurts",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Choice of two or more main courses per flight",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Light dessert and fresh fruit",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wide selection of non-alcoholic drinks, tea, and coffee",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Special Meal Requests",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "CloudSaver (Economy Class)"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 65,
+                      "heading": "Special Meal Requests"
+                    },
+                    "text": "For all classes, a wide range of special meal requests (Vegan, Jain, Gluten-Free, Kosher, Child-friendly, Diabetic-friendly, and more) is available to pre-order when booking or through \"Manage My Flight.\""
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 69,
+                      "heading": "Special Meal Requests"
+                    },
+                    "text": "Menus are refreshed quarterly and may feature regional specialties based on flight route and destination. For a preview of onboard offerings for your route, please visit CloudWay24.com (https://CloudWay24.com) or the CloudWay 24 app."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

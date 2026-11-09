@@ -1,0 +1,765 @@
+{
+  "doc_id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab",
+  "doc_key": [
+    "dept_of_management_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Management_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Management",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "B.B.A. / M.B.A. in Management",
+                "level": 3,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of Management"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 4,
+                      "heading": "B.B.A. / M.B.A. in Management"
+                    },
+                    "text": "Entrepreneurship, Human Resources, Operations, and Strategic Management"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Course Catalog 2024–2025",
+        "level": 1,
+        "location": {
+          "line": 8
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 10,
+              "heading": "Course Catalog 2024–2025"
+            },
+            "text": "The Department of Management offers a comprehensive suite of undergraduate (B.B.A.) and graduate (M.B.A.) courses. Below is the complete listing of all Management courses, along with course descriptions, prerequisites, and credit hours."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Undergraduate Courses (B.B.A.)",
+            "level": 2,
+            "location": {
+              "line": 14,
+              "heading": "Course Catalog 2024–2025"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "MGMT 101: Principles of Management",
+                "level": 3,
+                "location": {
+                  "line": 16,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 17,
+                      "heading": "MGMT 101: Principles of Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAn introduction to the fundamentals of management, including planning, organizing, leading, and controlling within organizations. Emphasis is placed on the evolution of management thought, ethical frameworks, and decision-making processes.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 112: Organizational Behavior",
+                "level": 3,
+                "location": {
+                  "line": 24,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 25,
+                      "heading": "MGMT 112: Organizational Behavior"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExplores the psychological and sociological principles underlying individual and group behavior in organizations. Topics include motivation, leadership styles, team dynamics, and conflict resolution.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 124: Business Communications",
+                "level": 3,
+                "location": {
+                  "line": 32,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 33,
+                      "heading": "MGMT 124: Business Communications"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nFocuses on effective business writing, verbal communication, and presentation skills necessary for managerial success. Includes practical exercises and group projects.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 203: Human Resource Management",
+                "level": 3,
+                "location": {
+                  "line": 40,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "MGMT 203: Human Resource Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExamines the key functions of HR including recruitment, selection, training, performance appraisal, and legal considerations. Addresses current challenges in managing a diverse workforce.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 217: Operations Management",
+                "level": 3,
+                "location": {
+                  "line": 48,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 49,
+                      "heading": "MGMT 217: Operations Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nCovers critical concepts in production and service operations, process analysis, quality management, inventory systems, and operations strategy.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 101, STAT 105 (Introduction to Statistics)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 230: Business Ethics and Corporate Social Responsibility",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 57,
+                      "heading": "MGMT 230: Business Ethics and Corporate Social Responsibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nInvestigates ethical dilemmas and social responsibilities faced by organizations. Case studies focus on sustainable business practices and ethical decision-making.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 101",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 251: Entrepreneurship and Innovation",
+                "level": 3,
+                "location": {
+                  "line": 64,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 65,
+                      "heading": "MGMT 251: Entrepreneurship and Innovation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nProvides an overview of entrepreneurship, idea generation, feasibility analysis, and launching new ventures. Includes a capstone project developing a business plan.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 101, ACCT 102 (Principles of Accounting)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 272: Strategic Management",
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 73,
+                      "heading": "MGMT 272: Strategic Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIntegrative study of strategy formulation and implementation in business organizations. Covers environmental analysis, competitive advantage, and strategic decision-making.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 101, MGMT 217",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 280: International Business Management",
+                "level": 3,
+                "location": {
+                  "line": 80,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 81,
+                      "heading": "MGMT 280: International Business Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nOverview of challenges and strategies in managing internationally. Topics include global trade, cross-cultural management, international finance, and multinational structures.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 101, ECON 110 (Principles of Economics)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 299: Management Internship",
+                "level": 3,
+                "location": {
+                  "line": 88,
+                  "heading": "Undergraduate Courses (B.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 89,
+                      "heading": "MGMT 299: Management Internship"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2–4 (variable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nSupervised work experience in a business, non-profit, or government organization. Requires completion of internship objectives and a final reflection report.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Junior standing, departmental approval",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Graduate Courses (M.B.A.)",
+            "level": 2,
+            "location": {
+              "line": 96,
+              "heading": "Course Catalog 2024–2025"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "MGMT 501: Advanced Management Theory",
+                "level": 3,
+                "location": {
+                  "line": 98,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 99,
+                      "heading": "MGMT 501: Advanced Management Theory"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAn in-depth analysis of classical and contemporary management theories, with a critical approach to their application in modern organizational settings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 512: Executive Leadership",
+                "level": 3,
+                "location": {
+                  "line": 106,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 107,
+                      "heading": "MGMT 512: Executive Leadership"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExamines leadership frameworks and practices at the executive level. Emphasizes strategic visioning, change management, and ethical leadership in global contexts.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 501",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 524: Strategic Human Resources",
+                "level": 3,
+                "location": {
+                  "line": 114,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 115,
+                      "heading": "MGMT 524: Strategic Human Resources"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nFocuses on aligning human resource strategies with organizational goals. Special emphasis on talent management, organizational development, and labor relations.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 501",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 535: Project and Operations Management",
+                "level": 3,
+                "location": {
+                  "line": 122,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 123,
+                      "heading": "MGMT 535: Project and Operations Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nApplies advanced methods to project management, process improvement, lean operations, and supply chain integration.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 501",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 541: Entrepreneurial Finance",
+                "level": 3,
+                "location": {
+                  "line": 130,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 131,
+                      "heading": "MGMT 541: Entrepreneurial Finance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExplores sources of funding for new ventures, financial planning, and risk management for entrepreneurs. Case studies highlight real-world scenarios.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 501, FINC 502 (Managerial Finance)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 558: Management Consulting Practicum",
+                "level": 3,
+                "location": {
+                  "line": 138,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 139,
+                      "heading": "MGMT 558: Management Consulting Practicum"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nReal-world consulting project with partner organizations. Students work in teams to analyze client issues, develop recommendations, and present solutions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 535, departmental approval",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 570: Global Strategy",
+                "level": 3,
+                "location": {
+                  "line": 146,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 147,
+                      "heading": "MGMT 570: Global Strategy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nInvolves analysis and formulation of strategies for competing internationally. Covers global market entry, competitive dynamics, and cross-border mergers and acquisitions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: MGMT 501",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 598: Special Topics in Management",
+                "level": 3,
+                "location": {
+                  "line": 154,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 155,
+                      "heading": "MGMT 598: Special Topics in Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 1–3 (variable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nSelected advanced topics in management offered on a rotating basis. Recent topics include sustainable business models, digital transformation, and agile organizations.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: As announced per offering",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "MGMT 599: Capstone Management Project",
+                "level": 3,
+                "location": {
+                  "line": 162,
+                  "heading": "Graduate Courses (M.B.A.)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 163,
+                      "heading": "MGMT 599: Capstone Management Project"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nCulminating project synthesizing knowledge from the MBA program. Students develop and present a comprehensive business case or strategic plan for a real or hypothetical organization.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Completion of core MBA courses, departmental approval",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Notes",
+        "level": 1,
+        "location": {
+          "line": 170
+        },
+        "blocks": [
+          {
+            "type": "list",
+            "location": {
+              "line": 172,
+              "heading": "Notes"
+            },
+            "ordered": false,
+            "items": [
+              {
+                "text": "Course Rotation: Some courses are offered every semester, while others are available annually or biennially. Current schedule available on the Cendara University portal.",
+                "depth": 0
+              },
+              {
+                "text": "Enrollment: For prerequisites marked “departmental approval,” contact the department office at management@cendara.edu.",
+                "depth": 0
+              },
+              {
+                "text": "Internship and Practicum: Placement assistance is provided. Enrollment contingent on GPA and advisor recommendation.",
+                "depth": 0
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 176,
+              "heading": "Notes"
+            },
+            "text": "For further details or course planning, please consult with your academic advisor in the Department of Management."
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+}

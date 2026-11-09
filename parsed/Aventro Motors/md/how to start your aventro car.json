@@ -1,0 +1,316 @@
+{
+  "doc_id": "ef467f488697a6897cc8dc3ff005f0cd5f3cdbead741628c940589398b964211",
+  "doc_key": [
+    "how to start your aventro car"
+  ],
+  "path": "Aventro Motors/md/How to Start Your Aventro Car.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Start Your Aventro Car",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Start Your Aventro Car"
+            },
+            "text": "Starting your Aventro car is a simple process, but exact procedures may vary slightly depending on the model, fuel type, and technology (conventional, electric, or hybrid). Below is a general step-by-step guide for Aventro Petrol, Diesel, Hybrid, and Electric cars."
+          }
+        ],
+        "sections": [
+          {
+            "title": "For All Aventro Models",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Start Your Aventro Car"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Ensure Safety First",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "For All Aventro Models"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 10,
+                      "heading": "1. Ensure Safety First"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Sit in the driver’s seat and fasten your seatbelt.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ensure the gear lever is in 'P' (Park, for automatic) or 'N' (Neutral, for manual).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Press the brake pedal (and the clutch for manual transmission).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "A. Petrol & Diesel Models",
+            "level": 2,
+            "location": {
+              "line": 16,
+              "heading": "How to Start Your Aventro Car"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "With Standard Key Ignition",
+                "level": 3,
+                "location": {
+                  "line": 18,
+                  "heading": "A. Petrol & Diesel Models"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 19,
+                      "heading": "With Standard Key Ignition"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Insert the Key:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Insert the car key into the ignition slot (usually on the right of the steering column).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Turn the Key:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Turn the key clockwise to the \"ON\" position (dashboard lights turn on).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Continue turning to the \"START\" position. Release when the engine starts.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "With Push-Button Start",
+                "level": 3,
+                "location": {
+                  "line": 25,
+                  "heading": "A. Petrol & Diesel Models"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "With Push-Button Start"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Ensure Key Fob is Inside the Car:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "The key fob should be in your pocket or bag within the vehicle.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Press the Start/Stop Button:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Press and hold the brake pedal.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Press the \"Start/Stop\" button. The engine will start.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "B. Electric Models",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "How to Start Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "B. Electric Models"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Key Fob Present",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ensure the key fob is inside the vehicle.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Press Brake Pedal",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Firmly press and hold the brake pedal.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Press Start Button",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Press the \"Start/Stop\" button. Indicator lights and systems will activate.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ready Indicator",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wait for the 'READY' signal/light on the dashboard. The car is now ready to drive silently.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "C. Hybrid Models",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "How to Start Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "C. Hybrid Models"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Key Fob Present",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Make sure the key fob is with you, inside the car.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Press Brake Pedal",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Press and hold the brake pedal.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Press Start Button",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Press the \"Start/Stop\" button.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "The car may start silently in EV mode or with a slight engine sound in engine mode. Watch for 'READY' signal on the dashboard.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Additional Tips",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "How to Start Your Aventro Car"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 60,
+                  "heading": "Additional Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "For all models, ensure all warning lights turn off after starting.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Do not press the accelerator while starting.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For electric/hybrid, if 'READY' does not appear, try restarting.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 66,
+                  "heading": "Additional Tips"
+                },
+                "text": "If you're unsure or the car doesn't start, refer to your Aventro user manual or contact the nearest Aventro Service Center."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

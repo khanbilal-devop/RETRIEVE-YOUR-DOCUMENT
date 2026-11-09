@@ -1,0 +1,614 @@
+{
+  "doc_id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60",
+  "doc_key": [
+    "dept_of_economics_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Economics_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Economics",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Course Catalog 2024–2025",
+                "level": 3,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of Economics"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Undergraduate Program: B.Sc. in Economics",
+                    "level": 4,
+                    "location": {
+                      "line": 5,
+                      "heading": "Course Catalog 2024–2025"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 6,
+                          "heading": "Undergraduate Program: B.Sc. in Economics"
+                        },
+                        "text": "Specializations: Macroeconomics, Econometrics, International Economics"
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Undergraduate Courses",
+            "level": 2,
+            "location": {
+              "line": 10,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "ECON 101: Principles of Microeconomics",
+                "level": 3,
+                "location": {
+                  "line": 12,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 13,
+                      "heading": "ECON 101: Principles of Microeconomics"
+                    },
+                    "text": "Credits: 3\nDescription:\nIntroduction to microeconomic theory, including supply and demand, market structures, consumer behavior, and the role of government. Emphasis on real-world applications and critical thinking about everyday economic issues.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 102: Principles of Macroeconomics",
+                "level": 3,
+                "location": {
+                  "line": 20,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 21,
+                      "heading": "ECON 102: Principles of Macroeconomics"
+                    },
+                    "text": "Credits: 3\nDescription:\nFoundations of macroeconomics: national income, economic growth, unemployment, inflation, monetary and fiscal policy. Analysis of current macroeconomic challenges and policy debates.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 201: Intermediate Microeconomics",
+                "level": 3,
+                "location": {
+                  "line": 28,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 29,
+                      "heading": "ECON 201: Intermediate Microeconomics"
+                    },
+                    "text": "Credits: 3\nDescription:\nDetailed study of consumer theory, production and costs, market equilibrium, and competitive markets. Introduction to strategic behavior and market failures.\nPrerequisites: ECON 101"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 202: Intermediate Macroeconomics",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 37,
+                      "heading": "ECON 202: Intermediate Macroeconomics"
+                    },
+                    "text": "Credits: 3\nDescription:\nExamination of economic growth, business cycles, aggregate demand and supply, and the impacts of monetary and fiscal policies on national and global economies.\nPrerequisites: ECON 102"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 210: Statistics for Economists",
+                "level": 3,
+                "location": {
+                  "line": 44,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 45,
+                      "heading": "ECON 210: Statistics for Economists"
+                    },
+                    "text": "Credits: 3\nDescription:\nIntroduction to statistical concepts, probability theory, and data analysis in economics. Hands-on experience with statistical software and interpretation of economic data sets.\nPrerequisites: None"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 221: Introduction to Econometrics",
+                "level": 3,
+                "location": {
+                  "line": 52,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 53,
+                      "heading": "ECON 221: Introduction to Econometrics"
+                    },
+                    "text": "Credits: 3\nDescription:\nStatistical techniques in estimating economic models: regression analysis, hypothesis testing, and forecasting. Practical applications using real-world data.\nPrerequisites: ECON 210"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 230: Money and Banking",
+                "level": 3,
+                "location": {
+                  "line": 60,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 61,
+                      "heading": "ECON 230: Money and Banking"
+                    },
+                    "text": "Credits: 3\nDescription:\nStudy of money, banking systems, and financial institutions. Analysis of central banking, monetary policy, and their effects on the economy.\nPrerequisites: ECON 102"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 240: International Economics",
+                "level": 3,
+                "location": {
+                  "line": 68,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 69,
+                      "heading": "ECON 240: International Economics"
+                    },
+                    "text": "Credits: 3\nDescription:\nTheories of international trade, exchange rates, trade policy, and their impact on global economic relations. Discussion of current international economic issues.\nPrerequisites: ECON 101, ECON 102"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 270: Development Economics",
+                "level": 3,
+                "location": {
+                  "line": 76,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 77,
+                      "heading": "ECON 270: Development Economics"
+                    },
+                    "text": "Credits: 3\nDescription:\nExamination of economic development in low- and middle-income countries. Focus on poverty, inequality, population growth, and policy strategies for promoting sustainable development.\nPrerequisites: ECON 102"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 310: Public Finance",
+                "level": 3,
+                "location": {
+                  "line": 84,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 85,
+                      "heading": "ECON 310: Public Finance"
+                    },
+                    "text": "Credits: 3\nDescription:\nEconomic analysis of government expenditures and tax policies. Role of government in resource allocation, income distribution, and economic stability.\nPrerequisites: ECON 201"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 320: Game Theory and Strategic Behavior",
+                "level": 3,
+                "location": {
+                  "line": 92,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 93,
+                      "heading": "ECON 320: Game Theory and Strategic Behavior"
+                    },
+                    "text": "Credits: 3\nDescription:\nIntroduction to the fundamentals of game theory, including Nash equilibrium, repeated games, and applications to business, politics, and economics.\nPrerequisites: ECON 201"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 350: Labor Economics",
+                "level": 3,
+                "location": {
+                  "line": 100,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 101,
+                      "heading": "ECON 350: Labor Economics"
+                    },
+                    "text": "Credits: 3\nDescription:\nAnalysis of labor markets, wage determination, employment, and the effects of unions and government policies on labor outcomes.\nPrerequisites: ECON 201"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 360: Environmental Economics",
+                "level": 3,
+                "location": {
+                  "line": 108,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 109,
+                      "heading": "ECON 360: Environmental Economics"
+                    },
+                    "text": "Credits: 3\nDescription:\nStudy of the economics of environmental policy, natural resource management, and sustainability. Discussion of market-based solutions to environmental challenges.\nPrerequisites: ECON 201"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 399: Research Methods in Economics",
+                "level": 3,
+                "location": {
+                  "line": 116,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 117,
+                      "heading": "ECON 399: Research Methods in Economics"
+                    },
+                    "text": "Credits: 3\nDescription:\nTraining in empirical research design, data collection, and interpretation of results. Preparation for honors thesis or upper-level research projects.\nPrerequisites: ECON 221, Junior standing"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 410: Senior Seminar in Economics",
+                "level": 3,
+                "location": {
+                  "line": 124,
+                  "heading": "Undergraduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 125,
+                      "heading": "ECON 410: Senior Seminar in Economics"
+                    },
+                    "text": "Credits: 3\nDescription:\nCapstone course requiring the completion and presentation of an independent research project. Emphasis on integrating theory, data, and policy analysis.\nPrerequisites: Senior standing, ECON 399"
+                  }
+                ],
+                "sections": [
+                  {
+                    "title": "Additional Undergraduate Electives",
+                    "level": 4,
+                    "location": {
+                      "line": 132,
+                      "heading": "ECON 410: Senior Seminar in Economics"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 134,
+                          "heading": "Additional Undergraduate Electives"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "ECON 273: Economics of Inequality (3 credits, Prerequisite: ECON 201)\nFocuses on measurement and determinants of economic inequality within and across countries.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "ECON 280: Behavioral Economics (3 credits, Prerequisite: ECON 201)\nExplores how psychological factors influence economic decision-making.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Graduate Program: M.Sc. in Economics",
+            "level": 2,
+            "location": {
+              "line": 142,
+              "heading": "Cendara University"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 143,
+                  "heading": "Graduate Program: M.Sc. in Economics"
+                },
+                "text": "Concentration: Advanced microeconomic and macroeconomic theory, applied research"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Graduate Courses",
+            "level": 2,
+            "location": {
+              "line": 147,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "ECON 501: Mathematical Methods for Economists",
+                "level": 3,
+                "location": {
+                  "line": 149,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 150,
+                      "heading": "ECON 501: Mathematical Methods for Economists"
+                    },
+                    "text": "Credits: 4\nDescription:\nAdvanced mathematical techniques for economic modeling: calculus, optimization, and linear algebra tailored to economic applications.\nPrerequisites: Undergraduate-level mathematics"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 510: Advanced Microeconomic Theory",
+                "level": 3,
+                "location": {
+                  "line": 157,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 158,
+                      "heading": "ECON 510: Advanced Microeconomic Theory"
+                    },
+                    "text": "Credits: 4\nDescription:\nRigorous analysis of consumer and producer behavior, market equilibrium, general equilibrium, and welfare economics.\nPrerequisites: ECON 201 or equivalent"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 520: Advanced Macroeconomic Theory",
+                "level": 3,
+                "location": {
+                  "line": 165,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 166,
+                      "heading": "ECON 520: Advanced Macroeconomic Theory"
+                    },
+                    "text": "Credits: 4\nDescription:\nExplores advanced models of economic growth, expectations, and policy analysis. Topics include real business cycle theory and dynamic stochastic general equilibrium.\nPrerequisites: ECON 202 or equivalent"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 530: Econometric Theory and Methods",
+                "level": 3,
+                "location": {
+                  "line": 173,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 174,
+                      "heading": "ECON 530: Econometric Theory and Methods"
+                    },
+                    "text": "Credits: 4\nDescription:\nAdvanced methods in estimation, hypothesis testing, time series analysis, and panel data models. Implementation using econometric software.\nPrerequisites: ECON 221, undergraduate-level statistics"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 561: International Trade and Finance",
+                "level": 3,
+                "location": {
+                  "line": 181,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 182,
+                      "heading": "ECON 561: International Trade and Finance"
+                    },
+                    "text": "Credits: 3\nDescription:\nContemporary theory and practice of international trade, capital flows, exchange rates, and the global financial system.\nPrerequisites: ECON 240 or equivalent"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 570: Applied Policy Analysis",
+                "level": 3,
+                "location": {
+                  "line": 189,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 190,
+                      "heading": "ECON 570: Applied Policy Analysis"
+                    },
+                    "text": "Credits: 3\nDescription:\nMethodologies for evaluating the economic impact of public policies in areas such as health, education, and taxation. Emphasis on cost-benefit analysis and real-world case studies.\nPrerequisites: ECON 510, ECON 530"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 590: Research Seminar",
+                "level": 3,
+                "location": {
+                  "line": 197,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 198,
+                      "heading": "ECON 590: Research Seminar"
+                    },
+                    "text": "Credits: 3\nDescription:\nWeekly seminar addressing current research topics in economics. Presentations by faculty, visiting scholars, and students.\nPrerequisites: Enrollment in M.Sc. program"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ECON 599: Thesis in Economics",
+                "level": 3,
+                "location": {
+                  "line": 205,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 206,
+                      "heading": "ECON 599: Thesis in Economics"
+                    },
+                    "text": "Credits: 6\nDescription:\nSupervised independent research culminating in a written thesis and oral defense. Open only to M.Sc. candidates in their final term.\nPrerequisites: Completion of core M.Sc. coursework and approval of thesis proposal"
+                  }
+                ],
+                "sections": [
+                  {
+                    "title": "Graduate Electives",
+                    "level": 4,
+                    "location": {
+                      "line": 213,
+                      "heading": "ECON 599: Thesis in Economics"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 215,
+                          "heading": "Graduate Electives"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "ECON 582: Topics in Development Economics (3 credits, Prerequisites: ECON 510)\nIn-depth study of advanced issues in economic development, including field experiments and policy interventions.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "ECON 584: Advanced Econometrics (3 credits, Prerequisites: ECON 530)\nAdvanced topics: limited dependent variables, instrumental variables, and nonlinear models.",
+                            "depth": 0
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 223,
+                          "heading": "Graduate Electives"
+                        },
+                        "text": "For additional information, please contact the Department of Economics at economics@cendara.edu, or consult the full course catalog at www.cendara.edu/economics/courses (http://www.cendara.edu/economics/courses)."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

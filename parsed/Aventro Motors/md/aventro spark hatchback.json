@@ -1,0 +1,391 @@
+{
+  "doc_id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc",
+  "doc_key": [
+    "aventro spark hatchback"
+  ],
+  "path": "Aventro Motors/md/Aventro Spark Hatchback.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Spark Hatchback",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "text": "Welcome to the official specifications page for the Aventro Spark, a stylish, compact, and efficient hatchback brought to you by Aventro Motors Pvt. Ltd."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "Overview"
+                },
+                "text": "The Spark Hatchback is designed for city comfort, agility, and fuel efficiency, all while being packed with modern features. Whether you opt for the practical Base, feature-rich X, or the technologically advanced ZX variant, you get reliability—a true value for your family."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Specifications",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 15,
+                  "heading": "Specifications"
+                },
+                "header": [
+                  "Parameter",
+                  "Description"
+                ],
+                "rows": [
+                  [
+                    "Engine Options",
+                    "Petrol / Diesel / Electric / Hybrid"
+                  ],
+                  [
+                    "Transmission",
+                    "5-Speed Manual / Automated Manual"
+                  ],
+                  [
+                    "Fuel Tank Capacity",
+                    "40 Litres (IC engine variants)"
+                  ],
+                  [
+                    "Boot Space",
+                    "280 Litres"
+                  ],
+                  [
+                    "Seating",
+                    "5"
+                  ],
+                  [
+                    "Smart Features",
+                    "See Variants Section"
+                  ],
+                  [
+                    "Safety",
+                    "Dual Airbags, ABS, EBD (all trims)"
+                  ],
+                  [
+                    "Dimensions (LxWxH)",
+                    "3810 x 1680 x 1515 mm"
+                  ],
+                  [
+                    "Wheels",
+                    "Alloy (X & ZX) / Steel (Base)"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Features (Highlights)",
+            "level": 2,
+            "location": {
+              "line": 29,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 31,
+                  "heading": "Features (Highlights)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "LED Headlamps and Tail Lamps (ZX only)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Premium Fabric or Leather Seats (ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Push Button Start (X & ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rear Parking Sensors (All trims)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cruise Control (X & ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Automatic Climate Control (X & ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "11-inch Infotainment Touchscreen (X & ZX)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Harman Audio System (ZX only)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Variants & Pricing",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 44,
+                  "heading": "Variants & Pricing"
+                },
+                "header": [
+                  "Variant",
+                  "Fuel Type",
+                  "Price (Lakh, Ex-Showroom)",
+                  "Major Features"
+                ],
+                "rows": [
+                  [
+                    "Base",
+                    "Petrol",
+                    "4.9",
+                    "Standard Infotainment, Manual AC, Dual Airbags, Central Locking"
+                  ],
+                  [
+                    "X",
+                    "Petrol",
+                    "5.4",
+                    "11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels, Reverse Parking Camera"
+                  ],
+                  [
+                    "ZX",
+                    "Petrol",
+                    "5.9",
+                    "11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, LED Lights"
+                  ],
+                  [
+                    "Base",
+                    "Diesel",
+                    "6.9",
+                    "Standard Infotainment, Manual AC, Dual Airbags, Central Locking"
+                  ],
+                  [
+                    "X",
+                    "Diesel",
+                    "7.4",
+                    "11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels, Reverse Parking Camera"
+                  ],
+                  [
+                    "ZX",
+                    "Diesel",
+                    "7.9",
+                    "11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, LED Lights"
+                  ],
+                  [
+                    "Base",
+                    "Electric",
+                    "11.9",
+                    "Standard Infotainment, E-ABS, Regenerative Brakes, Dual Airbags"
+                  ],
+                  [
+                    "X",
+                    "Electric",
+                    "12.4",
+                    "11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels, Fast Charging"
+                  ],
+                  [
+                    "ZX",
+                    "Electric",
+                    "12.9",
+                    "11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, Fast Charging, LED Lights"
+                  ],
+                  [
+                    "Base",
+                    "Hybrid",
+                    "8.4",
+                    "Standard Infotainment, Dual Airbags, Central Locking"
+                  ],
+                  [
+                    "X",
+                    "Hybrid",
+                    "8.9",
+                    "11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels"
+                  ],
+                  [
+                    "ZX",
+                    "Hybrid",
+                    "9.4",
+                    "11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, LED Lights"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Special Variant Features",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 63,
+                  "heading": "Special Variant Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "X Variant:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "11-inch touchscreen infotainment system",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ADAS Level 1 driver assists (auto emergency braking, rear collision warning)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Automatic Climate control",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Alloy Wheels",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ZX Variant:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "11-inch touchscreen with Harman sound system",
+                    "depth": 1
+                  },
+                  {
+                    "text": "360° Surround View Camera",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ADAS Level 2 (includes lane keep assist, adaptive cruise control)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Leather seats",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Premium LED lighting",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Why Spark?",
+            "level": 2,
+            "location": {
+              "line": 78,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 80,
+                  "heading": "Why Spark?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Class-leading safety and infotainment",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Multiple powertrains to suit every need",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lowest cost of ownership in its segment",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact",
+            "level": 2,
+            "location": {
+              "line": 86,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 88,
+                  "heading": "Contact"
+                },
+                "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com\nWebsite: www.aventromotors.com (http://www.aventromotors.com)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 96,
+                  "heading": "Contact"
+                },
+                "text": "Experience the Spark. Drive innovation, comfort, and safety."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

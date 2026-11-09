@@ -1,0 +1,402 @@
+{
+  "doc_id": "a2b6b1fcdc606e7b49efaef21acc868e2518c5fbf6512bc9a727de91dde905d9",
+  "doc_key": [
+    "special baggage policy"
+  ],
+  "path": "CloudWay-24/md/Special Baggage Policy.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Special Baggage Policy",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "text": "CloudWay 24 offers customized handling and allowances for special baggage items across all travel classes. Passengers are encouraged to review class-wise entitlements and guidelines for items such as sports equipment, musical instruments, hunting/sport rifles, and ammunition."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Eligible Special Baggage Categories",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "1. Eligible Special Baggage Categories"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Sports Equipment",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Golf bags, skis, snowboards, bicycles, surfboards, cricket kits, etc.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Musical Instruments",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Guitars, violins, cellos, musical keyboards, etc.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hunting & Sport Rifles",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Permitted only with valid licenses and prior airline approval.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ammunition",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Only as checked baggage, under strict regulatory compliance.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Class-wise Special Baggage Allowance",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 22,
+                  "heading": "2. Class-wise Special Baggage Allowance"
+                },
+                "header": [
+                  "Cabin Class",
+                  "Free Special Baggage Allowance",
+                  "Additional Fees",
+                  "Priority Handling"
+                ],
+                "rows": [
+                  [
+                    "CloudLux (First Class)",
+                    "2 special items included",
+                    "Additional items: Standard excess baggage fee",
+                    "Yes"
+                  ],
+                  [
+                    "CloudElite (Business Class)",
+                    "1 special item included",
+                    "Additional items: Standard excess baggage fee",
+                    "Yes"
+                  ],
+                  [
+                    "CloudComfort (Premium Economy)",
+                    "No free inclusion",
+                    "All items: Standard excess baggage fee",
+                    "No"
+                  ],
+                  [
+                    "CloudSaver (Economy)",
+                    "No free inclusion",
+                    "All items: Standard excess baggage fee",
+                    "No"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 29,
+                  "heading": "2. Class-wise Special Baggage Allowance"
+                },
+                "text": "Note: Size and weight limits apply. Items above permitted weight/size may attract oversize/overweight charges."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Packing & Handling Guidelines",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Sports Equipment",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "3. Packing & Handling Guidelines"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "Sports Equipment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Should be securely packed and labeled.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Oversized items (e.g. bicycles, surfboards) require advance notice.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fragile items: Passenger advised to insure against damage.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Musical Instruments",
+                "level": 3,
+                "location": {
+                  "line": 40,
+                  "heading": "3. Packing & Handling Guidelines"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "Musical Instruments"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Small instruments (up to 115 cm/45 in and 7kg): Allowed as cabin baggage (subject to space and safety).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Larger instruments: Must be checked-in; special packing recommended; advance notification required.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "For extra protection, a paid seat may be booked for larger valuable instruments (subject to availability).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Hunting & Sport Rifles, Ammunition",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "3. Packing & Handling Guidelines"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "Hunting & Sport Rifles, Ammunition"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Only permitted as checked baggage with:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Valid firearm license(s) and documentation.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Prior notification (at least 72 hours before departure).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Approval at origin and destination as per local and international regulations.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Packing: Unloaded, dismantled if possible, in rigid locked cases.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ammunition: Limited to 5 kg per passenger, packed separately from firearms, in manufacturer’s packaging.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "4. Advance Arrangement & Approval",
+            "level": 2,
+            "location": {
+              "line": 55,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 57,
+                  "heading": "4. Advance Arrangement & Approval"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Advance notification is mandatory for all firearms, ammunition, and oversized/fragile items.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit requests via “Manage My Flight” or contact CloudWay 24 Customer Service.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Confirmation required before travel.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Fees and Charges",
+            "level": 2,
+            "location": {
+              "line": 63,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 65,
+                  "heading": "5. Fees and Charges"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Refer to the CloudWay 24 Baggage Calculator (https://cloudway24.com/baggage) for specific rates.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fees vary by route, item size/weight, and membership tier (SkyPoints 24 members may get fee waivers).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Exclusions and Restrictions",
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 72,
+                  "heading": "6. Exclusions and Restrictions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "No carriage of explosive or incendiary items.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Restrictions applied for travel to/from certain destinations due to local laws.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Airline reserves the right to refuse any special baggage not meeting safety, security, or compliance requirements.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 78,
+                  "heading": "6. Exclusions and Restrictions"
+                },
+                "text": "For any questions or to pre-arrange your special baggage:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 79,
+                  "heading": "6. Exclusions and Restrictions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Visit CloudWay24.com (https://cloudway24.com)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use the CloudWay 24 App (iOS/Android)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Or contact our 24x7 Customer Support",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 85,
+                  "heading": "6. Exclusions and Restrictions"
+                },
+                "text": "CloudWay 24 – Seamless Skies, Global Reach."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

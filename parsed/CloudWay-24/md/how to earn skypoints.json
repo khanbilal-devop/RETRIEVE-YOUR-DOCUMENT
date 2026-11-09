@@ -1,0 +1,371 @@
+{
+  "doc_id": "f604e201f1e5421ab3ff02ca4b8b10ec466c0aefa385955f6ee826a20c8de659",
+  "doc_key": [
+    "how to earn skypoints"
+  ],
+  "path": "CloudWay-24/md/How to Earn SkyPoints.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Earn SkyPoints 24 with CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Earn SkyPoints 24 with CloudWay 24"
+            },
+            "text": "SkyPoints 24 is CloudWay 24’s exclusive frequent flyer program, designed to reward loyal travelers with points on every journey and offer exclusive benefits."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Ways to Earn SkyPoints 24",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Earn SkyPoints 24 with CloudWay 24"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Flight Bookings",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Ways to Earn SkyPoints 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 11,
+                      "heading": "1. Flight Bookings"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Earn SkyPoints 24 every time you fly with CloudWay 24:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Points are credited based on distance flown, class of travel, and SkyPoints 24 tier.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "All cabin classes qualify:",
+                        "depth": 1
+                      },
+                      {
+                        "text": "CloudLux (First Class) – Highest points accrual",
+                        "depth": 2
+                      },
+                      {
+                        "text": "CloudElite (Business Class)",
+                        "depth": 2
+                      },
+                      {
+                        "text": "CloudComfort (Premium Economy)",
+                        "depth": 2
+                      },
+                      {
+                        "text": "CloudSaver (Economy)",
+                        "depth": 2
+                      },
+                      {
+                        "text": "How points are calculated:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Base Points per mile/kilometer, with bonus for higher cabin class and tier status.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Booking Upgrades",
+                "level": 3,
+                "location": {
+                  "line": 24,
+                  "heading": "Ways to Earn SkyPoints 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "2. Booking Upgrades"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Upgrade using cash or SkyPoints 24 and earn points on the original and upgraded booking value.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Partner Flights",
+                "level": 3,
+                "location": {
+                  "line": 30,
+                  "heading": "Ways to Earn SkyPoints 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 32,
+                      "heading": "3. Partner Flights"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Earn SkyPoints 24 on partner airline flights:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Book with CloudWay 24’s code-share and alliance partners using your SkyPoints 24 membership number.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Points accrual depends on the fare class and partner agreement.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Hotel & Car Rental Partners",
+                "level": 3,
+                "location": {
+                  "line": 38,
+                  "heading": "Ways to Earn SkyPoints 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 40,
+                      "heading": "4. Hotel & Car Rental Partners"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Book with CloudWay 24 hotel or rental car partners through CloudWay24.com or app:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Add your SkyPoints 24 number when booking to earn points for eligible stays/rentals.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Shopping & Lifestyle Partners",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Ways to Earn SkyPoints 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 47,
+                      "heading": "5. Shopping & Lifestyle Partners"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Earn points by shopping with CloudWay 24 retail, dining, and lifestyle partners:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "See the latest partner list and eligible offers on CloudWay24.com or the app.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Special Promotions",
+                "level": 3,
+                "location": {
+                  "line": 52,
+                  "heading": "Ways to Earn SkyPoints 24"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 54,
+                      "heading": "6. Special Promotions"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Participate in exclusive promotions:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bonus SkyPoints 24 on select routes, during festive periods, or for milestone journeys.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Check “Offers & Promotions” on the website/app or your registered email for details.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "How to Maximize Points",
+            "level": 2,
+            "location": {
+              "line": 60,
+              "heading": "How to Earn SkyPoints 24 with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 62,
+                  "heading": "How to Maximize Points"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Book directly: Reserve flights via CloudWay24.com or the official app for full points.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Choose higher cabins: Higher fares (CloudLux, CloudElite) yield more points.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Link your SkyPoints 24 number: Always provide your membership number for every eligible booking and purchase.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Look out for double/mileage bonus promotions!",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Track Your Points",
+            "level": 2,
+            "location": {
+              "line": 69,
+              "heading": "How to Earn SkyPoints 24 with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 71,
+                  "heading": "Track Your Points"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Access your account on CloudWay24.com or the CloudWay24 app",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Check “My SkyPoints 24” dashboard for:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Earned, bonus, and pending points balance",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Recent transactions and activity history",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Notes",
+            "level": 2,
+            "location": {
+              "line": 78,
+              "heading": "How to Earn SkyPoints 24 with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 80,
+                  "heading": "Important Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Points eligibility: Only qualifying fares and eligible partners earn SkyPoints 24.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Retro-claim: Missed points? Submit a retro-claim via the SkyPoints 24 section within 6 months of your travel/purchase.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Terms Apply: Please refer to the detailed SkyPoints 24 program T&Cs at CloudWay24.com (https://www.cloudway24.com).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Ready to start earning? Sign Up or Log In (https://www.cloudway24.com) to SkyPoints 24—and let your journeys be more rewarding!",
+                "level": 3,
+                "location": {
+                  "line": 86,
+                  "heading": "Important Notes"
+                },
+                "blocks": [],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

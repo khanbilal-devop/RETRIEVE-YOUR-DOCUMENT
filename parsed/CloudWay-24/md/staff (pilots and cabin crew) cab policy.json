@@ -1,0 +1,327 @@
+{
+  "doc_id": "8a57d7b9e312d4a95c8d03334a118400d97d86fbd58568c1286c1a2bbb2e4231",
+  "doc_key": [
+    "staff (pilots and cabin crew) cab policy"
+  ],
+  "path": "CloudWay-24/md/Staff (Pilots and Cabin Crew) Cab Policy.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Introduction",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Introduction"
+                },
+                "text": "At CloudWay 24, the safety, punctuality, and well-being of our staff are top priorities. This cab policy outlines the official guidelines for ground transportation arrangements for our Pilots and Cabin Crew members to and from designated airports and accommodations."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Eligibility",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Eligibility"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Pilots: All full-time and contract cockpit crew operating CloudWay 24 flights.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cabin Crew: All active CloudLux, CloudElite, CloudComfort, and CloudSaver in-flight crew members rostered on duty.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Cab Coverage",
+            "level": 2,
+            "location": {
+              "line": 14,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 15,
+                  "heading": "Cab Coverage"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Home Pick-Up/Drop-Off:\nCrew residing within a 25 km radius of the hub airport (Mumbai, Delhi, Bengaluru) are eligible for home pick-up and drop-off.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hotel/Airport Transfers:\nFor layover flights or overnight stops, hotel-to-airport and airport-to-hotel cab arrangements are provided.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Scheduled Flights Only:\nThis policy applies only when crew are reporting for or concluding a scheduled CloudWay 24 flight duty.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Cab Booking Process",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "Cab Booking Process"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Automatic Scheduling:\nCabs are automatically scheduled based on the published crew roster.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Self-Booking (Special Cases):\nIf auto-scheduling fails, crew may book a cab using the approved CloudWay 24 Staff App or by contacting Crew Logistics at least 6 hours prior to pick-up.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Confirmation:\nCrew members will receive SMS/app notifications with cab details two hours before pick-up.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Cab Types",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 35,
+                  "heading": "Cab Types"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Premium sedans for pilots.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Comfort sedans or MPVs for cabin crew (sharing with a maximum of 3 crew per cab as per roster compatibility).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All cabs are company-contracted with verified drivers.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Safety & Conduct",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 42,
+                  "heading": "Safety & Conduct"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "24/7 availability of cabs for both day and night shifts.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "GPS tracking enabled in all cabs.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Only authorized personnel allowed in staff cabs.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Crew must wear airline ID while in transit.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Payment & Reimbursement",
+            "level": 2,
+            "location": {
+              "line": 49,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 50,
+                  "heading": "Payment & Reimbursement"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "All authorized cab rides are fully paid by the company. No cash exchange required.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Unauthorized personal deviations or additional stops are not covered and will require out-of-pocket payment.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Emergency Helpline",
+            "level": 2,
+            "location": {
+              "line": 55,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 56,
+                  "heading": "Emergency Helpline"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Dedicated Crew Cab Helpline: +91-XXXX-24CAB",
+                    "depth": 0
+                  },
+                  {
+                    "text": "App-based \"SOS\" button for immediate assistance.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Non-Compliance",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 62,
+                  "heading": "Non-Compliance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Misuse or unauthorized use may lead to disciplinary action as per CloudWay 24 HR policy.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Policy Review",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "CloudWay 24 – Staff (Pilots and Cabin Crew) Cab Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Policy Review"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "This policy is reviewed annually and subject to revision based on operational requirements.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 71,
+                  "heading": "Policy Review"
+                },
+                "text": "For any clarifications, contact Crew Logistics or refer to the Staff Portal at CloudWay24.com/crew (https://cloudway24.com/crew)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

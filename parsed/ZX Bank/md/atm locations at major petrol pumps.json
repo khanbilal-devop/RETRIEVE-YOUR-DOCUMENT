@@ -1,0 +1,1264 @@
+{
+  "doc_id": "1bbf591bbec515d3a98e91f2589df51ae7cce74280d3585b3481f3d452279ffc",
+  "doc_key": [
+    "atm locations at major petrol pumps"
+  ],
+  "path": "ZX Bank/md/ATM Locations at Major Petrol Pumps.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank ATM Locations at Major Petrol Pumps (By City)",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "text": "Find the nearest ZX Bank ATM at major petrol pumps across India’s largest cities."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Mumbai – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 6,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 8,
+                  "heading": "Mumbai – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Bandra Kurla Complex\nBKC Road, Bandra East, Mumbai – 400051",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Cuffe Parade\nWodehouse Road, Cuffe Parade, Mumbai – 400005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Andheri West\nVeera Desai Road, Andheri West, Mumbai – 400053",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Worli\nDr. Annie Besant Road, Worli, Mumbai – 400018",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Sion Circle\nSion Circle, Sion (E), Mumbai – 400022",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Powai\nJVLR, Near IIT Main Gate, Powai, Mumbai – 400076",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Chembur\nSion Trombay Road, Chembur, Mumbai – 400071",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Colaba\nShahid Bhagat Singh Road, Colaba, Mumbai – 400005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Borivali East\nWestern Express Highway, Borivali (E), Mumbai – 400066",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Dadar\nGokhale Road, Dadar (W), Mumbai – 400028",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Delhi – NCT",
+            "level": 2,
+            "location": {
+              "line": 40,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 42,
+                  "heading": "Delhi – NCT"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Connaught Place\nOuter Circle, CP, New Delhi – 110001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, South Extension\nRing Road, South Extension, New Delhi – 110049",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Lajpat Nagar\nLajpat Nagar IV, New Delhi – 110024",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Dwarka Sector 12\nNear Metro Station, Dwarka, New Delhi – 110075",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Karol Bagh\nAjmal Khan Road, Karol Bagh, New Delhi – 110005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Vasant Kunj\nNelson Mandela Road, Vasant Kunj, New Delhi – 110070",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Preet Vihar\nMain Vikas Marg, Preet Vihar, New Delhi – 110092",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Rohini Sector 7\nSector 7, Rohini, New Delhi – 110085",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Saket\nSaket Metro Station, Press Enclave Road, New Delhi – 110017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Janakpuri\nBlock-A, C4E Market, Janakpuri, New Delhi – 110058",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bangalore (Bengaluru) – Karnataka",
+            "level": 2,
+            "location": {
+              "line": 74,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 76,
+                  "heading": "Bangalore (Bengaluru) – Karnataka"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, MG Road\nTrinity Circle, MG Road, Bengaluru – 560001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Koramangala\n80 Feet Road, Koramangala, Bengaluru – 560034",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Jayanagar\n4th Block, Jayanagar, Bengaluru – 560041",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Whitefield\nITPL Main Road, Whitefield, Bengaluru – 560066",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Indiranagar\n100 Feet Road, Indiranagar, Bengaluru – 560038",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Rajajinagar\nDr. Rajkumar Road, Rajajinagar, Bengaluru – 560010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Malleshwaram\nSampige Road, Malleshwaram, Bengaluru – 560003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Bannerghatta Road\nNear IIM, Bannerghatta Road, Bengaluru – 560076",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, HSR Layout\n27th Main, Sector 1, HSR Layout, Bengaluru – 560102",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Yeshwanthpur\nTumkur Road, Yeshwanthpur, Bengaluru – 560022",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Hyderabad – Telangana",
+            "level": 2,
+            "location": {
+              "line": 108,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 110,
+                  "heading": "Hyderabad – Telangana"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Banjara Hills\nRoad No. 12, Banjara Hills, Hyderabad – 500034",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Jubilee Hills\nRoad No. 36, Jubilee Hills, Hyderabad – 500033",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Ameerpet\nSR Nagar Main Road, Ameerpet, Hyderabad – 500038",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Begumpet\nSP Road, Begumpet, Hyderabad – 500016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Miyapur\nNH-65, Miyapur, Hyderabad – 500049",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Secunderabad\nSardar Patel Road, Secunderabad – 500003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Uppal\nWarangal Hwy, Uppal, Hyderabad – 500039",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Gachibowli\nGachibowli Main Rd, Gachibowli, Hyderabad – 500032",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Kukatpally\nKukatpally Housing Board Rd, Hyderabad – 500072",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Madhapur\nHitech City Main Rd, Madhapur, Hyderabad – 500081",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Chennai – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 142,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 144,
+                  "heading": "Chennai – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, T Nagar\nNorth Usman Road, T Nagar, Chennai – 600017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Anna Salai\nMount Road, Anna Salai, Chennai – 600002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Adyar\nSardar Patel Road, Adyar, Chennai – 600020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Velachery\nVelachery Main Road, Chennai – 600042",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Nungambakkam\nNungambakkam High Road, Chennai – 600034",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Vadapalani\nArcot Road, Vadapalani, Chennai – 600026",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Mylapore\nR K Mutt Road, Mylapore, Chennai – 600004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Porur\nMount Poonamalle Road, Porur, Chennai – 600116",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Koyambedu\nCMBT, Koyambedu, Chennai – 600107",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Alandur\nGST Road, Alandur, Chennai – 600016",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kolkata – West Bengal",
+            "level": 2,
+            "location": {
+              "line": 176,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 178,
+                  "heading": "Kolkata – West Bengal"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Park Street\nPark Street, Kolkata – 700016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Salt Lake\nSector 5, Salt Lake, Kolkata – 700091",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Gariahat\nGariahat Road, Gariahat, Kolkata – 700019",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Howrah\nHowrah Maidan, Howrah, Kolkata – 711101",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, New Town\nAction Area 1, New Town, Kolkata – 700156",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Ballygunge\nBallygunge Circular Road, Kolkata – 700019",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Shyambazar\nShyambazar Crossing, Kolkata – 700004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Behala\nDiamond Harbour Road, Behala, Kolkata – 700034",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Dum Dum\nJessore Road, Dum Dum, Kolkata – 700028",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Esplanade\nLenin Sarani, Esplanade, Kolkata – 700013",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pune – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 210,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 212,
+                  "heading": "Pune – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Senapati Bapat Road\nSenapati Bapat Road, Pune – 411016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Koregaon Park\nNorth Main Road, Koregaon Park, Pune – 411001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Aundh\nDP Road, Aundh, Pune – 411007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Kothrud\nPaud Road, Kothrud, Pune – 411038",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Hadapsar\nPune-Solapur Road, Hadapsar, Pune – 411028",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Baner\nBaner Road, Baner, Pune – 411045",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Sinhagad Road\nSinhagad Road, Pune – 411051",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Vimannagar\nNagar Road, Vimannagar, Pune – 411014",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Bibwewadi\nBibwewadi Kondhwa Road, Pune – 411037",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Camp\nMG Road, Camp, Pune – 411001",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ahmedabad – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 244,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 246,
+                  "heading": "Ahmedabad – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, CG Road\nChimanlal Girdharlal Road, Ahmedabad – 380009",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Satellite Road\nSatellite, Ahmedabad – 380015",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Ashram Road\nAshram Road, Ahmedabad – 380009",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Maninagar\nManinagar East, Ahmedabad – 380008",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, SG Highway\nSarkhej-Gandhinagar Hwy, Ahmedabad – 380054",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Navrangpura\nNavrangpura, Ahmedabad – 380009",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Bopal\nBopal Road, Ahmedabad – 380058",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Vastrapur\nVastrapur, Ahmedabad – 380015",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Paldi\nPaldi Cross Road, Ahmedabad – 380007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Naroda\nNaroda Patia, Ahmedabad – 382330",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Surat – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 278,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 280,
+                  "heading": "Surat – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, City Light\nParle Point, City Light Road, Surat – 395007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Athwalines\nAthwalines Road, Surat – 395001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Adajan\nRander Road, Adajan, Surat – 395009",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Varachha\nVarachha Road, Surat – 395006",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Udhna\nUdhna Magdalla Road, Surat – 394210",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Bhatar\nBhatar Road, Surat – 395017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Piplod\nPiplod, Surat – 395007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Katargam\nKatargam Road, Surat – 395004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Surat Railway Station\nMain Approach Road, Surat – 395003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Althan\nAlthan Canal Road, Surat – 395017",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Jaipur – Rajasthan",
+            "level": 2,
+            "location": {
+              "line": 312,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 314,
+                  "heading": "Jaipur – Rajasthan"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, MI Road\nMI Road, Jaipur – 302001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, C Scheme\nStatue Circle, C Scheme, Jaipur – 302005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Raja Park\nRaja Park, Jaipur – 302004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Malviya Nagar\nGirdhar Marg, Malviya Nagar, Jaipur – 302017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Vaishali Nagar\nVaishali Nagar, Jaipur – 302021",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, JLN Marg\nJLN Marg, Jaipur – 302018",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Mansarovar\nMansarovar, Jaipur – 302020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Ajmer Road\nAjmer Road, Jaipur – 302006",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Bani Park\nBani Park, Jaipur – 302016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Sanganer\nSanganer, Jaipur – 302029",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Lucknow – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 346,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 348,
+                  "heading": "Lucknow – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Hazratganj\nHazratganj, Lucknow – 226001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Gomti Nagar\nGomti Nagar, Lucknow – 226010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Alambagh\nAlambagh, Lucknow – 226005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Indira Nagar\nIndira Nagar, Lucknow – 226016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Charbagh\nCharbagh, Lucknow – 226004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Chowk\nChowk, Lucknow – 226003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Mahanagar\nMahanagar, Lucknow – 226006",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Jankipuram\nJankipuram, Lucknow – 226021",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Rajajipuram\nRajajipuram, Lucknow – 226017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Aliganj\nAliganj, Lucknow – 226024",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kanpur – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 380,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 382,
+                  "heading": "Kanpur – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Swaroop Nagar\nSwaroop Nagar, Kanpur – 208002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Mall Road\nMall Road, Kanpur – 208001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Kakadeo\nKakadeo, Kanpur – 208025",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Govind Nagar\nGovind Nagar, Kanpur – 208006",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Civil Lines\nCivil Lines, Kanpur – 208001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Shastri Nagar\nShastri Nagar, Kanpur – 208005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Kalyanpur\nKalyanpur, Kanpur – 208017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Panki\nPanki Road, Kanpur – 208020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Barra\nBarra, Kanpur – 208027",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Lal Bangla\nLal Bangla, Kanpur – 208007",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Nagpur – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 414,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 416,
+                  "heading": "Nagpur – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Sadar\nSadar, Nagpur – 440001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Civil Lines\nCivil Lines, Nagpur – 440001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Sitabuldi\nSitabuldi, Nagpur – 440012",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Dharampeth\nDharampeth, Nagpur – 440010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Wardha Road\nWardha Road, Nagpur – 440010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Ganeshpeth\nGaneshpeth, Nagpur – 440018",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Pratap Nagar\nPratap Nagar, Nagpur – 440022",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Hingna Road\nHingna Road, Nagpur – 440016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Manish Nagar\nManish Nagar, Nagpur – 440015",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Itwari\nItwari Road, Nagpur – 440002",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Indore – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 448,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 450,
+                  "heading": "Indore – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, AB Road\nAB Road, Indore – 452001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Vijay Nagar\nVijay Nagar, Indore – 452010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Palasia\nPalasia Square, Indore – 452001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Rajendra Nagar\nRajendra Nagar, Indore – 452012",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, MG Road\nMG Road, Indore – 452007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Sapna Sangeeta\nSapna Sangeeta Road, Indore – 452001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Ring Road\nRing Road, Indore – 452010",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Annapurna\nAnnapurna Road, Indore – 452009",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Sudama Nagar\nSudama Nagar, Indore – 452009",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Khajrana\nKhajrana Road, Indore – 452016",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bhopal – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 482,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 484,
+                  "heading": "Bhopal – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, MP Nagar\nMP Nagar, Zone I, Bhopal – 462011",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Arera Colony\nArera Colony, Bhopal – 462016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, New Market\nNew Market, Bhopal – 462003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Govindpura\nGovindpura, Bhopal – 462023",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Hoshangabad Road\nHoshangabad Road, Bhopal – 462026",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Bittan Market\nBittan Market, Bhopal – 462003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Kolar Road\nKolar Road, Bhopal – 462042",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, TT Nagar\nTT Nagar, Bhopal – 462003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Saket Nagar\nSaket Nagar, Bhopal – 462024",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Lalghati\nLalghati, Bhopal – 462030",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Visakhapatnam – Andhra Pradesh",
+            "level": 2,
+            "location": {
+              "line": 516,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 518,
+                  "heading": "Visakhapatnam – Andhra Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, RK Beach Road\nRK Beach Road, Visakhapatnam – 530003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, MVP Colony\nMVP Double Road, MVP Colony, Visakhapatnam – 530017",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Dwaraka Nagar\nDwaraka Nagar, Visakhapatnam – 530016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Gajuwaka\nGajuwaka Main Road, Visakhapatnam – 530026",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, NAD Junction\nNAD X Road, Visakhapatnam – 530009",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Siripuram\nSiripuram Junction, Visakhapatnam – 530003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Maddilapalem\nMaddilapalem, Visakhapatnam – 530013",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Seethammadara\nSeethammadara, Visakhapatnam – 530013",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Gopalapatnam\nGopalapatnam, Visakhapatnam – 530027",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Pendurthi\nPendurthi Main Road, Visakhapatnam – 531173",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Patna – Bihar",
+            "level": 2,
+            "location": {
+              "line": 550,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 552,
+                  "heading": "Patna – Bihar"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Boring Road\nBoring Road, Patna – 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Frazer Road\nFrazer Road, Patna – 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Bailey Road\nBailey Road, Patna – 800014",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Patliputra\nPatliputra Colony, Patna – 800013",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Kankarbagh\nKankarbagh Main Road, Patna – 800020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Rajendra Nagar\nRajendra Nagar, Patna – 800016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Exhibition Road\nExhibition Road, Patna – 800001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Danapur\nDanapur Cantt, Patna – 801503",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Saguna More\nSaguna More, Danapur Road, Patna – 801503",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Ashiana Digha Road\nAshiana More, Digha Road, Patna – 800025",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Vadodara (Baroda) – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 584,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 586,
+                  "heading": "Vadodara (Baroda) – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Alkapuri\nAlkapuri, Vadodara – 390007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Fatehgunj\nFatehgunj, Vadodara – 390002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Akota\nAkota Stadium Road, Vadodara – 390020",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Gorwa\nGorwa, Vadodara – 390016",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Sayajigunj\nSayajigunj, Vadodara – 390005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Manjalpur\nOld Padra Road, Manjalpur, Vadodara – 390011",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Karelibaug\nKarelibaug, Vadodara – 390018",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Gotri\nGotri Road, Vadodara – 390021",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Harni Road\nHarni Road, Vadodara – 390022",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Makarpura\nMakarpura Road, Vadodara – 390014",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ludhiana – Punjab",
+            "level": 2,
+            "location": {
+              "line": 618,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 620,
+                  "heading": "Ludhiana – Punjab"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Ferozepur Road\nFerozepur Road, Ludhiana – 141001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Model Town\nModel Town Extension, Ludhiana – 141002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Sarabha Nagar\nSarabha Nagar, Ludhiana – 141001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Gill Road\nGill Road, Ludhiana – 141003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Dugri\nDugri Road, Ludhiana – 141002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Jagraon Bridge\nJagraon Bridge, Ludhiana – 141008",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Pakhowal Road\nPakhowal Road, Ludhiana – 141001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Shimlapuri\nShimlapuri, Ludhiana – 141003",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Old GT Road\nOld GT Road, Ludhiana – 141007",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Clock Tower\nClock Tower, Ludhiana – 141008",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Coimbatore – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 652,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 654,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indian Oil, Gandhipuram\nDr. Nanjappa Road, Gandhipuram, Coimbatore – 641018",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, RS Puram\nDB Road, RS Puram, Coimbatore – 641002",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Avinashi Road\nAvinashi Road, Coimbatore – 641037",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Peelamedu\nAvinashi Road, Peelamedu, Coimbatore – 641004",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Saibaba Colony\nMettupalayam Road, Saibaba Colony, Coimbatore – 641011",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Selvapuram\nSelvapuram, Coimbatore – 641026",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Vadavalli\nVadavalli, Coimbatore – 641041",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Indian Oil, Ukkadam\nUkkadam, Coimbatore – 641001",
+                    "depth": 0
+                  },
+                  {
+                    "text": "BPCL, Singanallur\nTrichy Road, Singanallur, Coimbatore – 641005",
+                    "depth": 0
+                  },
+                  {
+                    "text": "HPCL, Ganapathy\nSathy Road, Ganapathy, Coimbatore – 641006",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 686,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "text": "Data is for reference purposes only. For real-time updates, use ZX Bank Asia Mobile App or visit www.zxbank.asia (https://www.zxbank.asia)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

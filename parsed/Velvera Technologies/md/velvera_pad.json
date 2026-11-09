@@ -1,0 +1,901 @@
+{
+  "doc_id": "2d830ae23b2ceacced00e68612a1e88570451dc0a538b5a1dcbd1bef8979f127",
+  "doc_key": [
+    "velvera_pad"
+  ],
+  "path": "Velvera Technologies/md/velvera_pad.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Pad Series — Product Specification Document",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Pad Series — Product Specification Document"
+            },
+            "text": "The Velvera Pad Series delivers a compelling combination of productivity and entertainment in a premium tablet form-factor. Designed for creativity and performance, these tablets are ideal for work, play, and everything in between."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Product Range Overview",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Pad Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Product Range Overview"
+                },
+                "header": [
+                  "Model",
+                  "Display",
+                  "Processor",
+                  "Storage / RAM",
+                  "Features",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Pad 11\" 128GB",
+                    "11\" IPS LCD",
+                    "Snapdragon 870",
+                    "128GB / 8GB",
+                    "Wi-Fi, Stereo Speakers",
+                    "₹32,999",
+                    "$399"
+                  ],
+                  [
+                    "Velvera Pad 11\" 256GB",
+                    "11\" IPS LCD",
+                    "Snapdragon 870",
+                    "256GB / 8GB",
+                    "Wi-Fi, Stereo Speakers",
+                    "₹37,999",
+                    "$459"
+                  ],
+                  [
+                    "Velvera Pad Pro 12.9\" 256GB",
+                    "12.9\" OLED",
+                    "Snapdragon 8+ Gen 1",
+                    "256GB / 12GB",
+                    "Wi-Fi + 5G, Quad Speakers",
+                    "₹54,999",
+                    "$659"
+                  ],
+                  [
+                    "Velvera Pad Pro 12.9\" 512GB",
+                    "12.9\" OLED",
+                    "Snapdragon 8+ Gen 1",
+                    "512GB / 12GB",
+                    "Wi-Fi + 5G, Quad Speakers",
+                    "₹64,999",
+                    "$779"
+                  ],
+                  [
+                    "Velvera Pad Pro 12.9\" 1TB",
+                    "12.9\" OLED",
+                    "Snapdragon 8+ Gen 1",
+                    "1TB / 16GB",
+                    "Wi-Fi + 5G, Quad Speakers",
+                    "₹79,999",
+                    "$959"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 17,
+                  "heading": "Product Range Overview"
+                },
+                "text": "Note: All models are compatible with optional Velvera Pencil and Velvera Keyboard."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Detailed Specifications",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "Velvera Pad Series — Product Specification Document"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Velvera Pad 11\"",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 25,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Models: 128GB / 256GB\nDisplay:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 27,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch IPS LCD, 2560 x 1600 resolution",
+                        "depth": 0
+                      },
+                      {
+                        "text": "120Hz refresh rate",
+                        "depth": 0
+                      },
+                      {
+                        "text": "500 nits peak brightness",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 31,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Processor:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 32,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Qualcomm Snapdragon 870",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 34,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Memory & Storage:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 35,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "8GB LPDDR4X RAM",
+                        "depth": 0
+                      },
+                      {
+                        "text": "128GB or 256GB UFS 3.1 Storage",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 38,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Operating System:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 39,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Velvera UI based on Android 13",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 41,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Connectivity:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 42,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Wi-Fi 6 (802.11ax)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bluetooth 5.2",
+                        "depth": 0
+                      },
+                      {
+                        "text": "USB-C (USB 3.1 Gen1)",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 46,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Audio:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 47,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dual stereo speakers, tuned for immersive sound",
+                        "depth": 0
+                      },
+                      {
+                        "text": "3.5mm headphone jack",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 50,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Cameras:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 51,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Rear: 13MP autofocus",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front: 8MP wide-angle",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 54,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Battery:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 55,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "8,500mAh",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Up to 12 hours usage",
+                        "depth": 0
+                      },
+                      {
+                        "text": "33W fast charging",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 59,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Additional Features:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 60,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Face unlock",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Multi-window support",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Stylus (Velvera Pencil) support",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Keyboard accessory support",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 65,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "text": "Dimensions & Weight:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 66,
+                      "heading": "1. Velvera Pad 11\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "260 x 164 x 6.9 mm",
+                        "depth": 0
+                      },
+                      {
+                        "text": "510g",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Velvera Pad Pro 12.9\"",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 73,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Models: 256GB / 512GB / 1TB"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 75,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Display:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 76,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "12.9-inch OLED, 2800 x 1752 resolution",
+                        "depth": 0
+                      },
+                      {
+                        "text": "120Hz refresh rate",
+                        "depth": 0
+                      },
+                      {
+                        "text": "HDR10+, 1000 nits peak brightness",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 80,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Processor:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 81,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Qualcomm Snapdragon 8+ Gen 1",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 83,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Memory & Storage:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 84,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "12GB LPDDR5 RAM (256GB or 512GB models)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "16GB LPDDR5 RAM (1TB model)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "256GB, 512GB, or 1TB UFS 3.1 Storage",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 88,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Operating System:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 89,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Velvera UI Pro based on Android 13",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 91,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Connectivity:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 92,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Wi-Fi 6E (802.11ax)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "5G cellular connectivity (nano SIM & eSIM)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bluetooth 5.3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "USB-C (USB 3.2 Gen2), DisplayPort out",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 97,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Audio:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 98,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Quad stereo speakers, Dolby Atmos",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dual microphones",
+                        "depth": 0
+                      },
+                      {
+                        "text": "No headphone jack",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 102,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Cameras:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 103,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Rear: 16MP wide + 8MP ultra-wide",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front: 12MP wide (Center Stage support)",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 106,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Battery:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 107,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11,000mAh",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Up to 15 hours mixed usage",
+                        "depth": 0
+                      },
+                      {
+                        "text": "45W ultra-fast charging",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 111,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Security:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 112,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Face unlock (IR sensor)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Under-display fingerprint sensor",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 115,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Additional Features:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 116,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Multi-tasking (split-screen, floating apps)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Support for Velvera Pencil (4096 pressure levels, wireless charging)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Magnetic keyboard & Smart Connector",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wireless Dex Mode (desktop interface)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Built-in screen recorder",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wi-Fi Direct and Miracast support",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 123,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "text": "Dimensions & Weight:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 124,
+                      "heading": "2. Velvera Pad Pro 12.9\""
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "285 x 185 x 5.7 mm",
+                        "depth": 0
+                      },
+                      {
+                        "text": "650g",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Accessories (Sold Separately)",
+            "level": 2,
+            "location": {
+              "line": 129,
+              "heading": "Velvera Pad Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 131,
+                  "heading": "Accessories (Sold Separately)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Velvera Pencil: Wireless charging, 4096 pressure sensitivity, tilt detection",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Velvera Keyboard: Magnetic attachment, full-size layout, trackpad, adjustable stand",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Summary Table",
+            "level": 2,
+            "location": {
+              "line": 136,
+              "heading": "Velvera Pad Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 138,
+                  "heading": "Summary Table"
+                },
+                "header": [
+                  "Model",
+                  "Storage/RAM",
+                  "Display Type",
+                  "Connectivity",
+                  "Speakers",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Pad 11\" 128GB",
+                    "128GB / 8GB",
+                    "IPS LCD",
+                    "Wi-Fi",
+                    "Stereo",
+                    "₹32,999",
+                    "$399"
+                  ],
+                  [
+                    "Velvera Pad 11\" 256GB",
+                    "256GB / 8GB",
+                    "IPS LCD",
+                    "Wi-Fi",
+                    "Stereo",
+                    "₹37,999",
+                    "$459"
+                  ],
+                  [
+                    "Velvera Pad Pro 12.9\" 256GB",
+                    "256GB / 12GB",
+                    "OLED",
+                    "Wi-Fi + 5G",
+                    "Quad",
+                    "₹54,999",
+                    "$659"
+                  ],
+                  [
+                    "Velvera Pad Pro 12.9\" 512GB",
+                    "512GB / 12GB",
+                    "OLED",
+                    "Wi-Fi + 5G",
+                    "Quad",
+                    "₹64,999",
+                    "$779"
+                  ],
+                  [
+                    "Velvera Pad Pro 12.9\" 1TB",
+                    "1TB / 16GB",
+                    "OLED",
+                    "Wi-Fi + 5G",
+                    "Quad",
+                    "₹79,999",
+                    "$959"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Disclaimers",
+            "level": 2,
+            "location": {
+              "line": 148,
+              "heading": "Velvera Pad Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 150,
+                  "heading": "Disclaimers"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "All battery life claims depend on usage patterns and network configuration.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Prices are subject to change without notice.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Some features may vary by software update or regional availability.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 154,
+                  "heading": "Disclaimers"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 156,
+                  "heading": "Disclaimers"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

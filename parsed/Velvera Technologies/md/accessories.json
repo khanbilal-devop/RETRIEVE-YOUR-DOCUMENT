@@ -1,0 +1,791 @@
+{
+  "doc_id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666",
+  "doc_key": [
+    "accessories"
+  ],
+  "path": "Velvera Technologies/md/accessories.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Product Specification Catalog",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Accessories & Add-ons",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Velvera Product Specification Catalog"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "Accessories & Add-ons"
+                },
+                "text": "Detailed specifications for all Velvera accessories and add-ons, sorted by product category."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Charging Solutions",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "Accessories & Add-ons"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Velvera 65W GaN Charger",
+                    "level": 4,
+                    "location": {
+                      "line": 13,
+                      "heading": "Charging Solutions"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 15,
+                          "heading": "Velvera 65W GaN Charger"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Compatibility: All Velvera Devices",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "GaN (Gallium Nitride) technology for efficient charging",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Supports fast charging protocols (PD 3.0, QC 4.0+)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Compact and lightweight design",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Overheat, overcurrent, and short-circuit protection",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Foldable plug for portability",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Dimensions: 55 x 55 x 28 mm",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Input: 100-240V~50/60Hz 1.5A Max",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Output: USB-C1: 65W, USB-A: 18W Max",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Housing: Heat-resistant polycarbonate",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹3,499 / $42",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera 100W Desktop Hub",
+                    "level": 4,
+                    "location": {
+                      "line": 28,
+                      "heading": "Charging Solutions"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 30,
+                          "heading": "Velvera 100W Desktop Hub"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Compatibility: Laptops, Smartphones (Cross-platform)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "4-port output (2x USB-C, 2x USB-A)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Integrated Qi wireless charging pad (15W)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "LED charging indicators",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Over-voltage and surge protection",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Input: 100-240V~50/60Hz",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Output: Max 100W distribution across ports",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Wireless Output: 15W Max",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Cable Length: 1.5m detachable",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Dimensions: 130 x 70 x 25 mm",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹7,999 / $96",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Wireless Dock",
+                    "level": 4,
+                    "location": {
+                      "line": 43,
+                      "heading": "Charging Solutions"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 45,
+                          "heading": "Velvera Wireless Dock"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Compatibility: Phones, Smartwatches, Earbuds (Qi Standard)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "3-in-1 station for phone, watch, and earbuds",
+                            "depth": 1
+                          },
+                          {
+                            "text": "15W phone pad, 5W watch pad, 5W buds pad",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Magnetic alignment for watch and buds",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Non-slip silicone base",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Input: USB-C PD 30W (adapter included)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Dimensions: 160 x 90 x 80 mm",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Material: Aluminum alloy + soft touch silicone",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹8,999 / $109",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera SuperSafe Battery",
+                    "level": 4,
+                    "location": {
+                      "line": 56,
+                      "heading": "Charging Solutions"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 58,
+                          "heading": "Velvera SuperSafe Battery"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Compatibility: Velvera One Series (Phones)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "5000mAh high-density lithium-polymer battery",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Magnetic mounting with MagSafe-alignment",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Pass-through charging",
+                            "depth": 1
+                          },
+                          {
+                            "text": "LED power indicators",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Multi-protection (OVP, OCP, OTP, SCP)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Input/Output: USB-C 18W (PD), Wireless 15W Max",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Dimensions: 110 x 68 x 12 mm",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Material: Anodized Aluminum + ABS",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹4,999 / $59",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Protection & Cases",
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "Accessories & Add-ons"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Velvera Leather Case",
+                    "level": 4,
+                    "location": {
+                      "line": 74,
+                      "heading": "Protection & Cases"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 76,
+                          "heading": "Velvera Leather Case"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Models Supported: All Velvera Phones",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Material: Genuine full-grain leather with microfiber lining",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Precise cutouts for all ports and buttons",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Raised lips for camera and screen protection",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Anti-microbial treatment",
+                            "depth": 1
+                          },
+                          {
+                            "text": "MagSafe compatible",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Colors: Black, Saddle Brown, Midnight Blue",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Weight: 28g",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹2,999 / $36",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Clear Case",
+                    "level": 4,
+                    "location": {
+                      "line": 87,
+                      "heading": "Protection & Cases"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 89,
+                          "heading": "Velvera Clear Case"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Models Supported: All Velvera Phones",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Material: Military-grade Polycarbonate (PC) and Thermoplastic Polyurethane (TPU)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "2m drop protection (MIL-STD-810G certified)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Anti-yellowing, UV resistant",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Slim profile design",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Precision tactile buttons",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Transparency: 99%",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Weight: 22g",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹1,499 / $18",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Rugged Case",
+                    "level": 4,
+                    "location": {
+                      "line": 100,
+                      "heading": "Protection & Cases"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 102,
+                          "heading": "Velvera Rugged Case"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Models Supported: All Velvera Phones",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Material: Dual-layer Shock-resistant TPU & Polycarbonate",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "3m drop-tested",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Textured grip, anti-slip design",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Reinforced corners",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Screen & camera raised bezels",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Lanyard attachment point",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Color Options: Black, Olive Green",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Weight: 38g",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹2,299 / $28",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Screen Protector",
+                    "level": 4,
+                    "location": {
+                      "line": 114,
+                      "heading": "Protection & Cases"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 116,
+                          "heading": "Velvera Screen Protector"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Models Supported: All Velvera Phones",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Material: Synthetic Sapphire Glass (9H hardness)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Edge-to-edge coverage, oleophobic coating",
+                            "depth": 1
+                          },
+                          {
+                            "text": "99% light transmission (no color shift)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Bubble-free adhesive",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Shatterproof, scratch-resistant",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Thickness: 0.33mm",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Package Includes: 2 protectors, cleaning kit",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹1,999 / $24",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Productivity Tools",
+                "level": 3,
+                "location": {
+                  "line": 129,
+                  "heading": "Accessories & Add-ons"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Velvera Pencil",
+                    "level": 4,
+                    "location": {
+                      "line": 131,
+                      "heading": "Productivity Tools"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 133,
+                          "heading": "Velvera Pencil"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Compatibility: Velvera Pad Series (all tablets)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "4096 levels of pressure sensitivity",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Tilt and palm rejection support",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Wireless charging via Velvera Pad magnetic dock",
+                            "depth": 1
+                          },
+                          {
+                            "text": "One-tap tool switching",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Battery Life: Up to 12 hours (1-hour full charge)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Tip: Replaceable, spare tip included",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Weight: 13g",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Material: Aluminum Alloy",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹8,999 / $109",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Keyboard",
+                    "level": 4,
+                    "location": {
+                      "line": 145,
+                      "heading": "Productivity Tools"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 147,
+                          "heading": "Velvera Keyboard"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Compatibility: Velvera Pad Series (all tablets)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Full QWERTY layout, 1.4mm key travel",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Magnetic pogo-pin connector",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Multi-level backlighting (3-step adjustable)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Integrated touchpad with multi-gesture support",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Durable spill-resistant surface",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Dimensions: 255 x 185 x 6 mm",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Weight: 350g",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹12,999 / $157",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Stand Pro",
+                    "level": 4,
+                    "location": {
+                      "line": 158,
+                      "heading": "Productivity Tools"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 160,
+                          "heading": "Velvera Stand Pro"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Compatibility: Velvera Phones & Tablets (up to 13”)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Features:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Adjustable viewing angles (15°–85°)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Built-in Qi wireless charger (up to 15W)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Cable organizer",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Aluminum base with silicone grip pads",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Folded Dimensions: 150 x 110 x 22 mm",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Weight: 380g",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹5,999 / $72",
+                            "depth": 0
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 172,
+                          "heading": "Velvera Stand Pro"
+                        },
+                        "text": "Velvera — Technology, Refined. Life, Elevated."
+                      },
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 174,
+                          "heading": "Velvera Stand Pro"
+                        },
+                        "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

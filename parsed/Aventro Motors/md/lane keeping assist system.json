@@ -1,0 +1,350 @@
+{
+  "doc_id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421",
+  "doc_key": [
+    "lane keeping assist system"
+  ],
+  "path": "Aventro Motors/md/Lane Keeping Assist System.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Lane Keeping Assist System (LKAS): Overview & Functionality",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "What is Lane Keeping Assist System (LKAS)?",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "What is Lane Keeping Assist System (LKAS)?"
+                },
+                "text": "Lane Keeping Assist System (LKAS) is an advanced driver assistance system (ADAS) designed to enhance road safety by helping drivers keep their vehicles within marked lane boundaries. LKAS is commonly found in modern vehicles and acts as a semi-autonomous feature, working alongside the driver to prevent unintentional lane departure."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Why is LKAS Important?",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 11,
+                  "heading": "Why is LKAS Important?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Reduces Accidents: Lane departures are a major cause of road accidents, especially due to driver drowsiness, distraction, or inattention.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Enhances Safety: By consistently monitoring the vehicle’s position, LKAS can help avoid unintended drift into adjacent lanes.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Supports the Driver: LKAS provides gentle steering inputs or alerts, acting as a backup to human oversight.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How Does Lane Keeping Assist System Work?",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Sensing the Lane",
+                "level": 3,
+                "location": {
+                  "line": 19,
+                  "heading": "How Does Lane Keeping Assist System Work?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 20,
+                      "heading": "1. Sensing the Lane"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Cameras: Typically, a forward-facing camera mounted near the rear-view mirror scans the road ahead for lane markings (white/yellow lines).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sensors: Some advanced systems use a combination of cameras, LIDAR, or radar to enhance accuracy in different lighting and weather conditions.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Processing the Image",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "How Does Lane Keeping Assist System Work?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "2. Processing the Image"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "The camera/system detects lane boundaries by analyzing road markings in real-time.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "On-board computers determine if the vehicle is unintentionally veering out of its lane.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Warning the Driver",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "How Does Lane Keeping Assist System Work?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "3. Warning the Driver"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "If the vehicle starts drifting toward a lane marking without indicating (using a turn signal), the system may give audible or visual warnings (e.g., a beep, steering wheel vibration, or dashboard alert).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Active Assistance",
+                "level": 3,
+                "location": {
+                  "line": 30,
+                  "heading": "How Does Lane Keeping Assist System Work?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "4. Active Assistance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "If the driver doesn’t respond to the warnings, LKAS can automatically provide gentle steering input to guide the car back toward the center of the lane.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Some systems may also use selective braking on one side of the vehicle to assist in correcting the course.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Key Features",
+            "level": 2,
+            "location": {
+              "line": 36,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 38,
+                  "heading": "Key Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Automatic Steering Correction: Minor, smooth counter-steering to stay centered in the lane.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Customizable Sensitivity: Most systems allow drivers to adjust the responsiveness or can be switched off.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Integrated with Other Systems: Often works alongside Lane Departure Warning (LDW) and Adaptive Cruise Control (ACC).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Limitations & Considerations",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "Limitations & Considerations"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Reliant on Lane Markings: LKAS requires clear, visible lane lines; performance may degrade in poor weather, faded markings, or during road construction.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Not a Substitute for Attention: LKAS assists, but the driver must keep hands on the wheel and remain attentive at all times.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "May Not Operate at All Speeds: Some systems only work above certain speeds (e.g., above 60 km/h).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Typical LKAS Workflow",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "Typical LKAS Workflow"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Vehicle Camera Detects Lane",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Control Unit Monitors Position Relative to Lane Marks",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If Drift Detected: System Alerts Driver",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If No Response: System Gently Steers Vehicle Back to Lane Center",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Conclusion",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 63,
+                  "heading": "Conclusion"
+                },
+                "text": "Lane Keeping Assist System is a valuable safety technology that helps prevent unintentional lane departures, reducing the risk of side-swipe collisions and road departure accidents. While it offers significant safety benefits, it is not an autonomous driving system—driver vigilance and control remain essential."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 67,
+                  "heading": "Conclusion"
+                },
+                "text": "References/For More Information"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 68,
+                  "heading": "Conclusion"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "NHTSA on Lane Assistance Features (https://www.nhtsa.gov/equipment/driver-assistance-technologies)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "IIHS: Lane Departure Prevention (https://www.iihs.org/topics/advanced-driver-assistance/feature-lane-departure-prevention)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

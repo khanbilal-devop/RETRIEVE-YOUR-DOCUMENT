@@ -1,0 +1,854 @@
+{
+  "doc_id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b",
+  "doc_key": [
+    "dept_of_nursing_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Nursing_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Nursing",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "B.N.S. in Nursing — Course Catalog",
+                "level": 3,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of Nursing"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 5,
+                      "heading": "B.N.S. in Nursing — Course Catalog"
+                    },
+                    "text": "The Bachelor of Nursing Science (B.N.S.) program at Cendara University is designed to prepare students for registered nurse licensure and to excel in modern clinical environments. The curriculum blends rigorous academic coursework with hands-on experience in partner hospitals."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 7,
+                      "heading": "B.N.S. in Nursing — Course Catalog"
+                    },
+                    "text": "Below is a comprehensive catalog of undergraduate courses offered by the Department of Nursing. Each listing includes the course title, code, detailed description, prerequisites, and credit hours."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Year 1 Courses",
+            "level": 2,
+            "location": {
+              "line": 11,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "NURS 101: Foundations of Professional Nursing",
+                "level": 3,
+                "location": {
+                  "line": 13,
+                  "heading": "Year 1 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 14,
+                      "heading": "NURS 101: Foundations of Professional Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nIntroduces the core principles, history, and ethical standards of the nursing profession. Emphasizes patient-centered care, communication skills, and professional conduct.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 111: Human Anatomy & Physiology I",
+                "level": 3,
+                "location": {
+                  "line": 21,
+                  "heading": "Year 1 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 22,
+                      "heading": "NURS 111: Human Anatomy & Physiology I"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nFocuses on the structural and functional organization of the human body with emphasis on the musculoskeletal, nervous, and cardiovascular systems.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 4",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 112: Human Anatomy & Physiology II",
+                "level": 3,
+                "location": {
+                  "line": 29,
+                  "heading": "Year 1 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "NURS 112: Human Anatomy & Physiology II"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nContinues NURS 111 with a focus on the respiratory, digestive, urinary, and reproductive systems. Includes laboratory sessions and case studies.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 111",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 4",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 120: Health Assessment",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "Year 1 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 38,
+                      "heading": "NURS 120: Health Assessment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nOffers theoretical and practical foundations in physical assessment techniques, including the use of diagnostic equipment and patient interviewing.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 111 (may be taken concurrently)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 130: Introduction to Clinical Practice",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Year 1 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "NURS 130: Introduction to Clinical Practice"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nProvides supervised clinical experiences in a laboratory and hospital setting. Focus on basic nursing skills such as hygiene, infection control, and patient mobility.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 101, NURS 111",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Year 2 Courses",
+            "level": 2,
+            "location": {
+              "line": 53,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "NURS 210: Microbiology for Nurses",
+                "level": 3,
+                "location": {
+                  "line": 55,
+                  "heading": "Year 2 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 56,
+                      "heading": "NURS 210: Microbiology for Nurses"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nExplores major concepts of microbiology relevant to nursing, including pathogens, infection control, and the immune response.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 112",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 212: Pharmacology I",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Year 2 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 64,
+                      "heading": "NURS 212: Pharmacology I"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nCovers fundamental pharmacological principles, drug classifications, and medication administration safety for entry-level nurses.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 112",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 220: Medical-Surgical Nursing I",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Year 2 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 72,
+                      "heading": "NURS 220: Medical-Surgical Nursing I"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nIntroduces the care of adults experiencing common medical and surgical health problems. Integrates knowledge across body systems with emphasis on assessment and intervention.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 120, NURS 130",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 4",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 221: Medical-Surgical Nursing II",
+                "level": 3,
+                "location": {
+                  "line": 79,
+                  "heading": "Year 2 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 80,
+                      "heading": "NURS 221: Medical-Surgical Nursing II"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nBuilds on NURS 220 by addressing complex health conditions and advanced intervention techniques. Includes simulation and clinical rotations.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 220",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 4",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 231: Nursing Research & Evidence-Based Practice",
+                "level": 3,
+                "location": {
+                  "line": 87,
+                  "heading": "Year 2 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 88,
+                      "heading": "NURS 231: Nursing Research & Evidence-Based Practice"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nExamines the principles and processes of nursing research. Develops skills in appraising evidence and applying findings to clinical decisions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 120, NURS 130",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Year 3 Courses",
+            "level": 2,
+            "location": {
+              "line": 95,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "NURS 310: Pediatric Nursing",
+                "level": 3,
+                "location": {
+                  "line": 97,
+                  "heading": "Year 3 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 98,
+                      "heading": "NURS 310: Pediatric Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nCovers nursing care for children and adolescents, including developmental stages, health promotion, and family-centered care.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 220",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 312: Maternity & Women’s Health Nursing",
+                "level": 3,
+                "location": {
+                  "line": 105,
+                  "heading": "Year 3 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 106,
+                      "heading": "NURS 312: Maternity & Women’s Health Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nExamines nursing roles in prenatal, perinatal, and postpartum care. Addresses family planning, newborn assessment, and reproductive health issues.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 221",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 319: Pathophysiology",
+                "level": 3,
+                "location": {
+                  "line": 113,
+                  "heading": "Year 3 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 114,
+                      "heading": "NURS 319: Pathophysiology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nDetailed study of altered physiological processes in major body systems as related to disease processes encountered in nursing practice.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 112",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 330: Mental Health Nursing",
+                "level": 3,
+                "location": {
+                  "line": 121,
+                  "heading": "Year 3 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 122,
+                      "heading": "NURS 330: Mental Health Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nFocuses on therapeutic communication, psychiatric disorders, and evidence-based interventions in mental health settings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 221",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 340: Community Health Nursing",
+                "level": 3,
+                "location": {
+                  "line": 129,
+                  "heading": "Year 3 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 130,
+                      "heading": "NURS 340: Community Health Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nPrepares students to employ health promotion and disease prevention strategies, conduct assessments, and plan interventions in community settings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 231",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Year 4 Courses",
+            "level": 2,
+            "location": {
+              "line": 137,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "NURS 410: Leadership & Management in Nursing",
+                "level": 3,
+                "location": {
+                  "line": 139,
+                  "heading": "Year 4 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 140,
+                      "heading": "NURS 410: Leadership & Management in Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nExplores concepts of leadership, management theory, and interprofessional teamwork in healthcare settings. Includes quality improvement and resource management.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 221, Senior Standing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 420: Advanced Clinical Practicum",
+                "level": 3,
+                "location": {
+                  "line": 147,
+                  "heading": "Year 4 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 148,
+                      "heading": "NURS 420: Advanced Clinical Practicum"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nProvides intensive clinical immersion across multiple specialties, including critical care, emergency, and surgical nursing. Students work closely with assigned preceptors in partner hospitals.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 221, completion of all previous clinical courses",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 6",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 431: Nursing Ethics & Health Policy",
+                "level": 3,
+                "location": {
+                  "line": 155,
+                  "heading": "Year 4 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 156,
+                      "heading": "NURS 431: Nursing Ethics & Health Policy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nStudies ethical dilemmas in nursing practice, legal responsibilities, and the impact of health policy on patient care and professional standards.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 231",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 440: Capstone Seminar",
+                "level": 3,
+                "location": {
+                  "line": 163,
+                  "heading": "Year 4 Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 164,
+                      "heading": "NURS 440: Capstone Seminar"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nIntegrates learning from all previous coursework and clinical experiences. Preparation for the national licensure exam (NCLEX-RN) and transition to professional practice.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 420 (may be taken concurrently)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Elective Courses",
+            "level": 2,
+            "location": {
+              "line": 171,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "NURS 350: Gerontological Nursing",
+                "level": 3,
+                "location": {
+                  "line": 173,
+                  "heading": "Elective Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 174,
+                      "heading": "NURS 350: Gerontological Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nExplores the unique healthcare needs and challenges in nursing older adults. Addresses chronic disease management, cognitive decline, and elder care advocacy.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 221",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 355: Nursing Informatics",
+                "level": 3,
+                "location": {
+                  "line": 181,
+                  "heading": "Elective Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 182,
+                      "heading": "NURS 355: Nursing Informatics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nIntroduces digital health records, data management, and the role of informatics in evidence-based nursing practice.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 231",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 2",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NURS 360: Disaster & Emergency Nursing",
+                "level": 3,
+                "location": {
+                  "line": 189,
+                  "heading": "Elective Courses"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 190,
+                      "heading": "NURS 360: Disaster & Emergency Nursing"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nPrepares students to manage nursing care in disaster, crisis, and mass casualty situations. Focuses on triage, crisis intervention, and readiness planning.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: NURS 221",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 2",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 197,
+                      "heading": "NURS 360: Disaster & Emergency Nursing"
+                    },
+                    "text": "For further information on course sequencing, graduation requirements, and departmental policies, please refer to the B.N.S. Student Handbook or contact the Department of Nursing at nursing@cendara.edu."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

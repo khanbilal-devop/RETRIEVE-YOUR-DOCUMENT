@@ -1,0 +1,187 @@
+{
+  "doc_id": "96a1347f9ef1584d822fca0da3d59cc960920f1a3301a2b3fc9857a4f49b0cde",
+  "doc_key": [
+    "trainee pilot programme"
+  ],
+  "path": "CloudWay-24/md/Trainee Pilot Programme.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Trainee Pilot Programme",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 Trainee Pilot Programme"
+            },
+            "text": "CloudWay 24 is committed to nurturing the next generation of world-class aviators through its prestigious Trainee Pilot Programme. Designed for passionate and driven individuals, our programme combines rigorous academic instruction, state-of-the-art simulator training, and hands-on flight experience with our modern fleet of Boeing and Airbus aircraft."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Programme Highlights",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 Trainee Pilot Programme"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Programme Highlights"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Comprehensive Training: Ground school, simulator training, and in-aircraft experience.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fleet Exposure: Practical training on Boeing 787 Dreamliners, Airbus A350, and A380s.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Experienced Instructors: Learn from senior CloudWay 24 captains and industry experts.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Career Pathway: Successful trainees may join CloudWay 24 as Junior First Officers.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Stipend & Benefits: Competitive stipend during training, medical coverage, and travel benefits.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Eligibility Criteria",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "CloudWay 24 Trainee Pilot Programme"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 19,
+                  "heading": "Eligibility Criteria"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Nationality: Indian citizens or Overseas Citizens of India (OCI) eligible to work in India.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Age: 18 – 28 years at the time of application.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Educational Qualification:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Minimum 10+2 with Physics and Mathematics from a recognized board.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Graduates (any discipline) preferred.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Medical Fitness: Must possess (or be able to obtain) DGCA Class 1 Medical Certificate.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Language Proficiency: Proficiency in English (spoken & written). Additional language skills are a plus.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Other Requirements:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Unblemished background and good moral character.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Passion for aviation and ability to work in a team.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Application Process",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "CloudWay 24 Trainee Pilot Programme"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "Application Process"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Online Application: Fill out the form on CloudWay24.com (https://cloudway24.com/pilot-programme)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Screening Test: Aptitude and psychometric assessments.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personal Interview: Panel interview with training and HR teams.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Medical Examination: DGCA Class 1 Medical.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Final Selection: Offer letter and induction into the training academy.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 42,
+                  "heading": "Application Process"
+                },
+                "text": "For detailed syllabus, FAQs, and application deadlines, visit CloudWay24.com (https://cloudway24.com/pilot-programme) or reach out to pilotcareers@cloudway24.com."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

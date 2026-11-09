@@ -1,0 +1,715 @@
+{
+  "doc_id": "aa55861122cb2a4252d807e11e1af86e582bff57a61dd3a0742ee1466bad934d",
+  "doc_key": [
+    "aventro connectivity"
+  ],
+  "path": "Aventro Motors/md/Aventro  Connectivity.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "text": "Welcome to your Aventro vehicle’s connected features guide! This document explains how to connect and use:"
+          },
+          {
+            "type": "list",
+            "location": {
+              "line": 4,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "ordered": false,
+            "items": [
+              {
+                "text": "Smartwatch Connectivity",
+                "depth": 0
+              },
+              {
+                "text": "Works with Alexa",
+                "depth": 0
+              },
+              {
+                "text": "Apple CarPlay",
+                "depth": 0
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 8,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "text": "Below, you’ll find step-by-step setup instructions and troubleshooting tips for each feature."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Smartwatch Connectivity",
+            "level": 2,
+            "location": {
+              "line": 12,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Overview",
+                "level": 3,
+                "location": {
+                  "line": 14,
+                  "heading": "1. Smartwatch Connectivity"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 16,
+                      "heading": "Overview"
+                    },
+                    "text": "Smartwatch connectivity allows you to interact with select vehicle functions directly from your smartwatch. This may include lock/unlock, remote start, finding your car, and vehicle health reports."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Compatible Smartwatches",
+                "level": 3,
+                "location": {
+                  "line": 18,
+                  "heading": "1. Smartwatch Connectivity"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 19,
+                      "heading": "Compatible Smartwatches"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Apple Watch (watchOS 6 and above)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Android Wear OS Watches (Wear OS 2 and above)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Samsung Galaxy Watches (Tizen 4 and above)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Steps to Connect",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "1. Smartwatch Connectivity"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "A. Install the Aventro Connect App",
+                    "level": 4,
+                    "location": {
+                      "line": 25,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 26,
+                          "heading": "A. Install the Aventro Connect App"
+                        },
+                        "ordered": true,
+                        "items": [
+                          {
+                            "text": "On your smartphone, download the Aventro Connect app from Google Play Store or Apple App Store.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Create or log into your Aventro account.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "B. Pair Your Smartwatch",
+                    "level": 4,
+                    "location": {
+                      "line": 29,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 30,
+                          "heading": "B. Pair Your Smartwatch"
+                        },
+                        "ordered": true,
+                        "items": [
+                          {
+                            "text": "Ensure your smartwatch is paired with your smartphone via Bluetooth and both are connected to the Internet.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "On your watch, open the relevant app store (Apple Watch App Store, Google Play for Wear OS, or Galaxy Store).",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Search for Aventro Connect and install it.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Open the app on your smartwatch. You may be prompted to sign in with your Aventro account or grant permissions.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "On your smartphone’s Aventro Connect app, go to Settings > Device Connections > Add Smartwatch.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Follow on-screen instructions to authorize and link the smartwatch.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "C. Using Smartwatch Features",
+                    "level": 4,
+                    "location": {
+                      "line": 37,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 38,
+                          "heading": "C. Using Smartwatch Features"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Lock/Unlock: Tap the respective button in the app.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Remote Start: Press and hold the remote start icon in the app.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Find My Car: View your vehicle’s last parked location.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Troubleshooting",
+                    "level": 4,
+                    "location": {
+                      "line": 42,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 43,
+                          "heading": "Troubleshooting"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Make sure Bluetooth is enabled on both watch and phone.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Both devices must be within range.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Both devices must have an internet connection.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "2. Works with Alexa",
+            "level": 2,
+            "location": {
+              "line": 49,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Overview",
+                "level": 3,
+                "location": {
+                  "line": 51,
+                  "heading": "2. Works with Alexa"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 53,
+                      "heading": "Overview"
+                    },
+                    "text": "Control your Aventro car using Alexa-enabled devices and voice commands: lock/unlock car, remote start, check fuel/battery status, etc."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Prerequisites",
+                "level": 3,
+                "location": {
+                  "line": 55,
+                  "heading": "2. Works with Alexa"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 56,
+                      "heading": "Prerequisites"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Alexa-enabled device (Echo Dot, Echo Show, Amazon App)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Aventro Connect account",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Vehicle registered on Aventro Connect app",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Steps to Connect",
+                "level": 3,
+                "location": {
+                  "line": 60,
+                  "heading": "2. Works with Alexa"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 62,
+                      "heading": "Steps to Connect"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "On your smartphone, open the Amazon Alexa app.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Tap the menu and select Skills & Games.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Search for Aventro Motors (Aventro Connect Skill).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Tap Enable.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Log in with your Aventro Connect account to link it.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Grant requested permissions (vehicle control, location, etc.).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": [
+                  {
+                    "title": "Example Voice Commands",
+                    "level": 4,
+                    "location": {
+                      "line": 69,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 70,
+                          "heading": "Example Voice Commands"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "\"Alexa, ask Aventro to start my car.\"",
+                            "depth": 0
+                          },
+                          {
+                            "text": "\"Alexa, ask Aventro if my car is locked.\"",
+                            "depth": 0
+                          },
+                          {
+                            "text": "\"Alexa, ask Aventro how much battery my Aero has left.\"",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Troubleshooting",
+                    "level": 4,
+                    "location": {
+                      "line": 74,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 75,
+                          "heading": "Troubleshooting"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Ensure car has active Internet connectivity (SIM/eSIM).",
+                            "depth": 0
+                          },
+                          {
+                            "text": "User permissions in Aventro Connect app must be up to date.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "If unresponsive, try disabling and re-enabling the Aventro skill in the Alexa app.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. Apple CarPlay",
+            "level": 2,
+            "location": {
+              "line": 81,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Overview",
+                "level": 3,
+                "location": {
+                  "line": 83,
+                  "heading": "3. Apple CarPlay"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 85,
+                      "heading": "Overview"
+                    },
+                    "text": "Apple CarPlay seamlessly integrates your iPhone with your Aventro vehicle’s infotainment system. Use Maps, Music, Calls, and Messages hands-free."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Prerequisites",
+                "level": 3,
+                "location": {
+                  "line": 87,
+                  "heading": "3. Apple CarPlay"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 88,
+                      "heading": "Prerequisites"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "iPhone 6 or newer (iOS 13 or above)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Genuine Apple Lightning cable or wireless pairing (in supported models)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Steps to Connect",
+                "level": 3,
+                "location": {
+                  "line": 91,
+                  "heading": "3. Apple CarPlay"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "A. Wired CarPlay Connection",
+                    "level": 4,
+                    "location": {
+                      "line": 93,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 94,
+                          "heading": "A. Wired CarPlay Connection"
+                        },
+                        "ordered": true,
+                        "items": [
+                          {
+                            "text": "Start your car and turn on the infotainment system.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Plug your iPhone into the car’s USB port with a genuine Apple Lightning cable.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "CarPlay prompt will appear on your infotainment display. Tap Allow on your iPhone if asked.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "B. Wireless CarPlay (If Supported)",
+                    "level": 4,
+                    "location": {
+                      "line": 98,
+                      "heading": "Steps to Connect"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 99,
+                          "heading": "B. Wireless CarPlay (If Supported)"
+                        },
+                        "ordered": true,
+                        "items": [
+                          {
+                            "text": "Enable both Bluetooth and Wi-Fi on your iPhone.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "On the car’s infotainment display, go to Settings > Apple CarPlay > Pair New Device.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "On your iPhone, go to Settings > General > CarPlay and select your Aventro car.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Follow on-screen instructions to pair wirelessly.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Common CarPlay Features",
+                "level": 3,
+                "location": {
+                  "line": 104,
+                  "heading": "3. Apple CarPlay"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 105,
+                      "heading": "Common CarPlay Features"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Voice: Press and hold the steering wheel’s voice button for Siri.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Maps: Use Apple Maps, Google Maps, Waze, etc.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Messages: Listen and respond hands-free.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Music & Audio: Apple Music, Spotify, Podcasts, etc.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": [
+                  {
+                    "title": "Troubleshooting",
+                    "level": 4,
+                    "location": {
+                      "line": 110,
+                      "heading": "Common CarPlay Features"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 111,
+                          "heading": "Troubleshooting"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Restart your iPhone and the infotainment system if CarPlay won’t connect.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Use only Apple-certified cables for wired connections.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Make sure your Aventro model supports wireless CarPlay if attempting wireless.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Support",
+            "level": 2,
+            "location": {
+              "line": 117,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 119,
+                  "heading": "Support"
+                },
+                "text": "If you have any issues or questions:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 120,
+                  "heading": "Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Call Aventro Helpdesk: +91 124 1234567",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Email: info@aventromotors.com",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visit your nearest Aventro Service Center (#service-center-locations-dummy-across-india)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 126,
+                  "heading": "Support"
+                },
+                "text": "Enjoy your connected Aventro driving experience!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

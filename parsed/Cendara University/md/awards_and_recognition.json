@@ -1,0 +1,276 @@
+{
+  "doc_id": "d016debd9c443d160997b6ab8684099b73dc2b45497f9eb4c6116a45cc84074f",
+  "doc_key": [
+    "awards_and_recognition"
+  ],
+  "path": "Cendara University/md/awards_and_recognition.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Awards and Recognition",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "2023–2024 University Honors",
+                "level": 3,
+                "location": {
+                  "line": 6,
+                  "heading": "Awards and Recognition"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Chancellor’s Award for Excellence in Teaching",
+                    "level": 4,
+                    "location": {
+                      "line": 8,
+                      "heading": "2023–2024 University Honors"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 9,
+                          "heading": "Chancellor’s Award for Excellence in Teaching"
+                        },
+                        "text": "Recipient: Dr. Simone L. Marquez\nDepartment: Mathematics\nPresented on: May 4, 2024\nCitation:\nDr. Marquez is recognized for distinguished teaching and innovative curriculum development in applied mathematics. Her engaging approach and dedication to student mentorship have significantly improved departmental outcomes."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Distinguished Alumni Achievement Award",
+                    "level": 4,
+                    "location": {
+                      "line": 17,
+                      "heading": "2023–2024 University Honors"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 18,
+                          "heading": "Distinguished Alumni Achievement Award"
+                        },
+                        "text": "Recipient: Dr. Priyanka Halson (Class of 2005)\nField: Medical Research\nPresented on: March 15, 2024\nCitation:\nDr. Halson, Director of Cardiology at Meridian General Hospital, has pioneered advancements in heart disease diagnostics, receiving international acclaim. Her commitment to global health advocacy exemplifies Cendara values."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Staff Service Recognition",
+                    "level": 4,
+                    "location": {
+                      "line": 26,
+                      "heading": "2023–2024 University Honors"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 27,
+                          "heading": "Staff Service Recognition"
+                        },
+                        "text": "Recipient: Mr. James O. Felix\nDepartment: Facilities & Operations\nYears of Service: 25\nPresented on: December 10, 2023\nCitation:\nMr. Felix’s long-standing dedication has been vital to campus safety and sustainability initiatives. His efforts have contributed to Cendara attaining a regional Green Campus certification."
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Undergraduate Research Excellence Award",
+                    "level": 4,
+                    "location": {
+                      "line": 36,
+                      "heading": "2023–2024 University Honors"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 37,
+                          "heading": "Undergraduate Research Excellence Award"
+                        },
+                        "text": "Recipient: Maya Elise Greene\nMajor: Environmental Science\nPresented on: May 2, 2024\nCitation:\nMaya’s project on river pollution and restoration in the Cendara Valley garnered publication in the Northeast Ecology Review and shaped local environmental policy recommendations."
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "2023 Institutional Achievements",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Awards and Recognition"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 47,
+                      "heading": "2023 Institutional Achievements"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Top Regional University Award\nGranted by the Eastern Academic Review Board for outstanding academic innovation and student satisfaction.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Excellence in Diversity and Inclusion (Gold Level)\nAwarded by the National Association for Inclusive Education (NAIE) for Cendara’s “Bridge Horizons” initiative, boosting underrepresented groups in STEM by 35%.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Innovative Campus Sustainability Program Award\nRecognized by the Green Futures Alliance for the comprehensive “Solar Steps” campus energy overhaul, including solar canopy installations and electric fleet conversion.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Faculty Recognition (2023–2024)",
+                "level": 3,
+                "location": {
+                  "line": 58,
+                  "heading": "Awards and Recognition"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 60,
+                      "heading": "Faculty Recognition (2023–2024)"
+                    },
+                    "header": [
+                      "Name",
+                      "Department",
+                      "Award",
+                      "Organization",
+                      "Date"
+                    ],
+                    "rows": [
+                      [
+                        "Dr. Mikhail Valenko",
+                        "Urban Studies",
+                        "Urban Planning Impact Fellow",
+                        "Nat. Planning Inst.",
+                        "January 2024"
+                      ],
+                      [
+                        "Prof. Rita Chen",
+                        "Theater Arts",
+                        "Outstanding Creative Educator",
+                        "State Arts Council",
+                        "October 2023"
+                      ],
+                      [
+                        "Dr. Sarah Oluwatunji",
+                        "Biology",
+                        "Life Sciences Research Advancement Medal",
+                        "BioSociety North",
+                        "March 2024"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Student Achievement Highlights",
+                "level": 3,
+                "location": {
+                  "line": 68,
+                  "heading": "Awards and Recognition"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 70,
+                      "heading": "Student Achievement Highlights"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Intercollegiate Ethics Bowl Champions\nThe Cendara Debate Society triumphed in the Northeast Intercollegiate Ethics Bowl, defeating nine regional universities, March 2024.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Meridian Technology Prize Finalist\nTeam AquaAdapt (Katherine Su, Omar Bedeir, Linh Phan) reached the finals for their development of an affordable portable water purifier, April 2024.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "First Place, National Short Film Festival\n“Reflections of Tomorrow,” directed by senior media studies student Elena DiLuca, won top honors for original screenplay, November 2023.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Community & Partner Recognition",
+                "level": 3,
+                "location": {
+                  "line": 81,
+                  "heading": "Awards and Recognition"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 83,
+                      "heading": "Community & Partner Recognition"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Civic Engagement Leadership Certification\nPresented by Meridian City Council to Cendara University for sustained community service programming and voter engagement workshops, February 2024.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Industry Innovation Award\nAwarded jointly by Cendara Technology Consortium and InfoStream Corp. for the “STEM to Success” internship pipeline, March 2024.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 91,
+                      "heading": "Community & Partner Recognition"
+                    },
+                    "text": "For additional details on awards and recognition, contact the Office of University Relations at recognition@cendara.edu."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "doc_id": "a8f2bdc723726c60bb8694148d1f282657ae4fce64e3fd01f85b68fa35f24d87",
+  "doc_key": [
+    "parta-1"
+  ],
+  "path": "Aventro Motors/md/Parta-1.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Genuine Spare Parts – Details & Price (Industry Standard Estimates)",
+            "level": 3,
+            "location": {
+              "line": 2,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": []
+          },
+          {
+            "title": "1. Engine Assembly",
+            "level": 2,
+            "location": {
+              "line": 6,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 7,
+                  "heading": "1. Engine Assembly"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Description: The core mechanical component that converts fuel into mechanical power for propulsion.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Applicable Models: All Petrol, Diesel, and Hybrid variants",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Industry Standard Price: ₹1,20,000 – ₹2,50,000 (varies by engine capacity and technology)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Warranty: 2 years or 50,000 km (whichever earlier)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Note: For Electric variants, Engine Assembly is replaced by Battery Pack/Motor assembly.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Battery Pack",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 16,
+                  "heading": "2. Battery Pack"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Description: High-capacity rechargeable battery powering Electric and Hybrid models.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Applicable Models: Electric & Hybrid variants",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Industry Standard Price:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electric: ₹2,00,000 – ₹4,50,000 (depending on kWh rating)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hybrid: ₹60,000 – ₹1,50,000",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Warranty: 8 years or 1,60,000 km (whichever earlier)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Note: Prices depend on size (kWh), chemistry, and import duties.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Transmission",
+            "level": 2,
+            "location": {
+              "line": 26,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 27,
+                  "heading": "3. Transmission"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Description: Transmits engine/motor power to wheels, manages speed and torque.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Applicable Models: All variants (specific tech for Automatic, Manual, or e-Drive)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Industry Standard Price:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Manual: ₹65,000 – ₹1,20,000",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Automatic (AT/CVT/DCT): ₹1,10,000 – ₹2,00,000",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Warranty: 2 years or 40,000 km (whichever earlier)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Brake Pads",
+            "level": 2,
+            "location": {
+              "line": 36,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "4. Brake Pads"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Description: Key component for vehicle stopping, includes front and rear sets.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Applicable Models: All, with some EVs using regenerative braking for longevity",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Industry Standard Price:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Front Set: ₹3,000 – ₹6,000",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Rear Set: ₹2,500 – ₹5,000",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Warranty: 1 year or 20,000 km",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Suspension System",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 47,
+                  "heading": "5. Suspension System"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Description: System of springs, dampers, and linkages for ride comfort and handling.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Applicable Models: All models and variants",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Industry Standard Price: ₹18,000 – ₹45,000 (per axle, including shock absorbers & bushings)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Warranty: 1 year or 25,000 km",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notes",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 55,
+                  "heading": "Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Prices are indicative, ex-showroom, exclude labor, taxes, and may vary by region/model.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For authorized fitment and exact part match, contact nearest Aventro Service Center (#service-center-locations-dummy-across-india) or email info@aventromotors.com",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

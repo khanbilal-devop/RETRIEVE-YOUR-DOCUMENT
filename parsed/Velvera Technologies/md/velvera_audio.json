@@ -1,0 +1,593 @@
+{
+  "doc_id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971",
+  "doc_key": [
+    "velvera_audio"
+  ],
+  "path": "Velvera Technologies/md/velvera_audio.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Audio Series — Product Specification Document",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Audio Series — Product Specification Document"
+            },
+            "text": "Experience immersive audio crafted for both audiophiles and everyday users with the Velvera Audio Series. This document details the specifications and features of each product in the series."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Velvera Audio Series Overview",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Audio Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "Velvera Audio Series Overview"
+                },
+                "text": "The Velvera Audio Series offers a suite of premium audio devices designed for immersive sound, cutting-edge noise cancellation, and all-day comfort. Featuring advanced wireless technologies, long battery life, and stunning sound profiles, these devices bring your favorite music, calls, and movies to life."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Product Models & Detailed Specifications",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "Velvera Audio Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 15,
+                  "heading": "Product Models & Detailed Specifications"
+                },
+                "header": [
+                  "Model",
+                  "Type",
+                  "Features",
+                  "Battery Life",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Buds",
+                    "True Wireless",
+                    "Active Noise Cancellation (ANC), Spatial Audio",
+                    "Up to 24 hrs (case included)",
+                    "₹8,999",
+                    "$109"
+                  ],
+                  [
+                    "Velvera Buds Deluxe",
+                    "True Wireless",
+                    "Advanced ANC, Wireless Charging, Touch Controls",
+                    "Up to 30 hrs (case included)",
+                    "₹14,999",
+                    "$179"
+                  ],
+                  [
+                    "Velvera Buds Premium",
+                    "True Wireless",
+                    "Adaptive ANC, Premium Audio Drivers, IPX5 Water Resistance",
+                    "Up to 36 hrs (case included)",
+                    "₹19,999",
+                    "$239"
+                  ],
+                  [
+                    "Velvera Headphones Deluxe",
+                    "Over-ear",
+                    "Studio-grade ANC, Hi-Res Audio, 40mm Drivers, Foldable Design",
+                    "Up to 40 hrs",
+                    "₹24,999",
+                    "$299"
+                  ],
+                  [
+                    "Velvera Headphones Premium",
+                    "Over-ear",
+                    "Planar Magnetic Drivers, Audiophile Tuning, Premium Comfort",
+                    "Up to 50 hrs",
+                    "₹39,999",
+                    "$479"
+                  ]
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "1. Velvera Buds",
+                "level": 3,
+                "location": {
+                  "line": 25,
+                  "heading": "Product Models & Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 27,
+                      "heading": "1. Velvera Buds"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Type: True Wireless Earbuds",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Active Noise Cancellation (ANC)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Spatial Audio for Surround-like Experience",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ergonomic In-ear Design",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Sweat & Splash Resistant (IPX4)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Bluetooth 5.2 Connectivity",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Touch Controls (Play/Pause, Calls, Voice Assistant)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Battery Life: Up to 6 hours per charge, 24 hours total with case",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Charging: USB-C Fast Charging (15 min = 1.5 hr playback)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Microphones: Dual-mic for Clear Calls",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors Available: Black, White",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ear Tips: S/M/L (Silicone)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Price: ₹8,999 / $109",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Velvera Buds Deluxe",
+                "level": 3,
+                "location": {
+                  "line": 44,
+                  "heading": "Product Models & Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "2. Velvera Buds Deluxe"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Type: True Wireless Earbuds",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Advanced ANC with Transparency Mode",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Wireless Qi Charging & USB-C Fast Charging",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Enhanced Touch Controls (Volume, Mode Switching)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Comfortable Ergonomic Fit",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Bluetooth 5.3, Low-Latency Mode",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Voice Assistant Support (Google/Siri)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Battery Life: Up to 7 hours per charge, 30 hours total with case",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Water Resistance: IPX5",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Microphones: Triple-mic Array with Noise Suppression",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors Available: Midnight Blue, Pearl White",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ear Tips: S/M/L (Memory Foam)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Price: ₹14,999 / $179",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Velvera Buds Premium",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Product Models & Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 65,
+                      "heading": "3. Velvera Buds Premium"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Type: True Wireless Earbuds",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Adaptive ANC (Auto-adjusts to Environment)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Premium Graphene Audio Drivers",
+                        "depth": 1
+                      },
+                      {
+                        "text": "IPX5 Water Resistant (Sweat/Light Rain)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Customizable EQ with Velvera App",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Automatic Ear Detection",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Multi-Point Bluetooth Connectivity",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Battery Life: Up to 9 hours per charge, 36 hours total with case",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Charging: Qi Wireless & USB-C Fast Charging",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Microphones: Quad-mic with Wind Noise Reduction",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors Available: Obsidian Black, Aurora Silver",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ear Tips: S/M/L (Hybrid Silicone/Foam)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Price: ₹19,999 / $239",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Velvera Headphones Deluxe",
+                "level": 3,
+                "location": {
+                  "line": 82,
+                  "heading": "Product Models & Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 84,
+                      "heading": "4. Velvera Headphones Deluxe"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Type: Over-ear Wireless Headphones",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Studio-grade ANC",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Hi-Res Audio Certified, 40mm Titanium Drivers",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Foldable & Lightweight Design",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Plush Memory Foam Ear Cushions",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ambient Sound Mode",
+                        "depth": 1
+                      },
+                      {
+                        "text": "USB-C Fast Charging (10 min = 3 hrs playback)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Bluetooth 5.3, Multipoint Connectivity",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Battery Life: Up to 40 hours continuous playback",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wired Input: 3.5mm Audio Jack (Included Cable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Microphones: 2x Beamforming mics for Voice Clarity",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors Available: Classic Black, Space Grey",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Carrying Case: Hard-shell Included",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Price: ₹24,999 / $299",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Velvera Headphones Premium",
+                "level": 3,
+                "location": {
+                  "line": 102,
+                  "heading": "Product Models & Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 104,
+                      "heading": "5. Velvera Headphones Premium"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Type: Over-ear Wireless Headphones",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Key Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Planar Magnetic Drivers for Audiophile Sound",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Lossless High-Resolution Audio via USB-C DAC",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ultra-Comfort Vegan Leather Earpads",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Adaptive Headband with Pressure Relief",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Luxurious and Robust Construction (Aluminum, Carbon Fiber)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Smart Touch Controls and Wear Sensors",
+                        "depth": 1
+                      },
+                      {
+                        "text": "App-based EQ and Firmware Updates",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Bluetooth 5.4, LDAC Support",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Battery Life: Up to 50 hours playback",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wired Input: USB-C + 3.5mm (Hi-Res, Balanced)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Microphones: 3-mic Array with AI Noise Isolation",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors Available: Graphite Black, Platinum Silver",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Carrying Case: Premium Hard Case Included",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Price: ₹39,999 / $479",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Common Specifications",
+            "level": 2,
+            "location": {
+              "line": 123,
+              "heading": "Velvera Audio Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 125,
+                  "heading": "Common Specifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Warranty: 1 Year Limited Warranty (all models)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Customer Support: 24/7 Online and Phone Support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Companion App: Velvera Audio (iOS & Android)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Firmware Updates: Supported (via App)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact Information",
+            "level": 2,
+            "location": {
+              "line": 132,
+              "heading": "Velvera Audio Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 134,
+                  "heading": "Contact Information"
+                },
+                "text": "For more details, bulk orders, or technical support,  call: 1800-123-VELVERA"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 138,
+                  "heading": "Contact Information"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 140,
+                  "heading": "Contact Information"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

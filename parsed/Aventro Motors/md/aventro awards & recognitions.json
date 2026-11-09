@@ -1,0 +1,255 @@
+{
+  "doc_id": "02c290148ad04b0a4959ce739f796ca9982935c5a9ee8e3bc9fc4af28cea0008",
+  "doc_key": [
+    "aventro awards & recognitions"
+  ],
+  "path": "Aventro Motors/md/Aventro  Awards & Recognitions.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd. - Awards & Recognitions",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Pvt. Ltd. - Awards & Recognitions"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Overview"
+                },
+                "text": "Aventro Motors Pvt. Ltd. has been recognized for its excellence in research, innovation, customer satisfaction, and commitment to sustainability within the automotive industry. The company’s state-of-the-art vehicles and services have earned several prestigious awards and industry recognitions."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Awards & Achievements",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Aventro Motors Pvt. Ltd. - Awards & Recognitions"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "2024",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "Awards & Achievements"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 13,
+                      "heading": "2024"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "“Car Manufacturer of the Year”\nAutoTech India Awards 2024\nFor consistent innovation and leadership in India’s passenger vehicle market.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Best Electric Vehicle Launch”\nGreen Wheels Expo 2024\nAwarded for the successful launch of the Aventro Aero Electric variant.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Best Customer Service Experience”\nNational Auto Customer Choice Awards 2024\nFor outstanding after-sales and service center network across India.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2023",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "Awards & Achievements"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 29,
+                      "heading": "2023"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "“Innovation in Hybrid Technology”\nIndian Automobile Innovation Forum 2023\nFor developing advanced hybrid powertrains across multiple models.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Safety Award – Passenger Segment”\nSafeDrive India Conference 2023\nRecognizing Aventro Bolt’s industry-leading safety and crash-test ratings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Eco-Friendly Automaker of the Year”\nClean Mobility India Awards 2023\nFor introducing sustainable manufacturing practices and electric drivetrains.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2022",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "Awards & Achievements"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 45,
+                      "heading": "2022"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "“Best New SUV”\nTop Cars Magazine Awards 2022\nFor the successful launch of the Aventro Zoom SUV.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Outstanding Design & Aesthetics”\nIndia Design Awards 2022\nAwarded for unique, functional, and stylish vehicle design language.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Dealer Satisfaction Award”\nAutomotive Dealer Forum 2022\nFor transparent, supportive, and effective dealer programs.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2021",
+                "level": 3,
+                "location": {
+                  "line": 59,
+                  "heading": "Awards & Achievements"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 61,
+                      "heading": "2021"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "“Best Entry-level Hatchback”\nCar Reviewers Guild of India 2021\nFor Aventro Nova’s class-leading value, mileage, and features.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "“Top Auto Employer”\nIndia Great Place to Work Survey 2021\nRecognizing industry-best workplace culture and employee development.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Other Recognitions",
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "Aventro Motors Pvt. Ltd. - Awards & Recognitions"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 74,
+                  "heading": "Other Recognitions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Featured in “Most Trusted Brands in India” survey, 2023, by Business Insight Weekly.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Consistent 5-star ratings for multiple models in Global New Car Assessment Programme (Global NCAP), 2022–2024.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Recognized for CSR Initiatives in Automotive Sustainability, 2023.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Media Mentions",
+            "level": 2,
+            "location": {
+              "line": 80,
+              "heading": "Aventro Motors Pvt. Ltd. - Awards & Recognitions"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 82,
+                  "heading": "Media Mentions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "“Aventro Motors setting new benchmarks in electric mobility” – The Economic Times, Oct 2023",
+                    "depth": 0
+                  },
+                  {
+                    "text": "“Customer First: Aventro’s Service Network Success Story” – AutoCar India, July 2023",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 87,
+                  "heading": "Media Mentions"
+                },
+                "text": "For more information:\nAventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nEmail: info@aventromotors.com\nOfficial Website: www.aventromotors.com (http://www.aventromotors.com)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

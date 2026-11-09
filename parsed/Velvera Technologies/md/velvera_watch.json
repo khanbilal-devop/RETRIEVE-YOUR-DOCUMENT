@@ -1,0 +1,795 @@
+{
+  "doc_id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee",
+  "doc_key": [
+    "velvera_watch"
+  ],
+  "path": "Velvera Technologies/md/velvera_watch.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Watch Series — Product Specification Document",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Overview"
+                },
+                "text": "The Velvera Watch Series represents the next generation of smart wearables, combining advanced health monitoring features, premium materials, and seamless connectivity. Designed for both everyday users and fitness enthusiasts, Velvera Watches ensure you stay connected and empowered throughout your day."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Available Models",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 11,
+                  "heading": "Available Models"
+                },
+                "header": [
+                  "Model",
+                  "Display Type",
+                  "Health Features",
+                  "Battery Life",
+                  "Connectivity",
+                  "Price (INR)",
+                  "Price (USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Watch Standard 42mm",
+                    "1.7\" AMOLED",
+                    "Heart Rate, Sleep, Steps",
+                    "5 days",
+                    "Bluetooth",
+                    "₹19,999",
+                    "$239"
+                  ],
+                  [
+                    "Velvera Watch Standard 46mm",
+                    "1.9\" AMOLED",
+                    "Heart Rate, Sleep, Steps",
+                    "6 days",
+                    "Bluetooth",
+                    "₹22,999",
+                    "$279"
+                  ],
+                  [
+                    "Velvera Watch Deluxe 42mm",
+                    "1.7\" LTPO AMOLED",
+                    "ECG, SpO₂, Stress, GPS",
+                    "7 days",
+                    "LTE + Bluetooth",
+                    "₹32,999",
+                    "$399"
+                  ],
+                  [
+                    "Velvera Watch Deluxe 46mm",
+                    "1.9\" LTPO AMOLED",
+                    "ECG, SpO₂, Stress, GPS",
+                    "8 days",
+                    "LTE + Bluetooth",
+                    "₹36,999",
+                    "$449"
+                  ],
+                  [
+                    "Velvera Watch Premium 49mm",
+                    "2.1\" Sapphire AMOLED",
+                    "All Pro features + Diving mode",
+                    "10 days",
+                    "Satellite + LTE",
+                    "₹54,999",
+                    "$659"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Color Options",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 23,
+                  "heading": "Color Options"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Midnight Black",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Silver",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Gold",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rose Gold",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ocean Blue",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Detailed Specifications",
+            "level": 2,
+            "location": {
+              "line": 31,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Display",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 35,
+                      "heading": "1. Display"
+                    },
+                    "header": [
+                      "Model",
+                      "Size",
+                      "Type",
+                      "Resolution",
+                      "Protection",
+                      "Always-On"
+                    ],
+                    "rows": [
+                      [
+                        "Standard 42mm",
+                        "1.7\"",
+                        "AMOLED",
+                        "390 x 390 px",
+                        "Corning Gorilla Glass",
+                        "Yes"
+                      ],
+                      [
+                        "Standard 46mm",
+                        "1.9\"",
+                        "AMOLED",
+                        "420 x 420 px",
+                        "Corning Gorilla Glass",
+                        "Yes"
+                      ],
+                      [
+                        "Deluxe 42mm",
+                        "1.7\"",
+                        "LTPO AMOLED",
+                        "430 x 430 px",
+                        "Sapphire Crystal",
+                        "Yes"
+                      ],
+                      [
+                        "Deluxe 46mm",
+                        "1.9\"",
+                        "LTPO AMOLED",
+                        "468 x 468 px",
+                        "Sapphire Crystal",
+                        "Yes"
+                      ],
+                      [
+                        "Premium 49mm",
+                        "2.1\"",
+                        "Sapphire AMOLED",
+                        "502 x 502 px",
+                        "Sapphire Crystal",
+                        "Yes"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Health & Activity Features",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 47,
+                      "heading": "2. Health & Activity Features"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Standard Models (42mm & 46mm):",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Real-time Heart Rate Monitoring",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Sleep Tracking (Deep, Light, REM)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Step Counter (Pedometer)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Calorie Burn Estimation",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Deluxe Models (42mm & 46mm):",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ECG Measurement",
+                        "depth": 1
+                      },
+                      {
+                        "text": "SpO₂ Monitoring",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Stress Detection",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Multi-sport Fitness Modes",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Integrated GPS",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Premium Model (49mm):",
+                        "depth": 0
+                      },
+                      {
+                        "text": "All Deluxe Features",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Advanced Diving Mode (Water Resistant up to 100m/10ATM)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Emergency SOS",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Altimeter & Barometer",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Skin Temperature Sensor",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Connectivity",
+                "level": 3,
+                "location": {
+                  "line": 69,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 71,
+                      "heading": "3. Connectivity"
+                    },
+                    "header": [
+                      "Model",
+                      "Bluetooth",
+                      "LTE",
+                      "Satellite",
+                      "Wi-Fi",
+                      "NFC",
+                      "GPS"
+                    ],
+                    "rows": [
+                      [
+                        "Standard 42mm/46mm",
+                        "5.2",
+                        "No",
+                        "No",
+                        "Yes",
+                        "Yes",
+                        "No"
+                      ],
+                      [
+                        "Deluxe 42mm/46mm",
+                        "5.3",
+                        "Yes",
+                        "No",
+                        "Yes",
+                        "Yes",
+                        "Yes"
+                      ],
+                      [
+                        "Premium 49mm",
+                        "5.3",
+                        "Yes",
+                        "Yes",
+                        "Yes",
+                        "Yes",
+                        "Yes"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Battery",
+                "level": 3,
+                "location": {
+                  "line": 79,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 81,
+                      "heading": "4. Battery"
+                    },
+                    "header": [
+                      "Model",
+                      "Typical Battery Life",
+                      "Charging Method",
+                      "Fast Charging"
+                    ],
+                    "rows": [
+                      [
+                        "Standard 42mm",
+                        "5 days",
+                        "Magnetic Pogo Pin",
+                        "Yes (50%/30min)"
+                      ],
+                      [
+                        "Standard 46mm",
+                        "6 days",
+                        "Magnetic Pogo Pin",
+                        "Yes"
+                      ],
+                      [
+                        "Deluxe 42mm",
+                        "7 days",
+                        "Wireless Charging",
+                        "Yes"
+                      ],
+                      [
+                        "Deluxe 46mm",
+                        "8 days",
+                        "Wireless Charging",
+                        "Yes"
+                      ],
+                      [
+                        "Premium 49mm",
+                        "10 days",
+                        "Wireless Fast Charge",
+                        "Yes (80%/40min)"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Build & Durability",
+                "level": 3,
+                "location": {
+                  "line": 91,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 93,
+                      "heading": "5. Build & Durability"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Case Material: Aluminum (Standard, Deluxe), Titanium (Premium)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Water Resistance:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Standard/Deluxe: 5 ATM (50m)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Premium: 10 ATM (100m), Designed for Diving",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Strap Options: Fluoroelastomer, Leather, Milanese Loop, Ocean Band",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Weight:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Standard 42mm: 38g",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Standard 46mm: 42g",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Deluxe 42mm: 40g",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Deluxe 46mm: 44g",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Premium 49mm: 56g",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Sensors",
+                "level": 3,
+                "location": {
+                  "line": 107,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 109,
+                      "heading": "6. Sensors"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Heart Rate (PPG)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ECG Sensor (Deluxe and Premium)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Pulse Oximeter (SpO₂)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Accelerometer",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Gyroscope",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Barometer (Premium)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ambient Light Sensor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Compass (Deluxe & Premium)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Skin Temperature Sensor (Premium)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Software & Compatibility",
+                "level": 3,
+                "location": {
+                  "line": 121,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 123,
+                      "heading": "7. Software & Compatibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Operating System: Velvera OS 4.0",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Supported Devices: Android 9.0+, iOS 13+",
+                        "depth": 0
+                      },
+                      {
+                        "text": "App Ecosystem:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Velvera Health",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Velvera Fitness",
+                        "depth": 1
+                      },
+                      {
+                        "text": "App Store Support (select apps)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Voice Assistant: Velvera Voice, Google Assistant, Siri (via paired device)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Notifications: Calls, Messages, Email, Apps",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Watch Faces: 100+ Customizable Options",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Additional Features",
+                "level": 3,
+                "location": {
+                  "line": 135,
+                  "heading": "Detailed Specifications"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 137,
+                      "heading": "8. Additional Features"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Customizable Widgets & Complications",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Music Playback & Storage (Up to 8GB)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wireless Payments (NFC)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Camera Shutter Control",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Find My Phone",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Emergency SOS (Premium)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Diving Computer (Premium)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Package Contents",
+            "level": 2,
+            "location": {
+              "line": 147,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 149,
+                  "heading": "Package Contents"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Velvera Watch [Model]",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Magnetic Charging Cable / Wireless Charger",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Start Guide",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Additional Strap (Ocean Band for Premium)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Warranty & Support",
+            "level": 2,
+            "location": {
+              "line": 156,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 158,
+                  "heading": "Warranty & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Standard Warranty: 1 year (manufacturer defects)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Premium Support: Available for Premium model (24/7 concierge hotline)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Certifications",
+            "level": 2,
+            "location": {
+              "line": 163,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 165,
+                  "heading": "Certifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "CE, FCC, IP68, 5ATM/10ATM (as per model)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact",
+            "level": 2,
+            "location": {
+              "line": 169,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 171,
+                  "heading": "Contact"
+                },
+                "text": "For sales inquiries or after-sales support, please visit [company website] or call 1-800-VELVERA."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 175,
+                  "heading": "Contact"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 177,
+                  "heading": "Contact"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "doc_id": "5ee99fae54c7375ba7c68a4c19a948dcbd6b4e1b523511815ada638e8dc8aed6",
+  "doc_key": [
+    "staff accommodation policy"
+  ],
+  "path": "CloudWay-24/md/Staff Accommodation Policy.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 – Staff Accommodation Policy: Pilots & Cabin Crew",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 – Staff Accommodation Policy: Pilots & Cabin Crew"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Overview"
+                },
+                "text": "CloudWay 24 prioritizes the comfort and well-being of its onboard crew, recognizing that adequate rest is critical for safety and excellent passenger service. During layovers and duty periods away from home base, all pilots and cabin crew are provided with quality hotel accommodation as per company standards."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Accommodation Policy",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "CloudWay 24 – Staff Accommodation Policy: Pilots & Cabin Crew"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Eligibility",
+                "level": 3,
+                "location": {
+                  "line": 10,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 11,
+                      "heading": "1. Eligibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Pilots: All flight deck crew members (Captain, First Officer, Relief Pilots) on layover/duty away from home base.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cabin Crew: All operating crew (CloudLux, CloudElite, CloudComfort, CloudSaver service crew).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Standard of Hotels",
+                "level": 3,
+                "location": {
+                  "line": 16,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 17,
+                      "heading": "2. Standard of Hotels"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "4-star and 5-star hotels, centrally located or near airports.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Chain hotels preferred for consistency and safety.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Room Allocation",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 23,
+                      "heading": "3. Room Allocation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Single occupancy standard for all crew members.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Secure & private accommodation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Twin sharing only by voluntary consent (for short layovers).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Transfers",
+                "level": 3,
+                "location": {
+                  "line": 29,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "4. Transfers"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Complimentary ground transportation between airport and hotel.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Pre-arranged by CloudWay 24 or authorized handling agent.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Facilities Provided",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "5. Facilities Provided"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "24-hour check-in/check-out flexibility for flight disruptions.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "In-room Wi-Fi and meal allowances/buffet breakfast included.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Crew lounge access where available.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Health & safety: Chosen hotels have robust security and clean food options.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Special Provisions",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 44,
+                      "heading": "6. Special Provisions"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Early check-in/late check-out managed for irregular operations.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Medical support/assistance from hotel or quick connections to local healthcare.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Emergency contact and escalation with CloudWay 24 Operations Control.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Booking Procedure",
+                "level": 3,
+                "location": {
+                  "line": 50,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 51,
+                      "heading": "7. Booking Procedure"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Rostered crew bookings made in advance by Crew Scheduling Department.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Hotel details relayed in daily roster and via CloudWay 24 Crew App.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Feedback & Quality Control",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 57,
+                      "heading": "8. Feedback & Quality Control"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Crew can submit hotel feedback via Crew App/website.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Regular review and audit of hotel partners to ensure compliance and crew satisfaction.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 62,
+                      "heading": "8. Feedback & Quality Control"
+                    },
+                    "text": "For further queries on staff accommodation, access the Crew Portal or contact Crew Scheduling."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

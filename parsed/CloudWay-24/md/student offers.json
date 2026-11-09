@@ -1,0 +1,261 @@
+{
+  "doc_id": "f0aebebf3eac4e131535ac98f3721abfad9d4d994950258eb8db85c4d972ea82",
+  "doc_key": [
+    "student offers"
+  ],
+  "path": "CloudWay-24/md/Student Offers.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 – Student Offers",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 – Student Offers"
+            },
+            "text": "CloudWay 24 recognizes the unique travel needs of students pursuing education or attending academic events across the globe. Our exclusive Student Offers provide valuable benefits and flexibility, making international journeys more affordable and comfortable!"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Student Offer Highlights",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 – Student Offers"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Student Offer Highlights"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Up to 10% Discount\nEnjoy special fares with up to 10% off* on CloudSaver (Economy) and CloudComfort (Premium Economy) fares for students aged 18–30.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Extra Baggage Allowance\nTravel worry-free! Students get 1 additional checked bag (up to 23kg) on all international routes.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flexible Date Change\nOne-time free date change** in case your travel plans or academic schedule changes.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Priority Check-In\nSkip the queue with dedicated student check-in counters at major CloudWay 24 hubs.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SkyPoints 24 Bonus\nEarn 500 bonus SkyPoints 24 for your first student booking.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Who Can Avail?",
+            "level": 2,
+            "location": {
+              "line": 26,
+              "heading": "CloudWay 24 – Student Offers"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 28,
+                  "heading": "Who Can Avail?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Students aged 18–30 years",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Possessing a valid student ID or university admission/offer letter",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bookings for outbound or inbound international flights from India",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Book the Student Offer?",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "CloudWay 24 – Student Offers"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "How to Book the Student Offer?"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Sign Up/Login\nRegister on CloudWay24.com (https://CloudWay24.com) or the CloudWay24 App\n(Email or mobile verification required)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Plan Your Flight\nSelect “Student Fare” when booking.\nChoose your route, travel dates, and cabin class.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Upload/Verify Student ID\nAt checkout, upload a valid student ID/admission letter for verification.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pay Securely\nChoose your preferred payment option:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Credit Card",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Debit Card",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Netbanking",
+                    "depth": 1
+                  },
+                  {
+                    "text": "SkyPoints 24 points",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Manage Your Student Booking",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "CloudWay 24 – Student Offers"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 58,
+                  "heading": "Manage Your Student Booking"
+                },
+                "text": "Go to “Manage My Flight” (via web/app):"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 59,
+                  "heading": "Manage Your Student Booking"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Modify or cancel your booking",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Change seats or upgrade",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Web check-in",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Terms & Conditions",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "CloudWay 24 – Student Offers"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Terms & Conditions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "*Up to 10% discount applicable only on base fare; taxes and surcharges apply.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "**One-time free date change permitted up to 48 hours before scheduled departure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Additional baggage allowed only upon presenting proof at check-in desk.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Offer subject to seat availability and black-out dates (public holidays, peak seasons).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "CloudWay 24 reserves the right to withdraw/modify the offer at any time.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 75,
+                  "heading": "Terms & Conditions"
+                },
+                "text": "Fly smarter, further, and lighter with CloudWay 24 Student Offers!"
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 77,
+                  "heading": "Terms & Conditions"
+                },
+                "text": "For details and support, visit CloudWay24.com/student-offers (https://CloudWay24.com/student-offers) or contact our 24x7 student help desk."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

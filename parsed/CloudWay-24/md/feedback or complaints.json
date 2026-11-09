@@ -1,0 +1,288 @@
+{
+  "doc_id": "226d44b4a5588b77db8e003b0be1eba14d026ba26b8f75a029b29a95d37b120f",
+  "doc_key": [
+    "feedback or complaints"
+  ],
+  "path": "CloudWay-24/md/Feedback or Complaints.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 – Feedback & Complaints",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 – Feedback & Complaints"
+            },
+            "text": "At CloudWay 24, we are dedicated to providing you with the highest standard of service. Your feedback and complaints are invaluable to us as they help us improve your travel experience. If you have any feedback, suggestions, or concerns regarding your recent journey, please reach out using any of the channels listed below."
+          }
+        ],
+        "sections": [
+          {
+            "title": "How to Share Your Feedback or File a Complaint",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 – Feedback & Complaints"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Online Feedback/Complaint Form",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "How to Share Your Feedback or File a Complaint"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 11,
+                      "heading": "1. Online Feedback/Complaint Form"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visit: CloudWay24.com/feedback (https://cloudway24.com/feedback) (Sample URL)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fill out the form with details about your journey, feedback, or issue.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Provide your booking reference (PNR), flight details, and contact information for prompt assistance.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. CloudWay 24 Mobile App",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "How to Share Your Feedback or File a Complaint"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 19,
+                      "heading": "2. CloudWay 24 Mobile App"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Open the CloudWay 24 app (available on iOS/Android)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Go to: Support > Feedback & Complaints",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Complete the guided form and submit your comments or issue.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Customer Support Email",
+                "level": 3,
+                "location": {
+                  "line": 25,
+                  "heading": "How to Share Your Feedback or File a Complaint"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 27,
+                      "heading": "3. Customer Support Email"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Email your feedback or complaint to: support@cloudway24.com (mailto:support@cloudway24.com)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Subject line: Feedback/Complaint – [Booking Reference/Flight Number]",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Include details such as:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Your full name",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Contact information",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Flight details (date/route/class)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Description of your experience or issue",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Attach supporting documents (if any)",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Customer Care Helpline",
+                "level": 3,
+                "location": {
+                  "line": 38,
+                  "heading": "How to Share Your Feedback or File a Complaint"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 40,
+                      "heading": "4. Customer Care Helpline"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Call us at: +91-22-1234-2424",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Available 24/7 for immediate assistance",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Please have your booking reference handy for faster resolution.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Airport Customer Service Desks",
+                "level": 3,
+                "location": {
+                  "line": 46,
+                  "heading": "How to Share Your Feedback or File a Complaint"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "5. Airport Customer Service Desks"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visit CloudWay 24 service desks at all main international airports (Mumbai, Delhi, Bengaluru).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Speak directly to a representative regarding your feedback or complaint.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "What Happens Next?",
+            "level": 2,
+            "location": {
+              "line": 53,
+              "heading": "CloudWay 24 – Feedback & Complaints"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 55,
+                  "heading": "What Happens Next?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Acknowledgement: You will receive an acknowledgement within 24 hours of submitting your feedback or complaint.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Investigation: Our customer care team will review and investigate your case thoroughly.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Resolution: You will receive a response and resolution via email or phone within 7 business days. Complex cases may require additional time.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Commitment to Customers",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "CloudWay 24 – Feedback & Complaints"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 63,
+                  "heading": "Commitment to Customers"
+                },
+                "text": "CloudWay 24 values your input and strives to resolve all issues fairly, transparently, and promptly, ensuring your journey remains seamless. Thank you for helping us improve."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 67,
+                  "heading": "Commitment to Customers"
+                },
+                "text": "For additional information, visit:\nCloudWay24.com/help (https://cloudway24.com/help)"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

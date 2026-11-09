@@ -1,0 +1,201 @@
+{
+  "doc_id": "2b8d54b9fff302463359b9fab32724d2fa19ad9095110cd57140e5819eb71eab",
+  "doc_key": [
+    "branch network in bhutan"
+  ],
+  "path": "ZX Bank/md/Branch Network in Bhutan.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank – Branch Network in Bhutan",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank – Branch Network in Bhutan"
+            },
+            "text": "ZX Bank Ltd. has established a robust and accessible banking infrastructure across Bhutan, supporting both urban and semi-urban communities. The branch network ensures that customers in key regions — Thimphu, Paro, Punakha, Phuentsholing, and Gelephu — have convenient access to retail banking, digital services, and remittance facilities. Below, find region-wise details of branch locations, IFSC codes, and contact numbers to assist customers in connecting with our local banking offices."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Thimphu Region",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank – Branch Network in Bhutan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 9,
+                  "heading": "Thimphu Region"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Near Clock Tower, Norzin Lam, Thimphu",
+                    "ZXIN000BT01",
+                    "+975-2-336600"
+                  ],
+                  [
+                    "1st Floor, City Mall, Changlam, Thimphu",
+                    "ZXIN000BT02",
+                    "+975-2-338450"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Paro Region",
+            "level": 2,
+            "location": {
+              "line": 16,
+              "heading": "ZX Bank – Branch Network in Bhutan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 18,
+                  "heading": "Paro Region"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Main Street, Paro Town, Paro",
+                    "ZXIN000BP01",
+                    "+975-8-272502"
+                  ],
+                  [
+                    "Opposite Paro Airport Entrance, Shaba",
+                    "ZXIN000BP02",
+                    "+975-8-274113"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Punakha Region",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "ZX Bank – Branch Network in Bhutan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 27,
+                  "heading": "Punakha Region"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Opp. Dzong Gate, Punakha Town",
+                    "ZXIN000BK01",
+                    "+975-3-584242"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Phuentsholing Region",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "ZX Bank – Branch Network in Bhutan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 35,
+                  "heading": "Phuentsholing Region"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "2nd Floor, Shopping Complex, Main Road, Phuentsholing",
+                    "ZXIN000BL01",
+                    "+975-5-253777"
+                  ],
+                  [
+                    "Near RSTA Office, Dhamdara, Phuentsholing",
+                    "ZXIN000BL02",
+                    "+975-5-252150"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Gelephu Region",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "ZX Bank – Branch Network in Bhutan"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 44,
+                  "heading": "Gelephu Region"
+                },
+                "header": [
+                  "Branch Address",
+                  "IFSC Code",
+                  "Contact Number"
+                ],
+                "rows": [
+                  [
+                    "Samtenling Road, Near BCCI Office, Gelephu",
+                    "ZXIN000BG01",
+                    "+975-6-251885"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

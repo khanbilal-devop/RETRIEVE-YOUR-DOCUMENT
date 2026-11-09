@@ -1,0 +1,1416 @@
+{
+  "doc_id": "8ad3640b803639aba0d14d81369e5cabcc5557f096ac5bceb5366fa9ae4bfcdf",
+  "doc_key": [
+    "zx bank atms at major bus stands (india)"
+  ],
+  "path": "ZX Bank/md/ZX Bank ATMs at Major Bus Stands (India).md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank ATMs at Major Bus Stands (India)",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "text": "ZX Bank ensures easy cash access for commuters by providing ATM services at major bus stands across the following cities:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Mumbai – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Mumbai – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Mumbai Central Bus Depot ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mumbai Central Bus Stand, Dr. Anandrao Nair Rd, Mumbai, 400008",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dadar TT Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dadar TT Circle, Dadar East, Mumbai, 400014",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Borivali Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Borivali (W) ST Bus Depot, S.V. Road, Borivali, Mumbai, 400092",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kurla Nehru Nagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Nehru Nagar, Kurla East, Mumbai, 400024",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Chembur Diamond Garden Bus Depot ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Diamond Garden Bus Stand, Chembur East, Mumbai, 400071",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Andheri East Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Andheri Kurla Road, Andheri East, Mumbai, 400069",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Delhi – National Capital Territory",
+            "level": 2,
+            "location": {
+              "line": 29,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 31,
+                  "heading": "Delhi – National Capital Territory"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "ISBT Kashmere Gate Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: ISBT Kashmere Gate, Maharana Pratap ISBT, Delhi, 110006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sarai Kale Khan Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sarai Kale Khan Bus Stand, Ring Road, Delhi, 110013",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Anand Vihar ISBT Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Anand Vihar Terminal, Delhi, 110092",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dwarka Sector 21 Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dwarka Sector 21, Metro Station Bus Stand, Delhi, 110077",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maharana Pratap ISBT ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Maharana Pratap ISBT, GT Road, Kashmere Gate, Delhi, 110006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Delhi Gate Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Delhi Gate, Daryaganj, Delhi, 110002",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bangalore (Bengaluru) – Karnataka",
+            "level": 2,
+            "location": {
+              "line": 51,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "Bangalore (Bengaluru) – Karnataka"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Kempegowda Majestic Bus Station ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Majestic, Near KSRTC Bus Stand, Bangalore, 560009",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Shanthinagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: BMTC Bus Stand, Shanthinagar, Bangalore, 560027",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mysore Road Satellite Bus Station ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mysore Road Satellite Bus Stop, Bangalore, 560026",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Peenya Bus Depot ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Peenya Industrial Area, Near KSRTC Bus Stand, Bangalore, 560058",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Yeshwantpur Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Yeshwantpur Bus Stand, Tumkur Road, Bangalore, 560022",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Banashankari TTMC Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Banashankari Bus Terminal, Kanakapura Road, Bangalore, 560085",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Hyderabad – Telangana",
+            "level": 2,
+            "location": {
+              "line": 73,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 75,
+                  "heading": "Hyderabad – Telangana"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Mahatma Gandhi Bus Station (MGBS) ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: MGBS, Gowliguda, Hyderabad, 500012",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Jubilee Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Jubilee Bus Stand, Secunderabad, Hyderabad, 500003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ameerpet Old Bus Stop ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ameerpet Main Road, Hyderabad, 500016",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mehdipatnam Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mehdipatnam Ring Road, Hyderabad, 500028",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dilsukhnagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dilsukhnagar, Hyderabad, 500060",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kukatpally Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kukatpally, Near JNTU College, Hyderabad, 500072",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Chennai – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 95,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 97,
+                  "heading": "Chennai – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Chennai Mofussil Bus Terminus (CMBT) ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: CMBT, Koyambedu, Chennai, 600107",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Tambaram Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: East Tambaram, GST Road, Chennai, 600059",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Broadway Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Broadway Bus Terminus, Parrys, Chennai, 600108",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Adyar Bus Depot ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Adyar Bus Stand, Sardar Patel Road, Chennai, 600020",
+                    "depth": 1
+                  },
+                  {
+                    "text": "T Nagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Pondy Bazaar, T Nagar, Chennai, 600017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Anna Nagar West Bus Depot ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 15th Main Road, Anna Nagar West, Chennai, 600040",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kolkata – West Bengal",
+            "level": 2,
+            "location": {
+              "line": 117,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 119,
+                  "heading": "Kolkata – West Bengal"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Esplanade Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Esplanade Bus Terminus, Kolkata, 700013",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Karunamoyee Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Karunamoyee Bus Stand, Salt Lake, Kolkata, 700064",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Howrah Bus Terminal ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Howrah Station Bus Complex, Howrah, Kolkata, 711101",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Garia Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Garia Bus Stand, Garia Main Road, Kolkata, 700084",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dumdum Nagerbazar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Nagerbazar, Dumdum, Kolkata, 700028",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sealdah Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sealdah South, Bepin Behari Ganguly St, Kolkata, 700014",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pune – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 139,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 141,
+                  "heading": "Pune – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Swargate Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Swargate ST Stand, Satara Road, Pune, 411042",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Shivajinagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Shivajinagar, Pune, 411005",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Deccan Bus Stop ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: J.M. Road, Deccan Gymkhana, Pune, 411004",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pimpri Chinchwad Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Nigdi Bus Stand, Pimpri-Chinchwad, Pune, 411044",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kothrud Depot Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kothrud Stand, Paud Road, Pune, 411038",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hadapsar Gadital Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Pune-Solapur Rd, Hadapsar, Pune, 411028",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ahmedabad – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 161,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 163,
+                  "heading": "Ahmedabad – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Gita Mandir Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gita Mandir Bus Terminal, Ahmedabad, 380022",
+                    "depth": 1
+                  },
+                  {
+                    "text": "RTO Circle Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: RTO Circle, Subhash Bridge, Ahmedabad, 380027",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maninagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Maninagar East, Ahmedabad, 380008",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nehrunagar Cross Road Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Nehrunagar, Satellite Road, Ahmedabad, 380015",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kalupur Bus Station ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Relief Road, Kalupur, Ahmedabad, 380001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Paldi Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Paldi Char Rasta, Ahmedabad, 380007",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Surat – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 183,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 185,
+                  "heading": "Surat – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Surat Central ST Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sardar Vallabhbhai Patel Market, Surat, 395003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Adajan Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Adajan Patia Road, Adajan, Surat, 395009",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Udhna Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Udhna Main Road, Surat, 394210",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Varachha Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Varachha Main Road, Surat, 395006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ring Road Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Textile Market, Ring Road, Surat, 395002",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Athwa Gate Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Athwa Gate, Surat, 395001",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Jaipur – Rajasthan",
+            "level": 2,
+            "location": {
+              "line": 205,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 207,
+                  "heading": "Jaipur – Rajasthan"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Sindhi Camp Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Station Rd, Sindhi Camp, Jaipur, 302001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Narayan Singh Circle Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Narayan Singh Circle, Tonk Road, Jaipur, 302004",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bais Godam Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Bais Godam, Jaipur, 302006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mansarovar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mansarovar Metro Station, Jaipur, 302020",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Chomu House Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Chomu House Circle, Jaipur, 302001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ajmeri Gate Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ajmeri Gate, MI Road, Jaipur, 302001",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Lucknow – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 227,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 229,
+                  "heading": "Lucknow – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Kaiserbagh Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kaiserbagh Bus Stand, Hussainganj, Lucknow, 226018",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Alambagh Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kanpur Road, Alambagh, Lucknow, 226005",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Aminabad Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Aminabad Road, Lucknow, 226018",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Charbagh Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Lucknow Railway Station Area, Charbagh, Lucknow, 226004",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Polytechnic Chauraha Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Polytechnic Chauraha, Faizabad Road, Lucknow, 226016",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gomti Nagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Patrakarpuram, Gomti Nagar, Lucknow, 226010",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kanpur – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 249,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 251,
+                  "heading": "Kanpur – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Jhakarkati Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: GT Road, Jhakarkati, Kanpur, 208012",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Fazalganj Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Fazalganj, Kanpur, 208012",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Govind Nagar Bus Stop ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Govind Nagar, Kanpur, 208006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Barra Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Barra Main Road, Kanpur, 208027",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Vikash Nagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Vikas Nagar, Kanpur, 208024",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Rawatpur Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Rawatpur, Kanpur, 208019",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Nagpur – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 271,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 273,
+                  "heading": "Nagpur – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Ganeshpeth Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ganeshpeth Central Bus Stand, Nagpur, 440018",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mor Bhavan Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mor Bhavan ST Stand, Sitabuldi, Nagpur, 440012",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pardi Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Pardi, Bhandara Road, Nagpur, 440008",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Wardhaman Nagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Wardhaman Nagar, Nagpur, 440008",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Imambada Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Imambada, Nagpur, 440018",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Jaripatka Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kamptee Road, Jaripatka, Nagpur, 440014",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Indore – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 293,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 295,
+                  "heading": "Indore – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Sarwate Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sarwate Bus Stand, Chhoti Gwaltoli, Indore, 452001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gangwal Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gangwal Bus Stand, Jawahar Marg, Indore, 452007",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nai Sadak Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Nai Sadak, Rajwada, Indore, 452002",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Vijay Nagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Vijay Nagar, Indore, 452010",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Musakhedi Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Musakhedi, Indore, 452001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Palasiya Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Palasiya Square, Indore, 452018",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bhopal – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 315,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 317,
+                  "heading": "Bhopal – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "ISBT Bhopal Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kushabhau Thakre Bus Stand, ISBT, Habibganj, Bhopal, 462016",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nadra Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Nadra Bus Stand, Hamidia Road, Bhopal, 462001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Board Office Square Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Board Office Chouraha, MP Nagar, Bhopal, 462011",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Halalpur Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Halalpur Bus Stand, Bhopal, 462037",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Berasia Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Berasia Road, Bhopal, 463106",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Misrod Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Misrod, Hoshangabad Road, Bhopal, 462026",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Visakhapatnam – Andhra Pradesh",
+            "level": 2,
+            "location": {
+              "line": 337,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 339,
+                  "heading": "Visakhapatnam – Andhra Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "RTC Complex Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: RTC Complex, Dwaraka Nagar, Visakhapatnam, 530016",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maddilapalem Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Maddilapalem Bus Stand, Visakhapatnam, 530013",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gajuwaka Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gajuwaka Junction, Visakhapatnam, 530026",
+                    "depth": 1
+                  },
+                  {
+                    "text": "NAD Kotha Road Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: NAD Junction, Visakhapatnam, 530009",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kurmannapalem Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kurmannapalem, Visakhapatnam, 530046",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Simhachalam Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Simhachalam Road, Visakhapatnam, 530028",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Patna – Bihar",
+            "level": 2,
+            "location": {
+              "line": 359,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 361,
+                  "heading": "Patna – Bihar"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Gandhi Maidan Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gandhi Maidan, Ashok Rajpath, Patna, 800001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Phulwari Sharif Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Phulwari Sharif, Patna, 801505",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Meetha Neem Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Meetha Neem, Exhibition Road, Patna, 800001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Danapur Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Danapur Cantt, Patna, 801503",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bailey Road Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Bailey Road, Rajabazar, Patna, 800014",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kankarbagh Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kankarbagh, Patna, 800020",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Vadodara (Baroda) – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 381,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 383,
+                  "heading": "Vadodara (Baroda) – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Central Bus Station ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sayajiganj, Central Bus Stand, Vadodara, 390002",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Makarpura Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Makarpura Road, Vadodara, 390013",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Manjalpur Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Manjalpur Road, Vadodara, 390011",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Akota Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Akota Road, Vadodara, 390020",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nizampura Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Nizampura Main Road, Vadodara, 390024",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Waghodia Road Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Waghodia Road, Vadodara, 390019",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ludhiana – Punjab",
+            "level": 2,
+            "location": {
+              "line": 403,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 405,
+                  "heading": "Ludhiana – Punjab"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "ISBT Ludhiana Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: ISBT Ludhiana, G.T. Road, Ludhiana, 141008",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Jagraon Bridge Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Jagraon Bridge Chowk, Ludhiana, 141001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gill Road Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gill Road, Ludhiana, 141003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Moti Nagar Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Moti Nagar, Ludhiana, 141010",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dugri Road Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dugri Road, Ludhiana, 141013",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Clock Tower Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Clock Tower, Old Bus Stand, Ludhiana, 141008",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Coimbatore – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 425,
+              "heading": "ZX Bank ATMs at Major Bus Stands (India)"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 427,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Gandhipuram Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gandhipuram Central Bus Stand, Coimbatore, 641012",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ukkadam Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ukkadam Bus Stand, Coimbatore, 641001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Singanallur Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Trichy Road, Singanallur, Coimbatore, 641005",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Saibaba Colony Bus Depot ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Saibaba Colony, Coimbatore, 641011",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sitra Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Avinashi Road, Airport Area, Coimbatore, 641014",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ondipudur Bus Stand ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ondipudur, Coimbatore, 641016",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

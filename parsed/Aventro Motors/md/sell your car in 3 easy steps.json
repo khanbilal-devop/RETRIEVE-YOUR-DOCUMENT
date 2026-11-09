@@ -1,0 +1,314 @@
+{
+  "doc_id": "e4e6815a7e6ab3b8a09d6268b67a0fa8e508ac398c190e476a197e98036d677a",
+  "doc_key": [
+    "sell your car in 3 easy steps"
+  ],
+  "path": "Aventro Motors/md/Sell Your Car in 3 Easy Steps.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Sell Your Car in 3 Easy Steps | Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Sell Your Car in 3 Easy Steps | Aventro Motors Pvt. Ltd."
+            },
+            "text": "Thinking of upgrading your drive? Sell your car easily with Aventro Motors!"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Why Sell Your Car with Aventro?",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Sell Your Car in 3 Easy Steps | Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Why Sell Your Car with Aventro?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Hassle-Free Process: Quick, transparent, and convenient.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Best Value Guarantee: Get the most competitive price for your vehicle.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pan-India Coverage: 20+ service locations nationwide for inspections & support.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "🚗 Sell Your Car in 3 Easy Steps",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Sell Your Car in 3 Easy Steps | Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Book a Free Car Inspection",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "🚗 Sell Your Car in 3 Easy Steps"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 18,
+                      "heading": "1. Book a Free Car Inspection"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Contact us online, via phone, or email to schedule a free inspection at your nearest Aventro Service Center.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Our expert team will evaluate your car based on its condition, make, model, year, and mileage.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "No obligation to sell after the evaluation!",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 22,
+                      "heading": "1. Book a Free Car Inspection"
+                    },
+                    "text": "Book Now:\nPhone: +91 124 1234567\nEmail: info@aventromotors.com (mailto:info@aventromotors.com)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Get Your Best Offer",
+                "level": 3,
+                "location": {
+                  "line": 26,
+                  "heading": "🚗 Sell Your Car in 3 Easy Steps"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 27,
+                      "heading": "2. Get Your Best Offer"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Receive a fair and instant offer based on the latest market value.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Transparent pricing with no hidden charges.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "You get the best value, whether your car is a Hatchback, Sedan, or SUV.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Sell & Get Paid Instantly",
+                "level": 3,
+                "location": {
+                  "line": 31,
+                  "heading": "🚗 Sell Your Car in 3 Easy Steps"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 32,
+                      "heading": "3. Sell & Get Paid Instantly"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Accept the offer and complete minimal paperwork.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "We handle the RC transfer and documentation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Receive payment instantly via your preferred mode.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Option for pick-up or drop-off at your chosen Aventro Service Center.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "✔️ What Do You Need?",
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "Sell Your Car in 3 Easy Steps | Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 41,
+                  "heading": "✔️ What Do You Need?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Car Registration Certificate (RC)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Owner’s ID Proof",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Vehicle Service History (if available)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Any loan closure documents (if applicable)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "That’s all! We’ll guide you with everything else.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "📍 Find Your Nearest Aventro Service Center",
+            "level": 2,
+            "location": {
+              "line": 49,
+              "heading": "Sell Your Car in 3 Easy Steps | Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 51,
+                  "heading": "📍 Find Your Nearest Aventro Service Center"
+                },
+                "text": "Located across major Indian cities including Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune, and more!\nSee All Locations › (#)"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "Sell Your Car in 3 Easy Steps | Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 58,
+                  "heading": "Frequently Asked Questions"
+                },
+                "text": "Q: My car is old or not an Aventro model. Can I still sell?\nYes, we accept all brands, makes, models, and ages of cars."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 61,
+                  "heading": "Frequently Asked Questions"
+                },
+                "text": "Q: Can I sell a financed car?\nYes, our team will help you clear any outstanding loan."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 64,
+                  "heading": "Frequently Asked Questions"
+                },
+                "text": "Q: How long does the sale process take?\nFrom inspection to payment, the process can be completed within the same day!"
+              }
+            ],
+            "sections": [
+              {
+                "title": "Ready to Sell?",
+                "level": 3,
+                "location": {
+                  "line": 69,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 70,
+                      "heading": "Ready to Sell?"
+                    },
+                    "text": "Contact us today and experience the Aventro difference."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 74,
+                      "heading": "Ready to Sell?"
+                    },
+                    "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\n📞 +91 124 1234567\n✉️ info@aventromotors.com (mailto:info@aventromotors.com)"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

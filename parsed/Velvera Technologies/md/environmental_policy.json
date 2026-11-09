@@ -1,0 +1,202 @@
+{
+  "doc_id": "29a796e5f9a4e1f608466a6f185ec8cce2bab245e890cb4c09549a3fb5d22ae8",
+  "doc_key": [
+    "environmental_policy"
+  ],
+  "path": "Velvera Technologies/md/environmental_policy.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Environmental Commitment",
+        "level": 2,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Environmental Commitment"
+            },
+            "text": "At Velvera, sustainability is not an afterthought — it's part of our design philosophy. From ethical sourcing to green logistics, every step is optimized to minimize environmental impact without compromising performance or innovation."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Sustainability Initiatives",
+            "level": 3,
+            "location": {
+              "line": 7,
+              "heading": "Environmental Commitment"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Sustainability Initiatives"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Carbon Neutral Packaging\nAll Velvera packaging is made from 100% recycled paper, printed with soy-based inks, and manufactured in carbon-neutral facilities.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "** Plastic-Free Experience**\nZero plastic across packaging — including tapes, wraps, and trays. Instead, we use biodegradable fiber-based cushioning and compostable seals.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "** Trade-In & Recycling Program**\nRecycle your old Velvera or any brand’s device responsibly through our TakeBack+ program.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Instant trade-in value at velvera.com/trade-in (https://velvera.com/trade-in)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Certified e-waste recycling partners",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Earn up to ₹1,500 in green credits",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Energy Efficiency\nAll Velvera chargers and power adapters exceed 90% energy efficiency standards and are designed to minimize phantom power drain.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Conflict-Free Materials\nAll key components (tantalum, tin, tungsten, and gold) are sourced from conflict-free and ethically audited supply chains.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Eco-Friendly Accessories\nAccessories like phone cases and watch bands made from bio-polymer, plant-based leather, and recycled ocean plastic.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Green Certifications",
+            "level": 3,
+            "location": {
+              "line": 32,
+              "heading": "Environmental Commitment"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 34,
+                  "heading": "Green Certifications"
+                },
+                "header": [
+                  "Certification",
+                  "Description"
+                ],
+                "rows": [
+                  [
+                    "EPEAT Gold",
+                    "Awarded to all Velvera tablets for meeting highest environmental criteria"
+                  ],
+                  [
+                    "Energy Star",
+                    "Certified on all Velvera chargers, power banks, and audio devices"
+                  ],
+                  [
+                    "RoHS Compliant",
+                    "Restricts use of hazardous substances in manufacturing"
+                  ],
+                  [
+                    "ISO 14001",
+                    "Environmental management systems certified across all production facilities"
+                  ],
+                  [
+                    "RE100 Member",
+                    "Committed to sourcing 100% renewable electricity by 2027"
+                  ]
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 42,
+                  "heading": "Green Certifications"
+                },
+                "text": "Did You Know?\nEvery Velvera One unit ships with 30% less packaging volume than the previous generation — reducing shipping emissions by 18% per unit."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Future Goals (2025–2030)",
+            "level": 3,
+            "location": {
+              "line": 47,
+              "heading": "Environmental Commitment"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "Future Goals (2025–2030)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Net Zero Manufacturing by 2028\nFully transition to renewable energy in all manufacturing sites globally.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Circular Design Commitment\nLaunch modular smartphones and tablets with user-replaceable parts by 2026.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Certified Carbon Offset Program\nOffer opt-in offsets for all online purchases, contributing to reforestation and clean energy projects.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 60,
+                  "heading": "Future Goals (2025–2030)"
+                },
+                "text": "For more on our sustainability roadmap, visit:\nvelvera.com/sustainability (https://velvera.com/sustainability)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 64,
+                  "heading": "Future Goals (2025–2030)"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 66,
+                  "heading": "Future Goals (2025–2030)"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

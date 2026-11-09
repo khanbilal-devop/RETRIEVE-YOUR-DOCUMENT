@@ -1,0 +1,531 @@
+{
+  "doc_id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390",
+  "doc_key": [
+    "velvera_one_ultra"
+  ],
+  "path": "Velvera Technologies/md/velvera_one_ultra.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera One Ultra — Product Specifications",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Overview"
+                },
+                "text": "The Velvera One Ultra represents the pinnacle of Velvera’s smartphone innovation. With cutting-edge LTPO display technology, elite-level cameras with periscope zoom, and a rugged yet refined design, it is purpose-built for creators, professionals, and enthusiasts who demand the very best."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Storage & Pricing Variants",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 10,
+                  "heading": "Storage & Pricing Variants"
+                },
+                "header": [
+                  "Variant",
+                  "RAM",
+                  "Internal Storage",
+                  "Price (INR / USD)"
+                ],
+                "rows": [
+                  [
+                    "512GB",
+                    "16GB",
+                    "512GB",
+                    "₹84,999 / $999"
+                  ],
+                  [
+                    "1TB",
+                    "16GB",
+                    "1TB",
+                    "₹97,999 / $1,179"
+                  ],
+                  [
+                    "2TB",
+                    "20GB",
+                    "2TB",
+                    "₹1,24,999 / $1,499"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "General",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "General"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Series: Velvera One Ultra",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Color Options: Titanium Gray, Deep Ocean Blue, Rose Gold, Midnight Black",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Display",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 27,
+                  "heading": "Display"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Type: LTPO 2.0 AMOLED, HDR10+",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Size: 6.9 inches",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Refresh Rate: 1–144Hz adaptive",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Resolution: 3200 × 1440 (QHD+)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Brightness: 1800 nits peak",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Protection: Corning Gorilla Glass Victus 2 (front and back)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Build & Durability",
+            "level": 2,
+            "location": {
+              "line": 36,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 38,
+                  "heading": "Build & Durability"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Frame: Aerospace-grade aluminum chassis",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Front/Back: Corning Gorilla Glass Victus 2",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Water Resistance: IP68 (submersion up to 1.5m for 30 mins)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Additional Durability: IP69K (high-pressure, high-temperature water and dust protection)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Certification: MIL-STD-810H ruggedization",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Performance",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "Performance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Processor: VelveraX Elite SoC (Octa-core, 4nm, 3.3GHz performance cores)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "GPU: Adreno V1000 Elite",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Storage Type: UFS 4.0 (non-expandable)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Camera",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 56,
+                  "heading": "Camera"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Rear Camera Setup: Quad Camera + Periscope",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Main: 108MP f/1.6 with OIS",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ultra-Wide: 16MP f/2.2, 123° FOV",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Telephoto: 12MP f/2.4, 3x Optical Zoom",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Periscope: 10MP f/3.5, 10x Optical Zoom, 100x Digital Zoom",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Front Camera: 40MP f/2.0 with autofocus",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Camera Features:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI-enhanced scene detection",
+                    "depth": 1
+                  },
+                  {
+                    "text": "NightSight Ultra",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Cinematic Portrait & Video",
+                    "depth": 1
+                  },
+                  {
+                    "text": "ProRAW and 8K HDR+ Video",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Super Steady mode",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Battery & Charging",
+            "level": 2,
+            "location": {
+              "line": 71,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 73,
+                  "heading": "Battery & Charging"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Battery Capacity: 5400mAh high-density Li-Po",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wired Charging: 65W Velvera HyperCharge (USB-C PD 3.1)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wireless Charging: 50W Fast Wireless (Qi 2.0 certified)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Reverse Wireless Charging: 15W",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Charging Time: 0–100% in ~36 minutes (wired)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Connectivity",
+            "level": 2,
+            "location": {
+              "line": 81,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 83,
+                  "heading": "Connectivity"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "5G Bands: Global (Sub-6GHz and mmWave) with SA/NSA",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SIM Slots: Dual Nano-SIM + eSIM support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wi-Fi: Wi-Fi 7 (802.11be, tri-band)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bluetooth: v5.4 with LE Audio, aptX Lossless",
+                    "depth": 0
+                  },
+                  {
+                    "text": "USB: USB-C 4.0 (40Gbps, DisplayPort Alt Mode)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "NFC: Yes (full payment support)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "GPS: L1+L5 Dual-band GNSS (A-GPS, GLONASS, Galileo, QZSS, BeiDou)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "UWB: Yes (Ultra-Wideband for spatial tracking & secure sharing)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Software & Updates",
+            "level": 2,
+            "location": {
+              "line": 94,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 96,
+                  "heading": "Software & Updates"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Operating System: VelveraOS 2.0 (based on Android 14)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "OS Updates: 4 years guaranteed",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Security Updates: 5 years guaranteed",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI Features:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Offline AI Assistant with context memory",
+                    "depth": 1
+                  },
+                  {
+                    "text": "On-device generative summarization",
+                    "depth": 1
+                  },
+                  {
+                    "text": "AI-enhanced camera post-processing",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Multimodal voice control",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Document scanner + translator (offline)",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Special Features",
+            "level": 2,
+            "location": {
+              "line": 108,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 110,
+                  "heading": "Special Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Adaptive 144Hz LTPO display with HDR10+ and 1800 nits brightness",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quad-lens camera system with 100x digital zoom & 8K HDR+ recording",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Corning Gorilla Glass Victus 2 on both sides for elite durability",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Aerospace-grade frame with IP68 + IP69K + MIL-STD-810H rating",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flagship-tier storage and memory (up to 2TB / 20GB RAM)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Reverse wireless charging and 50W wireless fast charge",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI-first design with local, privacy-respecting intelligence",
+                    "depth": 0
+                  },
+                  {
+                    "text": "USB 4.0 port with display out and ultra-fast data transfer",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Long-term software commitment (4+5 years)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 123,
+                  "heading": "Special Features"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 125,
+                  "heading": "Special Features"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

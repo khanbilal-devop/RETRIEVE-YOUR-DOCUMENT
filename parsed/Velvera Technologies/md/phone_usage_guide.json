@@ -1,0 +1,531 @@
+{
+  "doc_id": "9c32751122f5dec56224ff4fbfdaafb2d1d57e5bc0ef51fac079af19e3e7b1d2",
+  "doc_key": [
+    "phone_usage_guide"
+  ],
+  "path": "Velvera Technologies/md/phone_usage_guide.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Smartphone Usage Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "text": "Welcome to your new Velvera smartphone. This guide will help you get started and make the most of your device, whether you have a high-performance flagship, a compact model, an AI-centric powerhouse, a reliable core phone, or a budget-friendly starter model."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Getting Started",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Getting Started"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Unbox Your Device",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Carefully remove your new Velvera phone, charging adapter, USB-C cable, SIM ejector tool, and quick start leaflet from the box.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Insert SIM Card",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Locate the SIM slot on your device. Use the ejector tool to open the tray and insert a nano SIM card.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Power On",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Press and hold the side power button until the Velvera logo appears.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Initial Setup",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Follow the on-screen prompts to select language, connect to Wi-Fi, sign in to your Velvera or Google account, and complete essentials like fingerprint or face lock setup (available on most models).",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Charging and Battery Care",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "Charging and Battery Care"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Fast Charging: Use the included 65W charger (One series and up) or the provided adapter for your model. Some models support up to 50W wireless charging.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Battery Tips: For longer lifespan, avoid letting the battery drop below 10% or charging constantly to 100%.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Power Saving: Enable battery saver mode in VelveraOS settings.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Understanding Your Model",
+            "level": 2,
+            "location": {
+              "line": 31,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Flagship Series ― Velvera One / Pro / Ultra",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Understanding Your Model"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 35,
+                      "heading": "Flagship Series ― Velvera One / Pro / Ultra"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Performance: Top-tier speed with up to 20GB RAM and storage up to 2TB.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Display: Smooth AMOLED or advanced LTPO 2.0 display (up to 144Hz refresh rate).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cameras: Dual, triple, or quad-lens setups — pro photography modes, periscope zoom (Ultra).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors: Titanium Gray, Deep Ocean Blue, Rose Gold, Midnight Black.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Best Use: Demanding apps, gaming, detailed photography, multitasking.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Compact Series ― Velvera Edge",
+                "level": 3,
+                "location": {
+                  "line": 41,
+                  "heading": "Understanding Your Model"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 43,
+                      "heading": "Compact Series ― Velvera Edge"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Compact Yet Powerful: 6.1\" OLED screens, Octa-core V5 or V5+ processors.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Battery Life: 4400–4600mAh for all-day use.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors: Cloud Gray, Midnight Ocean, Sage Green, Coral Pink, Arctic White.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Best Use: Daily carry, one-hand operation, portability.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "AI-Centric Series ― Velvera Nexus",
+                "level": 3,
+                "location": {
+                  "line": 48,
+                  "heading": "Understanding Your Model"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 50,
+                      "heading": "AI-Centric Series ― Velvera Nexus"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "AI First: Powerful NeuralCore X/X+ engines. Real-time transcription, captioning, translation, and auto-summary.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Velvera Studio: Pre-installed productivity suite: notes, smart edit, code inference.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Best Use: Creators, students, frequent note-takers, multilingual users.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Reliable Series ― Velvera Core",
+                "level": 3,
+                "location": {
+                  "line": 54,
+                  "heading": "Understanding Your Model"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 56,
+                      "heading": "Reliable Series ― Velvera Core"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Enduring Design: Large batteries (up to 6500mAh). Rugged with flagship durability, water/dust resistant.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "VelveraOS Lite: Streamlined OS for simplicity and performance.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Best Use: Families, field work, users needing extended uptime.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Budget-Friendly Series ― Velvera Start",
+                "level": 3,
+                "location": {
+                  "line": 60,
+                  "heading": "Understanding Your Model"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 62,
+                      "heading": "Budget-Friendly Series ― Velvera Start"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Essentials Covered: Reliable basics, strong battery, quality camera.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Colors: Classic Black, Pearl White, Sky Blue, Forest Green.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Best Use: First smartphone users, minimalists, backup phone.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Key Features and Settings",
+            "level": 2,
+            "location": {
+              "line": 68,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 70,
+                  "heading": "Key Features and Settings"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "OS & Updates",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All models receive 4 years OS upgrades and 5 years security updates (Core and up).",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Security",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Biometric unlock: Face and fingerprint recognition available on most models.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "App Lock and Private Space can be enabled in Security Settings.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Customizing",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Change wallpapers, themes, and display refresh rate in Display Settings.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Choose battery and performance modes from the Battery menu.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "AI Tools (Nexus and flagship models)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Activate Smart Assistant, live transcription, translation, and auto-summary from the AI Hub app.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Camera and Photography",
+            "level": 2,
+            "location": {
+              "line": 83,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 85,
+                  "heading": "Camera and Photography"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Flagship / Ultra: Pro mode, Night mode, Portrait, RAW capture, periscope super-zoom (Ultra).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Edge/Core/Start: HDR, Panorama, filters, and beauty tools.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Snapshot: Double-press the power button to open the camera instantly.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Connectivity & Accessories",
+            "level": 2,
+            "location": {
+              "line": 91,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 93,
+                  "heading": "Connectivity & Accessories"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Dual SIM: Most models support dual nano SIMs.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "5G/4G LTE: All models support at least 4G; flagship and Nexus support 5G bands.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bluetooth & Wi-Fi: Enable via quick settings for accessories and fast internet.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Peripheral Support: USB-C supports fast data transfer and OTG accessories.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Troubleshooting & Support",
+            "level": 2,
+            "location": {
+              "line": 100,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 102,
+                  "heading": "Troubleshooting & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Common Issues",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Device won’t turn on: Charge with official Velvera charger for 15 minutes, then try powering on.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Connectivity issues: Restart device, check SIM, ensure airplane mode is off.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Contact Velvera Support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visit the Velvera Support app, open Help & Feedback in VelveraOS, or call the regional hotline from your warranty leaflet.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Warranty & Care",
+            "level": 2,
+            "location": {
+              "line": 110,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 112,
+                  "heading": "Warranty & Care"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Warranty Period: All devices include a 1-year manufacturer warranty; extended warranty available on purchase.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Care Tips",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use a certified case and screen protector.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Avoid extreme temperatures and water submersion beyond IP rating limits.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Clean with a soft, dry cloth.",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 120,
+                  "heading": "Warranty & Care"
+                },
+                "text": "Velvera — Elevate your experience. For detailed FAQs, visit https://velvera.com/support or refer to your model’s official manual."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "doc_id": "00555dbc3183e44d5eb8e32b2cf715e166ac22261a884024970cc87a3b4591c6",
+  "doc_key": [
+    "apply for a cheque book"
+  ],
+  "path": "ZX Bank/md/Apply for a Cheque Book.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Apply for a Cheque Book at ZX Bank",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Apply for a Cheque Book at ZX Bank"
+            },
+            "text": "Applying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Via ZX Bank Mobile App",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Apply for a Cheque Book at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "1. Via ZX Bank Mobile App"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Login: Open the ZX Bank Asia app and log in using your credentials or biometric authentication.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Navigate: Go to Services or Request Services on the home menu.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Select: Tap on Cheque Book Request.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Choose Account: Select the account for which you need the cheque book.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Confirm Details: Enter delivery address (if different from registered address).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit: Review and submit your request.\nYou’ll receive a confirmation SMS/email with the estimated delivery time.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Through NetBanking",
+            "level": 2,
+            "location": {
+              "line": 19,
+              "heading": "How to Apply for a Cheque Book at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 21,
+                  "heading": "2. Through NetBanking"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Log in to ZX Bank NetBanking (https://www.zxbank.asia).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Go to Services > Cheque Book Request.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Select your account and number of leaves required.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Verify your address and submit the request.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Track status online under Request History.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. At Branch",
+            "level": 2,
+            "location": {
+              "line": 29,
+              "heading": "How to Apply for a Cheque Book at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 31,
+                  "heading": "3. At Branch"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Visit your nearest ZX Bank branch.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fill out the Cheque Book Request Form at the counter.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit it to the bank officer along with valid ID, if required.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Collect acknowledgment receipt with expected dispatch date.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Via ZX Bank ATM",
+            "level": 2,
+            "location": {
+              "line": 38,
+              "heading": "How to Apply for a Cheque Book at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 40,
+                  "heading": "4. Via ZX Bank ATM"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Insert your ZX Bank debit card and enter your PIN.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Go to Services > Cheque Book Request.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Select account and number of leaves.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Confirm the request to complete the process.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. ZX Bank Customer Care",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "How to Apply for a Cheque Book at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "5. ZX Bank Customer Care"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Call ZX Bank’s 24x7 helpline: 1800-XXX-XXXX (toll-free in India)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Verify your details with the customer care executive.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Place your cheque book request and note down the reference number.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "ℹ️ Frequently Asked Questions",
+                "level": 3,
+                "location": {
+                  "line": 55,
+                  "heading": "5. ZX Bank Customer Care"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 57,
+                      "heading": "ℹ️ Frequently Asked Questions"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Delivery Time: Cheque books are dispatched within 3–7 working days.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Charges: The first cheque book of the year is usually free. Subsequent requests may incur standard charges.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Track Status: Use the mobile app or NetBanking to check dispatch and delivery status.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Change Address: Update your address before placing the request to ensure correct delivery.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 64,
+                      "heading": "ℹ️ Frequently Asked Questions"
+                    },
+                    "text": "For more assistance, visit www.zxbank.asia (https://www.zxbank.asia) or contact your nearest ZX Bank branch."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

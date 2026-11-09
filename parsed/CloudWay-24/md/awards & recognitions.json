@@ -1,0 +1,234 @@
+{
+  "doc_id": "0bdc0568959f5429024fc04360d90a01b09d9087e264f9e05e76ae122fb71d86",
+  "doc_key": [
+    "awards & recognitions"
+  ],
+  "path": "CloudWay-24/md/Awards & Recognitions.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 – Awards & Recognitions",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Bringing Excellence to Every Mile Flown",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 – Awards & Recognitions"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Bringing Excellence to Every Mile Flown"
+                },
+                "text": "Since its inception in 2013, CloudWay 24 has continually set new benchmarks for international travel, earning prestigious accolades for outstanding service, reliability, and innovation. Our passion for seamless skies and global reach is reflected in the industry and customer recognitions listed below."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Major Awards",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "CloudWay 24 – Awards & Recognitions"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "SkyTrax World Airline Awards",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "Major Awards"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 12,
+                      "heading": "SkyTrax World Airline Awards"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Best Full-Service Airline in India (2022, 2023)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Best Long Haul Airline: South Asia (2023)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Top 10 World’s Most Improved Airlines (2021)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "World Travel Awards",
+                "level": 3,
+                "location": {
+                  "line": 16,
+                  "heading": "Major Awards"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 17,
+                      "heading": "World Travel Awards"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Asia’s Leading Airline – Business Class (2022, 2023)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "India’s Best In-Flight Entertainment (2021, 2022)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "World’s Leading Airline to North America (Nominee) (2023)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "APEX/IFSA Awards",
+                "level": 3,
+                "location": {
+                  "line": 21,
+                  "heading": "Major Awards"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 22,
+                      "heading": "APEX/IFSA Awards"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Best Cabin Service (Asia-Pacific) (2023)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Passenger Choice Award for Seat Comfort (2022)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Industry Recognitions",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "CloudWay 24 – Awards & Recognitions"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 29,
+                  "heading": "Industry Recognitions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "On-Time Performance Excellence by Cirium (Top 3 Indian International Airlines, 2022)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Green Skies Initiative: Recognized for fuel-efficient operations with Boeing 787 and Airbus A350 fleets.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "IATA Membership Excellence: Certified for operational safety and service quality.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Customer Choice Highlights",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "CloudWay 24 – Awards & Recognitions"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "Customer Choice Highlights"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "4.5+ Star Ratings on major review platforms (TripAdvisor, SkyTrax, Feefo)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Best Family-Friendly Airline (Indian Traveller Survey, 2023)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Favorite Airline App (Consumer Tech Award, 2023)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 43,
+                  "heading": "Customer Choice Highlights"
+                },
+                "text": "CloudWay 24 remains committed to redefining air travel standards with every flight. Thank you to our passengers, partners, and the industry for recognizing our dedication to safety, comfort, and innovation."
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 45,
+                  "heading": "Customer Choice Highlights"
+                },
+                "text": "“Seamless Skies, Global Reach.”"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

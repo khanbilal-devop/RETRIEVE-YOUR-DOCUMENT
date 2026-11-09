@@ -1,0 +1,714 @@
+{
+  "doc_id": "187c745ba4e33ad3594d9056b10103dab03661b8acaebff79b70641d569d4d75",
+  "doc_key": [
+    "watch_usage_guide"
+  ],
+  "path": "Velvera Technologies/md/watch_usage_guide.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Watch Series — Usage Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Getting Started",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Getting Started"
+                },
+                "text": "1. What’s in the Box"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 6,
+                  "heading": "Getting Started"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Velvera Watch (choose your model)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Magnetic Charging Cable (Standard/Deluxe) or Wireless Charger (Deluxe/Premium)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Start Guide",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Additional Ocean Band Strap (included with Premium model)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 11,
+                  "heading": "Getting Started"
+                },
+                "text": "2. Charging the Watch"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 12,
+                  "heading": "Getting Started"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Connect the magnetic charger or place the watch on the wireless charging pad.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Attach the charger to a certified power adapter (5V/2A recommended).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "The watch will vibrate briefly and display the charging symbol.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fast charging available: achieve 50% charge in 30 minutes (Standard 42mm); 80% in 40 minutes (Premium 49mm).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Setting Up Your Velvera Watch",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 19,
+                  "heading": "Setting Up Your Velvera Watch"
+                },
+                "text": "1. Power On"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "Setting Up Your Velvera Watch"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Press and hold the side button until the Velvera logo appears.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 22,
+                  "heading": "Setting Up Your Velvera Watch"
+                },
+                "text": "2. Pairing With Your Smartphone"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 23,
+                  "heading": "Setting Up Your Velvera Watch"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "On your phone, download the “Velvera App” from Google Play or Apple App Store.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Enable Bluetooth and open the app.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap “Add Device” and select your Velvera Watch model.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Confirm the pairing code shown on both devices.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 28,
+                  "heading": "Setting Up Your Velvera Watch"
+                },
+                "text": "3. Device Compatibility"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 29,
+                  "heading": "Setting Up Your Velvera Watch"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Requires Android 9.0+ or iOS 13+.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ensure Bluetooth and location services are enabled for seamless connectivity.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Wearing Your Watch",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "Wearing Your Watch"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Strap your Velvera Watch snugly on your wrist, about 1 finger’s width above your wrist bone.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Adjust straps for comfort—choose between Fluoroelastomer, Leather, Milanese Loop, or Ocean Band (additional straps sold separately).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For water activities or diving (Premium 49mm), secure the Ocean Band strap provided.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Daily Operations",
+            "level": 2,
+            "location": {
+              "line": 40,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Navigating the Watch",
+                "level": 3,
+                "location": {
+                  "line": 42,
+                  "heading": "Daily Operations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 44,
+                      "heading": "Navigating the Watch"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Side Button: Wake screen, open apps, long-press for voice assistant.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Swipe Gestures:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Up/Down: View notifications, control center.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Left/Right: Access widgets and customizable watch faces.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Always-On Display: Enabled by default. Adjust in Settings > Display.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Notifications",
+                "level": 3,
+                "location": {
+                  "line": 50,
+                  "heading": "Daily Operations"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 52,
+                      "heading": "Notifications"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Receive calls, messages, emails, and app alerts instantly.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Swipe down to open Notification Center.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Tap to reply (preset replies on Android, voice input on iOS/Android).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Customize notification preferences within the Velvera App.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Health and Fitness Features",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Monitoring Health",
+                "level": 3,
+                "location": {
+                  "line": 61,
+                  "heading": "Health and Fitness Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 63,
+                      "heading": "Monitoring Health"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Heart Rate: Continuous monitoring with reminders on abnormal readings.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sleep Tracking: Auto-detects sleep stages (Deep, Light, REM); view summaries in the Velvera Health App.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Step Counter: Tracks steps, calories, and distance daily.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ECG (Deluxe & Premium): Open ECG app, rest your finger on the side sensor for 30 seconds to record.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Blood Oxygen (SpO₂): Tap SpO₂ icon, keep wrist steady; results appear in 15 seconds.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Stress Detection (Deluxe & Premium): Review stress index and receive guided breathing exercises.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Skin Temperature (Premium 49mm): Measured periodically while worn; alerts for abnormal variations.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Fitness Tracking",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Health and Fitness Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 73,
+                      "heading": "Fitness Tracking"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Select activity from Multi-Sport Modes (run, swim, bike, yoga, etc.).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "For outdoor activities, enable integrated GPS (Deluxe & Premium).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Swimming & Diving (Premium 49mm only): Water resistance up to 100m, records dive depth, duration, and water temperature.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Connectivity Features",
+            "level": 2,
+            "location": {
+              "line": 79,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 81,
+                  "heading": "Connectivity Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Bluetooth: Standard (v5.2/5.3, model-specific); auto reconnects to paired device.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "LTE (Deluxe/Premium): Activate embedded SIM via carrier for untethered calls/messages.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Satellite (Premium only): For location sharing and SOS functionality in remote areas.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wi-Fi & NFC: Enable in Settings for app downloads, wireless payments, and quick device transfers.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Additional Apps & Functions",
+            "level": 2,
+            "location": {
+              "line": 88,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 90,
+                  "heading": "Additional Apps & Functions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "App Store Access: Download popular fitness, productivity, and lifestyle apps.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Velvera Voice/Assistant: Press side button or say “Hey Velvera” to activate smart assistant.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Music Storage: Store up to 8GB of music; pair Bluetooth headphones for cordless listening.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Camera Shutter: Use watch as a remote camera control for your paired smartphone.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Find My Phone: Ping your connected device when misplaced.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wireless Payments: Register cards in the Velvera App and make NFC payments securely on the go.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Watch Faces & Customization",
+            "level": 2,
+            "location": {
+              "line": 99,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 101,
+                  "heading": "Watch Faces & Customization"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Long-press the main screen to browse and select from over 100+ watch faces.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personalize complications: weather, calendar, health stats, music, and more.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Adjust brightness and always-on settings for battery optimization.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Care & Maintenance",
+            "level": 2,
+            "location": {
+              "line": 107,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 109,
+                  "heading": "Care & Maintenance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Clean regularly using a soft, lint-free cloth.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For water exposure (swimming/diving), rinse gently with fresh water and dry before use.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Avoid harsh chemicals to preserve finish (especially Gold, Rose Gold, Ocean Blue).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For strap replacement, squeeze the release pins on the back and swap with compatible Velvera bands.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Safety & Durability",
+            "level": 2,
+            "location": {
+              "line": 116,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 118,
+                  "heading": "Safety & Durability"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Rated 5ATM (50m, Standard/Deluxe) or 10ATM (100m, Premium) for water resistance; avoid pressing buttons underwater.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sapphire Crystal (Deluxe & Premium) ensures high scratch protection.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Emergency SOS (Premium): Long-press side button for 5 seconds—initiates location sharing and notifies emergency contacts.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Troubleshooting & Support",
+            "level": 2,
+            "location": {
+              "line": 124,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 126,
+                  "heading": "Troubleshooting & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "For setup or pairing issues: Restart both watch and phone; ensure Bluetooth and permissions are active.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "If battery drains quickly: Check for always-on GPS, disable unused notifications or background apps.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For warranty claims or premium concierge support: Visit www.velvera.com/support or call 1-800-VELVERA.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Warranty & Certifications",
+            "level": 2,
+            "location": {
+              "line": 132,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 134,
+                  "heading": "Warranty & Certifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Standard 1-year warranty on manufacturing defects.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Premium support with 24/7 hotline for Premium model owners.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Certified to CE, FCC, IP68, and respective water resistance standards.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Tips",
+            "level": 2,
+            "location": {
+              "line": 140,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 142,
+                  "heading": "Important Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Software updates improve features and security—enable auto-update via the Velvera App.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Only use Velvera-certified chargers and accessories for safe operation.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Regularly back up health and fitness data to your linked account.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 148,
+                  "heading": "Important Tips"
+                },
+                "text": "For the full manual and advanced usage tips, visit www.velvera.com/manuals."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 150,
+                  "heading": "Important Tips"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

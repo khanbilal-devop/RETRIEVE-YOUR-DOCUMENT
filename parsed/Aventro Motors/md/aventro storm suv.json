@@ -1,0 +1,426 @@
+{
+  "doc_id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59",
+  "doc_key": [
+    "aventro storm suv"
+  ],
+  "path": "Aventro Motors/md/Aventro Storm SUV.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Model Focus: Aventro Storm SUV",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Overview",
+                "level": 3,
+                "location": {
+                  "line": 7,
+                  "heading": "Model Focus: Aventro Storm SUV"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 9,
+                      "heading": "Overview"
+                    },
+                    "text": "The Aventro Storm is a premium SUV designed for modern adventurers and families, blending robust performance, advanced safety, elegant design, and cutting-edge technology. Whether city driving or off-the-grid journeys, the Storm SUV ensures comfort, safety, and excitement."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 11,
+                      "heading": "Overview"
+                    },
+                    "text": "Body Type: SUV\nSeating Capacity: 5\nAvailable Engine Types: Petrol, Diesel, Electric, Hybrid\nTransmission: Automatic & Manual (depending on variant)"
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Key Specifications",
+                "level": 3,
+                "location": {
+                  "line": 18,
+                  "heading": "Model Focus: Aventro Storm SUV"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 20,
+                      "heading": "Key Specifications"
+                    },
+                    "header": [
+                      "Specification",
+                      "Details"
+                    ],
+                    "rows": [
+                      [
+                        "Engine Options",
+                        "Petrol, Diesel, Hybrid, Electric"
+                      ],
+                      [
+                        "Max Power",
+                        "130–210 HP (depending on variant)"
+                      ],
+                      [
+                        "Drive Type",
+                        "2WD / 4WD options"
+                      ],
+                      [
+                        "Safety",
+                        "6 Airbags, ABS, ESP, HSA, ADAS*"
+                      ],
+                      [
+                        "Infotainment",
+                        "Up to 11-inch Touchscreen"
+                      ],
+                      [
+                        "Comfort",
+                        "Leather Seats (ZX), Rear AC, Auto Climate"
+                      ],
+                      [
+                        "Connectivity",
+                        "Android Auto, Apple CarPlay, Navigation"
+                      ],
+                      [
+                        "Wheels",
+                        "17”–18” Alloy Wheels"
+                      ],
+                      [
+                        "Others",
+                        "Panoramic Sunroof (X & ZX), Keyless Entry, Push Button Start"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 33,
+                      "heading": "Key Specifications"
+                    },
+                    "text": "*ADAS: Advanced Driver Assistance Systems; Features vary by variant"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Storm Variants & Pricing",
+            "level": 2,
+            "location": {
+              "line": 38,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 40,
+                  "heading": "Storm Variants & Pricing"
+                },
+                "header": [
+                  "Variant",
+                  "Engine Type",
+                  "Key Features",
+                  "Ex-Showroom Price (₹ Lakh)"
+                ],
+                "rows": [
+                  [
+                    "Base",
+                    "Petrol",
+                    "7-inch Infotainment, Standard Safety, Fabric Seats",
+                    "14.8"
+                  ],
+                  [
+                    "X",
+                    "Petrol",
+                    "11-inch Infotainment, Panoramic Sunroof, ADAS Level 1",
+                    "15.3"
+                  ],
+                  [
+                    "ZX",
+                    "Petrol",
+                    "360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats",
+                    "15.8"
+                  ],
+                  [
+                    "Base",
+                    "Diesel",
+                    "7-inch Infotainment, Standard Safety, Fabric Seats",
+                    "20.3"
+                  ],
+                  [
+                    "X",
+                    "Diesel",
+                    "11-inch Infotainment, Panoramic Sunroof, ADAS Level 1",
+                    "20.8"
+                  ],
+                  [
+                    "ZX",
+                    "Diesel",
+                    "360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats",
+                    "21.3"
+                  ],
+                  [
+                    "Base",
+                    "Electric",
+                    "7-inch Infotainment, Standard Safety, Fabric Seats",
+                    "21.8"
+                  ],
+                  [
+                    "X",
+                    "Electric",
+                    "11-inch Infotainment, Panoramic Sunroof, ADAS Level 1",
+                    "22.3"
+                  ],
+                  [
+                    "ZX",
+                    "Electric",
+                    "360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats",
+                    "22.8"
+                  ],
+                  [
+                    "Base",
+                    "Hybrid",
+                    "7-inch Infotainment, Standard Safety, Fabric Seats",
+                    "18.3"
+                  ],
+                  [
+                    "X",
+                    "Hybrid",
+                    "11-inch Infotainment, Panoramic Sunroof, ADAS Level 1",
+                    "18.8"
+                  ],
+                  [
+                    "ZX",
+                    "Hybrid",
+                    "360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats",
+                    "19.3"
+                  ]
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Highlighted Features by Variant",
+                "level": 3,
+                "location": {
+                  "line": 57,
+                  "heading": "Storm Variants & Pricing"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "X Variant Exclusive:",
+                    "level": 4,
+                    "location": {
+                      "line": 59,
+                      "heading": "Highlighted Features by Variant"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 60,
+                          "heading": "X Variant Exclusive:"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "11-inch Touchscreen Infotainment System",
+                            "depth": 0
+                          },
+                          {
+                            "text": "ADAS Level 1: Lane Keep Assist, Forward Collision Warning, Auto Emergency Braking",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Panoramic Sunroof",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "ZX Variant Exclusive:",
+                    "level": 4,
+                    "location": {
+                      "line": 64,
+                      "heading": "Highlighted Features by Variant"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 65,
+                          "heading": "ZX Variant Exclusive:"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "11-inch Touchscreen Infotainment System (Harman Audio)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "360º Surround View Camera",
+                            "depth": 0
+                          },
+                          {
+                            "text": "ADAS Level 2: Adaptive Cruise, Lane Centering, Traffic Sign Recognition",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Leather Seats & Premium Interior",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Powered Driver Seat",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Safety & Tech Packages",
+                "level": 3,
+                "location": {
+                  "line": 73,
+                  "heading": "Storm Variants & Pricing"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 75,
+                      "heading": "Safety & Tech Packages"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "6 Airbags Standard",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ABS, Electronic Stability Program (ESP)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear Parking Sensors & Camera (All Variants)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ISOFIX Child Seat Mounts",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Tyre Pressure Monitoring System (X & ZX)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Colors Available",
+                "level": 3,
+                "location": {
+                  "line": 83,
+                  "heading": "Storm Variants & Pricing"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 85,
+                      "heading": "Colors Available"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Arctic White",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Midnight Black",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lava Red",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Forest Green",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Royal Blue",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Contact & Test Drive",
+                "level": 3,
+                "location": {
+                  "line": 93,
+                  "heading": "Storm Variants & Pricing"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 95,
+                      "heading": "Contact & Test Drive"
+                    },
+                    "text": "Book a test drive today at your nearest Aventro dealership or service center!\nFor bookings and more information:\n📞 +91 124 1234567\n✉️ info@aventromotors.com"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 102,
+                      "heading": "Contact & Test Drive"
+                    },
+                    "text": "⬅ Back to All Models Overview (#)"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

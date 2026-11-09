@@ -1,0 +1,1407 @@
+{
+  "doc_id": "82d21add18edd82de118b6ef08939ee1992f9841d028f635fd0a6cec21039f3b",
+  "doc_key": [
+    "zx bank atm network at major parks - india"
+  ],
+  "path": "ZX Bank/md/ZX Bank ATM Network at Major Parks – India.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank ATM Network at Major Parks – India",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Mumbai – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 7,
+                  "heading": "Mumbai – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Shivaji Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Entry Gate, Shivaji Park, Dadar West, Mumbai, 400028",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Jijamata Udyan (Byculla Zoo) ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Dr. Babasaheb Ambedkar Road, Byculla East, Mumbai, 400027",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sanjay Gandhi National Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Borivali East, Mumbai, 400066",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hanging Gardens ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Entry Pavilion, Malabar Hill, Mumbai, 400006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Priyadarshini Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Jogging Track, Nepean Sea Road, Mumbai, 400036",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Five Gardens ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Garden 2, Matunga, Mumbai, 400019",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Delhi – National Capital Territory",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 29,
+                  "heading": "Delhi – National Capital Territory"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Lodhi Gardens ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gate 1, Lodhi Road, New Delhi, 110003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Deer Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Main Entrance, Hauz Khas, New Delhi, 110016",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nehru Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Vinay Marg Entry, Chanakyapuri, New Delhi, 110021",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Central Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Connaught Place, Rajiv Chowk Metro Exit 4, New Delhi, 110001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Japanese Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gate 2, Sector 11, Rohini, New Delhi, 110085",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Indraprastha Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Ring Road, Sarai Kale Khan, New Delhi, 110013",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bangalore (Bengaluru) – Karnataka",
+            "level": 2,
+            "location": {
+              "line": 49,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 51,
+                  "heading": "Bangalore (Bengaluru) – Karnataka"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Cubbon Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Opp. Vijay Residency, Kasturba Road Entrance, Bengaluru, 560001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Lalbagh Botanical Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: West Gate, Doddamavalli, Lalbagh Road, Bengaluru, 560004",
+                    "depth": 1
+                  },
+                  {
+                    "text": "JP Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Playground, Mathikere, Bengaluru, 560054",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bannerghatta Biological Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Zoo Entrance, Bannerghatta Road, Bengaluru, 560083",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Freedom Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: G.T. Roadside, Seshadri Rd, Gandhi Nagar, Bengaluru, 560009",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bugle Rock Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, N.R. Colony, Basavanagudi, Bengaluru, 560004",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Hyderabad – Telangana",
+            "level": 2,
+            "location": {
+              "line": 71,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 73,
+                  "heading": "Hyderabad – Telangana"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Indira Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Lower Tank Bund Road, Domalguda, Hyderabad, 500029",
+                    "depth": 1
+                  },
+                  {
+                    "text": "KBR National Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gate 3, Jubilee Hills, Hyderabad, 500034",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Lumbini Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: NTR Marg, Hussain Sagar, Hyderabad, 500063",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sanjeevaiah Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Necklace Road Entry, Hyderabad, 500080",
+                    "depth": 1
+                  },
+                  {
+                    "text": "NTR Gardens ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, NTR Marg, Central Zone, Hyderabad, 500063",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mir Alam Tank Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Entrance Gate, Bahadurpura, Hyderabad, 500064",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Chennai – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 93,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 95,
+                  "heading": "Chennai – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Semmozhi Poonga ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Cathedral Road Entrance, Teynampet, Chennai, 600086",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Guindy National Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Main Gate, Rangeguindy, Chennai, 600022",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Anna Nagar Tower Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Park Entry, 2nd Ave, Anna Nagar, Chennai, 600040",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Natesan Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: North Boag Road, T. Nagar, Chennai, 600017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Tholkappia Poonga (Adyar Eco Park) ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Greenways Road Entry, Raja Annamalai Puram, Chennai, 600028",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Chetpet EcoPark ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Chetpet, Chennai, 600031",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kolkata – West Bengal",
+            "level": 2,
+            "location": {
+              "line": 115,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 117,
+                  "heading": "Kolkata – West Bengal"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Maidan ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Victoria Memorial Gate, Maidan, Kolkata, 700071",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Eco Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gate 1, Action Area II, New Town, Kolkata, 700156",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Rabindra Sarobar Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Southern Avenue Gate, Lake Gardens, Kolkata, 700029",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Millennium Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Strand Road, Kolkata, 700001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Deshapriya Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Southern Entry, Ballygunge, Kolkata, 700026",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hedge Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Saltlake Central Park, Sector I, Kolkata, 700064",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pune – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 137,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 139,
+                  "heading": "Pune – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Shaniwar Wada Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Shaniwar Peth, Pune, 411030",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pune-Okayama Friendship Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sinhgad Road Entrance, Dattawadi, Pune, 411030",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Empress Botanical Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Empress Road, Camp, Pune, 411001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sarasbaug Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Sarasbaug, Pune, 411030",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bund Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Entrance, Fitzgerald Bridge, Sangamvadi, Pune, 411001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Vetal Tekdi Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Entry Gate, Pashan, Pune, 411038",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ahmedabad – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 159,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 161,
+                  "heading": "Ahmedabad – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Law Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Ellisbridge, Ahmedabad, 380006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Parimal Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Entry Gate, Parimal Society, Ahmedabad, 380006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kankaria Lake Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gate 3, Maninagar, Ahmedabad, 380008",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Riverfront Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: West Entry, Sabarmati River, Ahmedabad, 380001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Vastrapur Lake Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Vastrapur, Ahmedabad, 380052",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sundarvan Nature Discovery Centre ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Satellite, Ahmedabad, 380015",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Surat – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 181,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 183,
+                  "heading": "Surat – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Gopi Talav Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Entry Plaza, Rustampura, Surat, 395002",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sarthana Nature Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Sarthana Jakatnaka, Surat, 395006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "VR Mall Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: VR Mall Entry, Dumas Road, Magdalla, Surat, 395007",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Indira Gandhi Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Athwalines, Surat, 395001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Science Centre Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: City Light Road, Surat, 395007",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pal Lake Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Garden Gate, Pal, Surat, 395009",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Jaipur – Rajasthan",
+            "level": 2,
+            "location": {
+              "line": 203,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 205,
+                  "heading": "Jaipur – Rajasthan"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Central Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Rambagh, Jaipur, 302007",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Jawahar Circle Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Circle Entrance, Tonk Road, Jaipur, 302017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kanak Vrindavan Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mahavirji Road, Amer, Jaipur, 302028",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sisodiya Rani Ka Bagh ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Agra Road Entrance, Ghat Ki Guni, Jaipur, 302031",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ram Niwas Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Albert Hall Entry, MI Road, Jaipur, 302004",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Vidyadhar Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Ghat Ki Guni, Jaipur, 302031",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Lucknow – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 225,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 227,
+                  "heading": "Lucknow – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Janeshwar Mishra Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gate 1, Gomti Nagar, Lucknow, 226010",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gomti Riverfront Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Jiamau, Lucknow, 226001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ambedkar Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: VIP Road Entrance, Gomti Nagar, Lucknow, 226010",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Dr. Ram Manohar Lohia Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Vipin Khand, Lucknow, 226010",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nawab Wajid Ali Shah Zoological Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Entry Gate, Hazratganj, Lucknow, 226001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Lohia Path Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Lohia Path, Vibhuti Khand, Lucknow, 226010",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kanpur – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 247,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 249,
+                  "heading": "Kanpur – Uttar Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Nana Rao Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Mall Road, Cantt, Kanpur, 208001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Phool Bagh Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Phool Bagh Entry, Mall Rd, Kanpur, 208001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Moti Jheel Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Moti Jheel Entrance, Harsh Nagar, Kanpur, 208001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "JK Temple Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Temple Entry, Govind Nagar, Kanpur, 208006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kamala Retreat Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kamala Tower Entry, Civil Lines, Kanpur, 208001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Maheshwari Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Park Gate, Kidwai Nagar, Kanpur, 208011",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Nagpur – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 269,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 271,
+                  "heading": "Nagpur – Maharashtra"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Ambazari Lake Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Ambazari Road, Nagpur, 440033",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Futala Lake Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Lake View Entry, Vayusena Nagar, Nagpur, 440001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Japanese Rose Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: North Entry, Civil Lines, Nagpur, 440001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sambhaji Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Residency Road, Mohan Nagar, Nagpur, 440001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Telankhedi Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Lake Side Entry, Telankhedi, Nagpur, 440001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Children's Traffic Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dharampeth, Nagpur, 440010",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Indore – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 291,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 293,
+                  "heading": "Indore – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Pipliyapala Regional Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Pipliyapala, Indore, 452001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Meghdoot Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Garden Entry, Vijay Nagar, Indore, 452010",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sirpur Lake Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Bird Sanctuary Entry, Sirpur, Indore, 452020",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nehru Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: White Church Road, Indore, 452001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gommatgiri Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Airport Road, Indore, 452005",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Chhatri Bagh ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Navlakha, Indore, 452001",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bhopal – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 313,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 315,
+                  "heading": "Bhopal – Madhya Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Van Vihar National Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Lake View Road, Bhopal, 462003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kamla Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: VIP Road Side, Prempura, Bhopal, 462003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Rose Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Entry Plaza, Shymala Hills, Bhopal, 462002",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sair Sapata Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Van Vihar Road, Bhopal, 462003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Kerwa Dam Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Forest Park, Mendora, Bhopal, 462001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Shahpura Lake Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Shahpura, Bhopal, 462039",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Visakhapatnam – Andhra Pradesh",
+            "level": 2,
+            "location": {
+              "line": 335,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 337,
+                  "heading": "Visakhapatnam – Andhra Pradesh"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Kailasagiri Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Kailasagiri Road, Visakhapatnam, 530043",
+                    "depth": 1
+                  },
+                  {
+                    "text": "VUDA City Central Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dwaraka Nagar, Visakhapatnam, 530016",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Indira Gandhi Zoological Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Main Gate, Kambalakonda, Visakhapatnam, 530041",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Tenneti Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Beach Road Entry, Jodugullapalem, Visakhapatnam, 530017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Matsyadarshini Aquarium Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: RK Beach Road, Visakhapatnam, 530003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bheemili Beach Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Bheemunipatnam, Visakhapatnam, 531163",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Patna – Bihar",
+            "level": 2,
+            "location": {
+              "line": 357,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 359,
+                  "heading": "Patna – Bihar"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Sanjay Gandhi Biological Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Bailey Road, Patna, 800014",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Eco Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gate 2, Jawaharlal Nehru Marg, Patna, 800001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Buddha Smriti Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Frazer Road, Opposite Railway Station, Patna, 800001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gandhi Maidan ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Ashok Rajpath, Patna, 800004",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Rajdhani Vatika Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Kankarbagh, Patna, 800020",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Shahid Pir Ali Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Exhibition Road Entry, Patna, 800001",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Vadodara (Baroda) – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 379,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 381,
+                  "heading": "Vadodara (Baroda) – Gujarat"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Sayaji Baug (Kamati Baug) ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Jawaharlal Nehru Marg, Vadodara, 390001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Akota Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Akota Road Entrance, Vadodara, 390020",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ajwa Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ajwa Road Entry, Vadodara, 391510",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Lakshmi Vilas Palace Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Palace Grounds Entry, Vadodara, 390001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gotri Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gotri Road, Vadodara, 390021",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bansal Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Manjalpur, Vadodara, 390011",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ludhiana – Punjab",
+            "level": 2,
+            "location": {
+              "line": 401,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 403,
+                  "heading": "Ludhiana – Punjab"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Nehru Rose Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Civil Lines, Ludhiana, 141001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "PAU Botanical Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: PAU Campus Entry, Ferozepur Road, Ludhiana, 141004",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Rakh Bagh Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Mall Road, Ludhiana, 141001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hardy's World Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, Ludhiana-Jalandhar G.T. Road, Ludhiana, 141001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Guru Nanak Bhawan Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entry, Ferozepur Road, Ludhiana, 141001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mini Rose Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Model Town Entry, Ludhiana, 141002",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Coimbatore – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 423,
+              "heading": "ZX Bank ATM Network at Major Parks – India"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 425,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "VOC Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Park Main Gate, Jail Road, Coimbatore, 641018",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Singanallur Lake Eco Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ring Road Entry, Singanallur, Coimbatore, 641005",
+                    "depth": 1
+                  },
+                  {
+                    "text": "TNAU Botanical Garden ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Marudhamalai Road Entry, TNAU Campus, Coimbatore, 641003",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Race Course Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Gate, Race Course Road, Coimbatore, 641018",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Gandhipuram Children’s Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Bus Stand, Gandhipuram, Coimbatore, 641012",
+                    "depth": 1
+                  },
+                  {
+                    "text": "R.S. Puram Lake View Park ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Main Entrance, R.S. Puram, Coimbatore, 641002",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

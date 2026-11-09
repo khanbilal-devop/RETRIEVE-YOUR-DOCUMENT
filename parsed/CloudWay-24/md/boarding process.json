@@ -1,0 +1,340 @@
+{
+  "doc_id": "ba5d17bf76736a7c2787bc5e99abd065251f2d3191b7e3e0605aa3ce19d857ad",
+  "doc_key": [
+    "boarding process"
+  ],
+  "path": "CloudWay-24/md/Boarding Process.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Boarding Process with CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "text": "CloudWay 24 is committed to delivering a smooth and efficient boarding experience for all passengers. Below is an outline of the standard boarding process, from check-in to takeoff."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Check-In",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "1. Check-In"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Online Check-In:\nAvailable 48 to 2 hours prior to departure via CloudWay24.com (https://cloudway24.com) or the CloudWay 24 app (iOS & Android).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Airport Check-In Counters:\nOpen 3 hours before international departures and close 60 minutes prior to departure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Required Documents:\nPassport, visa (if required), and valid ticket/boarding pass.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Baggage Drop",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "2. Baggage Drop"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Proceed to the designated baggage drop counter for your class:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "CloudLux / CloudElite: Dedicated Priority Counters",
+                    "depth": 1
+                  },
+                  {
+                    "text": "CloudComfort / CloudSaver: Standard Counters",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ensure all bags abide by CloudWay 24's baggage policy (refer to ticket for details).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Security & Immigration",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 29,
+                  "heading": "3. Security & Immigration"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "After check-in, proceed to security and immigration with boarding pass and travel documents.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Allow additional time for security checks during peak hours.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Proceed to Gate",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "4. Proceed to Gate"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Check your boarding gate on your boarding pass, the airport displays, or the CloudWay 24 app.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Boarding gates typically open 60 minutes and close 20 minutes before departure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Priority boarding is announced and available for:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "CloudLux (First Class)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "CloudElite (Business Class)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "SkyPoints 24 Elite/Frequent Flyers",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Passengers requiring special assistance and families with infants",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Boarding Sequence",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "5. Boarding Sequence"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Pre-Boarding:\nPassengers who need special assistance, unaccompanied minors, and families with small children.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Priority Boarding:\nCloudLux, CloudElite, and eligible SkyPoints 24 members.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Zone Boarding:\nRemaining passengers board by zone, as indicated on the boarding pass or by gate staff.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Final Call:\nLast chance to board; listen for announcements.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. During Boarding",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "6. During Boarding"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Present your boarding pass and identification at the gate.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Gate staff will scan and verify your documents.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Follow signs and crew guidance to your designated seat.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cabin crew will assist with stowing carry-on luggage and provide information as needed.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Departure",
+            "level": 2,
+            "location": {
+              "line": 68,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 70,
+                  "heading": "7. Departure"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Please be seated and fasten your seatbelt prior to door closure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Cabin crew will conduct safety demonstrations and perform final checks.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Relax and prepare for takeoff — your CloudWay 24 journey is about to begin!",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Tips for Smooth Boarding",
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Tips for Smooth Boarding"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Download and use the CloudWay 24 App for real-time updates, mobile boarding passes, and gate changes.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Arrive at the airport well in advance, especially for international travel.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Have all travel documents ready for inspection at each stage.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 84,
+                  "heading": "Tips for Smooth Boarding"
+                },
+                "text": "For additional queries or assistance, visit CloudWay24.com (https://cloudway24.com) or contact our customer support."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 86,
+                  "heading": "Tips for Smooth Boarding"
+                },
+                "text": "Safe travels with CloudWay 24: Seamless Skies, Global Reach."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "doc_id": "f9de052501b01d14c38de3929943f244350af8ff42417aef21fd9c7274dac5ac",
+  "doc_key": [
+    "velvera_one_pro"
+  ],
+  "path": "Velvera Technologies/md/velvera_one_pro.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera One Pro — Product Specifications",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Overview"
+                },
+                "text": "The Velvera One Pro pushes the flagship experience further with a larger HDR10+ display, a triple-lens + macro camera system, and higher RAM configurations. Built for creators, professionals, and performance seekers, it delivers unmatched productivity and visual brilliance."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Storage & Pricing Variants",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 10,
+                  "heading": "Storage & Pricing Variants"
+                },
+                "header": [
+                  "Variant",
+                  "RAM",
+                  "Internal Storage",
+                  "Price (INR / USD)"
+                ],
+                "rows": [
+                  [
+                    "256GB",
+                    "12GB",
+                    "256GB",
+                    "₹64,999 / $779"
+                  ],
+                  [
+                    "512GB",
+                    "12GB",
+                    "512GB",
+                    "₹72,999 / $879"
+                  ],
+                  [
+                    "1TB",
+                    "16GB",
+                    "1TB",
+                    "₹84,999 / $1,019"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "General",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 20,
+                  "heading": "General"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Series: Velvera One Pro",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Color Options: Titanium Gray, Deep Ocean Blue, Rose Gold, Midnight Black",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Display",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 27,
+                  "heading": "Display"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Type: AMOLED, HDR10+ Certified",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Size: 6.7 inches",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Refresh Rate: 144Hz",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Resolution: 3200 × 1440 (QHD+)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Protection: Corning Gorilla Glass Victus 2",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Build & Durability",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "Build & Durability"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Frame: Aerospace-grade aluminum",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Front/Back: Corning Gorilla Glass Victus 2",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Water Resistance: IP68 (up to 1.5m for 30 minutes)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Additional Durability: IP69K (high-pressure water and dust resistance)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Performance",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "Performance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Processor: VelveraFusion X2 (Octa-core, 3.1GHz, 4nm)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "GPU: Adreno V980",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Expandable Storage: No (UFS 4.0 internal)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Camera",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "Camera"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Rear Camera: Quad-lens AI System",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Main: 64MP f/1.6, OIS",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Ultra-Wide: 12MP f/2.2, 120° FOV",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Telephoto: 10MP, 3x Optical Zoom",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Macro: 5MP with AI focus",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Front Camera: 32MP f/2.0 with AI Beautification",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Camera Features: Night Mode, 4K Cinematic Video, AI Scene Detection, Pro Mode, Optical Zoom",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Video Recording:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Rear: 8K @ 30fps, 4K @ 60fps, 1080p @ 240fps",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Front: 4K @ 30fps, 1080p @ 120fps",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Battery & Charging",
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 69,
+                  "heading": "Battery & Charging"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Battery Capacity: 5100mAh (non-removable)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wired Charging: 65W Fast Charging (0–100% in ~35 minutes)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wireless Charging: 50W Qi-compatible",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Reverse Wireless Charging: 15W",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Connectivity",
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Connectivity"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "5G Bands: n1/n3/n5/n7/n28/n41/n77/n78",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SIM Slots: Dual Nano-SIM (5G + 5G standby)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Wi-Fi: Wi-Fi 6E (802.11ax, 2.4GHz/5GHz/6GHz)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bluetooth: 5.3 with aptX Adaptive & LE Audio",
+                    "depth": 0
+                  },
+                  {
+                    "text": "USB: USB-C 3.2 Gen 2 (10Gbps)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "NFC: Yes, with payment support",
+                    "depth": 0
+                  },
+                  {
+                    "text": "GPS: Dual-frequency GNSS (L1+L5), A-GPS, GLONASS, Galileo, BeiDou",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Software & Updates",
+            "level": 2,
+            "location": {
+              "line": 88,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 90,
+                  "heading": "Software & Updates"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Operating System: VelveraOS 2.0 (based on Android 14)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "OS Updates: 4 years (guaranteed)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Security Updates: 5 years (guaranteed)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI Features:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Offline AI Assistant",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Real-time Transcription",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Smart Document Scanning",
+                    "depth": 1
+                  },
+                  {
+                    "text": "AI Photo Enhancement",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Multilingual Translation",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Special Features",
+            "level": 2,
+            "location": {
+              "line": 102,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 104,
+                  "heading": "Special Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Ultra-fast UFS 4.0 storage options up to 1TB",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flagship HDR10+ AMOLED with 144Hz refresh rate",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pro-grade quad-lens camera system with 8K video",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Corning Gorilla Glass Victus 2 & aerospace-grade body",
+                    "depth": 0
+                  },
+                  {
+                    "text": "IP68/IP69K durability against water and pressure",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Long-lasting 5100mAh battery with 65W wired + 50W wireless charging",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Local AI engine for smart offline tasks",
+                    "depth": 0
+                  },
+                  {
+                    "text": "4 years OS + 5 years security updates",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 115,
+                  "heading": "Special Features"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 117,
+                  "heading": "Special Features"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

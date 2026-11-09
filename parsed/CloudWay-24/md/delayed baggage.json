@@ -1,0 +1,262 @@
+{
+  "doc_id": "77b5e814402c68e5354e4e16df7c0e2b5fca383fc7aa8e66d76520bc0c95d7d5",
+  "doc_key": [
+    "delayed baggage"
+  ],
+  "path": "CloudWay-24/md/Delayed Baggage.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Delayed Baggage – CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "text": "Traveling with CloudWay 24 should always be seamless, but in rare cases, your checked baggage may be delayed. Here’s what you need to know and how we support you through the process."
+          }
+        ],
+        "sections": [
+          {
+            "title": "What To Do If Your Bag Is Delayed",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "What To Do If Your Bag Is Delayed"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Report Immediately",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Upon arrival, proceed to the CloudWay 24 Baggage Services Desk in the arrivals area before exiting the airport.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Provide your baggage claim tag and boarding pass.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "File a Report",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Fill out the Property Irregularity Report (PIR) with our baggage staff.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Note your local contact details and delivery address.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Track Your Baggage",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use the tracking reference number given on your PIR.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Visit CloudWay24.com/baggage-tracking (https://CloudWay24.com/baggage-tracking) or track via the CloudWay24 app.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "While You Wait",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "While You Wait"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Essentials Kit: Eligible passengers may receive an amenity kit with basic toiletries.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Expense Reimbursement: Reimbursement may be provided (subject to policy and ticket class) for essential items purchased due to delayed baggage. Save all receipts.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Baggage Delivery",
+            "level": 2,
+            "location": {
+              "line": 30,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 32,
+                  "heading": "Baggage Delivery"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Once your baggage arrives, CloudWay 24 will arrange free delivery to your local address listed in the PIR report.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Our team will keep you updated via SMS, email, or calls.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Compensation & Claims",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 39,
+                  "heading": "Compensation & Claims"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "If your bag is not located within 21 days, it may be treated as lost and compensation claims can be initiated as per our policy and international regulations (e.g., Montreal Convention).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit claims on our website or through customer service.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contacts & Support",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "Contacts & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "CloudWay 24 Baggage Helpline: Customer Support Page (https://CloudWay24.com/contact)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "App: Go to Manage My Flight > Baggage Assistance",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Email: baggage@cloudway24.com",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Important Tips",
+            "level": 2,
+            "location": {
+              "line": 52,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 54,
+                  "heading": "Important Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Always label your checked bags with your name and contact details.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Keep your baggage tags and boarding passes until you collect your luggage.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pack essential medication and valuables in your carry-on.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 60,
+                  "heading": "Important Tips"
+                },
+                "text": "For more details, visit: CloudWay24.com/baggage (https://CloudWay24.com/baggage)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 62,
+                  "heading": "Important Tips"
+                },
+                "text": "Thank you for choosing CloudWay 24. We’re committed to resolving your baggage concerns as quickly as possible!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "doc_id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8",
+  "doc_key": [
+    "fraud transaction"
+  ],
+  "path": "ZX Bank/md/Fraud Transaction.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Report a Fraud Transaction at ZX Bank",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "text": "If you suspect or identify a fraudulent transaction on your ZX Bank account, follow these steps immediately to secure your funds and resolve the issue."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Step 1: Contact ZX Bank Immediately",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Step 1: Contact ZX Bank Immediately"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Hotline (24x7):",
+                    "depth": 0
+                  },
+                  {
+                    "text": "India: 1800 123 9876",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sri Lanka: +94 11 2345678",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bangladesh: +880 9612 345678",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bhutan: +975 2 345678",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Nepal: +977 1 2345678",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Email: fraudreport@zxbank.asia",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mobile App: Go to ZX Bank Asia app → Support → Report Fraud",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 2: Block Your Card or Account (If Applicable)",
+            "level": 2,
+            "location": {
+              "line": 21,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 23,
+                  "heading": "Step 2: Block Your Card or Account (If Applicable)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Via Mobile App or NetBanking:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Go to “Card Management” or “Account Services”",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Select “Block/Card Hotlisting” or “Freeze Account”",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Confirm the action",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 3: Gather Key Information",
+            "level": 2,
+            "location": {
+              "line": 30,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 32,
+                  "heading": "Step 3: Gather Key Information"
+                },
+                "text": "When reporting, be ready with the following:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 33,
+                  "heading": "Step 3: Gather Key Information"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Your account number/User ID",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Date and time of the suspicious transaction",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Transaction amount and details",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Any SMS/email alerts received",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Screenshots or documentation (if available)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 4: File a Written Complaint",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 43,
+                  "heading": "Step 4: File a Written Complaint"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "In Branch: Visit your nearest ZX Bank branch and submit a written complaint.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Online:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use NetBanking > Service Requests > Dispute Transaction",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Email a formal complaint to fraudreport@zxbank.asia",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Step 5: Follow Up & Track Resolution",
+            "level": 2,
+            "location": {
+              "line": 50,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 52,
+                  "heading": "Step 5: Follow Up & Track Resolution"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank will provide a reference number for your complaint.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "You can track progress via the app (Support > Track Requests) or by calling the hotline.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "ZX Bank targets resolution within 10 working days.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Extra Tips",
+            "level": 2,
+            "location": {
+              "line": 58,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 60,
+                  "heading": "Extra Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Never share PIN, OTP, or passwords with anyone.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Activate transaction alerts via SMS and Email.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Regularly review your account statements.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For urgent blocking, use the “Block Instantly” option in the app.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 67,
+                  "heading": "Extra Tips"
+                },
+                "text": "Your safety is our priority. Report suspicious activities as soon as possible to minimize risk."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

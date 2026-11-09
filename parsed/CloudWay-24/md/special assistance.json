@@ -1,0 +1,343 @@
+{
+  "doc_id": "ee9ff37cabc8b5d8034f647d5d504731d793ea3be78fccb23939710f910c5ffe",
+  "doc_key": [
+    "special assistance"
+  ],
+  "path": "CloudWay-24/md/Special Assistance.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Special Assistance at CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Special Assistance at CloudWay 24"
+            },
+            "text": "CloudWay 24 is committed to making air travel accessible, comfortable, and convenient for every passenger. If you require any kind of special assistance for your journey, our dedicated team is here to help at every step – from booking your ticket to arriving at your final destination."
+          }
+        ],
+        "sections": [
+          {
+            "title": "How to Request Special Assistance",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Special Assistance at CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "How to Request Special Assistance"
+                },
+                "text": "You can request special assistance:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 10,
+                  "heading": "How to Request Special Assistance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "During the booking process on CloudWay24.com or the CloudWay24 mobile app",
+                    "depth": 0
+                  },
+                  {
+                    "text": "By contacting our Customer Service Team via email or phone",
+                    "depth": 0
+                  },
+                  {
+                    "text": "At the airport check-in counter prior to your flight",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 14,
+                  "heading": "How to Request Special Assistance"
+                },
+                "text": "Note: For the best experience, please inform us at least 48 hours before departure."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Types of Special Assistance We Offer",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Special Assistance at CloudWay 24"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Mobility Assistance",
+                "level": 3,
+                "location": {
+                  "line": 20,
+                  "heading": "Types of Special Assistance We Offer"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 21,
+                      "heading": "Mobility Assistance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Wheelchair service at departure and arrival airports",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Assistance with boarding, deplaning, and transferring between flights",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Pre-boarding option for passengers with mobility needs",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Elderly & Unaccompanied Minors",
+                "level": 3,
+                "location": {
+                  "line": 25,
+                  "heading": "Types of Special Assistance We Offer"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "Elderly & Unaccompanied Minors"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Escort service for seniors traveling alone",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Special care and supervision for unaccompanied minors (UMNR program)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Priority boarding and disembarkation",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Assistance for Passengers with Visual or Hearing Impairments",
+                "level": 3,
+                "location": {
+                  "line": 30,
+                  "heading": "Types of Special Assistance We Offer"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 31,
+                      "heading": "Assistance for Passengers with Visual or Hearing Impairments"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Personal escort to/out of the aircraft",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Safety briefing in accessible formats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Visual/tactile guide and assistance with forms and immigration procedures",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Medical Assistance",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "Types of Special Assistance We Offer"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "Medical Assistance"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Oxygen cylinders and related devices, subject to prior approval",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Assistance for passengers traveling with personal medical equipment or medication",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Stretcher service on select flights (by prior arrangement and subject to charges)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Special Dietary Needs",
+                "level": 3,
+                "location": {
+                  "line": 40,
+                  "heading": "Types of Special Assistance We Offer"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "Special Dietary Needs"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Selection of special meals (vegetarian, low-sodium, diabetic, gluten-free, etc.)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Requests can be made during booking or up to 24 hours before departure",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Guidelines & Additional Information",
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Special Assistance at CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "Guidelines & Additional Information"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Advance Notice: Some services require advance notification and submission of medical documents.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Medical Fitness: In certain cases, a Medical Information Form (MEDIF) may be required from your doctor.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Traveling with Assistance Devices: Mobility aids such as wheelchairs and crutches are carried free of charge, subject to space and safety regulations.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact Us",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Special Assistance at CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 56,
+                  "heading": "Contact Us"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Customer Care Hotline: [Insert local/international number]",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Email: support@cloudway24.com",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Website: CloudWay24.com (https://www.cloudway24.com/help/special-assistance)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "At the Airport: Approach our Special Assistance Desk or any CloudWay 24 staff member.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 63,
+                  "heading": "Contact Us"
+                },
+                "text": "Your comfort and dignity are our top priorities. Please reach out so we can make your journey as smooth as possible."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 65,
+                  "heading": "Contact Us"
+                },
+                "text": "CloudWay 24 – Seamless Skies, Global Reach."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

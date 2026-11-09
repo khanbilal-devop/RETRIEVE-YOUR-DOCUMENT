@@ -1,0 +1,319 @@
+{
+  "doc_id": "bf03cffc4db323796b6c451fb5dcdbb0a441962ccf05b20e10e78b5bd18787b8",
+  "doc_key": [
+    "nepal atm locations"
+  ],
+  "path": "ZX Bank/md/Nepal ATM Locations.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank: Nepal ATM Locations",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "text": "ZX Bank provides a robust ATM network across Nepal, ensuring convenient banking access for local residents and NRI customers. Below is a list of major ATM locations with their addresses in Nepal."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kathmandu",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Kathmandu"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Thamel Branch ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 123 JP Road, Thamel, Kathmandu 44600",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Patan Durbar Square ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mangal Bazaar Road, Lalitpur, Kathmandu 44700",
+                    "depth": 1
+                  },
+                  {
+                    "text": "New Baneshwor ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 45 New Baneshwor Road, Kathmandu 44621",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pokhara",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 22,
+                  "heading": "Pokhara"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Lakeside ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Phewa Lake Side, Gauri Ghat, Pokhara 33700",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mahendrapul ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Mahendrapul Road, Pokhara 33700",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Biratnagar",
+            "level": 2,
+            "location": {
+              "line": 30,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 32,
+                  "heading": "Biratnagar"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Main Market ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 112 Bhrikuti Chowk, Biratnagar 56613",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bharatpur",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 39,
+                  "heading": "Bharatpur"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Central Chowk ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 22 Central Chowk, Bharatpur 44207",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Birgunj",
+            "level": 2,
+            "location": {
+              "line": 44,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 46,
+                  "heading": "Birgunj"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Adarsh Nagar ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 59 Adarsh Nagar, Birgunj 44300",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bhaktapur",
+            "level": 2,
+            "location": {
+              "line": 51,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "Bhaktapur"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Bhaktapur Durbar Square ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Durbar Square, Bhaktapur 44800",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Butwal",
+            "level": 2,
+            "location": {
+              "line": 58,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 60,
+                  "heading": "Butwal"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Traffic Chowk ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 101 Traffic Chowk, Butwal 32907",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Dhangadhi",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Dhangadhi"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Seti Zone Office ATM",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 77 Seti Zone Road, Dhangadhi 10900",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Additional Locations",
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 74,
+                  "heading": "Additional Locations"
+                },
+                "text": "ZX Bank ATMs are also operational at several shopping malls, airports, hospitals, and university campuses across Nepal. For the most updated list or to find the nearest ATM, use the ZX Bank Asia Mobile App (https://www.zxbank.asia/mobile-app)."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 78,
+                  "heading": "Additional Locations"
+                },
+                "text": "Contact us:\nFor assistance or feedback, contact ZX Bank Nepal Customer Care at 01-5551234 or visit your nearest branch."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

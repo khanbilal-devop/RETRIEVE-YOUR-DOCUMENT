@@ -1,0 +1,603 @@
+{
+  "doc_id": "eafdb4ce66adde7e8056ab0af80efc423b4a4167fd9e33c17fb29982601a2a99",
+  "doc_key": [
+    "aventro motors- how to change a tyre"
+  ],
+  "path": "Aventro Motors/md/ Aventro Motors- How to Change a Tyre.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors: How to Change a Tyre",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Aventro Motors: How to Change a Tyre"
+            },
+            "text": "Changing a flat tyre is a basic and essential automotive skill for every Aventro Motor car owner. This guide will walk you through:"
+          },
+          {
+            "type": "list",
+            "location": {
+              "line": 5,
+              "heading": "Aventro Motors: How to Change a Tyre"
+            },
+            "ordered": false,
+            "items": [
+              {
+                "text": "Steps to change a tyre",
+                "depth": 0
+              },
+              {
+                "text": "Where the spare tyre and toolkit is found in all Aventro models",
+                "depth": 0
+              },
+              {
+                "text": "General tips and safety instructions",
+                "depth": 0
+              }
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "title": "Where to Find the Spare Tyre & Toolkit in Aventro Models",
+            "level": 2,
+            "location": {
+              "line": 11,
+              "heading": "Aventro Motors: How to Change a Tyre"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 13,
+                  "heading": "Where to Find the Spare Tyre & Toolkit in Aventro Models"
+                },
+                "header": [
+                  "Model Type",
+                  "Common Location of Spare Tyre & Toolkit"
+                ],
+                "rows": [
+                  [
+                    "Hatchback",
+                    "Under the boot floor in the rear compartment"
+                  ],
+                  [
+                    "Sedan",
+                    "Under the boot floor in the trunk"
+                  ],
+                  [
+                    "SUV",
+                    "Under the boot floor or mounted underneath the rear of the car"
+                  ],
+                  [
+                    "(All Models)",
+                    "Toolkit is usually secured next to the spare tyre or inside a side panel of the boot/trunk"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 20,
+                  "heading": "Where to Find the Spare Tyre & Toolkit in Aventro Models"
+                },
+                "text": "Note: All variants (Petrol/Diesel/Electric/Hybrid) follow the same compartment arrangement."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Steps to Change a Tyre",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "Aventro Motors: How to Change a Tyre"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Park Safely",
+                "level": 3,
+                "location": {
+                  "line": 26,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "1. Park Safely"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Pull over to a safe, flat location away from traffic.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Turn on your hazard lights.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Apply the handbrake.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Place wheel wedges/blocks (if available) to prevent vehicle movement.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Gather Tools",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 35,
+                      "heading": "2. Gather Tools"
+                    },
+                    "text": "You will need:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "2. Gather Tools"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Spare tyre (found as per table above)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Jack (usually in toolkit)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lug wrench (in toolkit)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wheel wedges/blocks (optional)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Vehicle owner's manual (for reference)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Remove the Wheel Cover/Hubcap",
+                "level": 3,
+                "location": {
+                  "line": 42,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 43,
+                      "heading": "3. Remove the Wheel Cover/Hubcap"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "If your wheel has a cover, use the flat end of the wrench or the provided lever to gently pry it off.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Loosen the Lug Nuts",
+                "level": 3,
+                "location": {
+                  "line": 45,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "4. Loosen the Lug Nuts"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Use the lug wrench to turn the lug nuts counter-clockwise.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Loosen them slightly – do not remove fully at this stage.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "5. Lift the Vehicle with the Jack",
+                "level": 3,
+                "location": {
+                  "line": 49,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 51,
+                      "heading": "5. Lift the Vehicle with the Jack"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Position the jack under the jacking point nearest to the flat tyre. Refer to your owner’s manual for the exact point.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Raise the vehicle until the flat tyre is about 6 inches above the ground.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Remove the Lug Nuts and Tyre",
+                "level": 3,
+                "location": {
+                  "line": 54,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 56,
+                      "heading": "6. Remove the Lug Nuts and Tyre"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Unscrew the lug nuts completely.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Remove the flat tyre and set it aside.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Mount the Spare Tyre",
+                "level": 3,
+                "location": {
+                  "line": 59,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 61,
+                      "heading": "7. Mount the Spare Tyre"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Line up the holes and push the spare onto the hub.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Replace the lug nuts and tighten them by hand.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Lower the Vehicle",
+                "level": 3,
+                "location": {
+                  "line": 64,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 66,
+                      "heading": "8. Lower the Vehicle"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Carefully lower the car with the jack until the tyre touches the ground firmly.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Remove the jack.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "9. Tighten the Lug Nuts",
+                "level": 3,
+                "location": {
+                  "line": 69,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 71,
+                      "heading": "9. Tighten the Lug Nuts"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Use the lug wrench to tighten the lug nuts in a star pattern to ensure even pressure.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "10. Replace the Hubcap or Wheel Cover (if applicable)",
+                "level": 3,
+                "location": {
+                  "line": 73,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 75,
+                      "heading": "10. Replace the Hubcap or Wheel Cover (if applicable)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Place the hubcap back onto the wheel.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "11. Stow Equipment",
+                "level": 3,
+                "location": {
+                  "line": 77,
+                  "heading": "Steps to Change a Tyre"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 79,
+                      "heading": "11. Stow Equipment"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Put the flat tyre, jack, and tools back in their compartments.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Double check everything is secure.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Safety & Tips",
+            "level": 2,
+            "location": {
+              "line": 84,
+              "heading": "Aventro Motors: How to Change a Tyre"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 86,
+                  "heading": "Safety & Tips"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Never change a tyre on a slope or close to traffic.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use hazard warning triangle if available.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "After installation, drive slowly and get the spare tyre pressure checked at the nearest Aventro Service Center.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Some spare tyres are “space savers” and are not intended for long distances or high speeds.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 93,
+              "heading": "Aventro Motors: How to Change a Tyre"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 95,
+                  "heading": "Need Help?"
+                },
+                "text": "Aventro offers Roadside Assistance across India. If you are unable to change the tyre, please contact your nearest:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 97,
+                  "heading": "Need Help?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Aventro Service Center",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Or call Aventro Roadside Assistance (see main service manual/contact card in your glove box)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Find Service Centers",
+            "level": 2,
+            "location": {
+              "line": 102,
+              "heading": "Aventro Motors: How to Change a Tyre"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 104,
+                  "heading": "Find Service Centers"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Mumbai: Andheri East",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Delhi: Okhla Industrial Area, Phase II",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bengaluru: Electronic City",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Chennai: Guindy Industrial Estate",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hyderabad: Banjara Hills",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Pune: Wakad",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Kolkata: Salt Lake, Sector V",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Ahmedabad: Vastrapur",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Jaipur: Mansarovar",
+                    "depth": 0
+                  },
+                  {
+                    "text": "... and many more across India!",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 115,
+                  "heading": "Find Service Centers"
+                },
+                "text": "For full list and directions, visit Aventro Motors Website (mailto:info@aventromotors.com)."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 119,
+                  "heading": "Find Service Centers"
+                },
+                "text": "Drive safe with Aventro Motors!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

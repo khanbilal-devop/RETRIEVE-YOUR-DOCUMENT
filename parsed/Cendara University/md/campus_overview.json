@@ -1,0 +1,524 @@
+{
+  "doc_id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d",
+  "doc_key": [
+    "campus_overview"
+  ],
+  "path": "Cendara University/md/campus_overview.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Campus Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Introduction",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Campus Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Introduction"
+                },
+                "text": "Founded in 1972, Cendara University spans a 180-acre campus nestled on the eastern edge of Windham City. The campus combines modern innovation with a respect for natural landscapes, offering an environment conducive to academic excellence and community engagement."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Physical Description of Facilities",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Cendara University Campus Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Academic Buildings",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "Physical Description of Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 13,
+                      "heading": "Academic Buildings"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Morgan Academic Complex\nConstructed: 1974, Renovated 2017\nDescription: Three interconnected wings house 60 classrooms, 7 computer labs, and 15 faculty offices. The complex supports the College of Arts & Humanities and features multimedia-enabled lecture halls (maximum capacity: 250 students each).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rosenfeld Science Center\nConstructed: 1983, Expanded 2015\nDescription: A four-story structure dedicated to the Departments of Biology, Chemistry, and Environmental Sciences. Facilities include:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "8 research laboratories (BSL-2 and chemistry wet labs)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "2 lecture auditoriums (seating 160 and 120)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "A rooftop greenhouse (2,500 sq. ft.)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "A microscopy imaging core",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Helena L. Martin Engineering Hall\nOpened: 2005\nDescription: Features workshop spaces, prototyping rooms, 12 teaching labs, and a design center supporting civil, electrical, and mechanical engineering programs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Mendell Business Pavilion\nConstructed: 1991\nHighlights:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "10 seminar rooms with tiered seating",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Real-time financial data lab",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Entrepreneurship incubator suite (capacity: 40 student teams)",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Libraries",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "Physical Description of Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 38,
+                      "heading": "Libraries"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Samuelson Library\nSize: 150,000 volumes, 23,000 sq. ft.\nFacilities:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Three floors of print collections & digital media rooms",
+                        "depth": 1
+                      },
+                      {
+                        "text": "200 personal study carrels and 24 group study rooms",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Makerspace (3D printers, VR suites)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Café and quiet reading atrium",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Residential Life",
+                "level": 3,
+                "location": {
+                  "line": 46,
+                  "heading": "Physical Description of Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "Residential Life"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Maple Residence Hall\nCapacity: 385 undergraduate students\nStructure: Eight floors, co-ed, suite-style living with communal kitchens and lounges per level",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sequoia Apartments\nCapacity: 164 postgraduates and family housing units (2- and 4-bedroom units)\nAmenities: Onsite laundry, daycare facility, and fitness center",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Aspen Commons\nCapacity: 190 first-year residents\nFeatures: Double rooms, learning communities, faculty-in-residence apartment",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Dining Facilities",
+                "level": 3,
+                "location": {
+                  "line": 60,
+                  "heading": "Physical Description of Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 62,
+                      "heading": "Dining Facilities"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "The Grove Dining Hall\nSeating: 475\nDescription: Central dining area offering all-day buffet, vegan and international stations, and late-night café",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Market Street Café\nLocation: Student Center\nOptions: Bistro fare, grab-and-go, espresso bar",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Student Life & Recreation",
+                "level": 3,
+                "location": {
+                  "line": 70,
+                  "heading": "Physical Description of Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 72,
+                      "heading": "Student Life & Recreation"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Student Union Center\nSize: 48,000 sq. ft.\nFacilities:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "400-person auditorium",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Student organization suites",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Meeting rooms",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Student legal services",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Dalton Fitness & Recreation Complex\nFeatures:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Olympic-size swimming pool",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Indoor climbing wall",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Three multicourt gyms",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Cardio & weight areas",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Fitness classrooms",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Outdoor sand volleyball courts",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Arts & Performance Spaces",
+                "level": 3,
+                "location": {
+                  "line": 89,
+                  "heading": "Physical Description of Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 91,
+                      "heading": "Arts & Performance Spaces"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Elena Capri Theater\nCapacity: 510-seat auditorium for university and community performances",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fine Arts Studios\nFacilities: Drawing, ceramics, printmaking, and digital media labs",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Athletics",
+                "level": 3,
+                "location": {
+                  "line": 97,
+                  "heading": "Physical Description of Facilities"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 99,
+                      "heading": "Athletics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Pinecrest Stadium\nSeating: 4,200\nPrimary Uses: Soccer, track and field",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Varsity Sports Hall\nFacilities: Locker rooms, training suites, and offices for 11 varsity teams",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Grounds and Outdoor Spaces",
+            "level": 2,
+            "location": {
+              "line": 108,
+              "heading": "Cendara University Campus Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 110,
+                  "heading": "Grounds and Outdoor Spaces"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Cendara Arboretum (20 acres): Managed collection of native and exotic plants, walking trails, and an outdoor classroom amphitheater.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "East Lake: Man-made, 3-acre lake with surrounding picnic and study areas.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Reflection Garden: Dedicated quiet zone adjacent to Samuelson Library, used for meditation and outdoor study.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bike & Pedestrian Paths: Five miles of interconnected, ADA-accessible trails linking all campus sectors.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Infrastructure Capacity",
+            "level": 2,
+            "location": {
+              "line": 120,
+              "heading": "Cendara University Campus Overview"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 122,
+                  "heading": "Infrastructure Capacity"
+                },
+                "header": [
+                  "Facility Type",
+                  "Number/Capacity",
+                  "Utilities & Technologies"
+                ],
+                "rows": [
+                  [
+                    "Lecture Halls",
+                    "12 (60-250 seats each)",
+                    "Smart boards, lecture-capture, audio systems"
+                  ],
+                  [
+                    "General Classrooms",
+                    "67",
+                    "All Wi-Fi enabled; 75% have projection tech"
+                  ],
+                  [
+                    "Labs (Research & Teaching)",
+                    "34",
+                    "Fume hoods, BSL-2/BSL-1 compliant, 24/7 HVAC"
+                  ],
+                  [
+                    "Library Study Seats",
+                    "635",
+                    "Power outlets, high-speed internet"
+                  ],
+                  [
+                    "Student Housing",
+                    "1,095 beds total",
+                    "Ethernet, laundry per hall, CCTV security"
+                  ],
+                  [
+                    "Dining Capacity",
+                    "690 simultaneous diners",
+                    "Food allergen monitoring, sustainability"
+                  ],
+                  [
+                    "Parking Spaces (vehicular)",
+                    "1,780",
+                    "EV charging: 54 stations, LED-lit, patrolled"
+                  ],
+                  [
+                    "Bike Racks",
+                    "990 spaces",
+                    "Covered and open racks throughout campus"
+                  ],
+                  [
+                    "Wireless Access Points",
+                    "420+",
+                    "Dual-band, upgraded 2022 for high bandwidth"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 134,
+                  "heading": "Infrastructure Capacity"
+                },
+                "text": "Energy: Campus-wide solar generation (18% capacity), backup diesel generators for mission-critical infrastructure."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 136,
+                  "heading": "Infrastructure Capacity"
+                },
+                "text": "Security: Card-access system on all exterior doors, 24/7 monitored emergency phone system, and campus police substation."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 138,
+                  "heading": "Infrastructure Capacity"
+                },
+                "text": "Accessibility: All academic and residential buildings are ADA-compliant; tactile maps available at key locations."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Recent and Planned Improvements",
+            "level": 2,
+            "location": {
+              "line": 142,
+              "heading": "Cendara University Campus Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 144,
+                  "heading": "Recent and Planned Improvements"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "2023: Completion of the GreenTech Building (LEED Platinum, houses Environmental Sustainability Programs)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2024: Expansion of outdoor Wi-Fi coverage and replacement of all campus lighting with LED fixtures",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2025: Planned construction of the Dr. Maya Singh Health and Wellness Center (mental health, counseling, medical clinic)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 150,
+                  "heading": "Recent and Planned Improvements"
+                },
+                "text": "Cendara University’s campus infrastructure supports a thriving academic and extracurricular community, prioritizing both technological advancement and sustainability in all future developments."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

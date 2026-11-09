@@ -1,0 +1,510 @@
+{
+  "doc_id": "c51bf4f1e0bbb34ed007a9e217447a8054c80b41bd81a3525511ef3b1305db36",
+  "doc_key": [
+    "aventro grand suv"
+  ],
+  "path": "Aventro Motors/md/Aventro Grand SUV.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Grand SUV",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Manufacturer: Aventro Motors Pvt. Ltd.",
+            "level": 3,
+            "location": {
+              "line": 3,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Manufacturer: Aventro Motors Pvt. Ltd."
+                },
+                "text": "Head Office:\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com"
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Quick Overview",
+            "level": 2,
+            "location": {
+              "line": 12,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 14,
+                  "heading": "Quick Overview"
+                },
+                "text": "The Aventro Grand SUV is the flagship, full-size SUV offering from Aventro Motors, combining power, technology, and sophistication. Available in Petrol, Diesel, Electric, and Hybrid, the Grand SUV is designed for families and enthusiasts who seek space, comfort, safety, and the latest automotive features."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Variants & Prices",
+            "level": 2,
+            "location": {
+              "line": 18,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 20,
+                  "heading": "Variants & Prices"
+                },
+                "header": [
+                  "Variant",
+                  "Engine Type",
+                  "Trim",
+                  "Price (Lakh INR)",
+                  "Key Features"
+                ],
+                "rows": [
+                  [
+                    "Grand SUV Petrol",
+                    "Petrol",
+                    "Base",
+                    "16.5",
+                    "2.0L Turbo, Standard Features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "17.0",
+                    "11\" Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "17.5",
+                    "360 Camera, Harman 11\" System, ADAS L2, Leather Seats"
+                  ],
+                  [
+                    "Grand SUV Diesel",
+                    "Diesel",
+                    "Base",
+                    "22.0",
+                    "2.2L Turbo Diesel, Standard Features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "22.5",
+                    "11\" Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "23.0",
+                    "360 Camera, Harman 11\" System, ADAS L2, Leather Seats"
+                  ],
+                  [
+                    "Grand SUV Electric",
+                    "Electric",
+                    "Base",
+                    "23.5",
+                    "85 kWh Battery, Standard EV features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "24.0",
+                    "11\" Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "Coming Soon",
+                    "360 Camera, Harman 11\" System, ADAS L2, Leather Seats"
+                  ],
+                  [
+                    "Grand SUV Hybrid",
+                    "Hybrid",
+                    "Base",
+                    "TBA",
+                    "Hybrid Powertrain, Standard Features"
+                  ],
+                  [
+                    "",
+                    "",
+                    "X",
+                    "TBA",
+                    "11\" Infotainment, ADAS Level 1"
+                  ],
+                  [
+                    "",
+                    "",
+                    "ZX",
+                    "TBA",
+                    "360 Camera, Harman 11\" System, ADAS L2, Leather Seats"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Core Specifications",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 39,
+                  "heading": "Core Specifications"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Dimensions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Length: ~4850mm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Width: ~1950mm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Height: ~1810mm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Wheelbase: ~2850mm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Seating: 7-seater",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Boot Space: Up to 700 Litres",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Powertrain Options:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Petrol: 2.0L Turbocharged, 6-Speed AT",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Diesel: 2.2L Turbo Diesel, 8-Speed AT",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Electric: 85 kWh Battery (Range: approx. 480 km*)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Hybrid: Turbo Petrol + Electric Motor (Combined output TBA)",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notable Features (Trim-wise)",
+            "level": 2,
+            "location": {
+              "line": 54,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Base Trim (All Fuel Types)",
+                "level": 3,
+                "location": {
+                  "line": 56,
+                  "heading": "Notable Features (Trim-wise)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 58,
+                      "heading": "Base Trim (All Fuel Types)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Projector Headlamps",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dual Zone Automatic Climate Control",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear Parking Sensors and Camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "8-inch Touchscreen Display",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cruise Control",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Standard Safety & Airbags (6 airbags)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "X Trim (All Fuel Types)",
+                "level": 3,
+                "location": {
+                  "line": 65,
+                  "heading": "Notable Features (Trim-wise)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 67,
+                      "heading": "X Trim (All Fuel Types)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "11-inch Advanced Infotainment System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 1 (Basic driver assist features: Lane Departure, Collision Warning)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Wireless Android Auto & Apple CarPlay",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Front Parking Sensors",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "ZX Trim (All Fuel Types)",
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "Notable Features (Trim-wise)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 74,
+                      "heading": "ZX Trim (All Fuel Types)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "360-Degree Camera",
+                        "depth": 0
+                      },
+                      {
+                        "text": "11-inch Touchscreen with Harman Audio System",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ADAS Level 2 (Enhanced: Adaptive Cruise, Traffic Jam Assist)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Premium Leather Seats",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Panoramic Sunroof",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Powered Tailgate",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ventilated Front Seats",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Safety & Technology",
+            "level": 2,
+            "location": {
+              "line": 84,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 86,
+                  "heading": "Safety & Technology"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ABS with EBD, Brake Assist",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Electronic Stability Program (ESP)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tyre Pressure Monitoring System (TPMS)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Traction Control System (TCS)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Multiple USB & Charging Points",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Over-the-Air Updates (OTA for EV/Hybrid)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Infotainment & Connectivity",
+            "level": 2,
+            "location": {
+              "line": 95,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 97,
+                  "heading": "Infotainment & Connectivity"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Android Auto & Apple CarPlay (wireless)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Voice Commands (ZX: Natural language recognition)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Built-in Navigation",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Over 8 connected car features (Geo-fencing, Live Tracking, Remote Lock/Unlock)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notes",
+            "level": 2,
+            "location": {
+              "line": 104,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 106,
+                  "heading": "Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Prices are ex-showroom, Delhi.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "EV and Hybrid prices/features subject to availability and future updates.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Range and figures are manufacturer estimates.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 112,
+                  "heading": "Notes"
+                },
+                "text": "For more details or to book a test drive, contact your nearest Aventro dealership (mailto:info@aventromotors.com) or locate a service center (#service-center-locations)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

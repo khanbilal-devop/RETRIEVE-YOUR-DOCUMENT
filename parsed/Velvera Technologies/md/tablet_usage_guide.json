@@ -1,0 +1,658 @@
+{
+  "doc_id": "5ee8554d9b5fb33ace9a91202f0d9cb964584ba6942d8dde2ea83e671afe89dd",
+  "doc_key": [
+    "tablet_usage_guide"
+  ],
+  "path": "Velvera Technologies/md/tablet_usage_guide.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Pad Series — Usage Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Getting Started",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Velvera Pad Series — Usage Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Unboxing and Setup",
+                "level": 3,
+                "location": {
+                  "line": 5,
+                  "heading": "Getting Started"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 6,
+                      "heading": "1. Unboxing and Setup"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Included in the Box: Velvera Pad, 33W/45W USB-C power adapter, USB-C cable, Quick Start Guide, SIM ejector tool (Pro models only)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Optional Accessories: Velvera Pencil, Velvera Keyboard",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": [
+                  {
+                    "title": "Step-by-Step Setup:",
+                    "level": 4,
+                    "location": {
+                      "line": 9,
+                      "heading": "1. Unboxing and Setup"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 10,
+                          "heading": "Step-by-Step Setup:"
+                        },
+                        "ordered": true,
+                        "items": [
+                          {
+                            "text": "Power On:\nPress and hold the power button (right edge).",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Language & Region:\nFollow on-screen prompts to select your language and region.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Wi-Fi/Network Connection:",
+                            "depth": 0
+                          },
+                          {
+                            "text": "All models: Connect to Wi-Fi 6/6E.",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Pad Pro: Optionally insert nano SIM for 5G cellular network.",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Google Account Sign-In:\nSign in to your Google account for Play Store and sync services.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "System Updates:\nAllow Velvera UI to check for and install available updates.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "2. Charging Your Tablet",
+                "level": 3,
+                "location": {
+                  "line": 24,
+                  "heading": "Getting Started"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 25,
+                      "heading": "2. Charging Your Tablet"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Charging Port: USB-C (bottom left edge)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Supported Charging:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Pad 11\": Up to 33W fast charging, full charge ~2.5 hours",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Pad Pro 12.9\": Up to 45W ultra-fast charging, full charge ~2 hours",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Battery Tips: Use the included adapter for optimal charging speed. Avoid letting the battery fully deplete for longer life.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Everyday Usage",
+            "level": 2,
+            "location": {
+              "line": 33,
+              "heading": "Velvera Pad Series — Usage Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "3. Tablet Navigation",
+                "level": 3,
+                "location": {
+                  "line": 35,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 37,
+                      "heading": "3. Tablet Navigation"
+                    },
+                    "header": [
+                      "Action",
+                      "Gesture/Button",
+                      "Description"
+                    ],
+                    "rows": [
+                      [
+                        "Home Screen",
+                        "Swipe up from bottom or tap Home",
+                        "Returns to main screen"
+                      ],
+                      [
+                        "App Switcher",
+                        "Swipe up & hold, tap Recent Apps icon",
+                        "View all open apps, switch or close apps"
+                      ],
+                      [
+                        "Back",
+                        "Swipe from either side or tap Back",
+                        "Returns to previous screen"
+                      ],
+                      [
+                        "Quick Settings",
+                        "Swipe down from top right",
+                        "Access Wi-Fi, Bluetooth, brightness, etc."
+                      ],
+                      [
+                        "Notifications",
+                        "Swipe down from top left",
+                        "View messages, alerts, app notifications"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. Productivity & Multitasking",
+                "level": 3,
+                "location": {
+                  "line": 47,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Multi-Window & Multitasking",
+                    "level": 4,
+                    "location": {
+                      "line": 49,
+                      "heading": "4. Productivity & Multitasking"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 50,
+                          "heading": "Multi-Window & Multitasking"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Split Screen:\nOpen Recents, tap app icon, choose \"Split screen.\" Select second app.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Floating Apps:\nSupported apps: Tap and hold from Recent Apps, drag to open as floating window (Pro models).",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Wireless Dex Mode:\n(Pad Pro only) Enable from Quick Settings for a desktop-like interface on external displays.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Keyboard & Mouse Support",
+                    "level": 4,
+                    "location": {
+                      "line": 57,
+                      "heading": "4. Productivity & Multitasking"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 58,
+                          "heading": "Keyboard & Mouse Support"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Attach Velvera Keyboard magnetically; tablet auto-detects.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Use Bluetooth mouse for enhanced productivity.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "5. Stylus Functions (Velvera Pencil)",
+                "level": 3,
+                "location": {
+                  "line": 63,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 65,
+                      "heading": "5. Stylus Functions (Velvera Pencil)"
+                    },
+                    "header": [
+                      "Function",
+                      "How-To",
+                      "Model Support"
+                    ],
+                    "rows": [
+                      [
+                        "Pair & Charge",
+                        "Snap Pencil to tablet edge (magnetic/wireless charging, Pro only)",
+                        "All models"
+                      ],
+                      [
+                        "Notes & Drawing",
+                        "Open Notes or any drawing app, begin writing or sketching",
+                        "All models"
+                      ],
+                      [
+                        "Quick Annotate",
+                        "Double tap Pencil (customizable in settings)",
+                        "All models"
+                      ],
+                      [
+                        "Pressure Sensitivity",
+                        "4096 levels (gradual shading, precision lines)",
+                        "All models"
+                      ],
+                      [
+                        "Tilt Support",
+                        "Supports artistic shading and edge effects",
+                        "All models"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "6. Camera & Media",
+                "level": 3,
+                "location": {
+                  "line": 75,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 77,
+                      "heading": "6. Camera & Media"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Open Camera App: Tap Camera icon from Home/Apps.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Main Camera Functions:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Photo/Video: Standard, HDR, Portrait options (switch via bottom menu)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Ultra-Wide: (Pad Pro) Use toggle to switch rear lenses.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Center Stage: (Pad Pro) Keeps you centered during video calls.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Gallery & Editing: Photos save automatically; edit and share from Photos app.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Connectivity",
+                "level": 3,
+                "location": {
+                  "line": 86,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 88,
+                      "heading": "7. Connectivity"
+                    },
+                    "header": [
+                      "Feature",
+                      "How to Use / Access",
+                      "Models"
+                    ],
+                    "rows": [
+                      [
+                        "Wi-Fi 6/6E",
+                        "Quick Settings > Wi-Fi icon; select network",
+                        "All"
+                      ],
+                      [
+                        "5G Cellular",
+                        "Insert SIM > Settings > Network & Internet",
+                        "Pad Pro only"
+                      ],
+                      [
+                        "USB-C & Display",
+                        "Connect USB peripherals, external displays (DisplayPort out)",
+                        "Pad Pro models"
+                      ],
+                      [
+                        "Bluetooth",
+                        "Pair in Settings > Bluetooth",
+                        "All"
+                      ],
+                      [
+                        "Miracast",
+                        "Quick Settings > Screen Cast",
+                        "Pad Pro only"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Security & Privacy",
+                "level": 3,
+                "location": {
+                  "line": 98,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 100,
+                      "heading": "8. Security & Privacy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Face Unlock:\nRegister via Settings > Security > Face Unlock (IR sensor on Pro).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fingerprint Unlock:\n(Pad Pro) Follow onscreen prompts under Settings > Security.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "App Permissions:\nControl per-app access in Settings > Apps & Permissions.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "9. System & Software",
+                "level": 3,
+                "location": {
+                  "line": 109,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 111,
+                      "heading": "9. System & Software"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "System Updates:\nSettings > System > Updates",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Backup & Restore:\nSettings > System > Backup",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Parental Controls:\nSettings > Digital Wellbeing > Parental Controls",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "10. Troubleshooting & Support",
+                "level": 3,
+                "location": {
+                  "line": 120,
+                  "heading": "Everyday Usage"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 122,
+                      "heading": "10. Troubleshooting & Support"
+                    },
+                    "header": [
+                      "Issue",
+                      "Suggested Action"
+                    ],
+                    "rows": [
+                      [
+                        "Tablet won’t power on",
+                        "Hold power for 8 seconds, then release; charge for 10 mins"
+                      ],
+                      [
+                        "Cannot connect to Wi-Fi",
+                        "Toggle Wi-Fi, check password, restart router"
+                      ],
+                      [
+                        "Accessory not detected",
+                        "Reattach accessory, check for updates; restart device"
+                      ],
+                      [
+                        "Rapid battery drain",
+                        "Reduce screen brightness, close background apps"
+                      ],
+                      [
+                        "Software lag or freeze",
+                        "Force restart; check for available updates"
+                      ],
+                      [
+                        "Need further help",
+                        "Visit velvera.com/support or contact authorized service"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Accessory Usage",
+            "level": 2,
+            "location": {
+              "line": 133,
+              "heading": "Velvera Pad Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 135,
+                  "heading": "Accessory Usage"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Velvera Pencil: Attach magnetically to edge for charging and pairing; use for drawing or note-taking.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Velvera Keyboard: Align to connection pins; adjusts to multiple angles, integrated trackpad supports gestures.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Care & Maintenance",
+            "level": 2,
+            "location": {
+              "line": 140,
+              "heading": "Velvera Pad Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 142,
+                  "heading": "Care & Maintenance"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Use soft, lint-free cloth to clean display.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Avoid exposure to liquids, extreme heat, or direct sunlight.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Store and charge tablet at room temperature when not in use.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Warranty & Support",
+            "level": 2,
+            "location": {
+              "line": 148,
+              "heading": "Velvera Pad Series — Usage Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 150,
+                  "heading": "Warranty & Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Standard 1-year limited warranty on device and accessories.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Extended support and accidental damage protection plans available at purchase.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 155,
+                  "heading": "Warranty & Support"
+                },
+                "text": "For detailed manuals, accessories, and support:\nVisit www.velvera.com/support (https://www.velvera.com/support)"
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 158,
+                  "heading": "Warranty & Support"
+                },
+                "text": "Velvera — Powering your creativity, wherever you go."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "doc_id": "43231c144f75569e46642b210c2388051f9f6f68c448d168cdeb532238f7c30a",
+  "doc_key": [
+    "discounts"
+  ],
+  "path": "Aventro Motors/md/Discounts.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Aventro Motors Pvt. Ltd.",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Corporate & Government Discounts Policy (Raw Draft)",
+            "level": 3,
+            "location": {
+              "line": 2,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": []
+          },
+          {
+            "title": "1. Corporate Discounts",
+            "level": 2,
+            "location": {
+              "line": 6,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Eligibility",
+                "level": 3,
+                "location": {
+                  "line": 8,
+                  "heading": "1. Corporate Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 9,
+                      "heading": "Eligibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Available to employees of approved corporate entities/partners possessing a valid company ID.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bulk purchase schemes for corporate fleet requirements; eligibility as per agreement/MOU.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Discount Structure",
+                "level": 3,
+                "location": {
+                  "line": 12,
+                  "heading": "1. Corporate Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 13,
+                      "heading": "Discount Structure"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "General Corporate Discount:\n2% - 5% off on ex-showroom price (varying by model, quantity, and corporate tie-up).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fleet Purchase Discount:\n5% - 8% off for purchase of 5+ vehicles in a single order.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Additional Benefits:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Free 1st year maintenance package.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Complimentary accessories kit on select models.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Priority delivery slots.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Documents Required",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "1. Corporate Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 23,
+                      "heading": "Documents Required"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Valid Corporate ID Proof / Letter from HR or Procurement Head.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Company-issued Purchase Order (PO) or undertaking.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Employee ID Proof (for individual employee schemes).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Terms & Conditions",
+                "level": 3,
+                "location": {
+                  "line": 27,
+                  "heading": "1. Corporate Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 28,
+                      "heading": "Terms & Conditions"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Corporate discounts cannot be clubbed with some seasonal offers, promotional rebates, or exchange bonuses.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Discount amount and benefits at discretion of Aventro Motors Pvt. Ltd. and can vary by region/dealership.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "GST & other statutory levies payable on discounted price.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "2. Government Discounts",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Eligibility",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "2. Government Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "Eligibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Applicable to Central/State Government organizations, PSUs, Public Sector Banks, Municipal Corporations, and accredited government officials.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Available for both official and personal purchases (subject to organization’s rules).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Discount Structure",
+                "level": 3,
+                "location": {
+                  "line": 40,
+                  "heading": "2. Government Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "Discount Structure"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Direct Government Order:\n3% - 7% off on ex-showroom price.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Public Sector Employees:\n2% - 5% off on ex-showroom price (on submission of valid official ID).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Defence/Police/Paramilitary Personnel:\nAdditional ₹10,000 - ₹20,000 benefit (model-specific).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Additional Perks",
+                "level": 3,
+                "location": {
+                  "line": 48,
+                  "heading": "2. Government Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 49,
+                      "heading": "Additional Perks"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Priority processing for order and registration.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fast-track delivery support.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Complimentary basic kit.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Documents Required",
+                "level": 3,
+                "location": {
+                  "line": 53,
+                  "heading": "2. Government Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 54,
+                      "heading": "Documents Required"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Official Purchase Order or Sanction Letter (institutional purchase).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Valid Government photo ID/Service Card (for personal purchase).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Departmental recommendation letter (if needed).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Terms & Conditions",
+                "level": 3,
+                "location": {
+                  "line": 58,
+                  "heading": "2. Government Discounts"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 59,
+                      "heading": "Terms & Conditions"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Discounts subject to availability of models/variants and as per prevailing policy.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Not valid for resale prior to 1 year from delivery (especially for institutional sales).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cannot be combined with some private exchange/finance offers.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Final discretion rests with Aventro Motors Pvt. Ltd.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 66,
+                      "heading": "Terms & Conditions"
+                    },
+                    "text": "For updated discount slabs and eligibility, contact Aventro Motors corporate sales team:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 67,
+                      "heading": "Terms & Conditions"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Email: info@aventromotors.com",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Corporate & Govt Sales Desk: +91 124 1234567",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "quote",
+                    "location": {
+                      "line": 70,
+                      "heading": "Terms & Conditions"
+                    },
+                    "text": "Note: All discounts are subject to periodic revision and may change without prior notice. Ask your nearest dealer for prevailing offers."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

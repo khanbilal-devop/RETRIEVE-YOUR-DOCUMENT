@@ -1,0 +1,756 @@
+{
+  "doc_id": "a3ba805dc27ceff2214383b70b1c0a959d547dbddef8e112a8af44cabeda5274",
+  "doc_key": [
+    "entrance_exxam_guidelines"
+  ],
+  "path": "Cendara University/md/entrance_exxam_guidelines.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Entrance Exam Information",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "Overview"
+                },
+                "text": "Cendara University administers entrance examinations for select undergraduate and graduate academic programs to ensure a high standard of academic readiness and to appropriately place students in courses aligned with their skill levels. While most degree programs do not require a standardized university-wide entrance exam, certain competitive majors, specialized scholarship pathways, and direct-entry professional tracks require subject-based or aptitude testing."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "Overview"
+                },
+                "text": "Students are encouraged to review this section thoroughly and consult with their academic advisor or the Office of Admissions to determine whether an entrance exam applies to their intended course of study."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Entrance Exam Requirements",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Which Programs Require Entrance Exams?",
+                "level": 3,
+                "location": {
+                  "line": 15,
+                  "heading": "Entrance Exam Requirements"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 17,
+                      "heading": "Which Programs Require Entrance Exams?"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "School of Health Sciences\nBachelor of Science in Nursing, Bachelor of Public Health",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Science Aptitude Exam (required for all first-time applicants)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "School of Engineering and Applied Sciences\nBachelor of Engineering, Computer Science Major",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Mathematics Proficiency Exam (required for all direct-entry applicants)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Honors College",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Critical Reasoning Essay (for applicants seeking admission to Honors College)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Graduate School",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Program-specific subject exams as required by departmental guidelines (e.g., Psychology GRE Subject for MA in Psychology)",
+                        "depth": 1
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 28,
+                      "heading": "Which Programs Require Entrance Exams?"
+                    },
+                    "text": "Note: General undergraduate admission does not require a university-wide entrance exam; most applicants are evaluated using prior academic transcripts, standardized testing (SAT/ACT), and supplemental materials."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Exam Registration Process",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Determine Exam Eligibility",
+                "level": 3,
+                "location": {
+                  "line": 34,
+                  "heading": "Exam Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 36,
+                      "heading": "1. Determine Exam Eligibility"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Refer to your program page in the Online Program Catalog (https://catalog.cendara.edu) or consult with your assigned admissions counselor.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Check for exemption criteria (e.g., transfer of equivalent coursework, qualifying national/international test scores).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Register for the Exam",
+                "level": 3,
+                "location": {
+                  "line": 39,
+                  "heading": "Exam Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "2. Register for the Exam"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Log in to MyCendara at my.cendara.edu (https://my.cendara.edu).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Navigate to the “Entrance Exams” section under the Applicant Dashboard.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Select your required exam(s) and preferred examination session.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Review and confirm testing accommodations if applicable (see Accessibility Services below).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Confirm Exam Schedule",
+                "level": 3,
+                "location": {
+                  "line": 46,
+                  "heading": "Exam Registration Process"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "3. Confirm Exam Schedule"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Once registered, you will receive an email within 48 hours containing:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Exam date and time",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Testing location or access link (for online proctored exams)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Required identification and materials",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Exam schedules are published at cendara.edu/entrance-exams/schedule (https://cendara.edu/entrance-exams/schedule).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Exam Dates and Locations",
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 58,
+                  "heading": "Exam Dates and Locations"
+                },
+                "header": [
+                  "Exam Type",
+                  "Main Session 1",
+                  "Main Session 2",
+                  "Format",
+                  "Location"
+                ],
+                "rows": [
+                  [
+                    "Science Aptitude Exam",
+                    "May 10, 2024",
+                    "July 6, 2024",
+                    "Paper-based",
+                    "Beckett Hall Testing Center"
+                  ],
+                  [
+                    "Mathematics Proficiency Exam",
+                    "May 17, 2024",
+                    "July 13, 2024",
+                    "Computer-based",
+                    "Pearson Computer Lab A"
+                  ],
+                  [
+                    "Critical Reasoning Essay",
+                    "May 24, 2024",
+                    "July 20, 2024",
+                    "Online",
+                    "Remote (proctored via Cendara)"
+                  ],
+                  [
+                    "Graduate Subject Exams",
+                    "By appointment",
+                    "By appointment",
+                    "Varies",
+                    "As per department guidelines"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 65,
+                  "heading": "Exam Dates and Locations"
+                },
+                "text": "Late registration and make-up testing may be available for documented emergencies—contact exams@cendara.edu for assistance."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Exam Content and Format",
+            "level": 2,
+            "location": {
+              "line": 69,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Science Aptitude Exam",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "Exam Content and Format"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 73,
+                      "heading": "Science Aptitude Exam"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Duration: 90 minutes",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sections:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Biology basics (30%)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Chemistry fundamentals (35%)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Quantitative reasoning (25%)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Scientific reading comprehension (10%)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Question Types: Multiple-choice and short answer",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Mathematics Proficiency Exam",
+                "level": 3,
+                "location": {
+                  "line": 81,
+                  "heading": "Exam Content and Format"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 83,
+                      "heading": "Mathematics Proficiency Exam"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Duration: 75 minutes",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Sections:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Algebra and functions (40%)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Trigonometry and geometry (30%)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Data analysis and interpretation (30%)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Question Types: Computer-adaptive multiple-choice",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Critical Reasoning Essay",
+                "level": 3,
+                "location": {
+                  "line": 90,
+                  "heading": "Exam Content and Format"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 92,
+                      "heading": "Critical Reasoning Essay"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Duration: 45 minutes",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Format: Typed essay response to one prompt",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Evaluation: Clarity of argument, logic, use of evidence, and writing mechanics",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Graduate Subject Exams",
+                "level": 3,
+                "location": {
+                  "line": 96,
+                  "heading": "Exam Content and Format"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 98,
+                      "heading": "Graduate Subject Exams"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Content and format are determined by each department; see graduate program entry in the Catalog (https://catalog.cendara.edu/graduate).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Scoring and Results",
+            "level": 2,
+            "location": {
+              "line": 102,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 104,
+                  "heading": "Scoring and Results"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Exams are scored within 10 business days.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Undergraduate exam scores are posted to your MyCendara Applicant Dashboard.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Graduate subject exam results are communicated by program departments.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Minimum Passing Scores:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Science Aptitude Exam: 68% overall, no section below 55%",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mathematics Proficiency Exam: 65%",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Critical Reasoning Essay: Score of 8/12 from faculty readers",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Retake Policy:\nStudents who do not meet minimum scores may register for one exam retake per admission cycle. Requests for additional attempts require appeal to the Admissions Review Committee.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Exam Day Guidelines",
+            "level": 2,
+            "location": {
+              "line": 116,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 118,
+                  "heading": "Exam Day Guidelines"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Arrive at least 30 minutes before your scheduled start time.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bring a government-issued photo ID and your CUSID exam ticket (print or digital).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Permitted items:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Non-programmable calculator (for Math exam)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pencils/pens (where applicable)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Water in clear bottle",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Prohibited items:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Study aids, notes, or electronic devices (other than those required for online testing)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Wearable technology",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 128,
+                  "heading": "Exam Day Guidelines"
+                },
+                "text": "Accommodations for students with disabilities are available. Contact accessibility@cendara.edu at least two weeks before your scheduled exam."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "level": 2,
+            "location": {
+              "line": 132,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Do all applicants need to take an entrance exam?",
+                "level": 3,
+                "location": {
+                  "line": 134,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 136,
+                      "heading": "Do all applicants need to take an entrance exam?"
+                    },
+                    "text": "No. Only certain academic programs or tracks require an entrance exam (see above). Most applicants qualify through their prior academic record and submitted standardized scores."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "What if I am unable to attend the scheduled exam date?",
+                "level": 3,
+                "location": {
+                  "line": 138,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 140,
+                      "heading": "What if I am unable to attend the scheduled exam date?"
+                    },
+                    "text": "Contact the Office of Admissions at exams@cendara.edu as soon as possible. Make-up sessions or remote testing may be arranged for verifiable reasons such as illness, travel difficulties, or overlapping commitments."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "How should I prepare for my entrance exam?",
+                "level": 3,
+                "location": {
+                  "line": 142,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 144,
+                      "heading": "How should I prepare for my entrance exam?"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Review the sample test materials and practice guides available at cendara.edu/entrance-exams/prep (https://cendara.edu/entrance-exams/prep).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Attend an online information session or contact your department for recommended resources.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Can international students take exams online?",
+                "level": 3,
+                "location": {
+                  "line": 147,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 149,
+                      "heading": "Can international students take exams online?"
+                    },
+                    "text": "Yes. Online, proctored versions of all entrance exams are available for international and remote applicants. Ensure your technology meets the system requirements published on the website."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Are there exam fees?",
+                "level": 3,
+                "location": {
+                  "line": 151,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 153,
+                      "heading": "Are there exam fees?"
+                    },
+                    "text": "The first sitting of any required entrance exam is included with your application. Retake or late registration fees are $45 per exam. Fee waivers are available for eligible students (see Financial Services (mailto:finance@cendara.edu))."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Key Contacts for Exam Inquiries",
+            "level": 2,
+            "location": {
+              "line": 157,
+              "heading": "Cendara University Entrance Exam Information"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 159,
+                  "heading": "Key Contacts for Exam Inquiries"
+                },
+                "header": [
+                  "Office",
+                  "Email",
+                  "Phone",
+                  "Location"
+                ],
+                "rows": [
+                  [
+                    "Entrance Exams Office",
+                    "exams@cendara.edu",
+                    "555-402-1177",
+                    "Beckett Hall, Room 112"
+                  ],
+                  [
+                    "Office of Admissions",
+                    "admissions@cendara.edu",
+                    "555-402-1021",
+                    "Beckett Hall, Room 101"
+                  ],
+                  [
+                    "Accessibility Services",
+                    "accessibility@cendara.edu",
+                    "555-402-1223",
+                    "Pearson Bldg, Room 9"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 165,
+                  "heading": "Key Contacts for Exam Inquiries"
+                },
+                "text": "For additional details, visit the Entrance Exams Portal (https://cendara.edu/entrance-exams)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

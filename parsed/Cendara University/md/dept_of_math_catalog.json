@@ -1,0 +1,1164 @@
+{
+  "doc_id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036",
+  "doc_key": [
+    "dept_of_math_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Math_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Mathematics and Statistics",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Course Catalog 2024–2025",
+                "level": 3,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of Mathematics and Statistics"
+                },
+                "blocks": [],
+                "sections": []
+              },
+              {
+                "title": "Undergraduate Programs",
+                "level": 3,
+                "location": {
+                  "line": 7,
+                  "heading": "Department of Mathematics and Statistics"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "B.Sc. in Mathematics",
+                    "level": 4,
+                    "location": {
+                      "line": 9,
+                      "heading": "Undergraduate Programs"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 10,
+                          "heading": "B.Sc. in Mathematics"
+                        },
+                        "text": "Pathways:"
+                      },
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 11,
+                          "heading": "B.Sc. in Mathematics"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Pure Mathematics",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Applied Mathematics",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Data Science",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Course Listing",
+                "level": 3,
+                "location": {
+                  "line": 17,
+                  "heading": "Department of Mathematics and Statistics"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "MAT 101: Calculus I",
+                    "level": 4,
+                    "location": {
+                      "line": 19,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 20,
+                          "heading": "MAT 101: Calculus I"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 4",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nIntroduction to the differential and integral calculus of one variable, focusing on limits, derivatives, applications of derivatives, and the Fundamental Theorem of Calculus. Emphasis on problem-solving and conceptual foundations.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nSecondary school mathematics (pre-calculus) or equivalent.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 102: Calculus II",
+                    "level": 4,
+                    "location": {
+                      "line": 28,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 29,
+                          "heading": "MAT 102: Calculus II"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 4",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nContinuation of Calculus I, including integration techniques, applications of the integral, sequences, series, and an introduction to differential equations.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 101: Calculus I",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 110: Introduction to Data Science",
+                    "level": 4,
+                    "location": {
+                      "line": 37,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 38,
+                          "heading": "MAT 110: Introduction to Data Science"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nFoundations of data science, covering data wrangling, introductory statistics, data visualization, and the basics of data analysis using modern software tools.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nNone",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 120: Linear Algebra I",
+                    "level": 4,
+                    "location": {
+                      "line": 46,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 47,
+                          "heading": "MAT 120: Linear Algebra I"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nSystems of linear equations, matrix operations, determinants, vector spaces, eigenvalues, and eigenvectors with applications in science and engineering.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 101: Calculus I",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 130: Discrete Mathematics",
+                    "level": 4,
+                    "location": {
+                      "line": 55,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 56,
+                          "heading": "MAT 130: Discrete Mathematics"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nLogic, set theory, combinatorics, graph theory, functions, relations, and mathematical induction, with emphasis on applications in computer science and mathematics.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nNone",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 211: Calculus III (Multivariable Calculus)",
+                    "level": 4,
+                    "location": {
+                      "line": 64,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 65,
+                          "heading": "MAT 211: Calculus III (Multivariable Calculus)"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 4",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nCalculus of functions of several variables, including partial derivatives, multiple integration, vector calculus, and applications.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 102: Calculus II",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 220: Linear Algebra II",
+                    "level": 4,
+                    "location": {
+                      "line": 73,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 74,
+                          "heading": "MAT 220: Linear Algebra II"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nAdvanced topics in linear algebra including inner product spaces, diagonalization, Jordan forms, and applications to differential equations and data science.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 120: Linear Algebra I",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 225: Introduction to Mathematical Proof",
+                    "level": 4,
+                    "location": {
+                      "line": 82,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 83,
+                          "heading": "MAT 225: Introduction to Mathematical Proof"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nPrinciples of rigorous mathematical reasoning and proof methods including direct, contrapositive, contradiction, and induction. Critical for transition to higher mathematics.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 130: Discrete Mathematics",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 240: Probability and Statistics I",
+                    "level": 4,
+                    "location": {
+                      "line": 91,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 92,
+                          "heading": "MAT 240: Probability and Statistics I"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nProbability theory, random variables, distribution functions, expectation, variance, and introduction to statistical inference.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 102: Calculus II",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 250: Differential Equations",
+                    "level": 4,
+                    "location": {
+                      "line": 100,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 101,
+                          "heading": "MAT 250: Differential Equations"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nFirst and second order differential equations, systems of equations, qualitative analysis, and applications to physical, biological, and social sciences.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 102: Calculus II",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 305: Abstract Algebra I",
+                    "level": 4,
+                    "location": {
+                      "line": 109,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 110,
+                          "heading": "MAT 305: Abstract Algebra I"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nFundamentals of group theory, including cyclic groups, permutation groups, subgroups, quotient groups, and homomorphisms. Applications in symmetry and cryptography.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 225: Introduction to Mathematical Proof",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 310: Real Analysis I",
+                    "level": 4,
+                    "location": {
+                      "line": 118,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 119,
+                          "heading": "MAT 310: Real Analysis I"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nRigorous development of real numbers, sequences, series, limits, continuity, and differentiability. Focuses on precise definitions and logic.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 102: Calculus II\nMAT 225: Introduction to Mathematical Proof",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 325: Combinatorics",
+                    "level": 4,
+                    "location": {
+                      "line": 128,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 129,
+                          "heading": "MAT 325: Combinatorics"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nCounting principles, permutations, combinations, inclusion-exclusion, recurrence relations, generating functions, and basic graph theory.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 130: Discrete Mathematics",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 340: Probability and Statistics II",
+                    "level": 4,
+                    "location": {
+                      "line": 137,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 138,
+                          "heading": "MAT 340: Probability and Statistics II"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nAdvanced probability distributions, limit theorems, statistical estimation, confidence intervals, hypothesis testing, and regression analysis.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 240: Probability and Statistics I",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 360: Mathematical Modeling",
+                    "level": 4,
+                    "location": {
+                      "line": 146,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 147,
+                          "heading": "MAT 360: Mathematical Modeling"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nConstruction and analysis of deterministic and stochastic models for problems in natural and social sciences, including dimensional analysis and simulation.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 211: Calculus III\nMAT 250: Differential Equations",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 370: Numerical Analysis",
+                    "level": 4,
+                    "location": {
+                      "line": 156,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 157,
+                          "heading": "MAT 370: Numerical Analysis"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nNumerical methods for solving equations, interpolation, numerical integration and differentiation, and applications to computational mathematics.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 211: Calculus III\nMAT 220: Linear Algebra II",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 398: Undergraduate Seminar in Mathematics",
+                    "level": 4,
+                    "location": {
+                      "line": 166,
+                      "heading": "Course Listing"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 167,
+                          "heading": "MAT 398: Undergraduate Seminar in Mathematics"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 1",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nStudent presentations and discussions of current topics and research in mathematics. Emphasis on communication skills and critical thinking.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nJunior standing in Mathematics",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Advanced Undergraduate and Graduate Level",
+                "level": 3,
+                "location": {
+                  "line": 175,
+                  "heading": "Department of Mathematics and Statistics"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "MAT 410: Abstract Algebra II",
+                    "level": 4,
+                    "location": {
+                      "line": 177,
+                      "heading": "Advanced Undergraduate and Graduate Level"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 178,
+                          "heading": "MAT 410: Abstract Algebra II"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nIn-depth study of rings and fields, including polynomial rings, field extensions, Galois theory, and applications to coding theory.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 305: Abstract Algebra I",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 420: Real Analysis II",
+                    "level": 4,
+                    "location": {
+                      "line": 186,
+                      "heading": "Advanced Undergraduate and Graduate Level"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 187,
+                          "heading": "MAT 420: Real Analysis II"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nMetric spaces, sequences and series of functions, uniform convergence, and introduction to measure theory.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 310: Real Analysis I",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 431: Topology",
+                    "level": 4,
+                    "location": {
+                      "line": 195,
+                      "heading": "Advanced Undergraduate and Graduate Level"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 196,
+                          "heading": "MAT 431: Topology"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nBasic concepts of general topology, including open and closed sets, continuity, compactness, connectedness, and fundamental groups.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 310: Real Analysis I\nMAT 225: Introduction to Mathematical Proof",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 445: Stochastic Processes",
+                    "level": 4,
+                    "location": {
+                      "line": 205,
+                      "heading": "Advanced Undergraduate and Graduate Level"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 206,
+                          "heading": "MAT 445: Stochastic Processes"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nMarkov chains, Poisson processes, Brownian motion, martingales, and applications in finance and queueing theory.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 340: Probability and Statistics II",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 450: Data Mining and Statistical Learning",
+                    "level": 4,
+                    "location": {
+                      "line": 214,
+                      "heading": "Advanced Undergraduate and Graduate Level"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 215,
+                          "heading": "MAT 450: Data Mining and Statistical Learning"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nAlgorithms and theory behind data mining, supervised and unsupervised learning, clustering, classification, and validation methods.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 340: Probability and Statistics II\nMAT 110: Introduction to Data Science",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 480: Mathematical Modeling Seminar",
+                    "level": 4,
+                    "location": {
+                      "line": 224,
+                      "heading": "Advanced Undergraduate and Graduate Level"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 225,
+                          "heading": "MAT 480: Mathematical Modeling Seminar"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 2",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nCollaborative research experience involving real-world modeling projects with faculty mentorship, proposal development, and solution presentation.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nSenior standing in Mathematics or instructor approval",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Graduate Program",
+                "level": 3,
+                "location": {
+                  "line": 233,
+                  "heading": "Department of Mathematics and Statistics"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "M.Sc. in Mathematics",
+                    "level": 4,
+                    "location": {
+                      "line": 234,
+                      "heading": "Graduate Program"
+                    },
+                    "blocks": [
+                      {
+                        "type": "paragraph",
+                        "location": {
+                          "line": 235,
+                          "heading": "M.Sc. in Mathematics"
+                        },
+                        "text": "Specializations:"
+                      },
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 236,
+                          "heading": "M.Sc. in Mathematics"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Algebra",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Combinatorics",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Mathematical Modeling",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 501: Graduate Algebra",
+                    "level": 4,
+                    "location": {
+                      "line": 242,
+                      "heading": "Graduate Program"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 243,
+                          "heading": "MAT 501: Graduate Algebra"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 4",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nComprehensive study of group theory, ring theory, and module theory, with emphasis on structural theorems and modern algebraic techniques.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 410: Abstract Algebra II or equivalent",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 510: Graduate Analysis",
+                    "level": 4,
+                    "location": {
+                      "line": 251,
+                      "heading": "Graduate Program"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 252,
+                          "heading": "MAT 510: Graduate Analysis"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 4",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nLebesgue integration, convergence theorems, function spaces, and Hilbert spaces, with applications to mathematical modeling.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 420: Real Analysis II or equivalent",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 525: Algebraic Combinatorics",
+                    "level": 4,
+                    "location": {
+                      "line": 260,
+                      "heading": "Graduate Program"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 261,
+                          "heading": "MAT 525: Algebraic Combinatorics"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nTopics in enumeration, graph theory, designs, and coding theory, including connections to algebraic structures.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 325: Combinatorics\nMAT 305: Abstract Algebra I",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 540: Advanced Probability and Stochastic Processes",
+                    "level": 4,
+                    "location": {
+                      "line": 270,
+                      "heading": "Graduate Program"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 271,
+                          "heading": "MAT 540: Advanced Probability and Stochastic Processes"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nMeasure-theoretic foundations of probability, advanced stochastic processes, martingales, and applications in finance and biology.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 445: Stochastic Processes or equivalent",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 561: Mathematical Modeling and Simulation",
+                    "level": 4,
+                    "location": {
+                      "line": 279,
+                      "heading": "Graduate Program"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 280,
+                          "heading": "MAT 561: Mathematical Modeling and Simulation"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 3",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nDevelopment and analysis of mathematical models for complex real-world systems; simulation techniques; connection to industrial and academic research.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nMAT 360: Mathematical Modeling or instructor approval",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "MAT 599: Thesis Research",
+                    "level": 4,
+                    "location": {
+                      "line": 288,
+                      "heading": "Graduate Program"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 289,
+                          "heading": "MAT 599: Thesis Research"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Credits: 6",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Description:\nOriginal research project under faculty supervision, culminating in a written thesis and oral defense.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites:\nCompletion of 24 graduate credits and recommendation of faculty advisor",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Notes",
+                "level": 3,
+                "location": {
+                  "line": 297,
+                  "heading": "Department of Mathematics and Statistics"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 299,
+                      "heading": "Notes"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Not all courses are offered every semester; check current timetable for scheduling.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites may be waived with instructor approval under exceptional circumstances.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "For questions about course selection and program pathways, contact the Department of Mathematics and Statistics, Cendara University (mathstat@cendara.edu).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

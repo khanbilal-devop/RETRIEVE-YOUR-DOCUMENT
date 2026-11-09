@@ -1,0 +1,174 @@
+{
+  "doc_id": "c6cc1fe5d3c4115e583ee0dfd143df860df84989d69552b2d761df2740c6c8f7",
+  "doc_key": [
+    "bank atms in bhutan"
+  ],
+  "path": "ZX Bank/md/Bank ATMs in Bhutan.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank ATMs in Bhutan",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank ATMs in Bhutan"
+            },
+            "text": "ZX Bank offers convenient access to its digital banking services in Bhutan through a network of ATM locations. Below are the details of our available ATMs across the country (dummy addresses for representative purposes)."
+          },
+          {
+            "type": "table",
+            "location": {
+              "line": 5,
+              "heading": "ZX Bank ATMs in Bhutan"
+            },
+            "header": [
+              "City",
+              "Location/Branch",
+              "Address"
+            ],
+            "rows": [
+              [
+                "Thimphu",
+                "Thimphu Main Branch",
+                "12 Chorten Lam, Norzin, Thimphu 11001"
+              ],
+              [
+                "Thimphu",
+                "City Center Mall",
+                "2nd Floor, Norzin Lam, Thimphu 11001"
+              ],
+              [
+                "Paro",
+                "Paro Town Branch",
+                "Main Street, Tshongdue, Paro 12001"
+              ],
+              [
+                "Punakha",
+                "Punakha Dzong Area",
+                "Punakha-Trongsa Hwy, Punakha 13001"
+              ],
+              [
+                "Phuentsholing",
+                "Phuentsholing Gate Branch",
+                "Bank Road, Opp. Main Gate, Phuentsholing"
+              ],
+              [
+                "Phuentsholing",
+                "Royal Market Square ATM",
+                "33/2 Shopping Ctr, Phuentsholing 21001"
+              ],
+              [
+                "Wangdue",
+                "Wangdue Branch",
+                "Lobesa Bypass, Wangdue Phodrang 14001"
+              ],
+              [
+                "Bumthang",
+                "Bumthang Township Branch",
+                "Cheokhor, Jakar, Bumthang 32001"
+              ],
+              [
+                "Samdrup Jongkhar",
+                "Samdrup Jongkhar Branch",
+                "Dungsam Lam, Samdrup Jongkhar 42001"
+              ],
+              [
+                "Trongsa",
+                "Trongsa Shopping Complex",
+                "Main Bazaar Rd, Trongsa 16001"
+              ],
+              [
+                "Trashigang",
+                "Trashigang Main Branch",
+                "Khangkhu Complex, Trashigang 42001"
+              ],
+              [
+                "Mongar",
+                "Mongar Bazaar Branch",
+                "Mongar Lower Market, Mongar 43001"
+              ],
+              [
+                "Gelephu",
+                "Gelephu Central Branch",
+                "Pelrithang Area, Gelephu 15001"
+              ],
+              [
+                "Paro",
+                "Paro Airport ATM",
+                "Terminal Building, Paro Intl. Airport"
+              ],
+              [
+                "Haa",
+                "Haa Town Point",
+                "Haa Dzong Area, Haa 13001"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 25,
+              "heading": "ZX Bank ATMs in Bhutan"
+            },
+            "text": "Total ZX Bank ATMs in Bhutan: 15"
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 27,
+              "heading": "ZX Bank ATMs in Bhutan"
+            },
+            "text": "All ZX Bank ATMs offer:"
+          },
+          {
+            "type": "list",
+            "location": {
+              "line": 28,
+              "heading": "ZX Bank ATMs in Bhutan"
+            },
+            "ordered": false,
+            "items": [
+              {
+                "text": "24/7 cash withdrawal",
+                "depth": 0
+              },
+              {
+                "text": "Balance inquiry",
+                "depth": 0
+              },
+              {
+                "text": "Mini-statement printing",
+                "depth": 0
+              },
+              {
+                "text": "Cardless QR withdrawals (supported by ZX Bank Asia app)",
+                "depth": 0
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 33,
+              "heading": "ZX Bank ATMs in Bhutan"
+            },
+            "text": "For full list of services and latest updates, visit: www.zxbank.asia (https://www.zxbank.asia)"
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+}

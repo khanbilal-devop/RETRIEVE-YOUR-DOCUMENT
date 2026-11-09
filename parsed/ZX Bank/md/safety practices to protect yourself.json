@@ -1,0 +1,330 @@
+{
+  "doc_id": "012fa534ee147057cfa868139b4fab05f2c8ef3595ded12c3dcea73ad4098caa",
+  "doc_key": [
+    "safety practices to protect yourself"
+  ],
+  "path": "ZX Bank/md/Safety Practices to Protect Yourself.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Safety Practices to Protect Yourself from Online Threats",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "text": "Staying safe online is crucial to protect your personal data, finances, and digital identity. Here are essential safety practices (\"parasites\" can be corrected as \"practices\") to follow:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Use Strong, Unique Passwords",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 8,
+                  "heading": "1. Use Strong, Unique Passwords"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Create complex passwords using a mix of letters, numbers, and symbols.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Avoid using the same password for multiple sites.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use a trusted password manager to store your credentials.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Enable Two-Factor Authentication (2FA)",
+            "level": 2,
+            "location": {
+              "line": 12,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 13,
+                  "heading": "2. Enable Two-Factor Authentication (2FA)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Add an extra layer of security with 2FA on all important accounts (email, banking, social media).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. Beware of Phishing Scams",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 16,
+                  "heading": "3. Beware of Phishing Scams"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Don’t click on suspicious links or download attachments from unknown sources.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Double-check email addresses and URLs for authenticity.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Never share personal information over email or phone unless you initiated contact.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Keep Software Up to Date",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 21,
+                  "heading": "4. Keep Software Up to Date"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Regularly update your operating system, apps, browsers, and antivirus programs to patch vulnerabilities.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Secure Your Devices",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 24,
+                  "heading": "5. Secure Your Devices"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Use a screen lock (PIN, password, or fingerprint) on smartphones and computers.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Install trusted antivirus and anti-malware software.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Use Secure Connections",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 28,
+                  "heading": "6. Use Secure Connections"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Avoid public Wi-Fi for sensitive transactions; use a VPN when needed.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Only enter personal or financial information on websites with HTTPS.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Monitor Bank and Credit Accounts",
+            "level": 2,
+            "location": {
+              "line": 31,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 32,
+                  "heading": "7. Monitor Bank and Credit Accounts"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Review statements regularly for unauthorized transactions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Set up instant alerts for account activity.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "8. Manage Privacy Settings",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "8. Manage Privacy Settings"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Limit what information you share on social media and adjust privacy controls.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Be wary of apps requesting unnecessary permissions.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "9. Backup Important Data",
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 40,
+                  "heading": "9. Backup Important Data"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Regularly backup your files to a secure cloud service or external device.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "10. Educate Yourself & Stay Informed",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 43,
+                  "heading": "10. Educate Yourself & Stay Informed"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Learn about new and emerging online threats.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Participate in cybersecurity awareness programs.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 48,
+                  "heading": "10. Educate Yourself & Stay Informed"
+                },
+                "text": "Stay alert and proactive. Safe online habits protect your identity, money, and peace of mind!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

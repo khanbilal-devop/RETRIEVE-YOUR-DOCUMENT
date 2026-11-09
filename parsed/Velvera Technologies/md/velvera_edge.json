@@ -1,0 +1,573 @@
+{
+  "doc_id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7",
+  "doc_key": [
+    "velvera_edge"
+  ],
+  "path": "Velvera Technologies/md/velvera_edge.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Edge Series — Product Specification",
+        "level": 1,
+        "location": {
+          "line": 2
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 4,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "text": "Premium performance, perfect pocketability. The Edge series is ideal for users who prefer smaller phones without compromising on power."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 10,
+                  "heading": "Overview"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Series: Compact Series — Velvera Edge",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Target Audience: Users preferring compact smartphones with flagship performance",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Available Colors: Cloud Gray, Midnight Ocean, Sage Green, Coral Pink, Arctic White",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Display Type: 6.1\" OLED, Full HD+ Resolution, HDR10+",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Models & Variants",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [],
+            "sections": []
+          },
+          {
+            "title": "Velvera Edge (128GB / 256GB)",
+            "level": 2,
+            "location": {
+              "line": 19,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Common Features",
+                "level": 3,
+                "location": {
+                  "line": 21,
+                  "heading": "Velvera Edge (128GB / 256GB)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 23,
+                      "heading": "Common Features"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Display: 6.1-inch OLED, 2400x1080 pixels, 120Hz refresh rate, HDR10+",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Processor: Octa-core Velvera V5 Chip (4x2.8GHz + 4x1.9GHz)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "GPU: Mali V530 Advanced",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Operating System: VelveraOS 14 (Android 14 based)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rear Cameras:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "50MP f/1.8 Wide",
+                        "depth": 1
+                      },
+                      {
+                        "text": "12MP f/2.2 Ultra-wide (120° FOV)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Front Camera: 16MP f/2.0",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Battery: 4400mAh Li-Ion (non-removable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Charging: 33W Fast Charging (wired); 15W wireless charging",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Biometrics: Under-display fingerprint, Face Unlock",
+                        "depth": 0
+                      },
+                      {
+                        "text": "SIM: Dual Nano SIM, eSIM support",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio: Stereo speakers, Dolby Atmos, No 3.5mm jack",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Build: Aluminum frame, Gorilla Glass 7 front & rear, IP68 water/dust resistant",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Connectivity: 5G SA/NSA, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C 3.1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dimensions: 145.6 x 68.9 x 7.89 mm",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Weight: 162g",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Other: Haptic feedback engine, Linear vibration motor",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Variants",
+                "level": 3,
+                "location": {
+                  "line": 42,
+                  "heading": "Velvera Edge (128GB / 256GB)"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Velvera Edge 128GB",
+                    "level": 4,
+                    "location": {
+                      "line": 44,
+                      "heading": "Variants"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 46,
+                          "heading": "Velvera Edge 128GB"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "RAM: 8GB LPDDR5",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Storage: 128GB UFS 3.1",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Battery: 4400mAh",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹42,999 ($519)",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Edge 256GB",
+                    "level": 4,
+                    "location": {
+                      "line": 51,
+                      "heading": "Variants"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 53,
+                          "heading": "Velvera Edge 256GB"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "RAM: 8GB LPDDR5",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Storage: 256GB UFS 3.1",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Battery: 4400mAh",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹47,999 ($579)",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Velvera Edge Pro (256GB / 512GB)",
+            "level": 2,
+            "location": {
+              "line": 60,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Common Upgrades Over Standard Edge",
+                "level": 3,
+                "location": {
+                  "line": 62,
+                  "heading": "Velvera Edge Pro (256GB / 512GB)"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 64,
+                      "heading": "Common Upgrades Over Standard Edge"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Processor: V5+ AI-Tuned SoC (4x3.0GHz + 4x2.2GHz, enhanced for AI performance)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "GPU: Mali V535 AI-Enhanced",
+                        "depth": 0
+                      },
+                      {
+                        "text": "RAM: 12GB LPDDR5X",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Main Camera: Additional 8MP f/2.4 Telephoto with OIS (3x Optical Zoom)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Battery: 4600mAh Li-Ion (non-removable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Charging: 45W Fast Charging (wired); 18W wireless charging",
+                        "depth": 0
+                      },
+                      {
+                        "text": "OS: VelveraOS 14 Pro (exclusive AI features)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio: Enhanced stereo with Hi-Res audio support",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Variants",
+                "level": 3,
+                "location": {
+                  "line": 73,
+                  "heading": "Velvera Edge Pro (256GB / 512GB)"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Velvera Edge Pro 256GB",
+                    "level": 4,
+                    "location": {
+                      "line": 75,
+                      "heading": "Variants"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 77,
+                          "heading": "Velvera Edge Pro 256GB"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Storage: 256GB UFS 3.1",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Battery: 4600mAh",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹54,999 ($659)",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Velvera Edge Pro 512GB",
+                    "level": 4,
+                    "location": {
+                      "line": 81,
+                      "heading": "Variants"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 83,
+                          "heading": "Velvera Edge Pro 512GB"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Storage: 512GB UFS 4.0",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Battery: 4600mAh",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Price: ₹61,999 ($749)",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Additional Features (All Variants)",
+            "level": 2,
+            "location": {
+              "line": 89,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 91,
+                  "heading": "Additional Features (All Variants)"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Sensors: Accelerometer, Gyroscope, Proximity, Ambient Light, Magnetometer, Barometer",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Security: Secure enclave for biometric & payments",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Software Updates: 3 years OS + 4 years security patches",
+                    "depth": 0
+                  },
+                  {
+                    "text": "In-Box Accessories: 33W/45W charger (model-dependent), USB-C cable, SIM ejector, Quick Start guide, translucent cover",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Model Comparison Table",
+            "level": 2,
+            "location": {
+              "line": 98,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 100,
+                  "heading": "Model Comparison Table"
+                },
+                "header": [
+                  "Model",
+                  "Processor",
+                  "RAM",
+                  "Storage",
+                  "Battery",
+                  "Rear Cameras",
+                  "Fast Charging",
+                  "Price (INR/USD)"
+                ],
+                "rows": [
+                  [
+                    "Velvera Edge 128GB",
+                    "V5 Octa-core",
+                    "8GB",
+                    "128GB",
+                    "4400mAh",
+                    "50MP wide + 12MP ultra-wide",
+                    "33W",
+                    "₹42,999 / $519"
+                  ],
+                  [
+                    "Velvera Edge 256GB",
+                    "V5 Octa-core",
+                    "8GB",
+                    "256GB",
+                    "4400mAh",
+                    "50MP wide + 12MP ultra-wide",
+                    "33W",
+                    "₹47,999 / $579"
+                  ],
+                  [
+                    "Velvera Edge Pro 256GB",
+                    "V5+ AI-Tuned SoC",
+                    "12GB",
+                    "256GB",
+                    "4600mAh",
+                    "50MP wide + 12MP UW + 8MP telephoto+OIS",
+                    "45W",
+                    "₹54,999 / $659"
+                  ],
+                  [
+                    "Velvera Edge Pro 512GB",
+                    "V5+ AI-Tuned SoC",
+                    "12GB",
+                    "512GB",
+                    "4600mAh",
+                    "50MP wide + 12MP UW + 8MP telephoto+OIS",
+                    "45W",
+                    "₹61,999 / $749"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Certification & Warranty",
+            "level": 2,
+            "location": {
+              "line": 109,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 111,
+                  "heading": "Certification & Warranty"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Certification: BIS, CE, FCC, RoHS",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Warranty: 1 year manufacturer warranty, 6 months for accessories",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 116,
+                  "heading": "Certification & Warranty"
+                },
+                "text": "Note: Availability, specifications, and prices may vary by region."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 120,
+                  "heading": "Certification & Warranty"
+                },
+                "text": "Velvera — Technology, Refined. Life, Elevated."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 122,
+                  "heading": "Certification & Warranty"
+                },
+                "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

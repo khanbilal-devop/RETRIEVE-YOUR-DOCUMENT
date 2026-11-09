@@ -1,0 +1,661 @@
+{
+  "doc_id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c",
+  "doc_key": [
+    "zx bank asia mobile app guide"
+  ],
+  "path": "ZX Bank/md/ZX Bank Asia Mobile App Guide.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Asia Mobile App Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Overview"
+                },
+                "text": "The ZX Bank Asia mobile app is your gateway to seamless, secure, and smart banking. With support for Android and iOS, manage your finances on the go with intuitive banking features, advanced security, and real-time assistance."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "1. How to Download the ZX Bank Asia App",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 11,
+                  "heading": "1. How to Download the ZX Bank Asia App"
+                },
+                "text": "For Android:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 12,
+                  "heading": "1. How to Download the ZX Bank Asia App"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Open Google Play Store.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Search for: ZX Bank Asia.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap Download and install the app.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 16,
+                  "heading": "1. How to Download the ZX Bank Asia App"
+                },
+                "text": "For iOS:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 17,
+                  "heading": "1. How to Download the ZX Bank Asia App"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Open Apple App Store.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Search for: ZX Bank Asia.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap Get and install the app.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. How to Activate Mobile Banking",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "2. How to Activate Mobile Banking"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Open the ZX Bank Asia App.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tap on Register / Activate.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Enter your registered mobile number & customer ID/account number.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Authenticate via OTP sent to your mobile.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Set your preferred login PIN or configure biometric authentication (fingerprint/Face ID).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Complete e-KYC verification if prompted.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. How to Login",
+            "level": 2,
+            "location": {
+              "line": 34,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 36,
+                  "heading": "3. How to Login"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Open the app.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Enter your PIN or use biometric login (if enabled).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Access your dashboard securely.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. App Features",
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Account Management",
+                "level": 3,
+                "location": {
+                  "line": 44,
+                  "heading": "4. App Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 46,
+                      "heading": "Account Management"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Check savings/current account balances.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "View transaction history and mini statements.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Track FD, RD, and loan details in real-time.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Fund Transfer",
+                "level": 3,
+                "location": {
+                  "line": 50,
+                  "heading": "4. App Features"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Within ZX Bank / Other Banks",
+                    "level": 4,
+                    "location": {
+                      "line": 52,
+                      "heading": "Fund Transfer"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 53,
+                          "heading": "Within ZX Bank / Other Banks"
+                        },
+                        "ordered": true,
+                        "items": [
+                          {
+                            "text": "Tap Fund Transfer.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Choose between ZX Bank or Other Bank (NEFT/IMPS/UPI).",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Select/Add payee (see below).",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Enter amount & remarks.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Confirm with PIN/OTP.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Add Payee",
+                    "level": 4,
+                    "location": {
+                      "line": 59,
+                      "heading": "Fund Transfer"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 60,
+                          "heading": "Add Payee"
+                        },
+                        "ordered": true,
+                        "items": [
+                          {
+                            "text": "Go to Fund Transfer → Manage Payees.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Select Add Payee.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Enter payee's account info (name, bank details, IFSC) or UPI ID.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Verify via OTP.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Payee is added–start transferring.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Bill Payments & QR",
+                "level": 3,
+                "location": {
+                  "line": 66,
+                  "heading": "4. App Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 68,
+                      "heading": "Bill Payments & QR"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Pay electricity, water, gas, mobile & credit card bills.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Scan & pay using QR codes at merchants or for quick money transfers.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Cards",
+                "level": 3,
+                "location": {
+                  "line": 71,
+                  "heading": "4. App Features"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Check, Apply & Manage Credit/Debit Cards",
+                    "level": 4,
+                    "location": {
+                      "line": 73,
+                      "heading": "Cards"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 74,
+                          "heading": "Check, Apply & Manage Credit/Debit Cards"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "View existing cards with usage summary, payment due dates, statements, and reward points.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Block Card: Select card → More options → Block (immediate effect).",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Reset Card PIN: Select card → Change PIN → Enter old & new PIN.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Apply New Card: Cards Menu → Apply for New Card → Choose credit or debit → Fill application & submit docs.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Set Card Limits",
+                    "level": 4,
+                    "location": {
+                      "line": 79,
+                      "heading": "Cards"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 80,
+                          "heading": "Set Card Limits"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Go to Manage Cards.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Choose the card and tap Set Transaction Limit.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Adjust for ATM, POS, online, contactless—save changes.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "Loans",
+                "level": 3,
+                "location": {
+                  "line": 84,
+                  "heading": "4. App Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 86,
+                      "heading": "Loans"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "View all loans, EMIs, schedules & download statements.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Apply for new loans: Home, personal, or vehicle → Fill form → Upload KYC → Track status.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Rewards",
+                "level": 3,
+                "location": {
+                  "line": 89,
+                  "heading": "4. App Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 91,
+                      "heading": "Rewards"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Check Rewards tab for current points.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Redeem reward points instantly for vouchers, cashback, or gift cards.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "NRI & Wealth",
+                "level": 3,
+                "location": {
+                  "line": 94,
+                  "heading": "4. App Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 96,
+                      "heading": "NRI & Wealth"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Access NRI services, mutual funds, wealth advisory, and initiate investments.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Chatbot – Zia",
+                "level": 3,
+                "location": {
+                  "line": 98,
+                  "heading": "4. App Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 100,
+                      "heading": "Chatbot – Zia"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Ask Zia for help with account queries, product info, quick balance, and transaction support.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "5. Security Options",
+            "level": 2,
+            "location": {
+              "line": 104,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 106,
+                  "heading": "5. Security Options"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Biometric login (fingerprint/Face ID)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Dynamic device registration & One-Time Password (OTP) validation",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Instant blocking of internet/mobile banking through the app",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Other Popular Services",
+            "level": 2,
+            "location": {
+              "line": 112,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 114,
+                  "heading": "6. Other Popular Services"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Request Cheque Book: Accounts → Services → Request Cheque Book",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Update Contact Details: Profile → Edit → Authenticate with OTP",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mini Statements: Account → View Mini Statement",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Locate Branch/ATM: Find ZX Bank locations in all supported countries",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Notifications: Get real-time alerts for all transactions and offers",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "7. Customer Support",
+            "level": 2,
+            "location": {
+              "line": 122,
+              "heading": "ZX Bank Asia Mobile App Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 124,
+                  "heading": "7. Customer Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Use in-app chat or helpline.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Email or schedule branch appointments via the app.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 129,
+                  "heading": "7. Customer Support"
+                },
+                "text": "Download & start banking smarter with the ZX Bank Asia App (https://www.zxbank.asia)!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

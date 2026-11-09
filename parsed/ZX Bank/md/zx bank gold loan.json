@@ -1,0 +1,268 @@
+{
+  "doc_id": "e94503a90978eaf15a27ddfec437e8eb07846481d32ee077c5a1d703b75b43b0",
+  "doc_key": [
+    "zx bank gold loan"
+  ],
+  "path": "ZX Bank/md/ZX Bank Gold Loan.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Gold Loan",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "text": "ZX Bank offers flexible Gold Loans, providing customers with quick access to funds using their gold jewelry as collateral. Our Gold Loan products are designed for individuals seeking instant liquidity for business needs, emergencies, education, or any personal requirement."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Features of ZX Bank Gold Loan",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 8,
+                  "heading": "Features of ZX Bank Gold Loan"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Fast Processing: Walk-in disbursal, minimal paperwork, and instant approval.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Secure Storage: Your gold jewelry is stored securely in bank vaults.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Flexible Repayment: Choice of tenure and repayment options.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Digital Tracking: Manage and repay your loan via the ZX Bank Asia Mobile App.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Interest Rate",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 17,
+                  "heading": "Interest Rate"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Starting Rate: 9.5% per annum (floating, subject to change as per prevailing bank rates and loan tenure)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Processing Fee: 0.25% of the loan amount or ₹250 (whichever is higher)",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 20,
+                  "heading": "Interest Rate"
+                },
+                "text": "Note: Actual interest rate may vary based on gold purity, market rates, and loan amount."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Maximum Loan Amount",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 26,
+                  "heading": "Maximum Loan Amount"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Up to ₹50 lakhs (India)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Other countries (Sri Lanka, Nepal, Bhutan, Bangladesh): Equivalent local currency up to bank specified regulatory maximum",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loan-to-Value (LTV): Up to 75% of the gold's market value, as per RBI regulations",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Documents Required",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "Documents Required"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Identity Proof (any one of the following):",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Aadhaar Card",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Passport",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Voter ID",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Driving License",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Address Proof (any one of the following):",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Aadhaar Card",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Utility Bill (not older than 3 months)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Passport",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Recent Passport-sized Photograph",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Gold/Ornament to be pledged (hallmarked/jewelry only)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply",
+            "level": 2,
+            "location": {
+              "line": 51,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "How to Apply"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Visit: Any ZX Bank branch with your gold ornaments and required documents",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Online Application: Apply via ZX Bank Asia Mobile App for a digital pre-approval & appointment",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Disbursal: Loan amount credited to your account in minutes after gold valuation and documentation",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Contact Us",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 61,
+                  "heading": "Contact Us"
+                },
+                "text": "For more information, visit www.zxbank.asia (http://www.zxbank.asia) or use the ZX Bank Asia mobile app to chat with our AI assistant \"Zia\"."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 65,
+                  "heading": "Contact Us"
+                },
+                "text": "Terms and conditions apply. Loan approval at the sole discretion of ZX Bank Ltd. Subject to gold assay, purity, and documentation verification."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

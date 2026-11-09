@@ -1,0 +1,285 @@
+{
+  "doc_id": "10a00869d2a52838645b3bc69df4f9108e13e44b74c0d9f137db131c8e8cf37c",
+  "doc_key": [
+    "employee free tickets & discounts policy"
+  ],
+  "path": "CloudWay-24/md/Employee Free Tickets & Discounts Policy.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Employee Free Tickets & Discounts Policy",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 Employee Free Tickets & Discounts Policy"
+            },
+            "text": "At CloudWay 24, we recognize the dedication and hard work of our employees by offering exclusive travel privileges. Our employee travel benefits are tailored to provide both flexibility and exceptional value, across all cabin classes."
+          }
+        ],
+        "sections": [
+          {
+            "title": "🎫 Employee Free Tickets Policy",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 Employee Free Tickets & Discounts Policy"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "🎫 Employee Free Tickets Policy"
+                },
+                "text": "All full-time CloudWay 24 employees are eligible for:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 10,
+                  "heading": "🎫 Employee Free Tickets Policy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "4 (four) round-trip international tickets per calendar year",
+                    "depth": 0
+                  },
+                  {
+                    "text": "These can be used by the employee or together for family travel",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Employees may use all 4 round-trip tickets at once for family trips",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 14,
+                  "heading": "🎫 Employee Free Tickets Policy"
+                },
+                "text": "Ticket Details:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 15,
+                  "heading": "🎫 Employee Free Tickets Policy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Eligible routes: Any CloudWay 24 operated international route",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Validity: Tickets must be used within the calendar year; unused tickets will not roll-over",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "🥇 Special Entitlement for Pilots & Senior Members",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "CloudWay 24 Employee Free Tickets & Discounts Policy"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 22,
+                  "heading": "🥇 Special Entitlement for Pilots & Senior Members"
+                },
+                "text": "Pilots and employees at Senior Management level and above are entitled to:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 23,
+                  "heading": "🥇 Special Entitlement for Pilots & Senior Members"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Complimentary upgrade to CloudElite (Business Class) on their 4 annual free round-trip tickets",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 25,
+                  "heading": "🥇 Special Entitlement for Pilots & Senior Members"
+                },
+                "text": "Additional Perks:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 26,
+                  "heading": "🥇 Special Entitlement for Pilots & Senior Members"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Priority check-in and boarding",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lounge access for themselves and accompanying family using free tickets",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "🚸 Family Travel Usage",
+            "level": 2,
+            "location": {
+              "line": 31,
+              "heading": "CloudWay 24 Employee Free Tickets & Discounts Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 33,
+                  "heading": "🚸 Family Travel Usage"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Employees can opt to use all 4 round-trip tickets in one go for family travel (e.g., 1 trip with the employee + 3 family members)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Family defined as: spouse, children, or dependent parents, as registered in HR records",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "✈️ Additional Travel Discounts",
+            "level": 2,
+            "location": {
+              "line": 38,
+              "heading": "CloudWay 24 Employee Free Tickets & Discounts Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 40,
+                  "heading": "✈️ Additional Travel Discounts"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Beyond the 4 free round trips, employees receive:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "50% discount on unlimited additional tickets (Economy Class)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Upgrades to higher cabin classes at special staff rates (subject to availability)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "SkyPoints 24 loyalty program points are earned on discounted tickets (unless otherwise specified)",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "🚨 Terms & Conditions",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "CloudWay 24 Employee Free Tickets & Discounts Policy"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "🚨 Terms & Conditions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "All bookings must be made via the CloudWay 24 Staff Portal.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Free tickets are subject to seat availability and blackout dates may apply (e.g., major holiday periods).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Tickets are non-transferable except for immediate family as per HR records.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Taxes and surcharges (if any) to be borne by the employee.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Abuse of staff travel privileges may result in disciplinary action.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 57,
+                  "heading": "🚨 Terms & Conditions"
+                },
+                "text": "For more details or to book your staff travel tickets, log in to the CloudWay 24 Staff Portal (https://cloudway24.com/staff)."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 59,
+                  "heading": "🚨 Terms & Conditions"
+                },
+                "text": "Fly further with your CloudWay 24 family!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

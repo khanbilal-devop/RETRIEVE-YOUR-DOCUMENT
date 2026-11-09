@@ -1,0 +1,130 @@
+{
+  "doc_id": "d702bc9f2185c2490e3db90dac4b63b57e92206f4d6a33037ec53640005b8dd3",
+  "doc_key": [
+    "corporate_booking_faqs"
+  ],
+  "path": "Velvera Technologies/md/corporate_booking_faqs.md",
+  "company": "Velvera Technologies",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Velvera Technologies",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Corporate Booking Plan — Frequently Asked Questions",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Velvera Technologies"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Can I customize device configurations for different departments?",
+                "level": 3,
+                "location": {
+                  "line": 5,
+                  "heading": "Corporate Booking Plan — Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 6,
+                      "heading": "Can I customize device configurations for different departments?"
+                    },
+                    "text": "Yes, configurations (apps, settings, asset tags) can be department or region-specific, managed via the booking portal or through your Account Manager."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Are there any minimum order quantities for customizations?",
+                "level": 3,
+                "location": {
+                  "line": 8,
+                  "heading": "Corporate Booking Plan — Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 9,
+                      "heading": "Are there any minimum order quantities for customizations?"
+                    },
+                    "text": "Custom configurations (firmware, asset labeling, packaging) are available for orders starting at 25 units per model."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Does the plan support post-purchase add-ons?",
+                "level": 3,
+                "location": {
+                  "line": 11,
+                  "heading": "Corporate Booking Plan — Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 12,
+                      "heading": "Does the plan support post-purchase add-ons?"
+                    },
+                    "text": "Yes, you can purchase add-ons (accessories, service packs) at any time, with invoicing integrated into the main account."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "What reporting options are available?",
+                "level": 3,
+                "location": {
+                  "line": 14,
+                  "heading": "Corporate Booking Plan — Frequently Asked Questions"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 15,
+                      "heading": "What reporting options are available?"
+                    },
+                    "text": "The Enterprise Dashboard provides real-time device status, deployment tracking, warranty remainder, and support ticket history."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 17,
+                      "heading": "What reporting options are available?"
+                    },
+                    "text": "Velvera — Technology, Refined. Life, Elevated."
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 19,
+                      "heading": "What reporting options are available?"
+                    },
+                    "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

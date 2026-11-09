@@ -1,0 +1,336 @@
+{
+  "doc_id": "19468eea467ef649b8106d42aac977efc4db7ee0c9bb46a272511d4b7a58b6f7",
+  "doc_key": [
+    "ravelling with pets"
+  ],
+  "path": "CloudWay-24/md/ravelling with Pets.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Travelling with Pets on CloudWay 24",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "text": "CloudWay 24 welcomes you and your furry companions aboard! To ensure a pleasant and safe journey for both you and your pet, please review our comprehensive guidelines for travelling with pets."
+          }
+        ],
+        "sections": [
+          {
+            "title": "General Policy",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "General Policy"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Eligible Pets: Cats and small dogs (domesticated), in good health and at least 3 months old.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Allowed Routes: Pets are permitted only on international flights operated exclusively by CloudWay 24.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Advance Booking: Notify CloudWay 24 at least 48 hours before departure to reserve a spot for your pet.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pet Travel Options",
+            "level": 2,
+            "location": {
+              "line": 15,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 17,
+                  "heading": "Pet Travel Options"
+                },
+                "header": [
+                  "Option",
+                  "In-Cabin",
+                  "Checked Baggage (Hold)"
+                ],
+                "rows": [
+                  [
+                    "Availability",
+                    "Select international routes (duration under 8 hours)",
+                    "All direct international flights"
+                  ],
+                  [
+                    "Weight Limit",
+                    "Up to 8 kg (incl. carrier)",
+                    "Up to 32 kg (incl. carrier)"
+                  ],
+                  [
+                    "Carrier Size (max)",
+                    "43x33x20 cm",
+                    "100x60x75 cm"
+                  ],
+                  [
+                    "Pet Fee",
+                    "USD 150 / INR 11,000",
+                    "USD 250 / INR 18,000"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Carrier Requirements",
+            "level": 2,
+            "location": {
+              "line": 26,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 28,
+                  "heading": "Carrier Requirements"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "In-Cabin: Soft-sided, leak-proof, well-ventilated carrier that fits under the seat.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Checked: Rigid carrier with secure latch, absorbent bedding, and enough room for your pet to stand, turn, and lie down comfortably.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Identification tag (with pet name and contact info).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "One carrier per passenger. Maximum 2 pets per booking (1 in-cabin, 1 in hold).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Health & Documentation",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 37,
+                  "heading": "Health & Documentation"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Valid health certificate from a licensed veterinarian issued within 10 days of departure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Vaccination records (including rabies certificate).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Import/export permits, if required by destination country.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Check-In & Boarding",
+            "level": 2,
+            "location": {
+              "line": 43,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 45,
+                  "heading": "Check-In & Boarding"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Arrive at least 2 hours before departure for check-in.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Use designated pet relief and holding areas (where available).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "In-cabin pets must remain in their carrier throughout the flight—no exceptions.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Restrictions",
+            "level": 2,
+            "location": {
+              "line": 51,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 53,
+                  "heading": "Restrictions"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "No pets allowed in CloudLux (First Class) or on select aircraft types due to space limitations.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Brachycephalic breeds (flat-faced dogs/cats) may not be allowed in the hold for safety reasons.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Not permitted as cargo or unaccompanied (except registered service animals—see special needs policy).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Book",
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 61,
+                  "heading": "How to Book"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "During flight booking: Select \"Travelling with Pets\" and enter pet details.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "After booking: Use \"Manage My Flight\" > \"Add a Pet\" option or contact Customer Care.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Payment: Pet travel fees must be paid online with Credit Card, Debit Card, Netbanking, or SkyPoints 24 points.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Tips for a Smooth Journey",
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 69,
+                  "heading": "Tips for a Smooth Journey"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Feed your pet a light meal 2 hours before departure.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Avoid tranquilizing your pet unless prescribed by a vet.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Place a familiar toy or blanket in the carrier for comfort.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Attach a current photo of your pet to the carrier.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 76,
+                  "heading": "Tips for a Smooth Journey"
+                },
+                "text": "For more information, visit CloudWay24.com (https://cloudway24.com) or contact our 24/7 Customer Support."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 79,
+                  "heading": "Tips for a Smooth Journey"
+                },
+                "text": "CloudWay 24 – Seamless Skies for You and Your Pet!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

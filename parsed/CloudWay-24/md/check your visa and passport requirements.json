@@ -1,0 +1,385 @@
+{
+  "doc_id": "5899ec9435aaea3c11c13f07223e04e67d464ae991316e57849d89b9d9d7aa54",
+  "doc_key": [
+    "check your visa and passport requirements"
+  ],
+  "path": "CloudWay-24/md/Check Your Visa and Passport Requirements.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24: Visa and Passport Requirements Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Check Your Visa and Passport Requirements",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24: Visa and Passport Requirements Guide"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Check Your Visa and Passport Requirements"
+                },
+                "text": "Before booking your CloudWay 24 flight, ensure that you meet all entry requirements for your destination. Below is a quick-reference guide for visa and passport requirements for travelers from India to countries in Europe, Western, and Middle East regions."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "General Requirements",
+            "level": 2,
+            "location": {
+              "line": 8,
+              "heading": "CloudWay 24: Visa and Passport Requirements Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 10,
+                  "heading": "General Requirements"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Passport Validity: Minimum 6 months validity from your date of arrival in most international destinations.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Blank Pages: At least 2 blank pages recommended for visa/stamping.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Return Ticket: Proof of onward/return travel may be required.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Travel Insurance: Mandatory for Schengen (Europe) and recommended for others.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Europe (Schengen Zone & Others)",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "CloudWay 24: Visa and Passport Requirements Guide"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 19,
+                  "heading": "Europe (Schengen Zone & Others)"
+                },
+                "header": [
+                  "Country",
+                  "Passport Validity",
+                  "Visa Required (Indian Citizens)",
+                  "Notes"
+                ],
+                "rows": [
+                  [
+                    "Schengen Zone",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    "Covers most of Western/Central Europe"
+                  ],
+                  [
+                    "France",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Germany",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Netherlands",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Spain",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Italy",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Switzerland",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Greece",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Austria",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Belgium",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Sweden",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "Norway",
+                    "6 months",
+                    "Yes, Schengen Visa",
+                    ""
+                  ],
+                  [
+                    "UK",
+                    "6 months",
+                    "Yes, UK Visa",
+                    "Separate from Schengen"
+                  ],
+                  [
+                    "Ireland",
+                    "6 months",
+                    "Yes, Ireland Visa",
+                    "Separate from Schengen"
+                  ],
+                  [
+                    "Russia",
+                    "6 months",
+                    "Yes, Russian Visa",
+                    "Invitation letter needed for some purposes"
+                  ],
+                  [
+                    "Turkey",
+                    "6 months",
+                    "Yes, e-Visa/Sticker Visa",
+                    "e-Visa for tourism/business"
+                  ],
+                  [
+                    "Ukraine",
+                    "6 months",
+                    "Yes, e-Visa/Sticker Visa",
+                    ""
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Western Europe (Highlights)",
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "CloudWay 24: Visa and Passport Requirements Guide"
+            },
+            "blocks": [
+              {
+                "type": "quote",
+                "location": {
+                  "line": 43,
+                  "heading": "Western Europe (Highlights)"
+                },
+                "text": "Most Western Europe countries are under the Schengen Zone.\nUnited Kingdom and Ireland have separate visa policies."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Middle East Countries",
+            "level": 2,
+            "location": {
+              "line": 48,
+              "heading": "CloudWay 24: Visa and Passport Requirements Guide"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 50,
+                  "heading": "Middle East Countries"
+                },
+                "header": [
+                  "Country",
+                  "Passport Validity",
+                  "Visa Required (Indian Citizens)",
+                  "Notes"
+                ],
+                "rows": [
+                  [
+                    "UAE (Dubai)",
+                    "6 months",
+                    "Yes, eVisa/Sticker Visa",
+                    "Pre-arranged visa, On-arrival for some categories"
+                  ],
+                  [
+                    "Saudi Arabia",
+                    "6 months",
+                    "Yes, eVisa/Sticker Visa",
+                    "eVisa for tourism, other purposes need prior visa"
+                  ],
+                  [
+                    "Qatar",
+                    "6 months",
+                    "Yes, eVisa/Sticker Visa",
+                    "On-arrival for Indians with valid US/UK/Schengen"
+                  ],
+                  [
+                    "Oman",
+                    "6 months",
+                    "Yes, eVisa",
+                    "On-arrival possible for select travelers"
+                  ],
+                  [
+                    "Kuwait",
+                    "6 months",
+                    "Yes, eVisa",
+                    ""
+                  ],
+                  [
+                    "Bahrain",
+                    "6 months",
+                    "Yes, eVisa/On-Arrival",
+                    ""
+                  ],
+                  [
+                    "Israel",
+                    "6 months",
+                    "Yes, Sticker Visa",
+                    "Apply in advance"
+                  ],
+                  [
+                    "Jordan",
+                    "6 months",
+                    "Yes, Visa on Arrival (Indian tourists)",
+                    ""
+                  ],
+                  [
+                    "Iran",
+                    "6 months",
+                    "Yes, Visa on Arrival (at some airports)",
+                    "Recommend pre-arranged Visa"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Check Your Requirements",
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "CloudWay 24: Visa and Passport Requirements Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 66,
+                  "heading": "How to Check Your Requirements"
+                },
+                "ordered": true,
+                "items": [
+                  {
+                    "text": "Visit CloudWay24.com or use the CloudWay24 App.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Go to \"Plan My Flight\" – select your route and dates.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Click on \"Visa & Passport Info\" on the booking page.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Review requirements for your nationality, transit rules, and special advisories.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Disclaimer",
+                "level": 3,
+                "location": {
+                  "line": 73,
+                  "heading": "How to Check Your Requirements"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 74,
+                      "heading": "Disclaimer"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Visa and entry rules change frequently.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Always verify the latest requirements on the destination embassy/consulate website (https://www.timaticweb.com/) or with your travel agent before departure.",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 79,
+                      "heading": "Disclaimer"
+                    },
+                    "text": "Safe travels with CloudWay 24!"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

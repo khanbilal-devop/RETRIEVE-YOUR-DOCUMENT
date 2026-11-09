@@ -1,0 +1,322 @@
+{
+  "doc_id": "53aa56685bea75717eba64411b14109fc0ba125f4199c56b5ec3fb33949755a9",
+  "doc_key": [
+    "boeing 787 dreamliner"
+  ],
+  "path": "CloudWay-24/md/Boeing 787 Dreamliner.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Boeing 787 Dreamliner – CloudWay 24 Fleet Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Boeing 787 Dreamliner – CloudWay 24 Fleet Overview"
+            },
+            "text": "CloudWay 24 operates a modern fleet of Boeing 787 Dreamliners, renowned for their fuel efficiency, passenger comfort, and advanced technology. Below is an overview of the aircraft’s seating capacity and detailed breakdown of class-wise cabin features as configured for CloudWay 24’s international long-haul service."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Aircraft: Boeing 787 Dreamliner",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Boeing 787 Dreamliner – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Aircraft: Boeing 787 Dreamliner"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Total Seating Capacity: 290 seats (Typical CloudWay 24 configuration)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Cabin Class & Seating Configuration",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "Boeing 787 Dreamliner – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 15,
+                  "heading": "Cabin Class & Seating Configuration"
+                },
+                "header": [
+                  "Cabin Class",
+                  "No. of Seats",
+                  "Configuration"
+                ],
+                "rows": [
+                  [
+                    "CloudLux",
+                    "8",
+                    "1-2-1"
+                  ],
+                  [
+                    "CloudElite",
+                    "32",
+                    "1-2-1"
+                  ],
+                  [
+                    "CloudComfort",
+                    "40",
+                    "2-3-2"
+                  ],
+                  [
+                    "CloudSaver",
+                    "210",
+                    "3-3-3"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Cabin Class Features",
+            "level": 2,
+            "location": {
+              "line": 24,
+              "heading": "Boeing 787 Dreamliner – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. CloudLux (First Class)",
+                "level": 3,
+                "location": {
+                  "line": 26,
+                  "heading": "Cabin Class Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 27,
+                      "heading": "1. CloudLux (First Class)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: 180° lie-flat suites with privacy doors",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Amenities: Personal wardrobe, luxury amenity kit, plush duvet & pillow",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Entertainment: 22-inch HD screen, noise-cancelling headphones",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dining: Gourmet à la carte dining, exclusive fine wines & spirits",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Other: Priority boarding, chauffeur service (select routes), access to CloudWay 24 First Lounge",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. CloudElite (Business Class)",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Cabin Class Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 34,
+                      "heading": "2. CloudElite (Business Class)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: Full-flat beds, direct aisle access",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Amenities: Premium bedding, enhanced amenity kit",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Entertainment: 18-inch HD touch screen, premium headphones",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dining: Multi-course menu, curated beverage selection",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Other: Priority check-in, lounge access",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. CloudComfort (Premium Economy)",
+                "level": 3,
+                "location": {
+                  "line": 40,
+                  "heading": "Cabin Class Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 41,
+                      "heading": "3. CloudComfort (Premium Economy)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: Wider seats, extra legroom (38” pitch), deeper recline",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Amenities: Amenity kit, plush blanket & pillow",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Entertainment: 13-inch personal screen",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dining: Upgraded meal selection, complimentary beverage service",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Other: Priority boarding",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. CloudSaver (Economy)",
+                "level": 3,
+                "location": {
+                  "line": 47,
+                  "heading": "Cabin Class Features"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "4. CloudSaver (Economy)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Seating: Ergonomically-designed seats (31–32” pitch)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Amenities: Standard bedding, basic amenity kit on long-haul",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Entertainment: 10-inch personal screen with on-demand movies, TV, games",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dining: Complimentary meals & snacks, beverage service",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Additional Onboard Features",
+            "level": 2,
+            "location": {
+              "line": 55,
+              "heading": "Boeing 787 Dreamliner – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 57,
+                  "heading": "Additional Onboard Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "High-speed Wi-Fi connectivity (paid and complimentary plans by class)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "USB and universal power outlets in all cabins",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mood lighting and improved cabin air quality",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Extra-large, dimmable windows",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 64,
+                  "heading": "Additional Onboard Features"
+                },
+                "text": "For more details and to book your CloudWay 24 Dreamliner experience, visit CloudWay24.com (https://www.CloudWay24.com) or use the CloudWay 24 mobile app."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

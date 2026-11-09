@@ -1,0 +1,814 @@
+{
+  "doc_id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7",
+  "doc_key": [
+    "dept_of_philosophy_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Philosophy_catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Philosophy",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Course Catalog 2024–2025",
+                "level": 3,
+                "location": {
+                  "line": 3,
+                  "heading": "Department of Philosophy"
+                },
+                "blocks": [],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 9,
+                  "heading": "Overview"
+                },
+                "text": "The Department of Philosophy at Cendara University offers a rich curriculum for B.A. and M.A. students, emphasizing rigorous analysis in logic, ethics, epistemology, and the history of philosophy. Our program is designed to prepare students for graduate study, teaching, or careers requiring critical thought, communication, and ethical reasoning."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Course Listings",
+            "level": 2,
+            "location": {
+              "line": 13,
+              "heading": "Cendara University"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "PHIL 101: Introduction to Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 15,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 17,
+                      "heading": "PHIL 101: Introduction to Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nA broad introduction to central questions in philosophy, including the nature of reality, the limits of knowledge, morality, free will, and the existence of God. Readings include both classical and contemporary philosophers. This course provides essential tools for analytical reading and writing.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 120: Introduction to Logic",
+                "level": 3,
+                "location": {
+                  "line": 24,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "PHIL 120: Introduction to Logic"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nCovers the fundamentals of formal reasoning and logical argument. Topics include categorical and propositional logic, logical fallacies, and techniques for evaluating arguments in philosophical and real-world contexts.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 201: Ancient Greek Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 33,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 35,
+                      "heading": "PHIL 201: Ancient Greek Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 101 or consent of instructor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nA study of the major philosophers of ancient Greece, such as Socrates, Plato, and Aristotle. Emphasis is placed on their approaches to metaphysics, political philosophy, and ethics within their historical context.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 210: Introduction to Ethics",
+                "level": 3,
+                "location": {
+                  "line": 42,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 44,
+                      "heading": "PHIL 210: Introduction to Ethics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAn exploration of fundamental theories in moral philosophy including utilitarianism, Kantian deontology, and virtue ethics. Students will apply ethical frameworks to contemporary moral dilemmas.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 218: Philosophy of Mind",
+                "level": 3,
+                "location": {
+                  "line": 51,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 53,
+                      "heading": "PHIL 218: Philosophy of Mind"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 101 or sophomore standing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nInvestigates the mind-body problem, consciousness, mental representation, and theories of personal identity. Included are discussions of both classical and current debates in philosophy of mind.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 247: Epistemology",
+                "level": 3,
+                "location": {
+                  "line": 60,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 62,
+                      "heading": "PHIL 247: Epistemology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 101",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAn examination of the theory of knowledge, focusing on justification, skepticism, the sources of belief, and the definition of knowledge. Classical and contemporary readings are assigned.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 260: Philosophy of Science",
+                "level": 3,
+                "location": {
+                  "line": 69,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 71,
+                      "heading": "PHIL 260: Philosophy of Science"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 101 or completion of one science course",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAddresses foundational issues in the philosophy of science, including scientific explanation, theory change, and the demarcation problem. Case studies are drawn from historical and modern science.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 302: Modern Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 78,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 80,
+                      "heading": "PHIL 302: Modern Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 4",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 201",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExamines the period from Descartes to Kant, including Hobbes, Locke, Hume, and Rousseau. Focuses on rationalism and empiricism, and the Enlightenment’s impact on contemporary thought.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 325: Ethics of Technology",
+                "level": 3,
+                "location": {
+                  "line": 87,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 89,
+                      "heading": "PHIL 325: Ethics of Technology"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 210 or junior standing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nExplores ethical issues surrounding current and emerging technologies, such as artificial intelligence, privacy, and biotechnology. Students engage in critical discussion and policy analysis.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 341: Existentialism",
+                "level": 3,
+                "location": {
+                  "line": 96,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 98,
+                      "heading": "PHIL 341: Existentialism"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 101",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nFocuses on existentialist thinkers like Kierkegaard, Nietzsche, Sartre, and de Beauvoir. Topics include authenticity, freedom, absurdity, and the meaning of life.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 370: Asian Philosophies",
+                "level": 3,
+                "location": {
+                  "line": 105,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 107,
+                      "heading": "PHIL 370: Asian Philosophies"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 101 or consent of instructor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nA survey of major philosophical traditions in India, China, and Japan. Examines texts from the Upanishads, Confucius, Laozi, Nagarjuna, Dogen, and others, emphasizing cross-cultural philosophical exchange.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 385: Political Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 114,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 116,
+                      "heading": "PHIL 385: Political Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 101 and PHIL 201",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nInvestigates theories of justice, rights, and social contract from Plato to Rawls. Considers foundational debates about authority, freedom, and civic responsibility.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 400: Senior Seminar",
+                "level": 3,
+                "location": {
+                  "line": 123,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 124,
+                      "heading": "PHIL 400: Senior Seminar"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Senior standing in Philosophy major",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nA capstone course requiring students to conduct independent research, participate in focused seminars, and defend original philosophical arguments in writing and oral presentation.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 410: Advanced Topics in Contemporary Ethics",
+                "level": 3,
+                "location": {
+                  "line": 131,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 133,
+                      "heading": "PHIL 410: Advanced Topics in Contemporary Ethics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: PHIL 210 and junior standing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIn-depth examination of select issues in contemporary moral philosophy, such as ethical relativism, virtue theory, moral responsibility, and applied problems (e.g., animal rights, environmental ethics).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 445: Graduate Proseminar in Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 140,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 142,
+                      "heading": "PHIL 445: Graduate Proseminar in Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Admission to M.A. in Philosophy or permission",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nRequired seminar for new M.A. students introducing research methodologies, advanced philosophical writing, and professional development. Includes supervised discussion of classic texts across philosophical subfields.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 503: Seminar in Analytic Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 149,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 151,
+                      "heading": "PHIL 503: Seminar in Analytic Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing or consent of instructor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nGraduate seminar on key texts, thinkers, and debates in the analytic tradition, focusing on language, logic, and the philosophy of mathematics.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 514: Seminar in Phenomenology and Hermeneutics",
+                "level": 3,
+                "location": {
+                  "line": 158,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 160,
+                      "heading": "PHIL 514: Seminar in Phenomenology and Hermeneutics"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nAdvanced seminar covering Husserl, Heidegger, Gadamer, and others. Emphasizes phenomenological method and its applications to interpretation and meaning.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "PHIL 560: Research in Philosophy",
+                "level": 3,
+                "location": {
+                  "line": 167,
+                  "heading": "Course Listings"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 169,
+                      "heading": "PHIL 560: Research in Philosophy"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Credits: 3–6",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: Graduate standing and department approval",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Description:\nIndependent or faculty-supervised research leading to a substantial paper or project. Research topics must be approved by departmental faculty.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Summary Table",
+            "level": 2,
+            "location": {
+              "line": 176,
+              "heading": "Cendara University"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 178,
+                  "heading": "Summary Table"
+                },
+                "header": [
+                  "Course",
+                  "Title",
+                  "Credits",
+                  "Prerequisites"
+                ],
+                "rows": [
+                  [
+                    "PHIL 101",
+                    "Introduction to Philosophy",
+                    "3",
+                    "None"
+                  ],
+                  [
+                    "PHIL 120",
+                    "Introduction to Logic",
+                    "3",
+                    "None"
+                  ],
+                  [
+                    "PHIL 201",
+                    "Ancient Greek Philosophy",
+                    "4",
+                    "PHIL 101 or consent of instructor"
+                  ],
+                  [
+                    "PHIL 210",
+                    "Introduction to Ethics",
+                    "3",
+                    "None"
+                  ],
+                  [
+                    "PHIL 218",
+                    "Philosophy of Mind",
+                    "3",
+                    "PHIL 101 or sophomore standing"
+                  ],
+                  [
+                    "PHIL 247",
+                    "Epistemology",
+                    "3",
+                    "PHIL 101"
+                  ],
+                  [
+                    "PHIL 260",
+                    "Philosophy of Science",
+                    "3",
+                    "PHIL 101 or one science course"
+                  ],
+                  [
+                    "PHIL 302",
+                    "Modern Philosophy",
+                    "4",
+                    "PHIL 201"
+                  ],
+                  [
+                    "PHIL 325",
+                    "Ethics of Technology",
+                    "3",
+                    "PHIL 210 or junior standing"
+                  ],
+                  [
+                    "PHIL 341",
+                    "Existentialism",
+                    "3",
+                    "PHIL 101"
+                  ],
+                  [
+                    "PHIL 370",
+                    "Asian Philosophies",
+                    "3",
+                    "PHIL 101 or consent of instructor"
+                  ],
+                  [
+                    "PHIL 385",
+                    "Political Philosophy",
+                    "3",
+                    "PHIL 101 and PHIL 201"
+                  ],
+                  [
+                    "PHIL 400",
+                    "Senior Seminar",
+                    "3",
+                    "Senior standing in Philosophy major"
+                  ],
+                  [
+                    "PHIL 410",
+                    "Advanced Topics in Contemporary Ethics",
+                    "3",
+                    "PHIL 210 and junior standing"
+                  ],
+                  [
+                    "PHIL 445",
+                    "Graduate Proseminar in Philosophy",
+                    "3",
+                    "Admission to M.A. or permission"
+                  ],
+                  [
+                    "PHIL 503",
+                    "Seminar in Analytic Philosophy",
+                    "3",
+                    "Graduate standing or consent of instructor"
+                  ],
+                  [
+                    "PHIL 514",
+                    "Seminar in Phenomenology and Hermeneutics",
+                    "3",
+                    "Graduate standing"
+                  ],
+                  [
+                    "PHIL 560",
+                    "Research in Philosophy",
+                    "3–6",
+                    "Graduate standing and department approval"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 201,
+                  "heading": "Summary Table"
+                },
+                "text": "For more information, consult the Department of Philosophy academic adviser or visit our website at [philosophy.cendara.edu]."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

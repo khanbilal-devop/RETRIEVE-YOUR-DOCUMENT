@@ -1,0 +1,324 @@
+{
+  "doc_id": "35d476edd0ba1f2e944cca0d165246d26d9cdacdf0bac06da0848854dd92c5e8",
+  "doc_key": [
+    "salary saving account"
+  ],
+  "path": "ZX Bank/md/Salary Saving Account.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank Ltd. – Salary Saving Account",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank Ltd. – Salary Saving Account"
+            },
+            "text": "Welcome to the ZX Bank Salary Saving Account! This specially designed account brings salaried professionals a host of features, flexibility, and exclusive benefits. Discover everything you need to know about account features, the application process, minimum balance requirements, and the exclusive Savings Account Kit you receive upon opening your account."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Salary Saving Account Features",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank Ltd. – Salary Saving Account"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "Salary Saving Account Features"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Zero Balance Facility: No need to maintain a minimum balance — enjoy complete convenience.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Instant Account Opening: Open your account instantly via digital onboarding or at any branch.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Free Debit Card: Complimentary international debit card for secure and easy transactions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Auto Sweep Fixed Deposit: Automatic transfer of surplus funds into Fixed Deposits for higher returns.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Unlimited Fund Transfers: Free and unlimited fund transfers via IMPS, NEFT, RTGS, and UPI.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Preferential Loan Rates: Special interest rates on personal loans, home loans, and car loans.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bill Payments & Recharge: Pay utility bills and recharge mobile/DTH instantly via the ZX Bank app.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "AI-powered Banking Assistant: 24x7 help from Zia, your smart banking assistant.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Apply for a Salary Saving Account",
+            "level": 2,
+            "location": {
+              "line": 20,
+              "heading": "ZX Bank Ltd. – Salary Saving Account"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Online Steps",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "How to Apply for a Salary Saving Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 23,
+                      "heading": "Online Steps"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Visit www.zxbank.asia (https://www.zxbank.asia) or Download the ZX Bank Asia Mobile App.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Click on “Open Salary Saving Account”.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Complete e-KYC verification: Upload Aadhaar, PAN, and latest salary slip.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fill out the application form: Provide basic and employment details.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Review and submit: Verify details and submit application. Receive account number instantly.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Branch Process",
+                "level": 3,
+                "location": {
+                  "line": 29,
+                  "heading": "How to Apply for a Salary Saving Account"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "Branch Process"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Visit your nearest ZX Bank branch.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Ask for the Salary Saving Account Opening Form.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Submit documents: ID proof, address proof, PAN card, and salary slip.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Complete biometric/KYC process with bank representative.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Receive account kit and activation confirmation.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Minimum Balance Requirement",
+            "level": 2,
+            "location": {
+              "line": 38,
+              "heading": "ZX Bank Ltd. – Salary Saving Account"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 40,
+                  "heading": "Minimum Balance Requirement"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Zero Minimum Balance!",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Salary Saving Account holders enjoy a true zero-balance facility, with no penalties for non-maintenance.",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Savings Account Welcome Kit",
+            "level": 2,
+            "location": {
+              "line": 45,
+              "heading": "ZX Bank Ltd. – Salary Saving Account"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 47,
+                  "heading": "Savings Account Welcome Kit"
+                },
+                "text": "All new Salary Saving Account holders receive an exclusive Savings Account Kit, which includes:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 49,
+                  "heading": "Savings Account Welcome Kit"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ZX Bank Branded Travel Bag",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Sturdy, stylish, and perfect for business or leisure trips.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "International Travel Adapter (4 Plugs, 150 Countries)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Seamlessly connect your devices worldwide",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Includes EU, UK, US, and AUS plugs",
+                    "depth": 1
+                  },
+                  {
+                    "text": "USB charging ports for convenience",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Welcome Letter & Account Documents",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Account number, debit card, and net banking credentials",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Debit Card",
+                    "depth": 0
+                  },
+                  {
+                    "text": "International validity and contactless features",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Help?",
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "ZX Bank Ltd. – Salary Saving Account"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 67,
+                  "heading": "Need Help?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Use the ZX Bank Asia Mobile App’s AI Assistant \"Zia\" for guided onboarding or queries.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Call customer helpline (number available on zxbank.asia (https://www.zxbank.asia))",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Visit any branch for personalized assistance.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Start your salary-led savings journey with ZX Bank and enjoy exclusive banking benefits and exciting gifts!",
+                "level": 3,
+                "location": {
+                  "line": 73,
+                  "heading": "Need Help?"
+                },
+                "blocks": [],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

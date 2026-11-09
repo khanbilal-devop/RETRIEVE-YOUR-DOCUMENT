@@ -1,0 +1,664 @@
+{
+  "doc_id": "a8319da059d3bf10b62995ef736771b426badc02e469d654857d601322779a5d",
+  "doc_key": [
+    "research_overview"
+  ],
+  "path": "Cendara University/md/research_overview.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Research Overview",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Cendara University Research Overview"
+            },
+            "text": "Cendara University is recognized for its dynamic research environment, promoting innovation, collaboration, and societal impact across diverse fields. The university maintains a portfolio of vibrant research centers, robust funding partnerships, prolific faculty scholarship, and a tradition of distinguished achievements."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Major Research Centers",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Cendara University Research Overview"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Center for Interdisciplinary Innovation (CII)",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Major Research Centers"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 10,
+                      "heading": "Center for Interdisciplinary Innovation (CII)"
+                    },
+                    "text": "Established: 2023\nDirector: Dr. Lucia Benton\nMission: Fostering entrepreneurship and cross-disciplinary solutions to challenges such as climate change, urban development, and digital transformation.\nCurrent Projects:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 14,
+                      "heading": "Center for Interdisciplinary Innovation (CII)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Urban Resilience Initiative (collaborative project with the City of Riverdale)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Adaptive Learning Technologies in Higher Education",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Community-Based Clean Water Solutions",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Cendara Institute for Biomedical Research (CIBR)",
+                "level": 3,
+                "location": {
+                  "line": 20,
+                  "heading": "Major Research Centers"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 21,
+                      "heading": "Cendara Institute for Biomedical Research (CIBR)"
+                    },
+                    "text": "Founded: 1997\nDirector: Dr. Sven Rahmani\nFocus Areas: Cancer biology, regenerative medicine, neurodegenerative disease.\nAffiliations: Cendara University Hospital; national pharmaceutical partners\nCurrent Projects:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "Cendara Institute for Biomedical Research (CIBR)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "“Genomic Approaches in Alzheimer’s Prevention” (NIH-funded)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Stem Cell Therapy for Type 1 Diabetes",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Collaborative Drug Discovery Grants with Lanton Pharmaceuticals",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Center for Global Studies (CGS)",
+                "level": 3,
+                "location": {
+                  "line": 32,
+                  "heading": "Major Research Centers"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 33,
+                      "heading": "Center for Global Studies (CGS)"
+                    },
+                    "text": "Established: 1998\nDirector: Prof. Ye-Jin Hwang\nResearch Priorities: Migration and diaspora, global public health, comparative education\nPrograms:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "Center for Global Studies (CGS)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "International policy analysis in partnership with the United Nations Development Programme",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Global Vaccine Outreach Assessment",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Transnational Education Models Study",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Santoro Digital Humanities Lab",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "Major Research Centers"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 44,
+                      "heading": "Santoro Digital Humanities Lab"
+                    },
+                    "text": "Founded: 2016\nDirector: Dr. Elliott Voss\nPurpose: Integration of digital tools and computational analysis into humanities research\nHighlights:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "Santoro Digital Humanities Lab"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Mapping Lost Languages Project (funded by Mellon Foundation)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Interactive Digital Oral Histories initiative",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Curation of Virtual Reality Literature Exhibits",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Center for Sustainable Futures",
+                "level": 3,
+                "location": {
+                  "line": 54,
+                  "heading": "Major Research Centers"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 55,
+                      "heading": "Center for Sustainable Futures"
+                    },
+                    "text": "Founded: 2010\nDirector: Dr. Anika Mbogo\nCore Research Themes: Renewable energy, climate adaptation, environmental policy\nFacilities: 300 kW Solar Array Testbed, Green Roofs Pilot Project\nFlagship Initiatives:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 60,
+                      "heading": "Center for Sustainable Futures"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Smart Microgrid Demonstration (Department of Energy/DOE grant)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Urban Biodiversity Index",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Regional Clean Energy Policy Forum",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Research Funding Sources",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "Cendara University Research Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 68,
+                  "heading": "Research Funding Sources"
+                },
+                "text": "Cendara University secures significant research funding from diverse public and private sources. In FY2023-24, total competitive research funding reached $53.8 million. Key sources include:"
+              }
+            ],
+            "sections": [
+              {
+                "title": "Government and Public Agencies",
+                "level": 3,
+                "location": {
+                  "line": 70,
+                  "heading": "Research Funding Sources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 71,
+                      "heading": "Government and Public Agencies"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "National Institutes of Health (NIH): Multi-year awards for genomics, public health, and neuroscience (total $14.9M)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "National Science Foundation (NSF): Grants supporting engineering education and computational social science ($9.3M)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department of Energy (DOE): Funding for sustainability and renewable energy research ($6.7M)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "State of Lendera Research Council: Ongoing support for emerging faculty and seed research ($2.1M)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Private Foundations & Industry",
+                "level": 3,
+                "location": {
+                  "line": 76,
+                  "heading": "Research Funding Sources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 77,
+                      "heading": "Private Foundations & Industry"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Mellon Foundation: Digital humanities innovation ($1.8M)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Gardner Health Trust: Biomedical device research ($2.4M)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lanton Pharmaceuticals, Inc.: Joint neuropharmacology research agreements ($3.2M)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "EcoPower Solutions: Industry partnership for campus microgrid testbed ($1.1M)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "University & Alumni Support",
+                "level": 3,
+                "location": {
+                  "line": 82,
+                  "heading": "Research Funding Sources"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 83,
+                      "heading": "University & Alumni Support"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Cendara Innovation Fund: Awarding internal research seed grants ($2.7M)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Alumni Endowed Research Chairs: Five chairs funded in environmental studies, engineering, education, business, and biology",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Faculty Publications and Scholarly Output",
+            "level": 2,
+            "location": {
+              "line": 88,
+              "heading": "Cendara University Research Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 90,
+                  "heading": "Faculty Publications and Scholarly Output"
+                },
+                "text": "Cendara faculty are actively engaged in producing influential scholarship across all major disciplines. In 2023 alone, faculty authored:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 92,
+                  "heading": "Faculty Publications and Scholarly Output"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "412 peer-reviewed journal articles",
+                    "depth": 0
+                  },
+                  {
+                    "text": "19 scholarly books and monographs",
+                    "depth": 0
+                  },
+                  {
+                    "text": "34 book chapters",
+                    "depth": 0
+                  },
+                  {
+                    "text": "77 conference proceedings papers",
+                    "depth": 0
+                  },
+                  {
+                    "text": "9 patents filed",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 98,
+                  "heading": "Faculty Publications and Scholarly Output"
+                },
+                "text": "Recent Notable Publications:"
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 100,
+                  "heading": "Faculty Publications and Scholarly Output"
+                },
+                "header": [
+                  "Author(s)",
+                  "Title",
+                  "Journal/Publisher",
+                  "Year"
+                ],
+                "rows": [
+                  [
+                    "Dr. Maya Lin & Dr. Sunil Nair",
+                    "“Adaptive Solar Grid Optimization in Urban Campuses”",
+                    "Energy & Environment",
+                    "2024"
+                  ],
+                  [
+                    "Prof. Yasmin Daoud",
+                    "Narrating the Nation: Migration Memory in Modern Literature",
+                    "University of Holden Press",
+                    "2023"
+                  ],
+                  [
+                    "Dr. Haruto Sakamoto",
+                    "“Neuronal Pathways in Early Alzheimer’s: A Longitudinal Study”",
+                    "Journal of Neuroscience Advances",
+                    "2024"
+                  ],
+                  [
+                    "Dr. Lana Okoro & team",
+                    "“Virtual Reality for Cultural Preservation: A Case Study”",
+                    "Digital Humanities Quarterly",
+                    "2023"
+                  ],
+                  [
+                    "Dr. Felix Olsen",
+                    "“Understanding Stem Cell Differentiation in Diabetic Models”",
+                    "Cell Regeneration",
+                    "2023"
+                  ],
+                  [
+                    "Prof. Marla Hayes",
+                    "“The Impact of Microgrid Policies on Regional Energy Markets”",
+                    "Journal of Policy Research",
+                    "2023"
+                  ],
+                  [
+                    "Dr. Emiliano Vidal",
+                    "“Smart Wearable Sensors for Public Health Surveillance”",
+                    "Biomedical Engineering Letters",
+                    "2024"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Scholarly Achievements",
+            "level": 2,
+            "location": {
+              "line": 112,
+              "heading": "Cendara University Research Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 114,
+                  "heading": "Scholarly Achievements"
+                },
+                "text": "Cendara University faculty and research teams have made a mark through high-impact discoveries, awards, and leadership in academic and public forums."
+              }
+            ],
+            "sections": [
+              {
+                "title": "Recent Highlights (2022–2024):",
+                "level": 4,
+                "location": {
+                  "line": 116,
+                  "heading": "Scholarly Achievements"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 118,
+                      "heading": "Recent Highlights (2022–2024):"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dr. Haruto Sakamoto awarded the 2023 Lendera Prize in Neuroscience for breakthrough Alzheimer’s research.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Urban Resilience Initiative (CII) awarded silver in the American Planning Association’s 2024 Innovation Awards.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Maya Lin named to the National Academy of Engineering, 2024 cohort.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prof. Yasmin Daoud’s book Narrating the Nation selected as a finalist for the 2023 Griffin Literary Award.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Center for Sustainable Futures led Cendara to rank #9 in the 2023 Green Campuses Index.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Santoro Digital Humanities Lab’s “Mapping Lost Languages” recognized as a 2023 Digital Heritage Project of Distinction by the Digital Humanities Council.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Emily Shong elected President of the Lendera State Psychological Association.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dr. Anika Mbogo appointed to the National Science Foundation’s Renewable Energy Advisory Panel, 2023-26.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Patents Awarded:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Rapid Saliva-Based COVID-19 Test Kit (CIBR, 2022)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Microgrid Control Algorithm for Distributed Solar Arrays (2023)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Augmented Reality Fieldwork Platform for Education (Digital Humanities, 2023)",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Research Culture and Support",
+            "level": 2,
+            "location": {
+              "line": 133,
+              "heading": "Cendara University Research Overview"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 135,
+                  "heading": "Research Culture and Support"
+                },
+                "text": "Cendara University cultivates research through:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 137,
+                  "heading": "Research Culture and Support"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Annual Research Week (April): Showcases student and faculty projects, hosts public lectures, and sponsors the “Cendara Prize for Undergraduate Research.”",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Competitive internal research grants and mentoring for junior faculty.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Graduate Research Fellowships (41 awarded in 2023–24).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Active support from the Office of Research and Innovation, including workshops on grant writing, ethics, and public engagement.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Notable Recent Events",
+            "level": 2,
+            "location": {
+              "line": 144,
+              "heading": "Cendara University Research Overview"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 146,
+                  "heading": "Notable Recent Events"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "2023: Inaugural Cendara Interdisciplinary Research Symposium attracted 400+ participants, including representatives from academia, industry, and government.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2024: Launch of the “Global Health Futures Lecture Series” by CGS, featuring Nobel laureate Dr. Maria Sosa.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "2023: “Innovation in Action” Hackathon at CII—teams developed solutions addressing urban heat islands, accessible public transit, and disaster recovery communications.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 152,
+                  "heading": "Notable Recent Events"
+                },
+                "text": "Cendara University’s research enterprise is propelled by a culture of curiosity, diversity, and community-focused innovation. As it continues to expand its research footprint, the university remains steadfast in its goal: translating knowledge into real-world impact for the 21st century and beyond."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

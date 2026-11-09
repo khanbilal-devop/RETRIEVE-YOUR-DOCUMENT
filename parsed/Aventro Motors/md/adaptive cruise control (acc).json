@@ -1,0 +1,425 @@
+{
+  "doc_id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940",
+  "doc_key": [
+    "adaptive cruise control (acc)"
+  ],
+  "path": "Aventro Motors/md/Adaptive Cruise Control (ACC).md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Adaptive Cruise Control (ACC): What is it & How Does it Work?",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Overview",
+            "level": 2,
+            "location": {
+              "line": 3,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 5,
+                  "heading": "Overview"
+                },
+                "text": "Adaptive Cruise Control (ACC) is an advanced driver assistance system (ADAS) designed to automatically adjust a vehicle’s cruising speed to maintain a safe following distance from vehicles ahead. It’s an evolution of traditional cruise control, offering greater safety, comfort, and convenience—especially in highway and stop-and-go traffic scenarios."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "What is Adaptive Cruise Control?",
+            "level": 2,
+            "location": {
+              "line": 9,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 11,
+                  "heading": "What is Adaptive Cruise Control?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Traditional Cruise Control: Maintains a set vehicle speed as chosen by the driver.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Adaptive Cruise Control: Uses sensors to detect vehicles ahead and can increase, decrease, or maintain speed based on traffic conditions.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Key Functions",
+                "level": 3,
+                "location": {
+                  "line": 14,
+                  "heading": "What is Adaptive Cruise Control?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 16,
+                      "heading": "Key Functions"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Automatic Speed Regulation\nKeeps the car traveling at a set speed until it detects a slower-moving vehicle in its path.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Distance Monitoring & Maintenance\nConstantly monitors the distance to the vehicle in front and adjusts speed to maintain a safe, pre-set gap.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Automatic Braking and Acceleration\nDecelerates when a slower vehicle is detected, and speeds back up to the original set speed when the lane clears.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Stop & Go Functionality (in advanced systems)\nIn heavy traffic, can bring the car to a complete stop and resume motion as traffic moves.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "How Does Adaptive Cruise Control Work?",
+            "level": 2,
+            "location": {
+              "line": 30,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Main Components",
+                "level": 3,
+                "location": {
+                  "line": 32,
+                  "heading": "How Does Adaptive Cruise Control Work?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 34,
+                      "heading": "Main Components"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Radar Sensors:\nTypically mounted in the grille or front bumper to detect vehicles ahead and measure their speed and distance.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lidar Sensors or Cameras:\nUsed in some systems for enhanced object detection and lane tracking.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ECU (Electronic Control Unit):\nProcesses sensor data and commands the throttle and brakes as needed.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Working Principle",
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "How Does Adaptive Cruise Control Work?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 45,
+                      "heading": "Working Principle"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Activation\nThe driver activates ACC and sets a desired speed and following distance (often via steering wheel controls).",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Monitoring\nThe system continuously scans the road ahead using radar, lidar, and/or cameras.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Detection",
+                        "depth": 0
+                      },
+                      {
+                        "text": "If the road ahead is clear, ACC maintains the set speed.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "If a slower vehicle is detected within the pre-set following distance, ACC automatically reduces vehicle speed by controlling throttle and brakes.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Control",
+                        "depth": 0
+                      },
+                      {
+                        "text": "If the vehicle ahead speeds up, ACC accelerates (up to the set speed limit).",
+                        "depth": 1
+                      },
+                      {
+                        "text": "If the vehicle ahead slows down or stops, ACC decelerates and—if equipped with stop & go—can bring the car to a halt.",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Resuming\nThe system accelerates back to the set speed once the lane ahead is clear.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Example Scenario",
+                "level": 3,
+                "location": {
+                  "line": 62,
+                  "heading": "How Does Adaptive Cruise Control Work?"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 64,
+                      "heading": "Example Scenario"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "You set ACC to 100 km/h and the following distance to 2 seconds.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "A car merges ahead traveling at 80 km/h.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ACC detects the vehicle and smoothly reduces your speed to maintain a safe gap.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "When the lane ahead is clear, ACC returns your car to 100 km/h.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Advantages",
+            "level": 2,
+            "location": {
+              "line": 71,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 73,
+                  "heading": "Advantages"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Safety: Reduces risk of rear-end collisions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Convenience: Less driver fatigue on long trips and in traffic jams.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Efficiency: Optimized speed and braking can improve fuel economy.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Limitations",
+            "level": 2,
+            "location": {
+              "line": 77,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 79,
+                  "heading": "Limitations"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Sensor Limitations: May be affected by weather conditions, dirt, or obstructions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Not a Substitute for Attention: The driver must remain alert and ready to take control at all times.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Terminology",
+            "level": 2,
+            "location": {
+              "line": 82,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 84,
+                  "heading": "Terminology"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "ACC: Adaptive Cruise Control",
+                    "depth": 0
+                  },
+                  {
+                    "text": "ADAS: Advanced Driver Assistance Systems",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Summary Table",
+            "level": 2,
+            "location": {
+              "line": 89,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [
+              {
+                "type": "table",
+                "location": {
+                  "line": 91,
+                  "heading": "Summary Table"
+                },
+                "header": [
+                  "Feature",
+                  "Traditional Cruise Control",
+                  "Adaptive Cruise Control"
+                ],
+                "rows": [
+                  [
+                    "Maintains Set Speed",
+                    "Yes",
+                    "Yes"
+                  ],
+                  [
+                    "Senses Vehicles Ahead",
+                    "No",
+                    "Yes"
+                  ],
+                  [
+                    "Adjusts Following Gap",
+                    "No",
+                    "Yes"
+                  ],
+                  [
+                    "Automatic Braking",
+                    "No",
+                    "Yes"
+                  ],
+                  [
+                    "Resumes after Stopping",
+                    "No",
+                    "In advanced ACC"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "References",
+            "level": 2,
+            "location": {
+              "line": 101,
+              "heading": "Adaptive Cruise Control (ACC): What is it & How Does it Work?"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 103,
+                  "heading": "References"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "NHTSA: Adaptive Cruise Control (https://www.nhtsa.gov/equipment/adaptive-cruise-control)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SAE International: ADAS Features Guide (https://www.sae.org)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Vehicle Owner’s Manuals (Various Manufacturers)",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

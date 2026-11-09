@@ -1,0 +1,358 @@
+{
+  "doc_id": "de3b0541f5e236d1361f388efed4245170cb51698f9bb711a574ade3a0a66ee5",
+  "doc_key": [
+    "lounge access"
+  ],
+  "path": "CloudWay-24/md/Lounge Access.md",
+  "company": "CloudWay-24",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "CloudWay 24 Lounge Access Guide",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "CloudWay 24 Lounge Access Guide"
+            },
+            "text": "CloudWay 24 offers exclusive lounge access for our premium guests, ensuring a comfortable and luxurious pre-flight experience at our main hubs and select international airports. Lounge access is designed to match the level of cabin class you travel in, offering everything from gourmet dining and private workspaces to shower facilities and entertainment."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Lounge Access by Cabin Class",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "CloudWay 24 Lounge Access Guide"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. CloudLux (First Class)",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Lounge Access by Cabin Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 10,
+                      "heading": "1. CloudLux (First Class)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Access: Complimentary",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Guest Policy: 1 complimentary guest",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lounge Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Private suites",
+                        "depth": 1
+                      },
+                      {
+                        "text": "À la carte gourmet dining",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Premium beverages & barista service",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Spa and shower facilities",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Private meeting rooms",
+                        "depth": 1
+                      },
+                      {
+                        "text": "High-speed Wi-Fi",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Entertainment lounge",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. CloudElite (Business Class)",
+                "level": 3,
+                "location": {
+                  "line": 23,
+                  "heading": "Lounge Access by Cabin Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "2. CloudElite (Business Class)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Access: Complimentary",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Guest Policy: No guest (unless SkyPoints 24 Elite status)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lounge Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Buffet dining & snacks",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Full-service bar",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Shower facilities",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Quiet zones for relaxation",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Business center & work pods",
+                        "depth": 1
+                      },
+                      {
+                        "text": "High-speed Wi-Fi",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. CloudComfort (Premium Economy)",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "Lounge Access by Cabin Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 37,
+                      "heading": "3. CloudComfort (Premium Economy)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Access: Paid Access or Complimentary for SkyPoints 24 Gold & higher tiers",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Paid Access: Available at select airports, subject to capacity",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Lounge Features:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Light refreshments & snacks",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Beverages (non-alcoholic + select alcoholic)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Wi-Fi & charging stations",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Lounging area with newspapers and magazines",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4. CloudSaver (Economy)",
+                "level": 3,
+                "location": {
+                  "line": 47,
+                  "heading": "Lounge Access by Cabin Class"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 48,
+                      "heading": "4. CloudSaver (Economy)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Access: Not included",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Eligibility:",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Available for purchase (subject to availability)",
+                        "depth": 1
+                      },
+                      {
+                        "text": "Complimentary for SkyPoints 24 Platinum members",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "How to Access",
+            "level": 2,
+            "location": {
+              "line": 55,
+              "heading": "CloudWay 24 Lounge Access Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 57,
+                  "heading": "How to Access"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Present valid same-day CloudWay 24 boarding pass for international flights at entrance.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "SkyPoints 24 Elite/Gold/Platinum members must present member card (digital/physical).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Location",
+            "level": 2,
+            "location": {
+              "line": 62,
+              "heading": "CloudWay 24 Lounge Access Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 64,
+                  "heading": "Location"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Lounges available at:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Mumbai (Chhatrapati Shivaji Maharaj International Airport)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Delhi (Indira Gandhi International Airport)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Bengaluru (Kempegowda International Airport)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Select international partner lounges worldwide",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Further Details",
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "CloudWay 24 Lounge Access Guide"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 74,
+                  "heading": "Further Details"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "For real-time lounge eligibility, guest policy, and access charges, check “Lounge Access” in the CloudWay24 App or visit CloudWay24.com (https://CloudWay24.com).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Lounge access policy may vary by airport and is subject to availability.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 79,
+                  "heading": "Further Details"
+                },
+                "text": "Experience seamless comfort even before you fly with CloudWay 24 lounges."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

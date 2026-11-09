@@ -1,0 +1,220 @@
+{
+  "doc_id": "2470bcb853d721e0daf43de336afbfe2a9c0beba00ece2bedf480ec4ced55366",
+  "doc_key": [
+    "how to open the door when the car key remote battery is dead"
+  ],
+  "path": "Aventro Motors/md/How to Open the Door When the Car Key Remote Battery is Dead.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "How to Open the Door When the Car Key Remote Battery is Dead",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "How to Open the Door When the Car Key Remote Battery is Dead"
+            },
+            "text": "If your Aventro Motors car key remote battery is dead and you're unable to unlock your car using the remote, you can still access your vehicle using the physical key. Follow these simple steps:"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Step-by-Step Instructions",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "How to Open the Door When the Car Key Remote Battery is Dead"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "1. Locate the Physical Key",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "Step-by-Step Instructions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 10,
+                      "heading": "1. Locate the Physical Key"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Most Aventro car key fobs have a hidden physical key.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Look for a release button or switch on your remote.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Slide or press the release to pull out the mechanical key from the remote.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Find the Key Slot on Your Car",
+                "level": 3,
+                "location": {
+                  "line": 14,
+                  "heading": "Step-by-Step Instructions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 15,
+                      "heading": "2. Find the Key Slot on Your Car"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Some models: The physical key slot is exposed and visible near the driver's door handle.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Other models: The key slot might be hidden under a cover on the door handle. Look for a small indent or slot.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Gently pry off the cover (if applicable) using the physical key or your fingernail.",
+                        "depth": 1
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Insert and Turn the Key",
+                "level": 3,
+                "location": {
+                  "line": 19,
+                  "heading": "Step-by-Step Instructions"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 20,
+                      "heading": "3. Insert and Turn the Key"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Insert the physical key into the keyhole.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Turn the key (usually clockwise) to unlock the door manually.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Additional Notes",
+            "level": 2,
+            "location": {
+              "line": 25,
+              "heading": "How to Open the Door When the Car Key Remote Battery is Dead"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 26,
+                  "heading": "Additional Notes"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Alarm: Some cars may trigger the alarm when opened manually. Don’t worry—once inside, place the key fob near the start/ignition button (if using push start) or insert it into the ignition to recognize the key and disarm the alarm.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Replace Remote Battery: As soon as possible, replace the battery in your key remote to restore full functionality.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "For help, visit your nearest Aventro Service Center (#service-center-locations) or call Aventro Motors at +91 124 1234567.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Need Assistance?",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "How to Open the Door When the Car Key Remote Battery is Dead"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 33,
+                  "heading": "Need Assistance?"
+                },
+                "text": "Contact Aventro Motors Support:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "Need Assistance?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Email: info@aventromotors.com",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Roadside Assistance: Available via customer care or your local service center",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 39,
+                  "heading": "Need Assistance?"
+                },
+                "text": "Stay prepared: Always know how to use your physical key for emergencies!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

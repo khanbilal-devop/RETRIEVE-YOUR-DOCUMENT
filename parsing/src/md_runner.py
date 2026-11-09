@@ -25,10 +25,7 @@ FORMAT = "md"
 # TEMPORARY: while we test, only these files are parsed. Add more companies and
 # files as needed. Set it to None to parse every Markdown file in the registry,
 # then delete it.
-SAMPLE_FILES: dict[str, list[str]] | None = {
-    "Aventro Motors": ["Pre-Owned Certified Cars.md"],
-    "Cendara University": ["dept_of_Curriclumn_Catalog.md", "financial_aid.md"],
-}
+SAMPLE_FILES: dict[str, list[str]] | None = None
 
 
 def count_blocks(section: dict) -> int:

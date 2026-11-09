@@ -1,0 +1,570 @@
+{
+  "doc_id": "04d194642959cd5718fa8086f2cc3d9cca0f38cc29b93cbd244094383fb5169a",
+  "doc_key": [
+    "student_exchange_program"
+  ],
+  "path": "Cendara University/md/student_exchange_program.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Affiliations & Exchange Programs",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "1. International University Partnerships",
+            "level": 2,
+            "location": {
+              "line": 5,
+              "heading": "Cendara University Affiliations & Exchange Programs"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 7,
+                  "heading": "1. International University Partnerships"
+                },
+                "text": "Cendara University maintains robust institutional affiliations with leading universities and educational organizations around the world. These partnerships facilitate academic collaboration, research initiatives, faculty exchanges, and student mobility."
+              }
+            ],
+            "sections": [
+              {
+                "title": "A. Active Affiliations",
+                "level": 3,
+                "location": {
+                  "line": 9,
+                  "heading": "1. International University Partnerships"
+                },
+                "blocks": [
+                  {
+                    "type": "table",
+                    "location": {
+                      "line": 11,
+                      "heading": "A. Active Affiliations"
+                    },
+                    "header": [
+                      "Partner Institution",
+                      "Country",
+                      "Type of Collaboration",
+                      "Year Initiated",
+                      "Key Areas"
+                    ],
+                    "rows": [
+                      [
+                        "Humboldt School of Technology",
+                        "Germany",
+                        "Student & Faculty Exchange",
+                        "2014",
+                        "Engineering, Informatics"
+                      ],
+                      [
+                        "Royal Institute of Social Sciences",
+                        "United Kingdom",
+                        "Research Consortium, Joint Seminars",
+                        "2017",
+                        "Sociology, Public Policy"
+                      ],
+                      [
+                        "East Asia University Consortium",
+                        "Japan, S. Korea",
+                        "Dual Degree Programs, Summer Schools",
+                        "2016",
+                        "Language, Business"
+                      ],
+                      [
+                        "Pontifica Universidad del Sur",
+                        "Chile",
+                        "Short-term Study Abroad, Joint Grants",
+                        "2019",
+                        "Environmental Science"
+                      ],
+                      [
+                        "Université de la Loire",
+                        "France",
+                        "Sabbatical Exchange, Workshops",
+                        "2013",
+                        "Humanities, Linguistics"
+                      ],
+                      [
+                        "Victoria State University",
+                        "Australia",
+                        "Semester Abroad, Joint Research Funds",
+                        "2015",
+                        "Marine Biology"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "B. Academic Networks",
+                "level": 3,
+                "location": {
+                  "line": 20,
+                  "heading": "1. International University Partnerships"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 22,
+                      "heading": "B. Academic Networks"
+                    },
+                    "text": "Cendara University is an active member of:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 24,
+                      "heading": "B. Academic Networks"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Global Education Connect (GEC): A network of 250+ universities fostering global teaching and learning innovation.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Consortium for Sustainability R&D: Focused on climate resilience and environmental sciences.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Intercollegiate Language Partners (ILP): Collaborative projects in translation, interpretation, and cross-cultural communication.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "2. Student Exchange Programs",
+            "level": 2,
+            "location": {
+              "line": 30,
+              "heading": "Cendara University Affiliations & Exchange Programs"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 32,
+                  "heading": "2. Student Exchange Programs"
+                },
+                "text": "Cendara University’s Office of International Affairs (OIA) manages a diverse portfolio of exchange opportunities for both inbound and outbound students."
+              }
+            ],
+            "sections": [
+              {
+                "title": "A. Outbound Exchange Programs",
+                "level": 3,
+                "location": {
+                  "line": 34,
+                  "heading": "2. Student Exchange Programs"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "Semester & Year-Long Exchanges",
+                    "level": 4,
+                    "location": {
+                      "line": 36,
+                      "heading": "A. Outbound Exchange Programs"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 38,
+                          "heading": "Semester & Year-Long Exchanges"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Eligibility: Fully enrolled undergraduate or graduate students, minimum GPA 3.0, language proficiency as required by host.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Destinations (2024/25 academic year):",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Humboldt School of Technology, Berlin (Engineering)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Royal Institute of Social Sciences, London (Political Science & Sociology)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Université de la Loire, Tours (French Studies, Philosophy)",
+                            "depth": 1
+                          },
+                          {
+                            "text": "Victoria State University, Melbourne (Environmental Sciences, Marine Biology)",
+                            "depth": 1
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "Summer Programs",
+                    "level": 4,
+                    "location": {
+                      "line": 45,
+                      "heading": "A. Outbound Exchange Programs"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 47,
+                          "heading": "Summer Programs"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "East Asia Cultural Immersion (Seoul, Tokyo): 6-week program featuring language courses, company visits, and cultural excursions.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Pontifica Universidad del Sur (Santiago): 4-week Sustainability and Community Action project.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "B. Inbound Exchange Opportunities",
+                "level": 3,
+                "location": {
+                  "line": 50,
+                  "heading": "2. Student Exchange Programs"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 52,
+                      "heading": "B. Inbound Exchange Opportunities"
+                    },
+                    "text": "Cendara University welcomes over 70 exchange students annually from partner institutions. The following services are provided:"
+                  },
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 54,
+                      "heading": "B. Inbound Exchange Opportunities"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Pre-arrival orientation",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dedicated exchange student housing in Sterling Residence Hall",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Academic advising and language support",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Peer mentorship and local culture introduction",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "3. Faculty & Researcher Exchange",
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "Cendara University Affiliations & Exchange Programs"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 63,
+                  "heading": "3. Faculty & Researcher Exchange"
+                },
+                "text": "Faculty and research staff at Cendara University have access to:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 65,
+                  "heading": "3. Faculty & Researcher Exchange"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Sabbatical Placement: Up to 2 semesters at Université de la Loire (Humanities Faculty) or Humboldt School of Technology (STEM departments).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Research Collaboration Grants: Joint funding with partner institutions for bi-annual themed workshops and collaborative research, e.g., the Royal Institute of Social Sciences' annual Urban Studies Colloquium.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Teaching Fellowships: Visiting faculty positions at East Asia University Consortium with curriculum development roles and teaching assignments.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Visiting Scholars Program",
+            "level": 2,
+            "location": {
+              "line": 71,
+              "heading": "Cendara University Affiliations & Exchange Programs"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 73,
+                  "heading": "4. Visiting Scholars Program"
+                },
+                "text": "The Visiting Scholars Program offers short-term residencies (2–12 months) for faculty and postdoctoral researchers affiliated with partner universities."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 75,
+                  "heading": "4. Visiting Scholars Program"
+                },
+                "text": "2023–2024 Recent Visiting Scholars:"
+              },
+              {
+                "type": "table",
+                "location": {
+                  "line": 77,
+                  "heading": "4. Visiting Scholars Program"
+                },
+                "header": [
+                  "Name",
+                  "Home Institution",
+                  "Field",
+                  "Duration",
+                  "Cendara Host Department"
+                ],
+                "rows": [
+                  [
+                    "Dr. Hanae Sakamoto",
+                    "East Asia University, Japan",
+                    "Linguistics",
+                    "Mar–Aug 2023",
+                    "Department of Modern Languages"
+                  ],
+                  [
+                    "Prof. Rohan Nambiar",
+                    "Victoria State University",
+                    "Marine Ecology",
+                    "Jan–Jun 2024",
+                    "School of Environmental Studies"
+                  ],
+                  [
+                    "Dr. Inés Villalobos",
+                    "Pontifica Universidad del Sur",
+                    "Urban Sociology",
+                    "Aug–Dec 2023",
+                    "Department of Sociology"
+                  ]
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. How to Apply",
+            "level": 2,
+            "location": {
+              "line": 85,
+              "heading": "Cendara University Affiliations & Exchange Programs"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 87,
+                  "heading": "5. How to Apply"
+                },
+                "text": "For Cendara University Students:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 89,
+                  "heading": "5. How to Apply"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Attend a mandatory Exchange Program Information Session (monthly, OIA Conference Room).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Consult with academic advisors for course and credit transfer planning.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit complete application and supporting materials (transcript, personal statement, recommendation letter) by March 1 (Fall) or October 1 (Spring).",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 93,
+                  "heading": "5. How to Apply"
+                },
+                "text": "For Inbound Students:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 95,
+                  "heading": "5. How to Apply"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Must be nominated by partner institution coordinator.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Submit online application via Cendara University OIA Portal.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Provide proof of English proficiency (TOEFL iBT ≥ 80 or IELTS ≥ 6.0 unless enrolled in English-medium program).",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 99,
+                  "heading": "5. How to Apply"
+                },
+                "text": "For Faculty/Researchers:"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 101,
+                  "heading": "5. How to Apply"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Contact departmental international liaison for available placements.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Prepare research proposal or teaching plan.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Attach CV and evidence of institutional support from home university.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Contact & Additional Information",
+            "level": 2,
+            "location": {
+              "line": 107,
+              "heading": "Cendara University Affiliations & Exchange Programs"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 109,
+                  "heading": "6. Contact & Additional Information"
+                },
+                "text": "Cendara University Office of International Affairs"
+              },
+              {
+                "type": "list",
+                "location": {
+                  "line": 111,
+                  "heading": "6. Contact & Additional Information"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Email: international.affairs@cendara.edu",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Phone: +1 (839) 452-0108",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Location: Hathaway Building, Room 210, Cendara University Main Campus",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Exchange Program Coordinator: Ms. Leila Campos",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Website: https://www.cendara.edu/international",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 119,
+                  "heading": "6. Contact & Additional Information"
+                },
+                "text": "For a complete list of partner institutions and detailed program guides, visit the Office of International Affairs or consult the Exchange Handbook (2024 edition)."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

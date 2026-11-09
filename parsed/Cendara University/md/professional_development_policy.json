@@ -1,0 +1,507 @@
+{
+  "doc_id": "f5d5ff066debc39e97a774ea2bb6bd09d31a8c1704254cc558da61ec1ebe39af",
+  "doc_key": [
+    "professional_development_policy"
+  ],
+  "path": "Cendara University/md/professional_development_policy.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Professional Development Policy",
+            "level": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 4,
+                  "heading": "Professional Development Policy"
+                },
+                "text": "Effective Date: September 1, 2023\nApproved by: University Council\nReview Date: September 1, 2026"
+              }
+            ],
+            "sections": [
+              {
+                "title": "1. Purpose",
+                "level": 3,
+                "location": {
+                  "line": 10,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 12,
+                      "heading": "1. Purpose"
+                    },
+                    "text": "Cendara University is committed to the ongoing professional and academic growth of its faculty and staff. This policy outlines the university’s provisions for training opportunities, conference attendance, and support for continuing education. It aims to foster a vibrant, informed, and highly skilled workforce aligned with the university’s mission of educational excellence."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2. Scope",
+                "level": 3,
+                "location": {
+                  "line": 16,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 18,
+                      "heading": "2. Scope"
+                    },
+                    "text": "This policy applies to all full-time and part-time academic staff, administrative personnel, and professional staff employed by Cendara University."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "3. Training Opportunities",
+                "level": 3,
+                "location": {
+                  "line": 22,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "3.1 Internal Training",
+                    "level": 4,
+                    "location": {
+                      "line": 24,
+                      "heading": "3. Training Opportunities"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 25,
+                          "heading": "3.1 Internal Training"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Workshops and Seminars: Regularly scheduled workshops and seminars are provided on campus covering topics including instructional technology, academic advising, research ethics, project management, and student engagement strategies.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Mandatory Training: All new employees are required to complete orientation, workplace safety, and diversity and inclusion modules within their first three months.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Leadership Development: Annual leadership programs are available for aspiring department chairs and administrative leaders.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "3.2 Access and Enrollment",
+                    "level": 4,
+                    "location": {
+                      "line": 29,
+                      "heading": "3. Training Opportunities"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 30,
+                          "heading": "3.2 Access and Enrollment"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Training calendars are posted each semester on the university’s Intranet.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Enrollment is on a first-come, first-served basis, with priority given to staff whose roles directly align with the subject matter.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Employees may request specific training relevant to their duties through their department head.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "4. Conference Attendance",
+                "level": 3,
+                "location": {
+                  "line": 36,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "4.1 Eligibility",
+                    "level": 4,
+                    "location": {
+                      "line": 38,
+                      "heading": "4. Conference Attendance"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 39,
+                          "heading": "4.1 Eligibility"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "All academic and administrative staff are eligible to apply for funding to attend professional conferences, symposia, or workshops relevant to their roles or departmental objectives.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Each employee may receive funding for up to two (2) conferences per academic year, subject to budget limitations.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "4.2 Application Process",
+                    "level": 4,
+                    "location": {
+                      "line": 42,
+                      "heading": "4. Conference Attendance"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 43,
+                          "heading": "4.2 Application Process"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Submission: Complete the Conference Funding Application form and submit it to the Office of Academic Affairs at least eight weeks prior to the event.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Supporting Documents: Applications should include a conference agenda, statement of purpose, and estimated budget.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Approval: Applications are reviewed monthly by the Professional Development Committee; decisions are communicated within 14 business days.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "4.3 Covered Expenses",
+                    "level": 4,
+                    "location": {
+                      "line": 47,
+                      "heading": "4. Conference Attendance"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 48,
+                          "heading": "4.3 Covered Expenses"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Registration fees",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Economy class travel (rail or air)",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Standard accommodation",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Daily meal allowance (maximum $60 per day)",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "4.4 Reporting Requirement",
+                    "level": 4,
+                    "location": {
+                      "line": 53,
+                      "heading": "4. Conference Attendance"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 54,
+                          "heading": "4.4 Reporting Requirement"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Upon return, attendees are required to submit a brief report summarizing key learnings and potential applications at Cendara University.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Attendees are encouraged to present a summary session or workshop within their department.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "5. Continuing Education Support",
+                "level": 3,
+                "location": {
+                  "line": 59,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "5.1 Tuition Reimbursement",
+                    "level": 4,
+                    "location": {
+                      "line": 61,
+                      "heading": "5. Continuing Education Support"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 62,
+                          "heading": "5.1 Tuition Reimbursement"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Eligible employees may apply for tuition reimbursement for accredited courses or certificate programs that relate to their University roles.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Up to 75% of tuition costs may be reimbursed per academic year, not exceeding $6,000 annually.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Reimbursement is contingent upon successful completion with a minimum grade of B or equivalent.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "5.2 Study Leave",
+                    "level": 4,
+                    "location": {
+                      "line": 66,
+                      "heading": "5. Continuing Education Support"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 67,
+                          "heading": "5.2 Study Leave"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Staff pursuing a degree or certification may apply for paid study leave of up to 10 working days per academic year.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Requests should be submitted at least three months in advance and must be approved by the relevant Dean or Director.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "5.3 External Programs and Fellowships",
+                    "level": 4,
+                    "location": {
+                      "line": 70,
+                      "heading": "5. Continuing Education Support"
+                    },
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "location": {
+                          "line": 71,
+                          "heading": "5.3 External Programs and Fellowships"
+                        },
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "The university will consider financial and administrative support for staff selected for competitive external programs, fellowships, or advanced research opportunities.",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              },
+              {
+                "title": "6. Responsibilities",
+                "level": 3,
+                "location": {
+                  "line": 75,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 77,
+                      "heading": "6. Responsibilities"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Professional Development Committee: Reviews funding applications, monitors policy application, and evaluates annual development needs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Supervisors/Department Heads: Communicate opportunities, encourage participation, and assess individual training needs during annual performance reviews.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Employees: Proactively seek relevant opportunities, submit timely applications, and fulfill all reporting obligations.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "7. Funding and Budget",
+                "level": 3,
+                "location": {
+                  "line": 83,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 85,
+                      "heading": "7. Funding and Budget"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "The Professional Development Fund is allocated annually as part of the University’s operating budget, administered by the Office of Human Resources in consultation with Academic Affairs.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Funding requests exceeding $6,000 per person or special case consideration require Vice Chancellor approval.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "8. Review and Amendments",
+                "level": 3,
+                "location": {
+                  "line": 90,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 92,
+                      "heading": "8. Review and Amendments"
+                    },
+                    "text": "This policy is subject to review every three years or as required based on operational or legislative changes. Suggestions for amendment may be submitted to the Office of Human Resources."
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "9. Contact",
+                "level": 3,
+                "location": {
+                  "line": 96,
+                  "heading": "Professional Development Policy"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 98,
+                      "heading": "9. Contact"
+                    },
+                    "text": "For further information, contact:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 100,
+                      "heading": "9. Contact"
+                    },
+                    "text": "Office of Human Resources\nCendara University\nEmail: hr@cendara.edu\nPhone: (0458) 327-9811"
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

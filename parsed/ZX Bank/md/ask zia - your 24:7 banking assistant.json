@@ -1,0 +1,263 @@
+{
+  "doc_id": "536c2d7133d2a3dec87145559807e93b29667f785e6af025c50c1611eef2f296",
+  "doc_key": [
+    "ask zia - your 24:7 banking assistant"
+  ],
+  "path": "ZX Bank/md/ASK Zia – Your 24:7 Banking Assistant.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ASK Zia – Your 24/7 Banking Assistant",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ASK Zia – Your 24/7 Banking Assistant"
+            },
+            "text": "Meet ASK Zia, ZX Bank’s intelligent AI-powered chatbot, designed to make your banking experience seamless, simple, and secure. Now available on both our website and WhatsApp!"
+          }
+        ],
+        "sections": [
+          {
+            "title": "ASK Zia on Website",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ASK Zia – Your 24/7 Banking Assistant"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "ASK Zia on Website"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Instant Answers: Get real-time responses to your banking queries.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Smart Assistance: From locating branches and ATMs to product information (accounts, loans, credit cards, etc.).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Secure Service Requests: Request statements, check balances, or block lost cards—directly from your browser.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Product Comparisons: Let Zia guide you to the right savings account, loan, or card.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "24/7 Availability: Zia is always online, ready to help whenever you visit www.zxbank.asia.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "ASK Zia on WhatsApp",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "ASK Zia – Your 24/7 Banking Assistant"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 19,
+                  "heading": "ASK Zia on WhatsApp"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Easy Onboarding: Start a chat by saving our official number and saying \"Hello Zia!\"",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Quick Banking Tasks: Balance checks, mini statements, fund transfers, bill payments—all from your WhatsApp chat.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Bill Reminders & Alerts: Receive timely reminders and transaction notifications.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personal Financial Insights: Zia summarizes spending and gives savings tips.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Language Support: Interact in English, Hindi, Sinhala, Bengali, and Nepali.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Safe & Private",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "ASK Zia – Your 24/7 Banking Assistant"
+            },
+            "blocks": [
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 29,
+                  "heading": "Safe & Private"
+                },
+                "text": "ASK Zia uses end-to-end encryption, secure authentication, and never asks for sensitive data like your PIN or passwords."
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 31,
+                  "heading": "Safe & Private"
+                },
+                "text": "All actions performed via Zia comply with ZX Bank’s privacy and security policies."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "How to Use",
+            "level": 2,
+            "location": {
+              "line": 35,
+              "heading": "ASK Zia – Your 24/7 Banking Assistant"
+            },
+            "blocks": [],
+            "sections": [
+              {
+                "title": "On Website",
+                "level": 3,
+                "location": {
+                  "line": 37,
+                  "heading": "How to Use"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 38,
+                      "heading": "On Website"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Look for the Zia chat icon on www.zxbank.asia.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Start typing your question – Zia responds instantly!",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "On WhatsApp",
+                "level": 3,
+                "location": {
+                  "line": 41,
+                  "heading": "How to Use"
+                },
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 42,
+                      "heading": "On WhatsApp"
+                    },
+                    "ordered": true,
+                    "items": [
+                      {
+                        "text": "Save our official WhatsApp number: +91-XXX-XXX-XXXX",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Send a message: Hello Zia",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Follow prompts to access banking features.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "Why Ask Zia?",
+            "level": 2,
+            "location": {
+              "line": 48,
+              "heading": "ASK Zia – Your 24/7 Banking Assistant"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 50,
+                  "heading": "Why Ask Zia?"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "No queues, no waiting.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Simple answers for complex questions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Personalized, friendly, and multilingual support.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Works anytime, anywhere in South Asia.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "location": {
+                  "line": 57,
+                  "heading": "Why Ask Zia?"
+                },
+                "text": "Have a question? Just ASK Zia!"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

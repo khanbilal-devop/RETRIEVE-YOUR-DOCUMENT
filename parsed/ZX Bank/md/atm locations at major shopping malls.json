@@ -1,0 +1,872 @@
+{
+  "doc_id": "d7c5648844757fa4fd4230458e4804fa3088105a6e45937a382f9848125cf143",
+  "doc_key": [
+    "atm locations at major shopping malls"
+  ],
+  "path": "ZX Bank/md/ATM Locations at Major Shopping Malls.md",
+  "company": "ZX Bank",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "ZX Bank ATM Locations at Major Shopping Malls",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "text": "Below is a list of major shopping malls in select Indian cities where ZX Bank ATMs are available for customer convenience."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Mumbai – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 8,
+                  "heading": "Mumbai – Maharashtra"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Phoenix Marketcity, Kurla",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: LBS Road, Kurla West, Mumbai, Maharashtra 400070",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Oberoi Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Western Express Highway, Goregaon East, Mumbai, Maharashtra 400063",
+                    "depth": 1
+                  },
+                  {
+                    "text": "R City Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: LBS Marg, Ghatkopar West, Mumbai, Maharashtra 400086",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Delhi – National Capital Territory",
+            "level": 2,
+            "location": {
+              "line": 17,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 18,
+                  "heading": "Delhi – National Capital Territory"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Select CITYWALK",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: A-3, District Centre, Saket, New Delhi 110017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "DLF Promenade",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 3 Nelson Mandela Road, Vasant Kunj, New Delhi 110070",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Pacific Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Najafgarh Road, Tagore Garden, New Delhi 110018",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bangalore (Bengaluru) – Karnataka",
+            "level": 2,
+            "location": {
+              "line": 27,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 28,
+                  "heading": "Bangalore (Bengaluru) – Karnataka"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Phoenix Marketcity",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Whitefield Main Road, Mahadevapura, Bangalore, Karnataka 560048",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Orion Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Brigade Gateway, Dr Rajkumar Rd, Malleshwaram West, Bangalore, Karnataka 560055",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Mantri Square Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sampige Road, Malleshwaram, Bangalore, Karnataka 560003",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Hyderabad – Telangana",
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 38,
+                  "heading": "Hyderabad – Telangana"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Forum Sujana Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kukatpally Housing Board, Kukatpally, Hyderabad, Telangana 500072",
+                    "depth": 1
+                  },
+                  {
+                    "text": "GVK One Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Rd Number 1, Banjara Hills, Hyderabad, Telangana 500034",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Inorbit Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: APIIC Software Layout, Mindspace, Madhapur, Hyderabad, Telangana 500081",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Chennai – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 47,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 48,
+                  "heading": "Chennai – Tamil Nadu"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Express Avenue Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Express Estate, Royapettah, Chennai, Tamil Nadu 600002",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Phoenix MarketCity",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 142, Velachery Main Road, Velachery, Chennai, Tamil Nadu 600042",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Spencer Plaza",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 768, Anna Salai, Chennai, Tamil Nadu 600002",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kolkata – West Bengal",
+            "level": 2,
+            "location": {
+              "line": 57,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 58,
+                  "heading": "Kolkata – West Bengal"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "South City Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 375 Prince Anwar Shah Road, South City Complex, Kolkata, West Bengal 700068",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Quest Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 33 Syed Amir Ali Ave, Ballygunge, Kolkata, West Bengal 700017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "City Centre Salt Lake",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: DC Block, Sector 1, Salt Lake City, Kolkata, West Bengal 700064",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Pune – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 68,
+                  "heading": "Pune – Maharashtra"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Phoenix Marketcity",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Viman Nagar Road, Viman Nagar, Pune, Maharashtra 411014",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Amanora Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Amanora Park Town, Hadapsar, Pune, Maharashtra 411028",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Seasons Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Magarpatta City, Hadapsar, Pune, Maharashtra 411013",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ahmedabad – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 77,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 78,
+                  "heading": "Ahmedabad – Gujarat"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Ahmedabad One Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat 380006",
+                    "depth": 1
+                  },
+                  {
+                    "text": "AlphaOne Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sarkhej - Gandhinagar Hwy, Vastrapur, Ahmedabad, Gujarat 380054",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Himalaya Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Drive-In Road, Memnagar, Ahmedabad, Gujarat 380052",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Surat – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 87,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 88,
+                  "heading": "Surat – Gujarat"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "VR Surat",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dumas Rd, Magdalla, Surat, Gujarat 395007",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Iscon Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dumas Road, Piplod, Surat, Gujarat 395007",
+                    "depth": 1
+                  },
+                  {
+                    "text": "RahulRaj Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dumas Rd, Piplod, Surat, Gujarat 395007",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Jaipur – Rajasthan",
+            "level": 2,
+            "location": {
+              "line": 97,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 98,
+                  "heading": "Jaipur – Rajasthan"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "World Trade Park (WTP)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: JLN Marg, Malviya Nagar, Jaipur, Rajasthan 302017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "GT Central Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Jawahar Lal Nehru Marg, Malviya Nagar, Jaipur, Rajasthan 302017",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Triton Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Jhotwara Road, Jhotwara, Jaipur, Rajasthan 302012",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Lucknow – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 107,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 108,
+                  "heading": "Lucknow – Uttar Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Phoenix United Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Kanpur Road, Alambagh, Lucknow, Uttar Pradesh 226005",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Sahara Ganj Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Shahnajaf Road, Hazratganj, Lucknow, Uttar Pradesh 226001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Fun Republic Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Kanpur – Uttar Pradesh",
+            "level": 2,
+            "location": {
+              "line": 117,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 118,
+                  "heading": "Kanpur – Uttar Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Z Square Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 16/113, Mall Rd, Kanpur, Uttar Pradesh 208001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Rave@Moti Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Rawatpur, Kanpur, Uttar Pradesh 208002",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Nagpur – Maharashtra",
+            "level": 2,
+            "location": {
+              "line": 125,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 126,
+                  "heading": "Nagpur – Maharashtra"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Empress Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Empress City, Near Gandhi Sagar Lake, Nagpur, Maharashtra 440018",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Eternity Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Indore – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 133,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 134,
+                  "heading": "Indore – Madhya Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Treasure Island Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: MG Road, South Tukoganj, Indore, Madhya Pradesh 452001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "C21 Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: A.B. Road, Vijay Nagar, Indore, Madhya Pradesh 452010",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Bhopal – Madhya Pradesh",
+            "level": 2,
+            "location": {
+              "line": 141,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 142,
+                  "heading": "Bhopal – Madhya Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "DB City Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Maharana Pratap Nagar, Zone-I, Bhopal, Madhya Pradesh 462011",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Aura Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: E-8 Arera Colony, Bawaria Kalan, Bhopal, Madhya Pradesh 462039",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Visakhapatnam – Andhra Pradesh",
+            "level": 2,
+            "location": {
+              "line": 149,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 150,
+                  "heading": "Visakhapatnam – Andhra Pradesh"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "CMR Central",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Maddilapalem, Visakhapatnam, Andhra Pradesh 530013",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Visakhapatnam Central",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Patna – Bihar",
+            "level": 2,
+            "location": {
+              "line": 157,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 158,
+                  "heading": "Patna – Bihar"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "P&M Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Patliputra Industrial Area, Patna, Bihar 800013",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Central Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Frazer Road, Patna, Bihar 800001",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Vadodara (Baroda) – Gujarat",
+            "level": 2,
+            "location": {
+              "line": 165,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 166,
+                  "heading": "Vadodara (Baroda) – Gujarat"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Inorbit Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Gorwa Road, Subhanpura, Vadodara, Gujarat 390007",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Centre Square Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: RC Dutt Road, Alkapuri, Vadodara, Gujarat 390005",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Ludhiana – Punjab",
+            "level": 2,
+            "location": {
+              "line": 173,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 174,
+                  "heading": "Ludhiana – Punjab"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "MBD Neopolis Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ferozepur Road, Ludhiana, Punjab 141001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Silver Arc Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Ferozepur Road, Ludhiana, Punjab 141001",
+                    "depth": 1
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "Coimbatore – Tamil Nadu",
+            "level": 2,
+            "location": {
+              "line": 181,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 182,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Brookefields Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: 67–71, Krishnaswamy Road, RS Puram, Coimbatore, Tamil Nadu 641001",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Prozone Mall",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Address: Sathy Rd, Saravanampatty, Coimbatore, Tamil Nadu 641035",
+                    "depth": 1
+                  }
+                ]
+              },
+              {
+                "type": "quote",
+                "location": {
+                  "line": 189,
+                  "heading": "Coimbatore – Tamil Nadu"
+                },
+                "text": "Note: Availability of ZX Bank ATMs subject to change. Please check on the ZX Bank Asia mobile app or www.zxbank.asia (https://www.zxbank.asia) for the latest locations."
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

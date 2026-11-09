@@ -1,0 +1,330 @@
+{
+  "doc_id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2",
+  "doc_key": [
+    "safe driving checklist"
+  ],
+  "path": "Aventro Motors/md/Safe Driving Checklist.md",
+  "company": "Aventro Motors",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "location": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Safe Driving Checklist",
+        "level": 1,
+        "location": {
+          "line": 1
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "location": {
+              "line": 3,
+              "heading": "Safe Driving Checklist"
+            },
+            "text": "Driving safely is crucial for protecting yourself, your passengers, and others on the road. Before and while you drive, follow this checklist to ensure you’re operating your vehicle responsibly."
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Before You Start the Car",
+            "level": 2,
+            "location": {
+              "line": 7,
+              "heading": "Safe Driving Checklist"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 9,
+                  "heading": "1. Before You Start the Car"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "[ ] Ensure you are well-rested and not under the influence of alcohol, drugs, or strong medication.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Check weather and road conditions.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Perform a quick walk-around inspection of the car:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Tire condition and pressure",
+                    "depth": 1
+                  },
+                  {
+                    "text": "[ ] All lights functioning (headlights, brake lights, indicators)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "[ ] No visible leaks or loose parts",
+                    "depth": 1
+                  },
+                  {
+                    "text": "[ ] Adjust your seat, headrest, and mirrors for comfort and proper view.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Fasten your seat belt and ensure all passengers are buckled up.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Check that all doors are properly closed and locked.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Clear the windshield and mirrors of obstructions/dirt.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Secure any loose items in the vehicle.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Starting the Car",
+            "level": 2,
+            "location": {
+              "line": 23,
+              "heading": "Safe Driving Checklist"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 25,
+                  "heading": "2. Starting the Car"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "[ ] Ensure the gear is in neutral/park.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Press the brake pedal before starting.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Check dashboard warning lights after ignition.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Familiarize yourself with the location of controls (wipers, headlights, horn, indicators, hazard lights).",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "3. While Driving",
+            "level": 2,
+            "location": {
+              "line": 32,
+              "heading": "Safe Driving Checklist"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 34,
+                  "heading": "3. While Driving"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "[ ] Obey all speed limits and traffic rules.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Keep a safe following distance (3-second rule in good conditions).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Use indicators when changing lanes or turning.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Observe and obey all road signs and signals.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Avoid distractions:",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Do not use mobile phones unless hands-free.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "[ ] Avoid eating, drinking, or reaching for objects while driving.",
+                    "depth": 1
+                  },
+                  {
+                    "text": "[ ] Stay focused, alert, and anticipate actions of other drivers.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Use headlights in low light, rain, or fog.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Continuously check rear-view and side mirrors.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Yield to pedestrians and emergency vehicles.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Keep both hands on the steering wheel.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Special Situations",
+            "level": 2,
+            "location": {
+              "line": 49,
+              "heading": "Safe Driving Checklist"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 51,
+                  "heading": "4. Special Situations"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "[ ] Slow down in rain, fog, or poor visibility.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Use low beams in fog or heavy rain.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Park only in designated areas; use the handbrake.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Never drive when extremely tired or drowsy.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "5. Emergency Preparedness",
+            "level": 2,
+            "location": {
+              "line": 58,
+              "heading": "Safe Driving Checklist"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 60,
+                  "heading": "5. Emergency Preparedness"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "[ ] Keep an emergency kit (first aid, flashlight, water, basic tools).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Carry important documents (license, registration, insurance copy).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Know emergency contact numbers and roadside assistance availability.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. After Reaching Your Destination",
+            "level": 2,
+            "location": {
+              "line": 66,
+              "heading": "Safe Driving Checklist"
+            },
+            "blocks": [
+              {
+                "type": "list",
+                "location": {
+                  "line": 68,
+                  "heading": "6. After Reaching Your Destination"
+                },
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "[ ] Switch off the engine and lights.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Lock all doors and secure valuables.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "[ ] Park safely without blocking exits, driveways, or fire lanes.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "title": "Stay Safe—Always Drive Responsibly!",
+                "level": 3,
+                "location": {
+                  "line": 74,
+                  "heading": "6. After Reaching Your Destination"
+                },
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "location": {
+                      "line": 76,
+                      "heading": "Stay Safe—Always Drive Responsibly!"
+                    },
+                    "text": "For vehicle maintenance or emergency assistance, contact your nearest Aventro Service Center."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
