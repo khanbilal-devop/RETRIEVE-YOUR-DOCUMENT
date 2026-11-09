@@ -1,4 +1,4 @@
-"""Shared settings: load a YAML config file and resolve the paths in it."""
+"""Shared settings: load default.yaml and resolve the paths in it."""
 
 from __future__ import annotations
 
@@ -12,10 +12,10 @@ REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 DEFAULT_CONFIG = REPO_ROOT / "default.yaml"
 
 
-# Not tied to any layer: any layer can call this to read a YAML config file into a dict.
-def load_config(path: Path | str | None = None) -> dict:
-    """Read a YAML config file (the default one when ``path`` is None)."""
-    with open(Path(path) if path is not None else DEFAULT_CONFIG, encoding="utf-8") as handle:
+# Not tied to any layer: any layer can call this to read default.yaml into a dict.
+def load_config() -> dict:
+    """Read default.yaml."""
+    with open(DEFAULT_CONFIG, encoding="utf-8") as handle:
         return yaml.safe_load(handle) or {}
 
 

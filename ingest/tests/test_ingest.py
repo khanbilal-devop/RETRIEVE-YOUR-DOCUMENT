@@ -299,17 +299,14 @@ def test_missing_dataset_folder_raises(folders):
         ingest(data / "nope", out)
 
 
-def test_command_line_reads_paths_from_the_config_file(folders, tmp_path, capsys):
+def test_main_reads_both_paths_from_the_config(folders, monkeypatch, capsys):
     data, out = folders
     put(data / "Acme/md/Guide.md", MD)
     put(data / "Acme/md/.DS_Store", b"x")
-    config = tmp_path / "config.yaml"
-    config.write_text(
-        f"paths:\n  dataset_dir: {json.dumps(str(data))}\n  registry_dir: {json.dumps(str(out))}\n",
-        encoding="utf-8",
-    )
+    settings = {"paths": {"dataset_dir": str(data), "registry_dir": str(out)}}
+    monkeypatch.setattr("ingest.src.ingest.load_config", lambda: settings)
 
-    code = main(["--config", str(config)])
+    code = main()
 
     printed = capsys.readouterr().out
     assert code == 0

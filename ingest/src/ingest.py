@@ -15,7 +15,6 @@ Run: ``python -m ingest.src.ingest`` (paths come from ``default.yaml``).
 
 from __future__ import annotations
 
-import argparse
 import hashlib
 import json
 import re
@@ -25,7 +24,7 @@ from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
-from config.src.config import DEFAULT_CONFIG, load_config, path_setting
+from config.src.config import load_config, path_setting
 from config.src.constants import DATASET_DIR, REGISTRY_DIR
 
 FORMATS = ("pdf", "docx", "pptx", "html", "md")
@@ -216,18 +215,8 @@ def ingest(dataset_dir: Path | str, registry_dir: Path | str) -> IngestResult:
     return IngestResult(registered, rejected, mismatches)
 
 
-def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(
-        prog="python -m ingest.src.ingest", description="Register every dataset file (layer 1)."
-    )
-    parser.add_argument(
-        "--config",
-        type=Path,
-        help=f"config file with the dataset and registry paths (default: {DEFAULT_CONFIG.name})",
-    )
-    args = parser.parse_args(argv)
-
-    config = load_config(args.config)
+def main() -> int:
+    config = load_config()
     dataset_dir = path_setting(config, DATASET_DIR)
     registry_dir = path_setting(config, REGISTRY_DIR)
     result = ingest(dataset_dir, registry_dir)
