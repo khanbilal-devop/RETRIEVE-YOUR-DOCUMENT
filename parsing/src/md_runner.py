@@ -1,9 +1,9 @@
 """Parse the Markdown files in the registry and save each one as a JSON file.
 
 For each company it reads ``<registry>/<company>/md.jsonl``, parses every listed
-file with ``parse_md_file``, and writes ``<parsed>/<company>/md/<doc_id>.json``.
+file with ``parse_md_file``, and writes ``<parsed>/<company>/md/<doc_key>.json``.
 A saved document is ``{"doc_id", "doc_key", "path", "company", "format", "blocks"}``.
-The file is named after ``doc_id`` so it links straight back to its registry record.
+The file is named after the first ``doc_key``, so it is easy to find by document name.
 
 Run: ``python -m parsing.src.md_runner`` (paths come from ``default.yaml``).
 """
@@ -50,8 +50,8 @@ def select_records(company: str, records: list[dict]) -> list[dict]:
 
 def save_document(parsed_dir: Path, document: dict) -> Path:
     """Write one parsed document as JSON and return where it went."""
-    # Where it goes: parsed/<company>/md/<doc_id>.json
-    out = parsed_dir / document["company"] / FORMAT / f"{document['doc_id']}.json"
+    # Where it goes: parsed/<company>/md/<doc_key>.json (the first doc_key; it is unique per company and format)
+    out = parsed_dir / document["company"] / FORMAT / f"{document['doc_key'][0]}.json"
     out.parent.mkdir(parents=True, exist_ok=True)  # create the folders if they are missing
     # Write to a temporary name first, then rename. A crash can then never leave a half-written file.
     temporary = out.with_name(out.name + ".tmp")
