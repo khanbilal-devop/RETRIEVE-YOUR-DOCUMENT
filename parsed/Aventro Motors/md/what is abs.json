@@ -97,7 +97,26 @@
                   "line": 21,
                   "heading": "How Does ABS Work?"
                 },
-                "blocks": [],
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 22,
+                      "heading": "Wheel Speed Sensors"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "ABS uses sensors located at each wheel to monitor the rotational speed of the wheels continuously.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "If any sensor detects a sudden decrease in wheel speed (indicating potential lock-up), the ABS system is activated.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
                 "sections": []
               },
               {
@@ -107,7 +126,26 @@
                   "line": 25,
                   "heading": "How Does ABS Work?"
                 },
-                "blocks": [],
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 26,
+                      "heading": "Electronic Control Unit (ECU)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "The ECU receives data from the wheel speed sensors.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "When it detects a wheel about to lock, it controls the hydraulic brake pressure through a modulator.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
                 "sections": []
               },
               {
@@ -117,7 +155,26 @@
                   "line": 29,
                   "heading": "How Does ABS Work?"
                 },
-                "blocks": [],
+                "blocks": [
+                  {
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "Hydraulic Valves/Modulator"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "These valves rapidly increase or decrease brake pressure to each wheel as needed.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "This process occurs many times per second (often felt as a \"pulsating\" brake pedal).",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
                 "sections": []
               },
               {
@@ -131,58 +188,18 @@
                   {
                     "type": "list",
                     "location": {
-                      "line": 21,
+                      "line": 34,
                       "heading": "Brake Release and Reapplication"
                     },
-                    "ordered": true,
+                    "ordered": false,
                     "items": [
                       {
-                        "text": "",
-                        "depth": 0
-                      },
-                      {
-                        "text": "ABS uses sensors located at each wheel to monitor the rotational speed of the wheels continuously.",
-                        "depth": 1
-                      },
-                      {
-                        "text": "If any sensor detects a sudden decrease in wheel speed (indicating potential lock-up), the ABS system is activated.",
-                        "depth": 1
-                      },
-                      {
-                        "text": "",
-                        "depth": 0
-                      },
-                      {
-                        "text": "The ECU receives data from the wheel speed sensors.",
-                        "depth": 1
-                      },
-                      {
-                        "text": "When it detects a wheel about to lock, it controls the hydraulic brake pressure through a modulator.",
-                        "depth": 1
-                      },
-                      {
-                        "text": "",
-                        "depth": 0
-                      },
-                      {
-                        "text": "These valves rapidly increase or decrease brake pressure to each wheel as needed.",
-                        "depth": 1
-                      },
-                      {
-                        "text": "This process occurs many times per second (often felt as a \"pulsating\" brake pedal).",
-                        "depth": 1
-                      },
-                      {
-                        "text": "",
-                        "depth": 0
-                      },
-                      {
                         "text": "By releasing and then reapplying the brakes repeatedly in quick succession, ABS prevents the wheels from locking up.",
-                        "depth": 1
+                        "depth": 0
                       },
                       {
                         "text": "The driver can continue to steer effectively even during heavy braking.",
-                        "depth": 1
+                        "depth": 0
                       }
                     ]
                   }

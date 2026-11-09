@@ -32,6 +32,9 @@ section with no title. It sits at the same level as the section it follows. A
 ``---`` right before a heading, at the end of the file, in the top section, or
 straight after a heading with nothing under it does nothing.
 
+A heading inside a list item, like ``1. ### Title``, is treated as a normal heading.
+The list is split around it: the bullets under the heading form their own list.
+
 A ``<details>`` section sits one level below the section it is in. If a text tag
 (``<summary>``, ``<p>`` and so on) comes right after ``<details>``, its text is the
 section title with the inner tags such as ``<strong>`` removed. Without one, the
@@ -104,6 +107,7 @@ def parse_markdown(text: str) -> list[dict]:
     # Things we remember while walking the tokens.
     list_block = None  # the outermost list that is open right now
     list_depth = 0  # how deep inside lists we are (0 = not in a list)
+    depth_offset = 0  # list levels that a heading inside a list item has already used up
     items: list[dict] = []  # list items that are open, innermost last
     quote_depth = 0  # how deep inside quotes we are (0 = not in a quote)
     table = None  # the table being built
@@ -119,6 +123,17 @@ def parse_markdown(text: str) -> list[dict]:
         # A heading starts here. token.tag is "h1", "h2", ... so [1] is the level number.
         # _plain_text gives the heading words without the ** marks.
         if kind == "heading_open":
+            if items:
+                # A heading inside a list item (like "1. ### Title") acts as a normal heading.
+                # So first save the list we have built so far, and start a new list after the heading.
+                # This keeps the heading in front of the list that belongs under it.
+                if list_block is not None:
+                    list_block["items"] = [item for item in list_block["items"] if item["text"]]
+                    if list_block["items"]:
+                        blocks.append(list_block)
+                list_block = None
+                # The list levels we are in now are only wrapping the heading, so lists inside count from 0.
+                depth_offset = list_depth
             blocks.append(_block("heading", token, level=int(token.tag[1]), text=_plain_text(following)))
 
         # A paragraph starts here.
@@ -132,15 +147,19 @@ def parse_markdown(text: str) -> list[dict]:
 
         # A list starts here (bullet or numbered).
         elif kind in ("bullet_list_open", "ordered_list_open"):
-            if list_depth == 0:
-                # This is the outermost list, so start a new list block.
+            if list_depth == 0 or list_block is None:
+                # This is the outermost list (or the first one after a heading inside a list item),
+                # so start a new list block.
                 list_block = _block("list", token, ordered=kind == "ordered_list_open", items=[])
             # A list inside a list does not get its own block. Its items go in the same one.
             list_depth += 1
         # One list item starts here.
         elif kind == "list_item_open":
+            if list_block is None:
+                # An item right after a heading inside a list item, before any new list has started.
+                list_block = _block("list", token, ordered=False, items=[])
             # depth is 0 for the top level, 1 for an item in a list inside a list, and so on.
-            item = {"text": "", "depth": list_depth - 1}
+            item = {"text": "", "depth": max(list_depth - 1 - depth_offset, 0)}
             list_block["items"].append(item)
             items.append(item)  # remember it as open, so paragraph text can be added to it
         # The list item ends.
@@ -151,7 +170,15 @@ def parse_markdown(text: str) -> list[dict]:
             list_depth -= 1
             if list_depth == 0:
                 # The outermost list is finished, so save it.
-                blocks.append(list_block)
+                if list_block is not None:
+                    if depth_offset:
+                        # A heading was inside this list. Items with no text only wrapped that
+                        # heading, so leave them out. A list with nothing left is not saved.
+                        list_block["items"] = [item for item in list_block["items"] if item["text"]]
+                    if list_block["items"]:
+                        blocks.append(list_block)
+                list_block = None
+                depth_offset = 0
 
         # Quotes (lines starting with >). Paragraphs inside become "quote" blocks.
         elif kind == "blockquote_open":
