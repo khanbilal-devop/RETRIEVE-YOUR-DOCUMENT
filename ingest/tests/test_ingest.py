@@ -5,7 +5,7 @@ import zipfile
 
 import pytest
 
-from ingest.ingest import (
+from ingest.src.ingest import (
     FORMATS,
     detect_format,
     ingest,

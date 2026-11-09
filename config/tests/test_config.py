@@ -3,8 +3,8 @@ from pathlib import Path
 
 import pytest
 
-from config.config import REPO_ROOT, load_config, path_setting, resolve_path
-from config.constants import DATASET_DIR, PATHS, REGISTRY_DIR
+from config.src.config import REPO_ROOT, load_config, path_setting, resolve_path
+from config.src.constants import DATASET_DIR, PATHS, REGISTRY_DIR
 
 
 def test_default_config_has_both_paths():

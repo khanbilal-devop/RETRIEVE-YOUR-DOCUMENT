@@ -10,7 +10,7 @@ registry record is ``{"doc_id", "doc_key", "path"}``:
 
 The format is not stored in a record: it is the name of the registry file.
 
-Run: ``python -m ingest.ingest`` (paths come from ``default.yaml``).
+Run: ``python -m ingest.src.ingest`` (paths come from ``default.yaml``).
 """
 
 from __future__ import annotations
@@ -25,8 +25,8 @@ from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
-from config.config import DEFAULT_CONFIG, load_config, path_setting
-from config.constants import DATASET_DIR, REGISTRY_DIR
+from config.src.config import DEFAULT_CONFIG, load_config, path_setting
+from config.src.constants import DATASET_DIR, REGISTRY_DIR
 
 FORMATS = ("pdf", "docx", "pptx", "html", "md")
 
@@ -218,7 +218,7 @@ def ingest(dataset_dir: Path | str, registry_dir: Path | str) -> IngestResult:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        prog="python -m ingest.ingest", description="Register every dataset file (layer 1)."
+        prog="python -m ingest.src.ingest", description="Register every dataset file (layer 1)."
     )
     parser.add_argument(
         "--config",
