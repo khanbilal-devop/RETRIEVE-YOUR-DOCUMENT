@@ -576,28 +576,36 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 131,
+              "heading": "Velvera Core — Product Specifications"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 133,
-                  "heading": "Certifications"
+                  "line": 133
                 },
                 "text": "For further details, visit velvera.com/core (https://velvera.com/core)"
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 135,
-                  "heading": "Certifications"
+                  "line": 135
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 137,
-                  "heading": "Certifications"
+                  "line": 137
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

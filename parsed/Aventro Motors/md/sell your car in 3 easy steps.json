@@ -293,12 +293,22 @@
                       "heading": "Ready to Sell?"
                     },
                     "text": "Contact us today and experience the Aventro difference."
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 74,
-                      "heading": "Ready to Sell?"
+                      "line": 74
                     },
                     "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\n📞 +91 124 1234567\n✉️ info@aventromotors.com (mailto:info@aventromotors.com)"
                   }

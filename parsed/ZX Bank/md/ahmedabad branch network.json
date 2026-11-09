@@ -235,12 +235,22 @@
                     "079-29811053"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 57,
+              "heading": "ZX Bank Ltd. – Ahmedabad Branch Network"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 59,
-                  "heading": "Central Ahmedabad"
+                  "line": 59
                 },
                 "text": "For more information, visit ZX Bank Ltd. (https://www.zxbank.asia) or contact your nearest branch from the list above."
               }

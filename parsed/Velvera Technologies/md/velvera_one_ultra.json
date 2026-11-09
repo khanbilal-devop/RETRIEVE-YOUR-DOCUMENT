@@ -504,20 +504,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 120,
+              "heading": "Velvera One Ultra — Product Specifications"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 123,
-                  "heading": "Special Features"
+                  "line": 123
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 125,
-                  "heading": "Special Features"
+                  "line": 125
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

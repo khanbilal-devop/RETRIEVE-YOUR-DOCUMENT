@@ -768,20 +768,29 @@
                   "heading": "Contact"
                 },
                 "text": "For sales inquiries or after-sales support, please visit [company website] or call 1-800-VELVERA."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 173,
+              "heading": "Velvera Watch Series — Product Specification Document"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 175,
-                  "heading": "Contact"
+                  "line": 175
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 177,
-                  "heading": "Contact"
+                  "line": 177
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

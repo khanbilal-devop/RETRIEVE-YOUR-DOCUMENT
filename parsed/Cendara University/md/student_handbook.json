@@ -1145,12 +1145,22 @@
                     "helpdesk@cendara.edu"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 249,
+              "heading": "Cendara University Student Handbook"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 251,
-                  "heading": "Important Contacts"
+                  "line": 251
                 },
                 "text": "For questions or updates to this handbook, please contact student.affairs@cendara.edu."
               }

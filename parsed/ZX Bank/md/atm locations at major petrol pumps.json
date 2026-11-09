@@ -1245,12 +1245,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 684,
+              "heading": "ZX Bank ATM Locations at Major Petrol Pumps (By City)"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 686,
-                  "heading": "Coimbatore – Tamil Nadu"
+                  "line": 686
                 },
                 "text": "Data is for reference purposes only. For real-time updates, use ZX Bank Asia Mobile App or visit www.zxbank.asia (https://www.zxbank.asia)."
               }

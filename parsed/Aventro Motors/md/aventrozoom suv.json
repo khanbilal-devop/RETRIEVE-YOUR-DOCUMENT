@@ -418,12 +418,22 @@
                   "heading": "Contact & Bookings"
                 },
                 "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 99,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 101,
-                  "heading": "Contact & Bookings"
+                  "line": 101
                 },
                 "text": "Explore the new Zoom SUV — Unleash Performance. Embrace Technology. Drive the Future."
               }

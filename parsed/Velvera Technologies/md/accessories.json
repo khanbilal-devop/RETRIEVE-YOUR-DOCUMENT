@@ -760,20 +760,29 @@
                             "depth": 0
                           }
                         ]
-                      },
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": null,
+                    "level": 4,
+                    "location": {
+                      "line": 170,
+                      "heading": "Productivity Tools"
+                    },
+                    "blocks": [
                       {
                         "type": "paragraph",
                         "location": {
-                          "line": 172,
-                          "heading": "Velvera Stand Pro"
+                          "line": 172
                         },
                         "text": "Velvera — Technology, Refined. Life, Elevated."
                       },
                       {
                         "type": "paragraph",
                         "location": {
-                          "line": 174,
-                          "heading": "Velvera Stand Pro"
+                          "line": 174
                         },
                         "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
                       }

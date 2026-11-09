@@ -306,20 +306,40 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 66,
-                  "heading": "9. Get Immediate Medical Attention If:"
+                  "line": 66
                 },
                 "text": "Stay Safe – Your comfort and your baby’s safety come first! If in doubt, consult your physician before traveling."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 68,
+              "heading": "Advice for Pregnant Women While in a Car"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 70,
-                  "heading": "9. Get Immediate Medical Attention If:"
+                  "line": 70
                 },
                 "text": "For any issues with your car’s safety features or to arrange custom seatbelt accessories, contact your local Aventro Motors Service Center."
               }

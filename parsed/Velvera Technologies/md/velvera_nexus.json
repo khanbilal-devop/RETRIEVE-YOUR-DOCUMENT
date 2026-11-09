@@ -464,28 +464,36 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 105,
+              "heading": "Velvera Nexus 1 Series — Specifications"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 107,
-                  "heading": "What’s in the Box"
+                  "line": 107
                 },
                 "text": "For users focused on compact power, see the Velvera Edge Series. For flagship all-rounders, refer to the Velvera One Series and Ultra Series."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 109,
-                  "heading": "What’s in the Box"
+                  "line": 109
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 111,
-                  "heading": "What’s in the Box"
+                  "line": 111
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

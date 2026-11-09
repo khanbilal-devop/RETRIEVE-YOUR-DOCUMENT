@@ -687,20 +687,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 146,
+              "heading": "Velvera Watch Series — Usage Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 148,
-                  "heading": "Important Tips"
+                  "line": 148
                 },
                 "text": "For the full manual and advanced usage tips, visit www.velvera.com/manuals."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 150,
-                  "heading": "Important Tips"
+                  "line": 150
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               }

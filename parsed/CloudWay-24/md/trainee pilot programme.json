@@ -168,12 +168,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 40,
+              "heading": "CloudWay 24 Trainee Pilot Programme"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 42,
-                  "heading": "Application Process"
+                  "line": 42
                 },
                 "text": "For detailed syllabus, FAQs, and application deadlines, visit CloudWay24.com (https://cloudway24.com/pilot-programme) or reach out to pilotcareers@cloudway24.com."
               }

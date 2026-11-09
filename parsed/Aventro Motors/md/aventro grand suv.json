@@ -491,12 +491,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 110,
+              "heading": "Aventro Grand SUV"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 112,
-                  "heading": "Notes"
+                  "line": 112
                 },
                 "text": "For more details or to book a test drive, contact your nearest Aventro dealership (mailto:info@aventromotors.com) or locate a service center (#service-center-locations)."
               }

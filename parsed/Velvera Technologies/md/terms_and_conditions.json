@@ -228,20 +228,29 @@
                   "heading": "Support & Legal"
                 },
                 "text": "If you have questions, contact our legal team at legal@velvera.com or reach out via the Velvera Help Center (https://velvera.com/support)."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 59,
+              "heading": "Important Notes & Terms"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 60,
-                  "heading": "Support & Legal"
+                  "line": 60
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 62,
-                  "heading": "Support & Legal"
+                  "line": 62
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

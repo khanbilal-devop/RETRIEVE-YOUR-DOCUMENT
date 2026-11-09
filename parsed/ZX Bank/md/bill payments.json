@@ -265,12 +265,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 72,
+                  "heading": "How To Get Started"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 74,
-                      "heading": "Need Help?"
+                      "line": 74
                     },
                     "text": "Experience seamless bill payments – simplify your financial life with ZX Bank!"
                   }

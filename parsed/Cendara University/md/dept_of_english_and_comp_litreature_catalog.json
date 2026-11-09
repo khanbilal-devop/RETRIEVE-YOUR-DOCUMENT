@@ -743,12 +743,22 @@
                       "heading": "ENGL 599: Thesis Research"
                     },
                     "text": "Prerequisites: Completion of coursework and proposal approval"
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 259,
+                  "heading": "Graduate Courses"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 261,
-                      "heading": "ENGL 599: Thesis Research"
+                      "line": 261
                     },
                     "text": "Note:\nSome courses may be offered only in alternate years or terms. For scheduling and instructor assignments, consult the departmental website or contact the Office of the Registrar."
                   }

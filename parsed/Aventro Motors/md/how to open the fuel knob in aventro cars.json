@@ -171,12 +171,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 48,
+              "heading": "How to Open the Fuel Knob in Aventro Cars"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 50,
-                  "heading": "Additional Tips"
+                  "line": 50
                 },
                 "text": "Note: If you have difficulty finding the lever or opening the cap, refer to your car’s owner's manual or contact your nearest Aventro Service Center."
               }

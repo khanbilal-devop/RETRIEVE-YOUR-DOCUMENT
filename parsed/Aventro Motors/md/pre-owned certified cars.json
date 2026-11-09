@@ -517,12 +517,22 @@
                       "heading": "Contact Us"
                     },
                     "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurugram, Haryana 122018, India\n📞 +91 124 1234567\n✉️ info@aventromotors.com"
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 131,
+                  "heading": "Buy with Confidence"
+                },
+                "blocks": [
                   {
                     "type": "quote",
                     "location": {
-                      "line": 133,
-                      "heading": "Contact Us"
+                      "line": 133
                     },
                     "text": "Aventro Certified Pre-Owned Cars — Inspected, Assured, Trusted."
                   }

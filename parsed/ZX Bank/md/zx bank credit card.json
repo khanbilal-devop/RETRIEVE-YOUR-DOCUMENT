@@ -701,12 +701,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 130,
+                  "heading": "How to Apply"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 132,
-                      "heading": "For More Information"
+                      "line": 132
                     },
                     "text": "All fees and eligibility requirements are indicative and subject to change as per ZX Bank policy and regulatory guidelines."
                   }

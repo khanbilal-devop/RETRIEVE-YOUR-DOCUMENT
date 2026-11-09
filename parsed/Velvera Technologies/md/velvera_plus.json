@@ -420,12 +420,22 @@
                   "heading": "Contact Velvera Plus"
                 },
                 "text": "Full plan terms, exclusions, and privacy practices available at velvera.com/plus"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 92,
+              "heading": "Velvera Plus — Extended Protection & Accidental Damage Plan"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 94,
-                  "heading": "Contact Velvera Plus"
+                  "line": 94
                 },
                 "text": "Velvera Plus — Smart protection. Total peace of mind."
               }

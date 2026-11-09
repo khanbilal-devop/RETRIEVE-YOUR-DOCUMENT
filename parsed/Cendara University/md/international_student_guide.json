@@ -1286,12 +1286,21 @@
               "heading": "Final Tips for Success"
             },
             "text": "We are delighted you chose Cendara University. Welcome to your new academic home!"
-          },
+          }
+        ],
+        "sections": []
+      },
+      {
+        "title": null,
+        "level": 1,
+        "location": {
+          "line": 276
+        },
+        "blocks": [
           {
             "type": "paragraph",
             "location": {
-              "line": 278,
-              "heading": "Final Tips for Success"
+              "line": 278
             },
             "text": "This guide was produced by the Office of Global Engagement in partnership with International Student Services and the Multicultural Resource Center. For the most current information and updates, please visit global.cendara.edu/guide."
           }

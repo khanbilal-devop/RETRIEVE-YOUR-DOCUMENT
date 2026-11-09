@@ -347,12 +347,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "Damaged Baggage Policy – CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 78,
-                  "heading": "Helpful Tips"
+                  "line": 78
                 },
                 "text": "For full terms and the latest updates, please refer to CloudWay24.com/baggage-policy (https://cloudway24.com/baggage-policy) or check the CloudWay 24 App."
               }

@@ -476,20 +476,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 113,
+              "heading": "Velvera One Pro — Product Specifications"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 115,
-                  "heading": "Special Features"
+                  "line": 115
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 117,
-                  "heading": "Special Features"
+                  "line": 117
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

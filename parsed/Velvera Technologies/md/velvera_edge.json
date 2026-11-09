@@ -538,28 +538,47 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 114,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 116,
-                  "heading": "Certification & Warranty"
+                  "line": 116
                 },
                 "text": "Note: Availability, specifications, and prices may vary by region."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 118,
+              "heading": "Velvera Edge Series — Product Specification"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 120,
-                  "heading": "Certification & Warranty"
+                  "line": 120
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 122,
-                  "heading": "Certification & Warranty"
+                  "line": 122
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

@@ -244,12 +244,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 55,
+              "heading": "ASK Zia – Your 24/7 Banking Assistant"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 57,
-                  "heading": "Why Ask Zia?"
+                  "line": 57
                 },
                 "text": "Have a question? Just ASK Zia!"
               }

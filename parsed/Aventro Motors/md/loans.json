@@ -275,12 +275,22 @@
                   "heading": "Need Assistance?"
                 },
                 "text": "Contact our Finance Desk at any Aventro Motors showroom or email us at info@aventromotors.com (mailto:info@aventromotors.com)\nWe'll be happy to guide you through the process and help you get the best deal!"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 70,
+              "heading": "Loan Options for Aventro Motors Vehicles"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 72,
-                  "heading": "Need Assistance?"
+                  "line": 72
                 },
                 "text": "Terms & Conditions apply. Interest rates and offers are subject to periodic change and vary as per bank discretion & eligibility."
               }

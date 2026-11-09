@@ -1232,20 +1232,29 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 224,
+                  "heading": "Important Notes & Terms"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 226,
-                      "heading": "Contact Information"
+                      "line": 226
                     },
                     "text": "Velvera — Technology, Refined. Life, Elevated."
                   },
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 228,
-                      "heading": "Contact Information"
+                      "line": 228
                     },
                     "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
                   }

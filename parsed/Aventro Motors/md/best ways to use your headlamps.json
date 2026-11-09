@@ -420,12 +420,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 100,
+              "heading": "Best Ways to Use Your headlamps Based on Road, Traffic, and Climate"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 102,
-                  "heading": "Contact Aventro Motors for Lighting System Service"
+                  "line": 102
                 },
                 "text": "Drive safe and see farther, with Aventro Motors!"
               }

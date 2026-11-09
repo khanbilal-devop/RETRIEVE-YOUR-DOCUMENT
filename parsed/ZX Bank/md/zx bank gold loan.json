@@ -249,12 +249,22 @@
                   "heading": "Contact Us"
                 },
                 "text": "For more information, visit www.zxbank.asia (http://www.zxbank.asia) or use the ZX Bank Asia mobile app to chat with our AI assistant \"Zia\"."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 63,
+              "heading": "ZX Bank Gold Loan"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 65,
-                  "heading": "Contact Us"
+                  "line": 65
                 },
                 "text": "Terms and conditions apply. Loan approval at the sole discretion of ZX Bank Ltd. Subject to gold assay, purity, and documentation verification."
               }

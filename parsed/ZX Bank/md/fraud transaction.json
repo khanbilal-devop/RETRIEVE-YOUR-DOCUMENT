@@ -271,12 +271,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "How to Report a Fraud Transaction at ZX Bank"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 67,
-                  "heading": "Extra Tips"
+                  "line": 67
                 },
                 "text": "Your safety is our priority. Report suspicious activities as soon as possible to minimize risk."
               }

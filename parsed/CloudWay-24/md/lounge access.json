@@ -339,12 +339,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 77,
+              "heading": "CloudWay 24 Lounge Access Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 79,
-                  "heading": "Further Details"
+                  "line": 79
                 },
                 "text": "Experience seamless comfort even before you fly with CloudWay 24 lounges."
               }

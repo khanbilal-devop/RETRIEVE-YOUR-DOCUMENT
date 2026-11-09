@@ -853,12 +853,22 @@
                     "depth": 1
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 187,
+              "heading": "ZX Bank ATM Locations at Major Shopping Malls"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 189,
-                  "heading": "Coimbatore – Tamil Nadu"
+                  "line": 189
                 },
                 "text": "Note: Availability of ZX Bank ATMs subject to change. Please check on the ZX Bank Asia mobile app or www.zxbank.asia (https://www.zxbank.asia) for the latest locations."
               }

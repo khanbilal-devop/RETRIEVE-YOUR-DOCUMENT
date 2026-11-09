@@ -1405,12 +1405,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 805,
+              "heading": "ZX Bank: ATMs at Famous Restaurants (India's Major Cities)"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 807,
-                  "heading": "Coimbatore – Tamil Nadu"
+                  "line": 807
                 },
                 "text": "For up-to-date addresses and services, visit the ZX Bank Website (www.zxbank.asia)."
               }

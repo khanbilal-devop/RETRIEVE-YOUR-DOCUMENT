@@ -238,12 +238,22 @@
                     "Domestic / Limited Int."
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 59,
+              "heading": "CloudWay 24: Employee Insurance Policy Overview"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 61,
-                  "heading": "Summary Table"
+                  "line": 61
                 },
                 "text": "For latest updates or claims, log in to the CloudWay 24 Employee Portal or contact HR at hr@cloudway24.com."
               }

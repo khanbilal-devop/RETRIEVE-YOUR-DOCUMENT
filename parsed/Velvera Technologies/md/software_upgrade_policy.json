@@ -293,20 +293,29 @@
                   "heading": "Upgrade Recommendations"
                 },
                 "text": "For update status by region or model, visit: velvera.com/os-updates (https://velvera.com/os-updates)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 58,
+              "heading": "Software & Updates"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 59,
-                  "heading": "Upgrade Recommendations"
+                  "line": 59
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 61,
-                  "heading": "Upgrade Recommendations"
+                  "line": 61
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

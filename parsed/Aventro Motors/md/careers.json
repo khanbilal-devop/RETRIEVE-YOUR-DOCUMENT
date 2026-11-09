@@ -510,12 +510,22 @@
                   "heading": "Internship Opportunities"
                 },
                 "text": "Are you a student or recent graduate? Write to us with your interest and we will find matching opportunities for internships in Sales, Service, R&D, and Marketing."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 113,
+              "heading": "Careers at Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 115,
-                  "heading": "Internship Opportunities"
+                  "line": 115
                 },
                 "text": "Explore your potential. Shape the future of mobility. Join Aventro Motors!"
               }

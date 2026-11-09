@@ -871,12 +871,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 4,
+                "location": {
+                  "line": 210,
+                  "heading": "Elective Courses"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 212,
-                      "heading": "EDCI 6503: Global Perspectives in Education"
+                      "line": 212
                     },
                     "text": "End of Department of Curriculum & Instruction course listings."
                   }

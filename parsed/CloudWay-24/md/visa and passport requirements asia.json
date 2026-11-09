@@ -420,12 +420,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 95,
+              "heading": "Visa and Passport Requirements for Destinations in Asia"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 97,
-                  "heading": "Important Notes"
+                  "line": 97
                 },
                 "text": "For detailed assistance, visit our website CloudWay24.com (https://cloudway24.com) or get in touch with our customer support."
               }

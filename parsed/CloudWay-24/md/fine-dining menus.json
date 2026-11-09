@@ -271,12 +271,22 @@
                       "heading": "Special Meal Requests"
                     },
                     "text": "For all classes, a wide range of special meal requests (Vegan, Jain, Gluten-Free, Kosher, Child-friendly, Diabetic-friendly, and more) is available to pre-order when booking or through \"Manage My Flight.\""
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 67,
+                  "heading": "CloudSaver (Economy Class)"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 69,
-                      "heading": "Special Meal Requests"
+                      "line": 69
                     },
                     "text": "Menus are refreshed quarterly and may feature regional specialties based on flight route and destination. For a preview of onboard offerings for your route, please visit CloudWay24.com (https://CloudWay24.com) or the CloudWay 24 app."
                   }

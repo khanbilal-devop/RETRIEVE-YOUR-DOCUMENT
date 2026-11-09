@@ -251,20 +251,29 @@
                     "₹800 - ₹3,000 per job, part price extra"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 50,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 52,
-                  "heading": "Additional Services and Prices"
+                  "line": 52
                 },
                 "text": "Note:"
               },
               {
                 "type": "list",
                 "location": {
-                  "line": 53,
-                  "heading": "Additional Services and Prices"
+                  "line": 53
                 },
                 "ordered": false,
                 "items": [

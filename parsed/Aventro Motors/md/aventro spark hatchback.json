@@ -372,12 +372,22 @@
                   "heading": "Contact"
                 },
                 "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com\nWebsite: www.aventromotors.com (http://www.aventromotors.com)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 94,
+              "heading": "Aventro Spark Hatchback"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 96,
-                  "heading": "Contact"
+                  "line": 96
                 },
                 "text": "Experience the Spark. Drive innovation, comfort, and safety."
               }

@@ -264,12 +264,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 43,
+                  "heading": "Closing the Boot"
+                },
+                "blocks": [
                   {
                     "type": "quote",
                     "location": {
-                      "line": 45,
-                      "heading": "3. Cautions When Closing"
+                      "line": 45
                     },
                     "text": "Note:\nIf the boot does not open or close properly, check if the vehicle is in ‘Valet Mode’ or if the child safety lock for the boot is engaged. For electrically operated boots, ensure the battery has sufficient charge."
                   }

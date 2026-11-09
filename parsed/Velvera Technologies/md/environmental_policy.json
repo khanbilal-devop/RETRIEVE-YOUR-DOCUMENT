@@ -167,28 +167,47 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 58,
+              "heading": "Environmental Commitment"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 60,
-                  "heading": "Future Goals (2025–2030)"
+                  "line": 60
                 },
                 "text": "For more on our sustainability roadmap, visit:\nvelvera.com/sustainability (https://velvera.com/sustainability)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 63,
+              "heading": "Environmental Commitment"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 64,
-                  "heading": "Future Goals (2025–2030)"
+                  "line": 64
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 66,
-                  "heading": "Future Goals (2025–2030)"
+                  "line": 66
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

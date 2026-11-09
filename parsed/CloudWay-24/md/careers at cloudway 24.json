@@ -346,12 +346,22 @@
                   "heading": "How to Apply"
                 },
                 "text": "⚡ Start your journey with CloudWay 24—where the sky is never the limit!"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 84,
+              "heading": "Careers at CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 86,
-                  "heading": "How to Apply"
+                  "line": 86
                 },
                 "text": "Connect with Us:\nLinkedIn (#) | Twitter (#) | Instagram (#)"
               }

@@ -234,20 +234,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 73,
+              "heading": "CloudWay 24 – Student Offers"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 75,
-                  "heading": "Terms & Conditions"
+                  "line": 75
                 },
                 "text": "Fly smarter, further, and lighter with CloudWay 24 Student Offers!"
               },
               {
                 "type": "quote",
                 "location": {
-                  "line": 77,
-                  "heading": "Terms & Conditions"
+                  "line": 77
                 },
                 "text": "For details and support, visit CloudWay24.com/student-offers (https://CloudWay24.com/student-offers) or contact our 24x7 student help desk."
               }

@@ -300,12 +300,22 @@
                   "heading": "Additional Locations"
                 },
                 "text": "ZX Bank ATMs are also operational at several shopping malls, airports, hospitals, and university campuses across Nepal. For the most updated list or to find the nearest ATM, use the ZX Bank Asia Mobile App (https://www.zxbank.asia/mobile-app)."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "ZX Bank: Nepal ATM Locations"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 78,
-                  "heading": "Additional Locations"
+                  "line": 78
                 },
                 "text": "Contact us:\nFor assistance or feedback, contact ZX Bank Nepal Customer Care at 01-5551234 or visit your nearest branch."
               }

@@ -631,20 +631,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 153,
+              "heading": "Velvera Pad Series — Usage Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 155,
-                  "heading": "Warranty & Support"
+                  "line": 155
                 },
                 "text": "For detailed manuals, accessories, and support:\nVisit www.velvera.com/support (https://www.velvera.com/support)"
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 158,
-                  "heading": "Warranty & Support"
+                  "line": 158
                 },
                 "text": "Velvera — Powering your creativity, wherever you go."
               }

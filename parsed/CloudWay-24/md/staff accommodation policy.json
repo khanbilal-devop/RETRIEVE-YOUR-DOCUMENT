@@ -292,12 +292,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 60,
+                  "heading": "Accommodation Policy"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 62,
-                      "heading": "8. Feedback & Quality Control"
+                      "line": 62
                     },
                     "text": "For further queries on staff accommodation, access the Crew Portal or contact Crew Scheduling."
                   }

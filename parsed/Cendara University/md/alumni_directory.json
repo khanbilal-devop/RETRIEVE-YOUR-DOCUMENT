@@ -519,12 +519,22 @@
                   "heading": "Contact the Cendara University Alumni Relations Office"
                 },
                 "text": "If you would like to update your information or have questions about alumni resources, please contact the Alumni Relations Office or visit our main portal."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 113,
+              "heading": "Cendara University Alumni Directory"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 115,
-                  "heading": "Contact the Cendara University Alumni Relations Office"
+                  "line": 115
                 },
                 "text": "Building Connections. Celebrating Success. Enhancing Cendara Pride."
               }

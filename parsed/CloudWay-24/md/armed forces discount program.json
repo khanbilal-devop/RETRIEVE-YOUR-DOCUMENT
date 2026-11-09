@@ -210,20 +210,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 50,
+              "heading": "CloudWay 24 | Armed Forces Discount Program"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 52,
-                  "heading": "Terms & Conditions"
+                  "line": 52
                 },
                 "text": "Seamless Skies, Global Reach.\nDiscover the world with respect—and savings."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 55,
-                  "heading": "Terms & Conditions"
+                  "line": 55
                 },
                 "text": "🌐 CloudWay24.com (https://CloudWay24.com)"
               }

@@ -833,12 +833,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 195,
+                  "heading": "Elective Courses"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 197,
-                      "heading": "NURS 360: Disaster & Emergency Nursing"
+                      "line": 197
                     },
                     "text": "For further information on course sequencing, graduation requirements, and departmental policies, please refer to the B.N.S. Student Handbook or contact the Department of Nursing at nursing@cendara.edu."
                   }

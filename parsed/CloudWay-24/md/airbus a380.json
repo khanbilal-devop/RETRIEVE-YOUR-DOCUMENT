@@ -372,12 +372,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 85,
+              "heading": "Airbus A380: Overview & Cabin Features"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 87,
-                  "heading": "Additional A380 Features"
+                  "line": 87
                 },
                 "text": "Note: Seating configuration and amenities may vary by airline."
               }

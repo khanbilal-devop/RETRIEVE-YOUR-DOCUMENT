@@ -27,6 +27,11 @@ heading go in its ``blocks`` and the headings below it go in its ``sections``. T
 whole file is one top section with no title (``title`` None, ``level`` 0). It also
 holds any text that comes before the first heading.
 
+A ``---`` line that has content after it, before the next heading, starts a new
+section with no title. It sits at the same level as the section it follows. A
+``---`` right before a heading, at the end of the file, in the top section, or
+straight after a heading with nothing under it does nothing.
+
 A ``<details>`` section sits one level below the section it is in. If a text tag
 (``<summary>``, ``<p>`` and so on) comes right after ``<details>``, its text is the
 section title with the inner tags such as ``<strong>`` removed. Without one, the
@@ -186,6 +191,11 @@ def parse_markdown(text: str) -> list[dict]:
         elif kind == "html_block":
             blocks.append(_block("html", token, text=token.content))
 
+        # A horizontal line (---). Only one at the top level counts, as a break in the file.
+        # nest_blocks decides later if it starts a new section.
+        elif kind == "hr" and list_depth == 0 and quote_depth == 0:
+            blocks.append(_block("break", token))
+
     return blocks
 
 
@@ -308,10 +318,39 @@ def nest_blocks(blocks: list[dict]) -> dict:
     # The sections that are open right now: the top section, then one per heading level we are inside.
     open_sections = [root]
     details_sections = []  # the open sections that came from <details>, innermost last
+    break_line = None  # the line of a --- we have just seen, until the next block shows what follows it
 
     # First split any <details> blocks, so we see where each one opens and closes.
     # Then turn HTML headings (<h1> to <h6>) into heading blocks, so they start sections too.
     for block in _expand_headings(_expand_details(blocks)):
+        if block["type"] == "break":
+            # A --- line. It only matters if content follows it before the next heading.
+            break_line = block["line"]
+            continue
+        if block["type"] in ("heading", "details_open", "details_close"):
+            # These start or end a section by themselves, so a --- right before them changes nothing.
+            break_line = None
+        elif break_line is not None:
+            # Content comes right after a ---, so the --- is a section break.
+            # Not in the top section (nothing to split from) and not inside <details>.
+            # Not right after a heading either: if the section has nothing in it yet,
+            # this content is the heading's own, so there is no section to split from.
+            current = open_sections[-1]
+            if current is not root and not details_sections and (current["blocks"] or current["sections"]):
+                # The new section has no title. It takes the place of the one we were in,
+                # as its sibling: same level, same parent.
+                previous = open_sections.pop()
+                section = {
+                    "title": None,
+                    "level": previous["level"],
+                    "location": _location(break_line, open_sections[-1]["title"]),
+                    "blocks": [],
+                    "sections": [],
+                }
+                open_sections[-1]["sections"].append(section)
+                open_sections.append(section)
+            break_line = None
+
         if block["type"] == "details_open":
             # <details> opens a section one level below the section we are in.
             parent = open_sections[-1]

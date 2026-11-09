@@ -364,12 +364,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 77,
+                  "heading": "How to Check Your Requirements"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 79,
-                      "heading": "Disclaimer"
+                      "line": 79
                     },
                     "text": "Safe travels with CloudWay 24!"
                   }

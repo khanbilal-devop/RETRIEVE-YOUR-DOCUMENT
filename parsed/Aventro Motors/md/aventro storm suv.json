@@ -405,12 +405,22 @@
                       "heading": "Contact & Test Drive"
                     },
                     "text": "Book a test drive today at your nearest Aventro dealership or service center!\nFor bookings and more information:\n📞 +91 124 1234567\n✉️ info@aventromotors.com"
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 100,
+                  "heading": "Storm Variants & Pricing"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 102,
-                      "heading": "Contact & Test Drive"
+                      "line": 102
                     },
                     "text": "⬅ Back to All Models Overview (#)"
                   }

@@ -303,12 +303,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 62,
+              "heading": "Boeing 787 Dreamliner – CloudWay 24 Fleet Overview"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 64,
-                  "heading": "Additional Onboard Features"
+                  "line": 64
                 },
                 "text": "For more details and to book your CloudWay 24 Dreamliner experience, visit CloudWay24.com (https://www.CloudWay24.com) or use the CloudWay 24 mobile app."
               }

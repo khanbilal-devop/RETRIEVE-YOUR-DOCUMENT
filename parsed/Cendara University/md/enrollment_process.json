@@ -610,12 +610,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 144,
+              "heading": "Cendara University Enrollment Procedures"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 146,
-                  "heading": "Frequently Asked Questions"
+                  "line": 146
                 },
                 "text": "For further information, review the full Student Handbook (https://cendara.edu/student-handbook) or contact an enrollment advisor."
               }

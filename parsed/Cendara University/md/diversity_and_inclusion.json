@@ -456,12 +456,22 @@
                   "heading": "Message from the President"
                 },
                 "text": "“At Cendara University, diversity and inclusion are not supplementary—they are central to our mission. We celebrate the vibrancy that difference brings and hold ourselves accountable for creating the conditions in which every student, faculty member, and staff colleague may flourish. Our progress is ongoing, and our commitment, unwavering.”\n— President Marisol Ortega"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 119,
+              "heading": "Cendara University Diversity and Inclusion Statement"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 121,
-                  "heading": "Message from the President"
+                  "line": 121
                 },
                 "text": "For questions or consultation regarding diversity and inclusion, please contact the Office of Diversity Initiatives at diversity@cendara.edu or visit cendara.edu/diversity."
               }

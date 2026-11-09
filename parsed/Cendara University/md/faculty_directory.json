@@ -954,12 +954,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 431,
+                  "heading": "School of Health Sciences"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 433,
-                      "heading": "Department of Nutrition and Dietetics"
+                      "line": 433
                     },
                     "text": "For all general inquiries, contact the Office of the Provost at provost@cendara.edu. Full faculty biographies and research profiles are available at faculty.cendara.edu (https://faculty.cendara.edu)."
                   }

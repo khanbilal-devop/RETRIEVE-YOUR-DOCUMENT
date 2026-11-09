@@ -481,12 +481,22 @@
                     "Don’t forget insurance"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 77,
+              "heading": "Do's and Don'ts About 3rd Party Accessories & Electrical Accessories for Your Car"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 79,
-                  "heading": "Summary Table"
+                  "line": 79
                 },
                 "text": "Always prioritize safety, reliability, and warranty protection when considering third-party accessories for your vehicle. For any doubts, reach out to your nearest Aventro Service Center."
               }

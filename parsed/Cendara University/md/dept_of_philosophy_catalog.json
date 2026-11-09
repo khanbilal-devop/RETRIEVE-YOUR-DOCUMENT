@@ -795,12 +795,22 @@
                     "Graduate standing and department approval"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 199,
+              "heading": "Cendara University"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 201,
-                  "heading": "Summary Table"
+                  "line": 201
                 },
                 "text": "For more information, consult the Department of Philosophy academic adviser or visit our website at [philosophy.cendara.edu]."
               }

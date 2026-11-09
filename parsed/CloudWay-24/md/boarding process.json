@@ -313,20 +313,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 82,
+              "heading": "Boarding Process with CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 84,
-                  "heading": "Tips for Smooth Boarding"
+                  "line": 84
                 },
                 "text": "For additional queries or assistance, visit CloudWay24.com (https://cloudway24.com) or contact our customer support."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 86,
-                  "heading": "Tips for Smooth Boarding"
+                  "line": 86
                 },
                 "text": "Safe travels with CloudWay 24: Seamless Skies, Global Reach."
               }

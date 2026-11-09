@@ -584,12 +584,22 @@
                     "ghan@cendara.edu"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 133,
+              "heading": "Cendara University Sports Overview"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 135,
-                  "heading": "Athletics Department Staff"
+                  "line": 135
                 },
                 "text": "For schedules, results, and updates, visit:\nCendara University Athletics (https://www.cendarauniversity.edu/athletics)"
               }

@@ -271,12 +271,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 77,
+              "heading": "Cendara University Contact Information"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 79,
-                  "heading": "Social Media"
+                  "line": 79
                 },
                 "text": "For further assistance, please visit our Contact Us page (http://www.cendara.edu/contact) or call our main switchboard during business hours."
               }

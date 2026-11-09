@@ -468,12 +468,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 111,
+              "heading": "Cendara University Undergraduate and Graduate Fee Structure"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 113,
-                  "heading": "7. Important Notes"
+                  "line": 113
                 },
                 "text": "For complete policy details, including payment deadlines and refund schedules, please refer to the Cendara University Student Accounts Handbook (https://accounts.cendara.edu/handbook)."
               }

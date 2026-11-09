@@ -591,12 +591,22 @@
                             "depth": 0
                           }
                         ]
-                      },
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": null,
+                    "level": 4,
+                    "location": {
+                      "line": 221,
+                      "heading": "ECON 599: Thesis in Economics"
+                    },
+                    "blocks": [
                       {
                         "type": "paragraph",
                         "location": {
-                          "line": 223,
-                          "heading": "Graduate Electives"
+                          "line": 223
                         },
                         "text": "For additional information, please contact the Department of Economics at economics@cendara.edu, or consult the full course catalog at www.cendara.edu/economics/courses (http://www.cendara.edu/economics/courses)."
                       }

@@ -645,12 +645,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 150,
+              "heading": "Cendara University Research Overview"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 152,
-                  "heading": "Notable Recent Events"
+                  "line": 152
                 },
                 "text": "Cendara University’s research enterprise is propelled by a culture of curiosity, diversity, and community-focused innovation. As it continues to expand its research footprint, the university remains steadfast in its goal: translating knowledge into real-world impact for the 21st century and beyond."
               }

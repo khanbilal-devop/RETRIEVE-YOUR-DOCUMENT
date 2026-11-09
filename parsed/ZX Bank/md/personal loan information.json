@@ -300,12 +300,22 @@
                   "heading": "How to Apply"
                 },
                 "text": "For more details, visit www.zxbank.asia/personal-loan (https://www.zxbank.asia/personal-loan)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "ZX Bank Ltd. – Personal Loan Information"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 74,
-                  "heading": "How to Apply"
+                  "line": 74
                 },
                 "text": "Note: Interest rates, documentation and product features are subject to change as per regulatory guidelines and at the discretion of ZX Bank Ltd."
               }

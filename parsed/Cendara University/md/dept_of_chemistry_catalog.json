@@ -785,12 +785,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 185,
+              "heading": "Cendara University Course Catalog"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 187,
-                  "heading": "Key to Course Codes"
+                  "line": 187
                 },
                 "text": "For further details regarding course sequencing, electives, or individualized study options, please contact the Office of the Registrar (registrar@cendara.edu) or the Department of Chemistry (chem.dept@cendara.edu)."
               }

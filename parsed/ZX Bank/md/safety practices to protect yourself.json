@@ -311,12 +311,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 46,
+              "heading": "Safety Practices to Protect Yourself from Online Threats"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 48,
-                  "heading": "10. Educate Yourself & Stay Informed"
+                  "line": 48
                 },
                 "text": "Stay alert and proactive. Safe online habits protect your identity, money, and peace of mind!"
               }

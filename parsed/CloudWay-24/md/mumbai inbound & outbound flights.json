@@ -241,12 +241,22 @@
                     "17h 35m"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 39,
+              "heading": "CloudWay 24: Mumbai–USA Flight Schedule"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 41,
-                  "heading": "Inbound Flights: USA to Mumbai"
+                  "line": 41
                 },
                 "text": "For real-time schedules and booking, visit CloudWay24.com (https://www.cloudway24.com)."
               }
@@ -484,12 +494,22 @@
                     "8h 50m"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 82,
+              "heading": "CloudWay 24: Mumbai ↔ Europe Flight Schedule"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 84,
-                  "heading": "Inbound Flights: Arriving to Mumbai"
+                  "line": 84
                 },
                 "text": "Note: All timings and flight numbers are sample data for illustrative purposes only. Please verify with CloudWay 24 for up-to-date flight schedules and operational details."
               }
@@ -679,20 +699,29 @@
                     "17h 35m"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 120,
+              "heading": "CloudWay 24: Mumbai – Canada Flight Schedule"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 122,
-                  "heading": "🛬 Inbound Flights: Canada to Mumbai"
+                  "line": 122
                 },
                 "text": "Note: All timings are approximate and may vary seasonally. (+1) and (+2) denote next-day and two days later arrival, respectively, based on time difference and total flight duration."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 124,
-                  "heading": "🛬 Inbound Flights: Canada to Mumbai"
+                  "line": 124
                 },
                 "text": "For booking and the latest schedule, visit CloudWay24.com (https://CloudWay24.com) or use the CloudWay24 app!"
               }
@@ -1124,12 +1153,22 @@
                     "6h 00m"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 200,
+              "heading": "CloudWay 24 – Mumbai to South East Asia Flight Schedule"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 202,
-                  "heading": "Inbound Flights: South East Asian Cities to Mumbai"
+                  "line": 202
                 },
                 "text": "Note: All timings are local. \"+1\" indicates arrival on the next day. Schedule, flight numbers, and times are for illustrative purposes; actual schedules may vary. For latest updates and bookings, visit CloudWay24.com (https://www.cloudway24.com) or use the CloudWay24 app."
               }
@@ -1389,12 +1428,22 @@
                     "8h 55m"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 243,
+              "heading": "CloudWay 24: Mumbai to China & Australia Flight Schedule"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 245,
-                  "heading": "Inbound Flights: Arriving to Mumbai"
+                  "line": 245
                 },
                 "text": "Note: Flight numbers, timings, and travel durations are for illustrative purposes only and do not reflect actual schedules. Time differences have been reflected where applicable (+1 = next day arrival)."
               }
@@ -1636,20 +1685,29 @@
                     "7h 15m"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 284,
+              "heading": "CloudWay 24: Mumbai–Africa Route Schedule"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 286,
-                  "heading": "🛬 Inbound Flights: Arriving at Mumbai (BOM)"
+                  "line": 286
                 },
                 "text": "Note: All timings are local to the respective cities; (+1) indicates next day arrival. Aircraft and schedules subject to operational changes."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 288,
-                  "heading": "🛬 Inbound Flights: Arriving at Mumbai (BOM)"
+                  "line": 288
                 },
                 "text": "Enjoy world-class service, multiple cabin choices, and seamless connectivity with CloudWay 24 – Seamless Skies, Global Reach!"
               }

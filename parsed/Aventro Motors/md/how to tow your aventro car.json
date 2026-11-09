@@ -392,12 +392,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 100,
+              "heading": "How to Tow Your Aventro Car"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 102,
-                  "heading": "Contact Aventro Motors Roadside Assistance"
+                  "line": 102
                 },
                 "text": "For model-specific instructions, always refer to your Aventro Owner’s Manual."
               }

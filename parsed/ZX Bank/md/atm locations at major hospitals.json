@@ -605,12 +605,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 185,
+              "heading": "ZX Bank ATM Locations at Major Hospitals"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 187,
-                  "heading": "Coimbatore, Tamil Nadu"
+                  "line": 187
                 },
                 "text": "Note: Availability and locations of ATMs may change. Please check the ZX Bank Asia Branch & ATM Locator (https://www.zxbank.asia/locator) for latest information."
               }

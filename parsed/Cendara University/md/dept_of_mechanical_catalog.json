@@ -590,12 +590,22 @@
                       "heading": "MECH 599: Graduate Thesis"
                     },
                     "text": "Credits: 6\nDescription:\nOriginal research under the guidance of a faculty advisor, culminating in a written thesis and oral defense before a faculty committee.\nPrerequisites: Completion of at least 18 graduate credits; approval of thesis proposal"
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 231,
+                  "heading": "Graduate Courses (M.Eng.)"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 233,
-                      "heading": "MECH 599: Graduate Thesis"
+                      "line": 233
                     },
                     "text": "For further information and course planning, please consult the Academic Advising Office or the Department of Mechanical Engineering at mecheng@cendara.edu."
                   }

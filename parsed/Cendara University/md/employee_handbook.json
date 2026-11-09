@@ -974,20 +974,29 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 200,
+                  "heading": "Company Culture"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 202,
-                      "heading": "5.4 Community Engagement"
+                      "line": 202
                     },
                     "text": "Please review this handbook regularly. Cendara University reserves the right to amend any policies or benefits as needed. Updates are communicated via email and posted in the HR section of the university intranet."
                   },
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 204,
-                      "heading": "5.4 Community Engagement"
+                      "line": 204
                     },
                     "text": "Thank you for being a part of Cendara University’s vibrant academic community!"
                   }

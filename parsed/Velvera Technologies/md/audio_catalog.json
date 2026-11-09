@@ -93,20 +93,29 @@
                     "$479"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 16,
+              "heading": "Audio — Velvera Audio Series"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 17,
-                  "heading": "Velvera Audio Models & Pricing"
+                  "line": 17
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 19,
-                  "heading": "Velvera Audio Models & Pricing"
+                  "line": 19
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

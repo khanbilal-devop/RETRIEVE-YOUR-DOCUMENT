@@ -696,12 +696,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 124,
+              "heading": "Aventro Motors Guide: Connecting Smartwatch Connectivity, Works with Alexa, and CarPlay"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 126,
-                  "heading": "Support"
+                  "line": 126
                 },
                 "text": "Enjoy your connected Aventro driving experience!"
               }

@@ -405,20 +405,40 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 88,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 90,
-                  "heading": "Available Engine Options"
+                  "line": 90
                 },
                 "text": "For full technical breakdown and variant comparison, visit aventromotors.com (https://aventromotors.com).\nFor bookings or test drive queries, contact your nearest Aventro Service Center."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 93,
+              "heading": "Aventro Edge Sedan"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 94,
-                  "heading": "Available Engine Options"
+                  "line": 94
                 },
                 "text": "Aventro Motors Pvt. Ltd.<br>\nAventro Tower, Sector 18, Gurgaon, Haryana, India\ninfo@aventromotors.com (mailto:info@aventromotors.com) | +91 124 1234567"
               }

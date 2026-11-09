@@ -26,12 +26,21 @@
               "heading": "Velvera: Awards and Recognition"
             },
             "text": "Our commitment to ethical innovation, privacy leadership, and sustainable excellence has been recognized by renowned industry authorities and global institutions. Below is a selection of our most meaningful accolades and recognitions."
-          },
+          }
+        ],
+        "sections": []
+      },
+      {
+        "title": null,
+        "level": 1,
+        "location": {
+          "line": 6
+        },
+        "blocks": [
           {
             "type": "table",
             "location": {
-              "line": 8,
-              "heading": "Velvera: Awards and Recognition"
+              "line": 8
             },
             "header": [
               "Award / Recognition",
@@ -130,8 +139,7 @@
             "title": "Award Highlights",
             "level": 2,
             "location": {
-              "line": 23,
-              "heading": "Velvera: Awards and Recognition"
+              "line": 23
             },
             "blocks": [
               {
@@ -181,12 +189,21 @@
                   "heading": "Award Highlights"
                 },
                 "text": "Editor’s Choice – TechRadar Global Awards (2025)\nVelvera One Ultra named the premium smartphone of the year for balancing uncompromising security with modern features and standout design."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 43
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 45,
-                  "heading": "Award Highlights"
+                  "line": 45
                 },
                 "text": "Velvera remains steadfast in advancing the frontiers of ethical technology, delivering award-winning products and practices that define the future of mobile innovation."
               }

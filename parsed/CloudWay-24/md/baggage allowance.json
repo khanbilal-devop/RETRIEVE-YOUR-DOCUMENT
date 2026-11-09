@@ -244,12 +244,22 @@
                   "heading": "Important Guidelines"
                 },
                 "text": "For the most up-to-date baggage rules and detailed FAQs, visit CloudWay24.com/Baggage (https://CloudWay24.com/Baggage) or check the \"Baggage Policy\" section in the CloudWay24 app."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 56,
+              "heading": "CloudWay 24 Baggage Allowance Policy"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 57,
-                  "heading": "Important Guidelines"
+                  "line": 57
                 },
                 "text": "Travel smooth. Travel CloudWay 24 – Seamless Skies, Global Reach."
               }

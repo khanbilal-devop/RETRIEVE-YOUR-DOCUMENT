@@ -26,12 +26,21 @@
               "heading": "Best Ways to Use Your Car AC in All Seasons"
             },
             "text": "For Aventro Motors Car Owners"
-          },
+          }
+        ],
+        "sections": []
+      },
+      {
+        "title": null,
+        "level": 1,
+        "location": {
+          "line": 4
+        },
+        "blocks": [
           {
             "type": "paragraph",
             "location": {
-              "line": 6,
-              "heading": "Best Ways to Use Your Car AC in All Seasons"
+              "line": 6
             },
             "text": "Your vehicle’s air conditioning (AC) system is vital for comfort and safety throughout the year. Whether it’s cooling in summer, defogging in monsoon, or maintaining a pleasant environment in winter, knowing how to use the AC efficiently will extend system life and enhance your driving experience. Here’s a guide to making the most of your AC system during every season."
           }
@@ -41,8 +50,7 @@
             "title": "Summer: Beat the Heat",
             "level": 2,
             "location": {
-              "line": 10,
-              "heading": "Best Ways to Use Your Car AC in All Seasons"
+              "line": 10
             },
             "blocks": [
               {
@@ -152,8 +160,7 @@
             "title": "Monsoon: Fight Humidity and Fog",
             "level": 2,
             "location": {
-              "line": 29,
-              "heading": "Best Ways to Use Your Car AC in All Seasons"
+              "line": 29
             },
             "blocks": [
               {
@@ -233,8 +240,7 @@
             "title": "Winter: Comfort with Care",
             "level": 2,
             "location": {
-              "line": 43,
-              "heading": "Best Ways to Use Your Car AC in All Seasons"
+              "line": 43
             },
             "blocks": [
               {
@@ -296,8 +302,7 @@
             "title": "General Tips for All Seasons",
             "level": 2,
             "location": {
-              "line": 55,
-              "heading": "Best Ways to Use Your Car AC in All Seasons"
+              "line": 55
             },
             "blocks": [
               {
@@ -333,8 +338,7 @@
             "title": "When to Seek Professional Help",
             "level": 2,
             "location": {
-              "line": 64,
-              "heading": "Best Ways to Use Your Car AC in All Seasons"
+              "line": 64
             },
             "blocks": [
               {
@@ -366,20 +370,28 @@
                   "heading": "When to Seek Professional Help"
                 },
                 "text": "Visit your nearest Aventro Service Center for expert AC service and diagnostics."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 72
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 74,
-                  "heading": "When to Seek Professional Help"
+                  "line": 74
                 },
                 "text": "Stay comfortable, healthy, and safe in every season with these smart AC usage tips!"
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 76,
-                  "heading": "When to Seek Professional Help"
+                  "line": 76
                 },
                 "text": "For more information or to book an AC service, contact Aventro Motors at info@aventromotors.com (mailto:info@aventromotors.com) or visit your nearest Aventro Service Center."
               }

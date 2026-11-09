@@ -505,12 +505,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 148,
+              "heading": "Cendara University Campus Overview"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 150,
-                  "heading": "Recent and Planned Improvements"
+                  "line": 150
                 },
                 "text": "Cendara University’s campus infrastructure supports a thriving academic and extracurricular community, prioritizing both technological advancement and sustainability in all future developments."
               }

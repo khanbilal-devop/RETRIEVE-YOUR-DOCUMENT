@@ -637,20 +637,29 @@
                       "heading": "Velvera Start Models & Pricing"
                     },
                     "text": "Available Colors: Classic Black, Pearl White, Sky Blue, Forest Green"
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 113,
+                  "heading": "Budget-Friendly Series — Velvera Start"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 115,
-                      "heading": "Velvera Start Models & Pricing"
+                      "line": 115
                     },
                     "text": "Velvera — Technology, Refined. Life, Elevated."
                   },
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 117,
-                      "heading": "Velvera Start Models & Pricing"
+                      "line": 117
                     },
                     "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
                   }

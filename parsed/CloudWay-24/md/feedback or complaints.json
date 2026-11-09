@@ -269,12 +269,22 @@
                   "heading": "Commitment to Customers"
                 },
                 "text": "CloudWay 24 values your input and strives to resolve all issues fairly, transparently, and promptly, ensuring your journey remains seamless. Thank you for helping us improve."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "CloudWay 24 – Feedback & Complaints"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 67,
-                  "heading": "Commitment to Customers"
+                  "line": 67
                 },
                 "text": "For additional information, visit:\nCloudWay24.com/help (https://cloudway24.com/help)"
               }

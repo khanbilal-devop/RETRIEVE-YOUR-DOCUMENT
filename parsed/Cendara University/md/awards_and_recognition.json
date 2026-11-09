@@ -255,12 +255,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 89,
+                  "heading": "Awards and Recognition"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 91,
-                      "heading": "Community & Partner Recognition"
+                      "line": 91
                     },
                     "text": "For additional details on awards and recognition, contact the Office of University Relations at recognition@cendara.edu."
                   }

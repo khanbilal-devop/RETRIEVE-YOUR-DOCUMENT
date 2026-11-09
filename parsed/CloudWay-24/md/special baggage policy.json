@@ -353,20 +353,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 76,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 78,
-                  "heading": "6. Exclusions and Restrictions"
+                  "line": 78
                 },
                 "text": "For any questions or to pre-arrange your special baggage:"
               },
               {
                 "type": "list",
                 "location": {
-                  "line": 79,
-                  "heading": "6. Exclusions and Restrictions"
+                  "line": 79
                 },
                 "ordered": false,
                 "items": [
@@ -383,12 +392,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 83,
+              "heading": "CloudWay 24 Special Baggage Policy"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 85,
-                  "heading": "6. Exclusions and Restrictions"
+                  "line": 85
                 },
                 "text": "CloudWay 24 – Seamless Skies, Global Reach."
               }

@@ -487,28 +487,36 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 109,
+              "heading": "Velvera Start Series — Product Specifications"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 111,
-                  "heading": "After-Sales & Support"
+                  "line": 111
                 },
                 "text": "Velvera Start delivers simplicity and reliability you can trust — all at an affordable price."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 113,
-                  "heading": "After-Sales & Support"
+                  "line": 113
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 115,
-                  "heading": "After-Sales & Support"
+                  "line": 115
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

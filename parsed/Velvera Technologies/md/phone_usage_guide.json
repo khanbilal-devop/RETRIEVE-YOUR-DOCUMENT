@@ -512,12 +512,22 @@
                     "depth": 1
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 118,
+              "heading": "Velvera Smartphone Usage Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 120,
-                  "heading": "Warranty & Care"
+                  "line": 120
                 },
                 "text": "Velvera — Elevate your experience. For detailed FAQs, visit https://velvera.com/support or refer to your model’s official manual."
               }

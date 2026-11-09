@@ -423,28 +423,47 @@
                   "heading": "For Businesses"
                 },
                 "text": "For enterprise queries: b2bcare@velvera.com"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 89,
+              "heading": "Warranty & Service"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 91,
-                  "heading": "For Businesses"
+                  "line": 91
                 },
                 "text": "For full warranty terms, exclusions, and support policies, visit the official documentation at:\nvelvera.com/warranty (https://velvera.com/warranty)\nvelvera.com/velvera-care (https://velvera.com/velvera-care)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 95,
+              "heading": "Warranty & Service"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 97,
-                  "heading": "For Businesses"
+                  "line": 97
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 99,
-                  "heading": "For Businesses"
+                  "line": 99
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

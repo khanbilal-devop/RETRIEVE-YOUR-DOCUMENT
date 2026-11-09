@@ -334,20 +334,40 @@
                   "heading": "Aventro Service Tip"
                 },
                 "text": "Visit your nearest Aventro Service Center for a mileage check-up and expert maintenance.\nFind a Service Center › (#)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 66,
-                  "heading": "Aventro Service Tip"
+                  "line": 66
                 },
                 "text": "Maintaining good mileage is not only about saving money but also about fostering a responsible, eco-friendly driving culture. Start today for a smoother, more efficient journey!"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 68,
+              "heading": "Best Ways to Maintain Good Mileage"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 70,
-                  "heading": "Aventro Service Tip"
+                  "line": 70
                 },
                 "text": "For bookings and more tips, contact:\nAventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nEmail: info@aventromotors.com | Contact: +91 124 1234567"
               }

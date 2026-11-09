@@ -316,20 +316,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 61,
+              "heading": "Special Assistance at CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 63,
-                  "heading": "Contact Us"
+                  "line": 63
                 },
                 "text": "Your comfort and dignity are our top priorities. Please reach out so we can make your journey as smooth as possible."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 65,
-                  "heading": "Contact Us"
+                  "line": 65
                 },
                 "text": "CloudWay 24 – Seamless Skies, Global Reach."
               }

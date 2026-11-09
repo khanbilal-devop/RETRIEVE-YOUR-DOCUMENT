@@ -131,28 +131,47 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 61,
+              "heading": "Do's &  Don’ts — Velvera Usage Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 63,
-                  "heading": "DON’Ts"
+                  "line": 63
                 },
                 "text": "For full warranty, care, and usage terms, visit:\nvelvera.com/warranty (https://velvera.com/warranty)\nvelvera.com/privacy (https://velvera.com/privacy)\nvelvera.com/support (https://velvera.com/support)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 3,
+            "location": {
+              "line": 68,
+              "heading": "Do's &  Don’ts — Velvera Usage Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 70,
-                  "heading": "DON’Ts"
+                  "line": 70
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 72,
-                  "heading": "DON’Ts"
+                  "line": 72
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

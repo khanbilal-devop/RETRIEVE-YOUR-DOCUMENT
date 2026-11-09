@@ -697,28 +697,36 @@
                       "heading": "BRAND POSITIONING"
                     },
                     "text": "Brand Values Integration: All brand touchpoints must demonstrate our core values of simplicity, performance, privacy, longevity, and sustainability. This consistency across all user interactions builds trust and reinforces our market positioning as the ethical alternative in mobile technology."
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 174,
+                  "heading": "BRAND IDENTITY"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 176,
-                      "heading": "BRAND POSITIONING"
+                      "line": 176
                     },
                     "text": "This document contains confidential and proprietary information. Distribution is restricted to authorized personnel only."
                   },
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 178,
-                      "heading": "BRAND POSITIONING"
+                      "line": 178
                     },
                     "text": "Document Control:"
                   },
                   {
                     "type": "list",
                     "location": {
-                      "line": 179,
-                      "heading": "BRAND POSITIONING"
+                      "line": 179
                     },
                     "ordered": false,
                     "items": [
@@ -743,16 +751,14 @@
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 185,
-                      "heading": "BRAND POSITIONING"
+                      "line": 185
                     },
                     "text": "Velvera — Technology, Refined. Life, Elevated."
                   },
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 187,
-                      "heading": "BRAND POSITIONING"
+                      "line": 187
                     },
                     "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
                   }

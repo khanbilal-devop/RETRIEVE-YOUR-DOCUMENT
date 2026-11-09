@@ -129,20 +129,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 4,
+            "location": {
+              "line": 36,
+              "heading": "Contact Information"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 38,
-                  "heading": "Investor Communication"
+                  "line": 38
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 40,
-                  "heading": "Investor Communication"
+                  "line": 40
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

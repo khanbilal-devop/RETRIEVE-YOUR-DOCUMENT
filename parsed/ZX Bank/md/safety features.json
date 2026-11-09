@@ -286,12 +286,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "ZX Bank – Safety Features Against Online Threats"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 43,
-                  "heading": "9. Secure Remittance Corridors"
+                  "line": 43
                 },
                 "text": "Your security is our mission:\nStay vigilant, never share your passwords or OTPs, and contact ZX Bank support if you notice any suspicious activity."
               }

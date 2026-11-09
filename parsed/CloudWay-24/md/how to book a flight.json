@@ -398,12 +398,22 @@
                       "heading": "Contact & Support"
                     },
                     "text": "For additional assistance, visit CloudWay24.com (https://cloudway24.com) or use in-app support."
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 85,
+                  "heading": "Additional Features"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 87,
-                      "heading": "Contact & Support"
+                      "line": 87
                     },
                     "text": "Enjoy a seamless booking and flying experience with CloudWay 24 – Seamless Skies, Global Reach."
                   }

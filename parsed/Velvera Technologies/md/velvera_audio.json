@@ -566,20 +566,29 @@
                   "heading": "Contact Information"
                 },
                 "text": "For more details, bulk orders, or technical support,  call: 1800-123-VELVERA"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 136,
+              "heading": "Velvera Audio Series — Product Specification Document"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 138,
-                  "heading": "Contact Information"
+                  "line": 138
                 },
                 "text": "Velvera — Technology, Refined. Life, Elevated."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 140,
-                  "heading": "Contact Information"
+                  "line": 140
                 },
                 "text": "Crafted with precision. Powered by innovation. Designed for tomorrow."
               }

@@ -267,12 +267,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 4,
+                "location": {
+                  "line": 53,
+                  "heading": "Exclusive Bundles & Accessories"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 55,
-                      "heading": "Key Details"
+                      "line": 55
                     },
                     "text": "For more information on pre-orders and collector’s events, contact:\ncollectors@velvera.com\nVelvera Special Editions Team"
                   }

@@ -334,20 +334,29 @@
                   "heading": "Conclusion"
                 },
                 "text": "Anti-lock Braking System (ABS) is a critical automotive safety technology that saves lives by helping drivers maintain control of their vehicles in emergency situations. By understanding how ABS works, drivers can maximize its benefits and contribute to safer roads."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 74,
+              "heading": "What is ABS (Anti-lock Braking System) and How Does It Work?"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 76,
-                  "heading": "Conclusion"
+                  "line": 76
                 },
                 "text": "References:"
               },
               {
                 "type": "list",
                 "location": {
-                  "line": 77,
-                  "heading": "Conclusion"
+                  "line": 77
                 },
                 "ordered": false,
                 "items": [

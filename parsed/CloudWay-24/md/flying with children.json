@@ -318,12 +318,22 @@
                   "heading": "Need More Help?"
                 },
                 "text": "Visit our website (https://CloudWay24.com) or mobile app (CloudWay24) for more details, or contact our 24x7 support team for personalized assistance on your family travel plans."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 79,
+              "heading": "Flying with Children on CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 81,
-                  "heading": "Need More Help?"
+                  "line": 81
                 },
                 "text": "CloudWay 24\n\"Seamless Skies, Global Reach—for the whole family.\""
               }

@@ -530,20 +530,29 @@
                     "Main Entrance, North Crescent, Commerce Circle"
                   ]
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 126,
+              "heading": "Cendara University Campus Map Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 128,
-                  "heading": "9. Quick Reference Table"
+                  "line": 128
                 },
                 "text": "For a detailed illustrated map, printed copies are available at the Admissions Office (Walker Administration Building, Room 102), or download the interactive campus map from www.cendara.edu/campusmap (http://www.cendara.edu/campusmap)."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 130,
-                  "heading": "9. Quick Reference Table"
+                  "line": 130
                 },
                 "text": "For emergencies, dial campus security: (732) 555-4000"
               }

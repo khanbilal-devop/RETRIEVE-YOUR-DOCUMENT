@@ -115,28 +115,35 @@
                 "Haa Dzong Area, Haa 13001"
               ]
             ]
-          },
+          }
+        ],
+        "sections": []
+      },
+      {
+        "title": null,
+        "level": 1,
+        "location": {
+          "line": 23
+        },
+        "blocks": [
           {
             "type": "paragraph",
             "location": {
-              "line": 25,
-              "heading": "ZX Bank ATMs in Bhutan"
+              "line": 25
             },
             "text": "Total ZX Bank ATMs in Bhutan: 15"
           },
           {
             "type": "paragraph",
             "location": {
-              "line": 27,
-              "heading": "ZX Bank ATMs in Bhutan"
+              "line": 27
             },
             "text": "All ZX Bank ATMs offer:"
           },
           {
             "type": "list",
             "location": {
-              "line": 28,
-              "heading": "ZX Bank ATMs in Bhutan"
+              "line": 28
             },
             "ordered": false,
             "items": [
@@ -161,8 +168,7 @@
           {
             "type": "paragraph",
             "location": {
-              "line": 33,
-              "heading": "ZX Bank ATMs in Bhutan"
+              "line": 33
             },
             "text": "For full list of services and latest updates, visit: www.zxbank.asia (https://www.zxbank.asia)"
           }

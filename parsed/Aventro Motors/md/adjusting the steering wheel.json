@@ -375,12 +375,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 73,
+              "heading": "Adjusting the Steering Wheel"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 75,
-                  "heading": "For Further Assistance"
+                  "line": 75
                 },
                 "text": "Drive safely and comfortably!"
               }

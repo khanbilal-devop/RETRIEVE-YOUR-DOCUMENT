@@ -299,12 +299,22 @@
                   "heading": "Need Assistance?"
                 },
                 "text": "Visit CloudWay24.com/support (https://CloudWay24.com/support) or contact us through the CloudWay24 app for more information on your rights or to lodge a complaint."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 72,
+              "heading": "CloudWay 24 – Passenger Rights"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 74,
-                  "heading": "Need Assistance?"
+                  "line": 74
                 },
                 "text": "CloudWay 24 is dedicated to upholding your rights and ensuring a seamless, fair, and enjoyable travel experience."
               }

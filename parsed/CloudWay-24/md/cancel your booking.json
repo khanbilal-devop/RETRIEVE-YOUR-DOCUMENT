@@ -255,12 +255,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 53,
+              "heading": "Cancel Your Booking with CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 55,
-                  "heading": "Need Assistance?"
+                  "line": 55
                 },
                 "text": "Fly Seamless. Fly CloudWay 24."
               }

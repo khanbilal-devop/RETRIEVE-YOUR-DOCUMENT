@@ -309,20 +309,40 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 74,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 76,
-                  "heading": "Tips for a Smooth Journey"
+                  "line": 76
                 },
                 "text": "For more information, visit CloudWay24.com (https://cloudway24.com) or contact our 24/7 Customer Support."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 78,
+              "heading": "Travelling with Pets on CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 79,
-                  "heading": "Tips for a Smooth Journey"
+                  "line": 79
                 },
                 "text": "CloudWay 24 – Seamless Skies for You and Your Pet!"
               }

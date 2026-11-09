@@ -469,12 +469,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 119,
+              "heading": "Cendara University Academic Calendar 2024–2025"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 121,
-                  "heading": "Contact Information"
+                  "line": 121
                 },
                 "text": "This calendar is subject to change. The most up-to-date information is always available on the Cendara University website or through the Office of the Registrar."
               }

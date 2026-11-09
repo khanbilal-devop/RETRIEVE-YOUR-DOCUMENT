@@ -351,20 +351,29 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 64,
+                  "heading": "2. Government Discounts"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 66,
-                      "heading": "Terms & Conditions"
+                      "line": 66
                     },
                     "text": "For updated discount slabs and eligibility, contact Aventro Motors corporate sales team:"
                   },
                   {
                     "type": "list",
                     "location": {
-                      "line": 67,
-                      "heading": "Terms & Conditions"
+                      "line": 67
                     },
                     "ordered": false,
                     "items": [
@@ -381,8 +390,7 @@
                   {
                     "type": "quote",
                     "location": {
-                      "line": 70,
-                      "heading": "Terms & Conditions"
+                      "line": 70
                     },
                     "text": "Note: All discounts are subject to periodic revision and may change without prior notice. Ask your nearest dealer for prevailing offers."
                   }

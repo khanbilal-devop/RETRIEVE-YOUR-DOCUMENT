@@ -300,12 +300,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 74,
+              "heading": "Upgrade Your Seat with CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 76,
-                  "heading": "Need Help?"
+                  "line": 76
                 },
                 "text": "CloudWay 24 — Seamless Skies, Global Reach."
               }

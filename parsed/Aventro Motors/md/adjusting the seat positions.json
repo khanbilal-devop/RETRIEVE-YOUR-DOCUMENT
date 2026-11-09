@@ -335,12 +335,22 @@
                   "heading": "Need Assistance?"
                 },
                 "text": "For in-depth troubleshooting or if you experience issues with seat adjustment mechanisms, contact your nearest Aventro Service Center or call Aventro Motors Customer Support at +91 124 1234567."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "Adjusting the Seat Positions in Aventro Motors Vehicles"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 69,
-                  "heading": "Need Assistance?"
+                  "line": 69
                 },
                 "text": "Drive safe, drive smart with Aventro!"
               }

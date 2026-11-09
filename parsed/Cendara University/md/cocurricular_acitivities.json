@@ -552,12 +552,22 @@
                   "heading": "How to Join a Club"
                 },
                 "text": "Interested students can sign up via the Office of Student Life portal or at the Club Fair. Most clubs welcome new members year-round. For details, contact studentlife@cendara.edu or visit the Student Center Room 102."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 140,
+              "heading": "Cendara University Co-Curricular and Extra-Curricular Activities"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 142,
-                  "heading": "How to Join a Club"
+                  "line": 142
                 },
                 "text": "For a full list of active organizations and upcoming events, see:\nwww.cendara.edu/studentlife/clubs (http://www.cendara.edu/studentlife/clubs)"
               }

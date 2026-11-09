@@ -235,20 +235,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 58,
+              "heading": "Delayed Baggage – CloudWay 24"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 60,
-                  "heading": "Important Tips"
+                  "line": 60
                 },
                 "text": "For more details, visit: CloudWay24.com/baggage (https://CloudWay24.com/baggage)"
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 62,
-                  "heading": "Important Tips"
+                  "line": 62
                 },
                 "text": "Thank you for choosing CloudWay 24. We’re committed to resolving your baggage concerns as quickly as possible!"
               }

@@ -809,20 +809,29 @@
                     "depth": 1
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 176,
+              "heading": "ZX Bank ATM Locations at Major Railway Stations and Airports"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 178,
-                  "heading": "20. Coimbatore, Tamil Nadu"
+                  "line": 178
                 },
                 "text": "All ZX Bank ATMs at these locations support: Cash Withdrawal, Balance Enquiry, Mini Statements, Fund Transfer (card-to-card), Fast Pay, and Recharge Services. Many ATMs have 24x7 security and multi-language interface."
               },
               {
                 "type": "quote",
                 "location": {
-                  "line": 180,
-                  "heading": "20. Coimbatore, Tamil Nadu"
+                  "line": 180
                 },
                 "text": "Find the nearest ZX Bank ATM using the ZX Bank Asia Mobile App (https://www.zxbank.asia) or ZX Bank ATM Locator (https://www.zxbank.asia/atm-locator)."
               }

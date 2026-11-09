@@ -914,12 +914,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 236,
+              "heading": "Cendara University Program Catalog"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 238,
-                  "heading": "Additional Academic Opportunities"
+                  "line": 238
                 },
                 "text": "For full program details, course descriptions, admissions prerequisites, and application deadlines, please refer to the Cendara University Academic Catalog (https://catalog.cendara.edu) or contact the Office of Admissions at admissions@cendara.edu."
               }

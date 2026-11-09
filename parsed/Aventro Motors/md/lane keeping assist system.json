@@ -313,20 +313,29 @@
                   "heading": "Conclusion"
                 },
                 "text": "Lane Keeping Assist System is a valuable safety technology that helps prevent unintentional lane departures, reducing the risk of side-swipe collisions and road departure accidents. While it offers significant safety benefits, it is not an autonomous driving system—driver vigilance and control remain essential."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "Lane Keeping Assist System (LKAS): Overview & Functionality"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 67,
-                  "heading": "Conclusion"
+                  "line": 67
                 },
                 "text": "References/For More Information"
               },
               {
                 "type": "list",
                 "location": {
-                  "line": 68,
-                  "heading": "Conclusion"
+                  "line": 68
                 },
                 "ordered": false,
                 "items": [

@@ -297,12 +297,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 64,
+              "heading": "How to Start Your Aventro Car"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 66,
-                  "heading": "Additional Tips"
+                  "line": 66
                 },
                 "text": "If you're unsure or the car doesn't start, refer to your Aventro user manual or contact the nearest Aventro Service Center."
               }

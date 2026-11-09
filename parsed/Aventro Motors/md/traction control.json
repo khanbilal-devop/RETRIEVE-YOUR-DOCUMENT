@@ -379,12 +379,22 @@
                       "heading": "Does traction control replace winter tires?"
                     },
                     "text": "No, traction control assists traction, but does not substitute proper tire selection for icy or snowy conditions."
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 91,
+                  "heading": "Frequently Asked Questions"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 93,
-                      "heading": "Does traction control replace winter tires?"
+                      "line": 93
                     },
                     "text": "For further information, service, or support, contact Aventro Motors Service Centers (#) or email info@aventromotors.com (mailto:info@aventromotors.com)."
                   }

@@ -378,12 +378,22 @@
                   "heading": "Contact & Test Drive"
                 },
                 "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nPhone: +91 124 1234567\nEmail: info@aventromotors.com (mailto:info@aventromotors.com)\nWebsite: www.aventromotors.com (http://www.aventromotors.com)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 89,
+              "heading": "Aventro Swift Sedan"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 91,
-                  "heading": "Contact & Test Drive"
+                  "line": 91
                 },
                 "text": "Experience the next level of comfort, technology, and safety with the Aventro Swift Sedan!"
               }

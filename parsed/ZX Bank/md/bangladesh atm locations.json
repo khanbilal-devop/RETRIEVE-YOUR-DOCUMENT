@@ -138,20 +138,28 @@
               "heading": "ZX Bank – Bangladesh ATM Locations"
             },
             "text": "Need Help?\nLocate your nearest ATM with the ZX Bank Asia App (#) or visit www.zxbank.asia (http://www.zxbank.asia)"
-          },
+          }
+        ],
+        "sections": []
+      },
+      {
+        "title": null,
+        "level": 1,
+        "location": {
+          "line": 29
+        },
+        "blocks": [
           {
             "type": "paragraph",
             "location": {
-              "line": 31,
-              "heading": "ZX Bank – Bangladesh ATM Locations"
+              "line": 31
             },
             "text": "For 24/7 support:\n📞 Bangladesh Helpline: 16236\n✉️ Email: support.bd@zxbank.asia"
           },
           {
             "type": "paragraph",
             "location": {
-              "line": 35,
-              "heading": "ZX Bank – Bangladesh ATM Locations"
+              "line": 35
             },
             "text": "Last updated: June 2024"
           }

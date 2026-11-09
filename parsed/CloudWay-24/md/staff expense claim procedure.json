@@ -306,12 +306,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 65,
+              "heading": "CloudWay 24 Staff Expense Claim Procedure"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 67,
-                  "heading": "5. Contact"
+                  "line": 67
                 },
                 "text": "Remember: Falsification of expenses may result in disciplinary action, up to and including termination of employment."
               }

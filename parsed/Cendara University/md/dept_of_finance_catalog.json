@@ -636,12 +636,22 @@
                         "depth": 0
                       }
                     ]
-                  },
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": null,
+                "level": 3,
+                "location": {
+                  "line": 151,
+                  "heading": "Department of Finance and Accounting"
+                },
+                "blocks": [
                   {
                     "type": "paragraph",
                     "location": {
-                      "line": 153,
-                      "heading": "FINA 490: Finance Internship"
+                      "line": 153
                     },
                     "text": "Note: Some upper-level courses may only be offered in alternate semesters. For further details on course scheduling and academic advising, contact the Department of Finance and Accounting at fina.office@cendara.edu."
                   }

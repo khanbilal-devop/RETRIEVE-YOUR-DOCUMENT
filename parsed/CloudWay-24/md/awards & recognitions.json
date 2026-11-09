@@ -207,20 +207,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 41,
+              "heading": "CloudWay 24 – Awards & Recognitions"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 43,
-                  "heading": "Customer Choice Highlights"
+                  "line": 43
                 },
                 "text": "CloudWay 24 remains committed to redefining air travel standards with every flight. Thank you to our passengers, partners, and the industry for recognizing our dedication to safety, comfort, and innovation."
               },
               {
                 "type": "quote",
                 "location": {
-                  "line": 45,
-                  "heading": "Customer Choice Highlights"
+                  "line": 45
                 },
                 "text": "“Seamless Skies, Global Reach.”"
               }

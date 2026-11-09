@@ -201,12 +201,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 37,
+              "heading": "How to Open the Door When the Car Key Remote Battery is Dead"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 39,
-                  "heading": "Need Assistance?"
+                  "line": 39
                 },
                 "text": "Stay prepared: Always know how to use your physical key for emergencies!"
               }

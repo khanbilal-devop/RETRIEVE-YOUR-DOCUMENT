@@ -299,12 +299,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 67,
+              "heading": "ZX Bank Car Loan"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 69,
-                  "heading": "Need Help?"
+                  "line": 69
                 },
                 "text": "Rates and eligibility criteria are indicative and may vary by region & applicant profile.\nFor detailed terms & conditions, visit ZX Bank Car Loan (https://www.zxbank.asia/car-loan)."
               }

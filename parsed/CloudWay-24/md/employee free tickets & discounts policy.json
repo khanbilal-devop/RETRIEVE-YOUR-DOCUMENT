@@ -258,20 +258,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 55,
+              "heading": "CloudWay 24 Employee Free Tickets & Discounts Policy"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 57,
-                  "heading": "🚨 Terms & Conditions"
+                  "line": 57
                 },
                 "text": "For more details or to book your staff travel tickets, log in to the CloudWay 24 Staff Portal (https://cloudway24.com/staff)."
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 59,
-                  "heading": "🚨 Terms & Conditions"
+                  "line": 59
                 },
                 "text": "Fly further with your CloudWay 24 family!"
               }

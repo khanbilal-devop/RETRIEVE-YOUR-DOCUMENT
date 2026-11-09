@@ -685,12 +685,22 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 265,
+              "heading": "ZX Bank – ATM Locations at Tech Parks in Major Indian Cities"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 266,
-                  "heading": "Coimbatore – Tamil Nadu"
+                  "line": 266
                 },
                 "text": "Note: Addresses provided are based on major established tech/commercial parks in each city."
               }

@@ -862,12 +862,22 @@
                   "heading": "9. Contacts & Further Information"
                 },
                 "text": "For policy details or appeals, reference the Student Financial Assistance Handbook (https://financialaid.cendara.edu/handbook)."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 191,
+              "heading": "Cendara University Financial Aid Guide"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 193,
-                  "heading": "9. Contacts & Further Information"
+                  "line": 193
                 },
                 "text": "Empowering your future, today — Cendara University Financial Assistance"
               }

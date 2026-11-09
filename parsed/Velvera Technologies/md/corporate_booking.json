@@ -542,12 +542,22 @@
                   "heading": "Contact & Next Steps"
                 },
                 "text": "For full schedule of plan benefits and options, log in to the Velvera Enterprise Portal (https://enterprise.velvera.com)."
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 115,
+              "heading": "Corporate Booking Plan — Customizability Documentation"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 117,
-                  "heading": "Contact & Next Steps"
+                  "line": 117
                 },
                 "text": "Velvera Corporate Booking Plan — Scalable, Secure, Personalized."
               }

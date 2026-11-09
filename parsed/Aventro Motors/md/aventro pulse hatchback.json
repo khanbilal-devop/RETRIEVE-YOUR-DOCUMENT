@@ -443,12 +443,22 @@
                   "heading": "For Test Drive or Enquiry"
                 },
                 "text": "Or visit your nearest Aventro Service Center (Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune, Kolkata, and more...)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 101,
+              "heading": "Aventro Pulse Hatchback"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 103,
-                  "heading": "For Test Drive or Enquiry"
+                  "line": 103
                 },
                 "text": "Your City Drive, Accelerated With Aventro Pulse!"
               }

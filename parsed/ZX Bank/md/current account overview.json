@@ -348,12 +348,22 @@
                   "heading": "Why Choose ZX Bank for Your Current Account?"
                 },
                 "text": "Open Your Account Now (https://www.zxbank.asia/current-account)"
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 79,
+              "heading": "ZX Bank Ltd. – Current Account Overview"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 81,
-                  "heading": "Why Choose ZX Bank for Your Current Account?"
+                  "line": 81
                 },
                 "text": "For detailed T&Cs, visit our website or call customer care at 1800-123-ZXBNK."
               }

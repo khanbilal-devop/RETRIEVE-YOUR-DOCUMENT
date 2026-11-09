@@ -876,12 +876,22 @@
                     "depth": 1
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 210,
+              "heading": "Cendara University Infrastructure Overview"
+            },
+            "blocks": [
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 212,
-                  "heading": "5. Infrastructure Maintenance and Access"
+                  "line": 212
                 },
                 "text": "For detailed facility booking, visit the Campus Services Portal or contact infraoffice@cendara.edu."
               }

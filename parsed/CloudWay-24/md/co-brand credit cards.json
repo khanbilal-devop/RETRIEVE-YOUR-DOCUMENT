@@ -142,20 +142,29 @@
                     "depth": 0
                   }
                 ]
-              },
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": null,
+            "level": 2,
+            "location": {
+              "line": 42,
+              "heading": "CloudWay 24 Co-brand Credit Cards: Earn SkyPoints Faster!"
+            },
+            "blocks": [
               {
                 "type": "quote",
                 "location": {
-                  "line": 44,
-                  "heading": "How to Apply?"
+                  "line": 44
                 },
                 "text": "Tip: Always use your CloudWay 24 co-brand card for booking flights directly with CloudWay 24 to maximize SkyPoints!"
               },
               {
                 "type": "paragraph",
                 "location": {
-                  "line": 46,
-                  "heading": "How to Apply?"
+                  "line": 46
                 },
                 "text": "Terms & Conditions apply. Point rates and benefits are subject to change as per the issuing bank’s and CloudWay 24’s policy."
               }
