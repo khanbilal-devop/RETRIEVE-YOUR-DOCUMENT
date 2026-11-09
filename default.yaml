@@ -10,3 +10,6 @@ paths:
   # Where layer 1 (ingestion) writes its registries.
   # If this key is renamed, also change REGISTRY_DIR in config/src/constants.py.
   registry_dir: registry
+  # Where layer 2 (parsing) writes one JSON file per parsed document.
+  # If this key is renamed, also change PARSED_DIR in config/src/constants.py.
+  parsed_dir: parsed

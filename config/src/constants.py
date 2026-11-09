@@ -10,3 +10,4 @@ PATHS = "paths"
 # Keys under `paths`
 DATASET_DIR = "dataset_dir"
 REGISTRY_DIR = "registry_dir"
+PARSED_DIR = "parsed_dir"
