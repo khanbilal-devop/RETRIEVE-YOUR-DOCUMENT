@@ -4,7 +4,7 @@ There are few custom rules. We look at the results first and add rules where the
 structure comes out wrong. So far: formatting marks are removed from text.
 
 Blocks come back in reading order. Each one is a dict with a ``type`` and the
-``line`` it starts on:
+``line`` it starts on (``nest_blocks`` later swaps ``line`` for ``location``):
 
 - ``heading``: ``level`` and ``text``
 - ``paragraph``: ``text``
@@ -19,10 +19,15 @@ Links keep both their text and their address, as ``text (address)``. Raw HTML
 stays as it is. Line breaks inside a block are kept as new lines.
 
 ``parse_md_file`` returns these blocks nested by heading. Each heading becomes a
-section: ``{"title", "level", "line", "blocks", "sections"}``. The blocks under a
+section: ``{"title", "level", "location", "blocks", "sections"}``. The blocks under a
 heading go in its ``blocks`` and the headings below it go in its ``sections``. The
 whole file is one top section with no title (``title`` None, ``level`` 0). It also
 holds any text that comes before the first heading.
+
+In the nested result every block and section has a ``location`` instead of a
+``line``: the ``line`` where it starts, plus the ``heading`` it sits under (its
+immediate parent). ``heading`` is left out when there is no parent, for example
+for text before the first heading and for a top level heading.
 """
 
 from __future__ import annotations
@@ -174,11 +179,25 @@ def parse_markdown(text: str) -> list[dict]:
     return blocks
 
 
+def _location(line: int, parent_title: str | None) -> dict:
+    """Where something sits in the file: its line, and the heading right above it if there is one."""
+    location = {"line": line}
+    if parent_title is not None:
+        location["heading"] = parent_title
+    return location
+
+
+def _with_location(block: dict, parent_title: str | None) -> dict:
+    """Copy of a block with ``line`` swapped for ``location``."""
+    fields = {key: value for key, value in block.items() if key not in ("type", "line")}
+    return {"type": block["type"], "location": _location(block["line"], parent_title), **fields}
+
+
 def nest_blocks(blocks: list[dict]) -> dict:
     """Group a flat list of blocks into sections, one per heading."""
     # The top section stands for the whole file. It has no title and level 0,
-    # so no real heading (level 1 or more) can ever close it.
-    root = {"title": None, "level": 0, "line": None, "blocks": [], "sections": []}
+    # so no real heading (level 1 or more) can ever close it. It has no location either.
+    root = {"title": None, "level": 0, "location": None, "blocks": [], "sections": []}
     # The sections that are open right now: the top section, then one per heading level we are inside.
     open_sections = [root]
 
@@ -192,7 +211,8 @@ def nest_blocks(blocks: list[dict]) -> dict:
             section = {
                 "title": block["text"],
                 "level": block["level"],
-                "line": block["line"],
+                # open_sections[-1] is the parent now, so its title is the heading above this one.
+                "location": _location(block["line"], open_sections[-1]["title"]),
                 "blocks": [],
                 "sections": [],
             }
@@ -201,7 +221,8 @@ def nest_blocks(blocks: list[dict]) -> dict:
         else:
             # Anything that is not a heading belongs to the section that is open now.
             # Before the first heading, that is the top section.
-            open_sections[-1]["blocks"].append(block)
+            # Its location names that section's title as the heading it sits under.
+            open_sections[-1]["blocks"].append(_with_location(block, open_sections[-1]["title"]))
 
     return root
 

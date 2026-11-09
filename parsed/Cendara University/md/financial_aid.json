@@ -9,27 +9,38 @@
   "content": {
     "title": null,
     "level": 0,
-    "line": null,
+    "location": null,
     "blocks": [],
     "sections": [
       {
         "title": "Cendara University Financial Aid Guide",
         "level": 1,
-        "line": 1,
+        "location": {
+          "line": 1
+        },
         "blocks": [
           {
             "type": "paragraph",
-            "line": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "text": "Academic Year 2024–2025"
           },
           {
             "type": "paragraph",
-            "line": 4,
+            "location": {
+              "line": 4,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "text": "The Office of Financial Assistance is dedicated to making a Cendara University education accessible and affordable. Cendara offers a range of scholarships, grants, loans, and work-study opportunities to help offset educational expenses outlined in the annual fee structure. This guide details available aid programs and provides step-by-step application instructions."
           },
           {
             "type": "paragraph",
-            "line": 6,
+            "location": {
+              "line": 6,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "text": "To contact us:\nOffice of Financial Assistance\n2nd Floor, Founders Hall\nEmail: financial.aid@cendara.edu | Phone: (317) 555-2473"
           }
         ],
@@ -37,16 +48,25 @@
           {
             "title": "1. Types of Financial Aid",
             "level": 2,
-            "line": 13,
+            "location": {
+              "line": 13,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 15,
+                "location": {
+                  "line": 15,
+                  "heading": "1. Types of Financial Aid"
+                },
                 "text": "Cendara University offers the following forms of assistance:"
               },
               {
                 "type": "list",
-                "line": 17,
+                "location": {
+                  "line": 17,
+                  "heading": "1. Types of Financial Aid"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -69,7 +89,10 @@
               },
               {
                 "type": "paragraph",
-                "line": 22,
+                "location": {
+                  "line": 22,
+                  "heading": "1. Types of Financial Aid"
+                },
                 "text": "Each student may be eligible for a combination of these aid types."
               }
             ],
@@ -78,11 +101,17 @@
           {
             "title": "2. Scholarships",
             "level": 2,
-            "line": 26,
+            "location": {
+              "line": 26,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 28,
+                "location": {
+                  "line": 28,
+                  "heading": "2. Scholarships"
+                },
                 "text": "Cendara University proudly awards a variety of scholarships, both automatic and application-based, to exceptional students across disciplines."
               }
             ],
@@ -90,11 +119,17 @@
               {
                 "title": "2.1 Merit Scholarships",
                 "level": 3,
-                "line": 30,
+                "location": {
+                  "line": 30,
+                  "heading": "2. Scholarships"
+                },
                 "blocks": [
                   {
                     "type": "table",
-                    "line": 32,
+                    "location": {
+                      "line": 32,
+                      "heading": "2.1 Merit Scholarships"
+                    },
                     "header": [
                       "Scholarship Name",
                       "Eligibility",
@@ -139,11 +174,17 @@
               {
                 "title": "2.2 Competitive & Special Achievement Scholarships",
                 "level": 3,
-                "line": 39,
+                "location": {
+                  "line": 39,
+                  "heading": "2. Scholarships"
+                },
                 "blocks": [
                   {
                     "type": "table",
-                    "line": 41,
+                    "location": {
+                      "line": 41,
+                      "heading": "2.2 Competitive & Special Achievement Scholarships"
+                    },
                     "header": [
                       "Scholarship Name",
                       "Who Can Apply",
@@ -185,7 +226,10 @@
                   },
                   {
                     "type": "list",
-                    "line": 49,
+                    "location": {
+                      "line": 49,
+                      "heading": "2.2 Competitive & Special Achievement Scholarships"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -200,11 +244,17 @@
               {
                 "title": "2.3 Departmental & Donor Scholarships",
                 "level": 3,
-                "line": 51,
+                "location": {
+                  "line": 51,
+                  "heading": "2. Scholarships"
+                },
                 "blocks": [
                   {
                     "type": "paragraph",
-                    "line": 53,
+                    "location": {
+                      "line": 53,
+                      "heading": "2.3 Departmental & Donor Scholarships"
+                    },
                     "text": "Each department manages additional awards (ranging: $1,000–$6,000/year), often tied to academic major, talent, or declared area of interest.\nVisit scholarships.cendara.edu/departments (https://scholarships.cendara.edu/departments) for details and application instructions."
                   }
                 ],
@@ -215,16 +265,25 @@
           {
             "title": "3. Grants",
             "level": 2,
-            "line": 58,
+            "location": {
+              "line": 58,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 60,
+                "location": {
+                  "line": 60,
+                  "heading": "3. Grants"
+                },
                 "text": "Cendara administers several need-based grant programs drawn from institutional, federal, and state sources."
               },
               {
                 "type": "table",
-                "line": 62,
+                "location": {
+                  "line": 62,
+                  "heading": "3. Grants"
+                },
                 "header": [
                   "Grant Name",
                   "Eligibility",
@@ -260,7 +319,10 @@
               },
               {
                 "type": "list",
-                "line": 69,
+                "location": {
+                  "line": 69,
+                  "heading": "3. Grants"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -279,11 +341,17 @@
           {
             "title": "4. Loans",
             "level": 2,
-            "line": 74,
+            "location": {
+              "line": 74,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 76,
+                "location": {
+                  "line": 76,
+                  "heading": "4. Loans"
+                },
                 "text": "Student loans are designed to help cover gaps after scholarships and grants are applied. Repayment with interest is required."
               }
             ],
@@ -291,11 +359,17 @@
               {
                 "title": "4.1 Federal Student Loans (U.S. citizens/permanent residents)",
                 "level": 3,
-                "line": 78,
+                "location": {
+                  "line": 78,
+                  "heading": "4. Loans"
+                },
                 "blocks": [
                   {
                     "type": "table",
-                    "line": 80,
+                    "location": {
+                      "line": 80,
+                      "heading": "4.1 Federal Student Loans (U.S. citizens/permanent residents)"
+                    },
                     "header": [
                       "Loan",
                       "Annual Borrowing Limit",
@@ -335,11 +409,17 @@
               {
                 "title": "4.2 Institutional Loan Programs (Domestic & International)",
                 "level": 3,
-                "line": 87,
+                "location": {
+                  "line": 87,
+                  "heading": "4. Loans"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 89,
+                    "location": {
+                      "line": 89,
+                      "heading": "4.2 Institutional Loan Programs (Domestic & International)"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -354,7 +434,10 @@
                   },
                   {
                     "type": "paragraph",
-                    "line": 92,
+                    "location": {
+                      "line": 92,
+                      "heading": "4.2 Institutional Loan Programs (Domestic & International)"
+                    },
                     "text": "Note: Loan counseling is required for all new borrowers."
                   }
                 ],
@@ -365,16 +448,25 @@
           {
             "title": "5. Work-Study Employment",
             "level": 2,
-            "line": 96,
+            "location": {
+              "line": 96,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 98,
+                "location": {
+                  "line": 98,
+                  "heading": "5. Work-Study Employment"
+                },
                 "text": "Cendara’s Federal and Institutional Work-Study programs provide part-time, on-campus jobs to assist students in meeting expenses."
               },
               {
                 "type": "list",
-                "line": 100,
+                "location": {
+                  "line": 100,
+                  "heading": "5. Work-Study Employment"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -393,7 +485,10 @@
               },
               {
                 "type": "paragraph",
-                "line": 104,
+                "location": {
+                  "line": 104,
+                  "heading": "5. Work-Study Employment"
+                },
                 "text": "Eligibility depends on need and timely application; indicate work-study interest on the FAFSA or Cendara Application for Aid."
               }
             ],
@@ -402,11 +497,17 @@
           {
             "title": "6. Application Procedures",
             "level": 2,
-            "line": 108,
+            "location": {
+              "line": 108,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 110,
+                "location": {
+                  "line": 110,
+                  "heading": "6. Application Procedures"
+                },
                 "text": "To receive financial aid, applicants must complete the appropriate forms and follow these steps:"
               }
             ],
@@ -414,11 +515,17 @@
               {
                 "title": "Step 1: Gather Required Documents",
                 "level": 3,
-                "line": 112,
+                "location": {
+                  "line": 112,
+                  "heading": "6. Application Procedures"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 114,
+                    "location": {
+                      "line": 114,
+                      "heading": "Step 1: Gather Required Documents"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -449,11 +556,17 @@
               {
                 "title": "Step 2: Complete Applications",
                 "level": 3,
-                "line": 120,
+                "location": {
+                  "line": 120,
+                  "heading": "6. Application Procedures"
+                },
                 "blocks": [
                   {
                     "type": "table",
-                    "line": 122,
+                    "location": {
+                      "line": 122,
+                      "heading": "Step 2: Complete Applications"
+                    },
                     "header": [
                       "Aid Type",
                       "Required Application(s)",
@@ -493,11 +606,17 @@
               {
                 "title": "Step 3: Submit Supplemental Materials",
                 "level": 3,
-                "line": 130,
+                "location": {
+                  "line": 130,
+                  "heading": "6. Application Procedures"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 132,
+                    "location": {
+                      "line": 132,
+                      "heading": "Step 3: Submit Supplemental Materials"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -520,11 +639,17 @@
               {
                 "title": "Step 4: Meet All Deadlines",
                 "level": 3,
-                "line": 136,
+                "location": {
+                  "line": 136,
+                  "heading": "6. Application Procedures"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 138,
+                    "location": {
+                      "line": 138,
+                      "heading": "Step 4: Meet All Deadlines"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -551,11 +676,17 @@
               {
                 "title": "Step 5: Review Aid Offer & Accept",
                 "level": 3,
-                "line": 143,
+                "location": {
+                  "line": 143,
+                  "heading": "6. Application Procedures"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 145,
+                    "location": {
+                      "line": 145,
+                      "heading": "Step 5: Review Aid Offer & Accept"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -578,11 +709,17 @@
               {
                 "title": "Step 6: Maintain Eligibility",
                 "level": 3,
-                "line": 149,
+                "location": {
+                  "line": 149,
+                  "heading": "6. Application Procedures"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 151,
+                    "location": {
+                      "line": 151,
+                      "heading": "Step 6: Maintain Eligibility"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -607,11 +744,17 @@
           {
             "title": "7. Additional Financial Support Resources",
             "level": 2,
-            "line": 157,
+            "location": {
+              "line": 157,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "list",
-                "line": 159,
+                "location": {
+                  "line": 159,
+                  "heading": "7. Additional Financial Support Resources"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -634,21 +777,33 @@
           {
             "title": "8. Frequently Asked Questions",
             "level": 2,
-            "line": 165,
+            "location": {
+              "line": 165,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 167,
+                "location": {
+                  "line": 167,
+                  "heading": "8. Frequently Asked Questions"
+                },
                 "text": "Q: Can I combine multiple scholarships or grants?\nA: Yes, but total aid may not exceed direct costs (tuition, fees, room/board). Some awards have restrictions; always check notifications."
               },
               {
                 "type": "paragraph",
-                "line": 170,
+                "location": {
+                  "line": 170,
+                  "heading": "8. Frequently Asked Questions"
+                },
                 "text": "Q: I missed the deadline. Can I still apply?\nA: Late applications are accepted, but funding may be limited. Contact the Office of Financial Assistance for guidance."
               },
               {
                 "type": "paragraph",
-                "line": 173,
+                "location": {
+                  "line": 173,
+                  "heading": "8. Frequently Asked Questions"
+                },
                 "text": "Q: What if my family’s financial situation has recently changed?\nA: Submit a Special Circumstances Appeal form with supporting documentation for re-evaluation of your aid package."
               }
             ],
@@ -657,11 +812,17 @@
           {
             "title": "9. Contacts & Further Information",
             "level": 2,
-            "line": 178,
+            "location": {
+              "line": 178,
+              "heading": "Cendara University Financial Aid Guide"
+            },
             "blocks": [
               {
                 "type": "list",
-                "line": 180,
+                "location": {
+                  "line": 180,
+                  "heading": "9. Contacts & Further Information"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -696,12 +857,18 @@
               },
               {
                 "type": "paragraph",
-                "line": 189,
+                "location": {
+                  "line": 189,
+                  "heading": "9. Contacts & Further Information"
+                },
                 "text": "For policy details or appeals, reference the Student Financial Assistance Handbook (https://financialaid.cendara.edu/handbook)."
               },
               {
                 "type": "paragraph",
-                "line": 193,
+                "location": {
+                  "line": 193,
+                  "heading": "9. Contacts & Further Information"
+                },
                 "text": "Empowering your future, today — Cendara University Financial Assistance"
               }
             ],

@@ -9,29 +9,40 @@
   "content": {
     "title": null,
     "level": 0,
-    "line": null,
+    "location": null,
     "blocks": [],
     "sections": [
       {
         "title": "Aventro Motors Pvt. Ltd.",
         "level": 1,
-        "line": 1,
+        "location": {
+          "line": 1
+        },
         "blocks": [],
         "sections": [
           {
             "title": "Pre-Owned Certified Cars",
             "level": 2,
-            "line": 2,
+            "location": {
+              "line": 2,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
             "blocks": [],
             "sections": [
               {
                 "title": "Why Choose Aventro Certified Pre-Owned Cars?",
                 "level": 3,
-                "line": 6,
+                "location": {
+                  "line": 6,
+                  "heading": "Pre-Owned Certified Cars"
+                },
                 "blocks": [
                   {
                     "type": "paragraph",
-                    "line": 8,
+                    "location": {
+                      "line": 8,
+                      "heading": "Why Choose Aventro Certified Pre-Owned Cars?"
+                    },
                     "text": "When you choose a pre-owned car from Aventro Motors, you're not just buying a car, you're investing in peace of mind. Each Aventro Certified Pre-Owned vehicle undergoes an exhaustive 380+ Check Points Inspection by our trained experts, ensuring you receive the best in safety, reliability, and comfort."
                   }
                 ],
@@ -42,21 +53,33 @@
           {
             "title": "Aventro 380+ Checkpoints: The Gold Standard in Assurance",
             "level": 2,
-            "line": 12,
+            "location": {
+              "line": 12,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 14,
+                "location": {
+                  "line": 14,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "All Aventro Certified Pre-Owned Cars go through a rigorous inspection and reconditioning process at our state-of-the-art service centers. Our checklist covers every detail, including:"
               },
               {
                 "type": "html",
-                "line": 16,
+                "location": {
+                  "line": 16,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>1. Engine & Transmission (50+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 19,
+                "location": {
+                  "line": 19,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -87,17 +110,26 @@
               },
               {
                 "type": "html",
-                "line": 25,
+                "location": {
+                  "line": 25,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 27,
+                "location": {
+                  "line": 27,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>2. Battery & Electrical Systems (40+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 30,
+                "location": {
+                  "line": 30,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -124,17 +156,26 @@
               },
               {
                 "type": "html",
-                "line": 35,
+                "location": {
+                  "line": 35,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 37,
+                "location": {
+                  "line": 37,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>3. Suspension & Brakes (30+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 40,
+                "location": {
+                  "line": 40,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -157,17 +198,26 @@
               },
               {
                 "type": "html",
-                "line": 44,
+                "location": {
+                  "line": 44,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 46,
+                "location": {
+                  "line": 46,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>4. Exterior & Interior Body (70+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 49,
+                "location": {
+                  "line": 49,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -198,17 +248,26 @@
               },
               {
                 "type": "html",
-                "line": 55,
+                "location": {
+                  "line": 55,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 57,
+                "location": {
+                  "line": 57,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>5. HVAC & Comfort Systems (25+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 60,
+                "location": {
+                  "line": 60,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -231,17 +290,26 @@
               },
               {
                 "type": "html",
-                "line": 64,
+                "location": {
+                  "line": 64,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 66,
+                "location": {
+                  "line": 66,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>6. Infotainment & Connectivity (20+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 69,
+                "location": {
+                  "line": 69,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -260,17 +328,26 @@
               },
               {
                 "type": "html",
-                "line": 72,
+                "location": {
+                  "line": 72,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 74,
+                "location": {
+                  "line": 74,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>7. Safety & Control Systems (40+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 77,
+                "location": {
+                  "line": 77,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -293,17 +370,26 @@
               },
               {
                 "type": "html",
-                "line": 81,
+                "location": {
+                  "line": 81,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 83,
+                "location": {
+                  "line": 83,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>8. Road Test Parameters (15+ Checks)</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 86,
+                "location": {
+                  "line": 86,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -326,17 +412,26 @@
               },
               {
                 "type": "html",
-                "line": 90,
+                "location": {
+                  "line": 90,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               },
               {
                 "type": "html",
-                "line": 92,
+                "location": {
+                  "line": 92,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "<details>\n<summary><strong>...And More:</strong></summary>\n"
               },
               {
                 "type": "list",
-                "line": 95,
+                "location": {
+                  "line": 95,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -359,7 +454,10 @@
               },
               {
                 "type": "html",
-                "line": 99,
+                "location": {
+                  "line": 99,
+                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
+                },
                 "text": "</details>\n"
               }
             ],
@@ -368,11 +466,17 @@
           {
             "title": "All Aventro Certified Cars Come With:",
             "level": 2,
-            "line": 103,
+            "location": {
+              "line": 103,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
             "blocks": [
               {
                 "type": "list",
-                "line": 105,
+                "location": {
+                  "line": 105,
+                  "heading": "All Aventro Certified Cars Come With:"
+                },
                 "ordered": false,
                 "items": [
                   {
@@ -419,16 +523,25 @@
           {
             "title": "Buy with Confidence",
             "level": 2,
-            "line": 117,
+            "location": {
+              "line": 117,
+              "heading": "Aventro Motors Pvt. Ltd."
+            },
             "blocks": [
               {
                 "type": "paragraph",
-                "line": 119,
+                "location": {
+                  "line": 119,
+                  "heading": "Buy with Confidence"
+                },
                 "text": "Find your dream pre-owned Aventro model — hatchback, sedan, SUV, electric, hybrid & more — with nationwide service support at over 20+ major cities."
               },
               {
                 "type": "paragraph",
-                "line": 121,
+                "location": {
+                  "line": 121,
+                  "heading": "Buy with Confidence"
+                },
                 "text": "Visit our website or nearest Aventro dealership for current certified pre-owned inventory and ongoing offers."
               }
             ],
@@ -436,16 +549,25 @@
               {
                 "title": "Contact Us",
                 "level": 3,
-                "line": 125,
+                "location": {
+                  "line": 125,
+                  "heading": "Buy with Confidence"
+                },
                 "blocks": [
                   {
                     "type": "paragraph",
-                    "line": 126,
+                    "location": {
+                      "line": 126,
+                      "heading": "Contact Us"
+                    },
                     "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurugram, Haryana 122018, India\n📞 +91 124 1234567\n✉️ info@aventromotors.com"
                   },
                   {
                     "type": "quote",
-                    "line": 133,
+                    "location": {
+                      "line": 133,
+                      "heading": "Contact Us"
+                    },
                     "text": "Aventro Certified Pre-Owned Cars — Inspected, Assured, Trusted."
                   }
                 ],

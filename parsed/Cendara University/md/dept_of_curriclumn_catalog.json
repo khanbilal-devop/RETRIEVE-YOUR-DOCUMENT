@@ -9,42 +9,59 @@
   "content": {
     "title": null,
     "level": 0,
-    "line": null,
+    "location": null,
     "blocks": [],
     "sections": [
       {
         "title": "Cendara University Course Catalog",
         "level": 1,
-        "line": 1,
+        "location": {
+          "line": 1
+        },
         "blocks": [],
         "sections": [
           {
             "title": "Department of Curriculum & Instruction",
             "level": 3,
-            "line": 2,
+            "location": {
+              "line": 2,
+              "heading": "Cendara University Course Catalog"
+            },
             "blocks": [],
             "sections": []
           },
           {
             "title": "Undergraduate Courses",
             "level": 2,
-            "line": 6,
+            "location": {
+              "line": 6,
+              "heading": "Cendara University Course Catalog"
+            },
             "blocks": [],
             "sections": [
               {
                 "title": "Bachelor of Education (B.Ed.) in Elementary Education",
                 "level": 3,
-                "line": 7,
+                "location": {
+                  "line": 7,
+                  "heading": "Undergraduate Courses"
+                },
                 "blocks": [],
                 "sections": [
                   {
                     "title": "EDUC 1101: Foundations of Education",
                     "level": 4,
-                    "line": 11,
+                    "location": {
+                      "line": 11,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 12,
+                        "location": {
+                          "line": 12,
+                          "heading": "EDUC 1101: Foundations of Education"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -67,11 +84,17 @@
                   {
                     "title": "EDUC 1202: Child Development and Learning",
                     "level": 4,
-                    "line": 19,
+                    "location": {
+                      "line": 19,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 20,
+                        "location": {
+                          "line": 20,
+                          "heading": "EDUC 1202: Child Development and Learning"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -94,11 +117,17 @@
                   {
                     "title": "EDUC 1303: Curriculum Design for Elementary Classrooms",
                     "level": 4,
-                    "line": 27,
+                    "location": {
+                      "line": 27,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 28,
+                        "location": {
+                          "line": 28,
+                          "heading": "EDUC 1303: Curriculum Design for Elementary Classrooms"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -121,11 +150,17 @@
                   {
                     "title": "EDUC 1404: Literacy Instruction I",
                     "level": 4,
-                    "line": 35,
+                    "location": {
+                      "line": 35,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 36,
+                        "location": {
+                          "line": 36,
+                          "heading": "EDUC 1404: Literacy Instruction I"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -148,11 +183,17 @@
                   {
                     "title": "EDUC 1505: Mathematics for Elementary Teachers",
                     "level": 4,
-                    "line": 43,
+                    "location": {
+                      "line": 43,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 44,
+                        "location": {
+                          "line": 44,
+                          "heading": "EDUC 1505: Mathematics for Elementary Teachers"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -175,11 +216,17 @@
                   {
                     "title": "EDUC 2106: Classroom Assessment and Evaluation",
                     "level": 4,
-                    "line": 51,
+                    "location": {
+                      "line": 51,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 52,
+                        "location": {
+                          "line": 52,
+                          "heading": "EDUC 2106: Classroom Assessment and Evaluation"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -202,11 +249,17 @@
                   {
                     "title": "EDUC 2207: Literacy Instruction II",
                     "level": 4,
-                    "line": 59,
+                    "location": {
+                      "line": 59,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 60,
+                        "location": {
+                          "line": 60,
+                          "heading": "EDUC 2207: Literacy Instruction II"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -229,11 +282,17 @@
                   {
                     "title": "EDUC 2308: Science and Social Studies Methods",
                     "level": 4,
-                    "line": 67,
+                    "location": {
+                      "line": 67,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 68,
+                        "location": {
+                          "line": 68,
+                          "heading": "EDUC 2308: Science and Social Studies Methods"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -256,11 +315,17 @@
                   {
                     "title": "EDUC 3109: Inclusive Classrooms and Special Needs Education",
                     "level": 4,
-                    "line": 75,
+                    "location": {
+                      "line": 75,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 76,
+                        "location": {
+                          "line": 76,
+                          "heading": "EDUC 3109: Inclusive Classrooms and Special Needs Education"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -283,11 +348,17 @@
                   {
                     "title": "EDUC 3110: Classroom Management",
                     "level": 4,
-                    "line": 83,
+                    "location": {
+                      "line": 83,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 84,
+                        "location": {
+                          "line": 84,
+                          "heading": "EDUC 3110: Classroom Management"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -310,11 +381,17 @@
                   {
                     "title": "EDUC 4201: Student Teaching Seminar",
                     "level": 4,
-                    "line": 91,
+                    "location": {
+                      "line": 91,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 92,
+                        "location": {
+                          "line": 92,
+                          "heading": "EDUC 4201: Student Teaching Seminar"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -337,11 +414,17 @@
                   {
                     "title": "EDUC 4202: Student Teaching Practicum",
                     "level": 4,
-                    "line": 99,
+                    "location": {
+                      "line": 99,
+                      "heading": "Bachelor of Education (B.Ed.) in Elementary Education"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 100,
+                        "location": {
+                          "line": 100,
+                          "heading": "EDUC 4202: Student Teaching Practicum"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -368,23 +451,35 @@
           {
             "title": "Graduate Courses",
             "level": 2,
-            "line": 107,
+            "location": {
+              "line": 107,
+              "heading": "Cendara University Course Catalog"
+            },
             "blocks": [],
             "sections": [
               {
                 "title": "Master of Education (M.Ed.) in Curriculum & Instruction",
                 "level": 3,
-                "line": 108,
+                "location": {
+                  "line": 108,
+                  "heading": "Graduate Courses"
+                },
                 "blocks": [],
                 "sections": [
                   {
                     "title": "EDCI 5001: Contemporary Issues in Curriculum & Instruction",
                     "level": 4,
-                    "line": 112,
+                    "location": {
+                      "line": 112,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 113,
+                        "location": {
+                          "line": 113,
+                          "heading": "EDCI 5001: Contemporary Issues in Curriculum & Instruction"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -407,11 +502,17 @@
                   {
                     "title": "EDCI 5102: Advanced Instructional Theory",
                     "level": 4,
-                    "line": 120,
+                    "location": {
+                      "line": 120,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 121,
+                        "location": {
+                          "line": 121,
+                          "heading": "EDCI 5102: Advanced Instructional Theory"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -434,11 +535,17 @@
                   {
                     "title": "EDCI 5203: Curriculum Development and Evaluation",
                     "level": 4,
-                    "line": 128,
+                    "location": {
+                      "line": 128,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 129,
+                        "location": {
+                          "line": 129,
+                          "heading": "EDCI 5203: Curriculum Development and Evaluation"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -461,11 +568,17 @@
                   {
                     "title": "EDCI 5304: Educational Research Methods",
                     "level": 4,
-                    "line": 136,
+                    "location": {
+                      "line": 136,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 137,
+                        "location": {
+                          "line": 137,
+                          "heading": "EDCI 5304: Educational Research Methods"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -488,11 +601,17 @@
                   {
                     "title": "EDCI 5405: Technology Integration in the Classroom",
                     "level": 4,
-                    "line": 144,
+                    "location": {
+                      "line": 144,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 145,
+                        "location": {
+                          "line": 145,
+                          "heading": "EDCI 5405: Technology Integration in the Classroom"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -515,11 +634,17 @@
                   {
                     "title": "EDCI 6106: Cultural Competence and Equity in Education",
                     "level": 4,
-                    "line": 152,
+                    "location": {
+                      "line": 152,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 153,
+                        "location": {
+                          "line": 153,
+                          "heading": "EDCI 6106: Cultural Competence and Equity in Education"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -542,11 +667,17 @@
                   {
                     "title": "EDCI 6207: Leadership in Curriculum & Instruction",
                     "level": 4,
-                    "line": 160,
+                    "location": {
+                      "line": 160,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 161,
+                        "location": {
+                          "line": 161,
+                          "heading": "EDCI 6207: Leadership in Curriculum & Instruction"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -569,11 +700,17 @@
                   {
                     "title": "EDCI 6308: Thesis Seminar",
                     "level": 4,
-                    "line": 168,
+                    "location": {
+                      "line": 168,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 169,
+                        "location": {
+                          "line": 169,
+                          "heading": "EDCI 6308: Thesis Seminar"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -596,11 +733,17 @@
                   {
                     "title": "EDCI 6309: Capstone Project",
                     "level": 4,
-                    "line": 176,
+                    "location": {
+                      "line": 176,
+                      "heading": "Master of Education (M.Ed.) in Curriculum & Instruction"
+                    },
                     "blocks": [
                       {
                         "type": "list",
-                        "line": 177,
+                        "location": {
+                          "line": 177,
+                          "heading": "EDCI 6309: Capstone Project"
+                        },
                         "ordered": false,
                         "items": [
                           {
@@ -627,17 +770,26 @@
           {
             "title": "Elective Courses",
             "level": 2,
-            "line": 184,
+            "location": {
+              "line": 184,
+              "heading": "Cendara University Course Catalog"
+            },
             "blocks": [],
             "sections": [
               {
                 "title": "EDCI 6501: Differentiated Instruction Strategies",
                 "level": 4,
-                "line": 188,
+                "location": {
+                  "line": 188,
+                  "heading": "Elective Courses"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 189,
+                    "location": {
+                      "line": 189,
+                      "heading": "EDCI 6501: Differentiated Instruction Strategies"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -660,11 +812,17 @@
               {
                 "title": "EDCI 6502: Assessment Tools and Data Analysis",
                 "level": 4,
-                "line": 196,
+                "location": {
+                  "line": 196,
+                  "heading": "Elective Courses"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 197,
+                    "location": {
+                      "line": 197,
+                      "heading": "EDCI 6502: Assessment Tools and Data Analysis"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -687,11 +845,17 @@
               {
                 "title": "EDCI 6503: Global Perspectives in Education",
                 "level": 4,
-                "line": 204,
+                "location": {
+                  "line": 204,
+                  "heading": "Elective Courses"
+                },
                 "blocks": [
                   {
                     "type": "list",
-                    "line": 205,
+                    "location": {
+                      "line": 205,
+                      "heading": "EDCI 6503: Global Perspectives in Education"
+                    },
                     "ordered": false,
                     "items": [
                       {
@@ -710,7 +874,10 @@
                   },
                   {
                     "type": "paragraph",
-                    "line": 212,
+                    "location": {
+                      "line": 212,
+                      "heading": "EDCI 6503: Global Perspectives in Education"
+                    },
                     "text": "End of Department of Curriculum & Instruction course listings."
                   }
                 ],
