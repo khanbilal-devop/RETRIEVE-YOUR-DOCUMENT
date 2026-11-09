@@ -12,7 +12,10 @@ Blocks come back in reading order. Each one is a dict with a ``type`` and the
 - ``table``: ``header`` and ``rows``
 - ``code``: ``text``
 - ``quote``: ``text``
-- ``html``: ``text``, the raw HTML as the library found it
+- ``html``: ``text``, the raw HTML as the library found it. The exception is
+  ``<details>``: each ``<details>`` ... ``</details>`` pair becomes a section (see
+  below), and the Markdown inside it is parsed like any other Markdown. HTML
+  headings, ``<h1>`` to ``<h6>``, become headings, the same as ``#`` lines.
 
 ``text`` is plain words: the marks for bold, italic and inline code are removed.
 Links keep both their text and their address, as ``text (address)``. Raw HTML
@@ -24,6 +27,11 @@ heading go in its ``blocks`` and the headings below it go in its ``sections``. T
 whole file is one top section with no title (``title`` None, ``level`` 0). It also
 holds any text that comes before the first heading.
 
+A ``<details>`` section sits one level below the section it is in. If a text tag
+(``<summary>``, ``<p>`` and so on) comes right after ``<details>``, its text is the
+section title with the inner tags such as ``<strong>`` removed. Without one, the
+title is None.
+
 In the nested result every block and section has a ``location`` instead of a
 ``line``: the ``line`` where it starts, plus the ``heading`` it sits under (its
 immediate parent). ``heading`` is left out when there is no parent, for example
@@ -32,6 +40,8 @@ for text before the first heading and for a top level heading.
 
 from __future__ import annotations
 
+import html
+import re
 from pathlib import Path
 
 from markdown_it import MarkdownIt
@@ -179,6 +189,103 @@ def parse_markdown(text: str) -> list[dict]:
     return blocks
 
 
+# The opening tag <details ...> or the closing tag </details>.
+_DETAILS_TAG = re.compile(r"<details[^>]*>|</details\s*>", re.IGNORECASE)
+# A tag that holds plain text. If one comes right after <details>, its text is the section title.
+# Headings (h1 to h6) are not in the list: a heading is a section of its own, not a title.
+_TITLE_TAG = re.compile(r"\s*<(summary|p|div|span)[^>]*>(.*?)</\1\s*>", re.IGNORECASE | re.DOTALL)
+_ANY_TAG = re.compile(r"<[^>]+>")
+
+
+def _strip_tags(raw: str) -> str:
+    """Text of an HTML snippet with the tags removed (<strong> and the rest)."""
+    return " ".join(html.unescape(_ANY_TAG.sub(" ", raw)).split())
+
+
+def _markdown_piece(content: str, start: int, end: int, block_line: int) -> list[dict]:
+    """Parse content[start:end] as normal Markdown, with line numbers as in the whole file."""
+    piece = content[start:end]
+    if not piece.strip():
+        return []
+    # The piece starts this many lines below the start of the file.
+    shift = block_line - 1 + content.count("\n", 0, start)
+    return [{**block, "line": block["line"] + shift} for block in parse_markdown(piece)]
+
+
+def _expand_details(blocks: list[dict]) -> list[dict]:
+    """Split raw HTML blocks that hold <details> tags into three kinds of pieces.
+
+    ``details_open`` (with the title), ``details_close``, and the normal blocks that
+    the Markdown between the tags turns into. Other blocks pass through unchanged.
+    """
+    expanded = []
+    for block in blocks:
+        if block["type"] != "html" or not _DETAILS_TAG.search(block["text"]):
+            expanded.append(block)
+            continue
+        content = block["text"]
+        start = 0  # where the text we have not handled yet begins
+        for tag in _DETAILS_TAG.finditer(content):
+            # Whatever sits before this tag is ordinary Markdown.
+            expanded.extend(_markdown_piece(content, start, tag.start(), block["line"]))
+            if tag.group().startswith("</"):
+                expanded.append({"type": "details_close"})
+                start = tag.end()
+            else:
+                # A text tag right after <details> gives the title, with its inner tags stripped.
+                title = _TITLE_TAG.match(content, tag.end())
+                expanded.append(
+                    {
+                        "type": "details_open",
+                        "line": block["line"] + content.count("\n", 0, tag.start()),
+                        "title": _strip_tags(title.group(2)) if title else None,
+                    }
+                )
+                start = title.end() if title else tag.end()
+        expanded.extend(_markdown_piece(content, start, len(content), block["line"]))
+    return expanded
+
+
+# An HTML heading such as <h2 ...>Title</h2>.
+_HTML_HEADING = re.compile(r"<h([1-6])[^>]*>(.*?)</h\1\s*>", re.IGNORECASE | re.DOTALL)
+
+
+def _html_piece(content: str, start: int, end: int, block_line: int) -> list[dict]:
+    """The raw HTML in content[start:end], kept as an html block, if there is anything in it."""
+    piece = content[start:end]
+    if not piece.strip():
+        return []
+    return [{"type": "html", "line": block_line + content.count("\n", 0, start), "text": piece}]
+
+
+def _expand_headings(blocks: list[dict]) -> list[dict]:
+    """Turn <h1> to <h6> tags inside raw HTML blocks into heading blocks.
+
+    A heading block starts a section, the same as a ``#`` line does. Any other HTML
+    in the same block stays as an html block.
+    """
+    expanded = []
+    for block in blocks:
+        if block["type"] != "html" or not _HTML_HEADING.search(block["text"]):
+            expanded.append(block)
+            continue
+        content = block["text"]
+        start = 0  # where the text we have not handled yet begins
+        for tag in _HTML_HEADING.finditer(content):
+            expanded.extend(_html_piece(content, start, tag.start(), block["line"]))
+            expanded.append(
+                {
+                    "type": "heading",
+                    "line": block["line"] + content.count("\n", 0, tag.start()),
+                    "level": int(tag.group(1)),
+                    "text": _strip_tags(tag.group(2)),
+                }
+            )
+            start = tag.end()
+        expanded.extend(_html_piece(content, start, len(content), block["line"]))
+    return expanded
+
+
 def _location(line: int, parent_title: str | None) -> dict:
     """Where something sits in the file: its line, and the heading right above it if there is one."""
     location = {"line": line}
@@ -200,13 +307,38 @@ def nest_blocks(blocks: list[dict]) -> dict:
     root = {"title": None, "level": 0, "location": None, "blocks": [], "sections": []}
     # The sections that are open right now: the top section, then one per heading level we are inside.
     open_sections = [root]
+    details_sections = []  # the open sections that came from <details>, innermost last
 
-    for block in blocks:
-        if block["type"] == "heading":
+    # First split any <details> blocks, so we see where each one opens and closes.
+    # Then turn HTML headings (<h1> to <h6>) into heading blocks, so they start sections too.
+    for block in _expand_headings(_expand_details(blocks)):
+        if block["type"] == "details_open":
+            # <details> opens a section one level below the section we are in.
+            parent = open_sections[-1]
+            section = {
+                "title": block["title"],
+                "level": min(parent["level"] + 1, 6),
+                "location": _location(block["line"], parent["title"]),
+                "blocks": [],
+                "sections": [],
+            }
+            parent["sections"].append(section)
+            open_sections.append(section)
+            details_sections.append(section)
+        elif block["type"] == "details_close":
+            # </details> closes the section it opened, and anything opened inside it.
+            if details_sections:
+                section = details_sections.pop()
+                if any(open_one is section for open_one in open_sections):
+                    while open_sections.pop() is not section:
+                        pass
+        elif block["type"] == "heading":
             # Close every open section that is at the same level or deeper than this heading.
             # What is left on top is the nearest earlier heading with a smaller level: the parent.
             # This also covers a skipped level (a ### right after a #): the # stays the parent.
-            while open_sections[-1]["level"] >= block["level"]:
+            # A heading never closes the <details> section it is inside. Only </details> does that.
+            inside = details_sections[-1] if details_sections else None
+            while open_sections[-1]["level"] >= block["level"] and open_sections[-1] is not inside:
                 open_sections.pop()
             section = {
                 "title": block["text"],

@@ -65,403 +65,359 @@
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
                 "text": "All Aventro Certified Pre-Owned Cars go through a rigorous inspection and reconditioning process at our state-of-the-art service centers. Our checklist covers every detail, including:"
-              },
+              }
+            ],
+            "sections": [
               {
-                "type": "html",
+                "title": "1. Engine & Transmission (50+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 16,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>1. Engine & Transmission (50+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 19,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Complete engine assessment (mounts, leaks, coils)",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Compression and performance check",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Oil filter and air filter health",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Starter motor, alternator, radiator, coolant system",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Transmission system & clutch operation",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Fuel injector & fuel pump condition",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 19,
+                      "heading": "1. Engine & Transmission (50+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Complete engine assessment (mounts, leaks, coils)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Compression and performance check",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Oil filter and air filter health",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Starter motor, alternator, radiator, coolant system",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Transmission system & clutch operation",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Fuel injector & fuel pump condition",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 25,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "2. Battery & Electrical Systems (40+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 27,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>2. Battery & Electrical Systems (40+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 30,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Battery health & terminals",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Starter/ alternator output",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Dashboard lights and alerts",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Headlamps, tail lamps, fog lamps, indicators",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Horn, internal cabin lights, switches, wiring",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 30,
+                      "heading": "2. Battery & Electrical Systems (40+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Battery health & terminals",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Starter/ alternator output",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Dashboard lights and alerts",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Headlamps, tail lamps, fog lamps, indicators",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Horn, internal cabin lights, switches, wiring",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 35,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "3. Suspension & Brakes (30+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 37,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>3. Suspension & Brakes (30+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 40,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Shock absorbers, mounts, bushings",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Brake pads/ shoes, discs/ drums, fluid",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Brake response & pedal feedback",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Handbrake/ parking brake operation",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 40,
+                      "heading": "3. Suspension & Brakes (30+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Shock absorbers, mounts, bushings",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Brake pads/ shoes, discs/ drums, fluid",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Brake response & pedal feedback",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Handbrake/ parking brake operation",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 44,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "4. Exterior & Interior Body (70+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 46,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>4. Exterior & Interior Body (70+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 49,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Paint and body surface integrity",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Bumper, bonnet, roof, door panels",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Grade of scratch/ dent (if any)",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Side mirrors, door locks, wiper operation",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Alloy wheels, tyre tread, spare tyre, jack",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Windshield, window glasses, water ingress",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 49,
+                      "heading": "4. Exterior & Interior Body (70+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Paint and body surface integrity",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bumper, bonnet, roof, door panels",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Grade of scratch/ dent (if any)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Side mirrors, door locks, wiper operation",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Alloy wheels, tyre tread, spare tyre, jack",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Windshield, window glasses, water ingress",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 55,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "5. HVAC & Comfort Systems (25+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 57,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>5. HVAC & Comfort Systems (25+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 60,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "AC compressor, cooling, heater function",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Air vents, blower speed, climate sensor",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Seat adjustment/ heating",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Cabin filter and dust checks",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 60,
+                      "heading": "5. HVAC & Comfort Systems (25+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "AC compressor, cooling, heater function",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Air vents, blower speed, climate sensor",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Seat adjustment/ heating",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cabin filter and dust checks",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 64,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "6. Infotainment & Connectivity (20+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 66,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>6. Infotainment & Connectivity (20+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 69,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Dashboard display, infotainment system",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Audio/ video, Bluetooth, AUX/ USB",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Navigation, speakers, mic check",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 69,
+                      "heading": "6. Infotainment & Connectivity (20+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Dashboard display, infotainment system",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Audio/ video, Bluetooth, AUX/ USB",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Navigation, speakers, mic check",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 72,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "7. Safety & Control Systems (40+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 74,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>7. Safety & Control Systems (40+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 77,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Airbags, seatbelts, pre-tensioners",
-                    "depth": 0
-                  },
-                  {
-                    "text": "ABS, EBD modules, sensors",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Alarm system, immobilizer, hazard signals",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Steering column, wheel alignment",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 77,
+                      "heading": "7. Safety & Control Systems (40+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Airbags, seatbelts, pre-tensioners",
+                        "depth": 0
+                      },
+                      {
+                        "text": "ABS, EBD modules, sensors",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Alarm system, immobilizer, hazard signals",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Steering column, wheel alignment",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 81,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "8. Road Test Parameters (15+ Checks)",
+                "level": 3,
                 "location": {
                   "line": 83,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>8. Road Test Parameters (15+ Checks)</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 86,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Engine response, acceleration, noise & vibration",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Gear shift, steering feedback, road stability",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Suspension and brake performance at speed",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Unusual noises, warning signs",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 86,
+                      "heading": "8. Road Test Parameters (15+ Checks)"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Engine response, acceleration, noise & vibration",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Gear shift, steering feedback, road stability",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Suspension and brake performance at speed",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Unusual noises, warning signs",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
+                ],
+                "sections": []
               },
               {
-                "type": "html",
-                "location": {
-                  "line": 90,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
-              },
-              {
-                "type": "html",
+                "title": "...And More:",
+                "level": 3,
                 "location": {
                   "line": 92,
                   "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
                 },
-                "text": "<details>\n<summary><strong>...And More:</strong></summary>\n"
-              },
-              {
-                "type": "list",
-                "location": {
-                  "line": 95,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "ordered": false,
-                "items": [
+                "blocks": [
                   {
-                    "text": "Exhaust system, emission checks",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Chassis, underbody inspection, fluid leaks",
-                    "depth": 0
-                  },
-                  {
-                    "text": "OBD diagnostics, emissions compliance",
-                    "depth": 0
-                  },
-                  {
-                    "text": "Custom accessory condition",
-                    "depth": 0
+                    "type": "list",
+                    "location": {
+                      "line": 95,
+                      "heading": "...And More:"
+                    },
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Exhaust system, emission checks",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Chassis, underbody inspection, fluid leaks",
+                        "depth": 0
+                      },
+                      {
+                        "text": "OBD diagnostics, emissions compliance",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Custom accessory condition",
+                        "depth": 0
+                      }
+                    ]
                   }
-                ]
-              },
-              {
-                "type": "html",
-                "location": {
-                  "line": 99,
-                  "heading": "Aventro 380+ Checkpoints: The Gold Standard in Assurance"
-                },
-                "text": "</details>\n"
+                ],
+                "sections": []
               }
-            ],
-            "sections": []
+            ]
           },
           {
             "title": "All Aventro Certified Cars Come With:",
