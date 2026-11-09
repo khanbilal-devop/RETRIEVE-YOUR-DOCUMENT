@@ -1,0 +1,4 @@
+PyYAML>=6.0
+markdown-it-py>=4.0
+pytest>=9.0
+pytest-cov>=7.0
