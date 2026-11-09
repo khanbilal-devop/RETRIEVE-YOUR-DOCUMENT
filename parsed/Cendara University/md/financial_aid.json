@@ -1,0 +1,714 @@
+{
+  "doc_id": "1158493607749ece6c7f192fe2420c8d4d036bf6660881607f5a194c519925ce",
+  "doc_key": [
+    "financial_aid"
+  ],
+  "path": "Cendara University/md/financial_aid.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "line": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Financial Aid Guide",
+        "level": 1,
+        "line": 1,
+        "blocks": [
+          {
+            "type": "paragraph",
+            "line": 2,
+            "text": "Academic Year 2024–2025"
+          },
+          {
+            "type": "paragraph",
+            "line": 4,
+            "text": "The Office of Financial Assistance is dedicated to making a Cendara University education accessible and affordable. Cendara offers a range of scholarships, grants, loans, and work-study opportunities to help offset educational expenses outlined in the annual fee structure. This guide details available aid programs and provides step-by-step application instructions."
+          },
+          {
+            "type": "paragraph",
+            "line": 6,
+            "text": "To contact us:\nOffice of Financial Assistance\n2nd Floor, Founders Hall\nEmail: financial.aid@cendara.edu | Phone: (317) 555-2473"
+          }
+        ],
+        "sections": [
+          {
+            "title": "1. Types of Financial Aid",
+            "level": 2,
+            "line": 13,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "line": 15,
+                "text": "Cendara University offers the following forms of assistance:"
+              },
+              {
+                "type": "list",
+                "line": 17,
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Scholarships: Merit-based, talent-based, and need-based awards that do not require repayment.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Grants: Need-based aid, typically from university, state, or federal sources; no repayment required.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Loans: Borrowed funds that must be repaid with interest; both federal and institutional loans are available.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Work-Study: Part-time campus employment to earn money during the academic year.",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "line": 22,
+                "text": "Each student may be eligible for a combination of these aid types."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "2. Scholarships",
+            "level": 2,
+            "line": 26,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "line": 28,
+                "text": "Cendara University proudly awards a variety of scholarships, both automatic and application-based, to exceptional students across disciplines."
+              }
+            ],
+            "sections": [
+              {
+                "title": "2.1 Merit Scholarships",
+                "level": 3,
+                "line": 30,
+                "blocks": [
+                  {
+                    "type": "table",
+                    "line": 32,
+                    "header": [
+                      "Scholarship Name",
+                      "Eligibility",
+                      "Value per Year",
+                      "Renewable",
+                      "Special Criteria"
+                    ],
+                    "rows": [
+                      [
+                        "Presidential Scholarship",
+                        "Incoming first-year undergraduates; top 5% of applicants (GPA ≥ 3.95, SAT ≥ 1450/ACT ≥ 33, or IB 40+)",
+                        "$18,000",
+                        "4 years",
+                        "Leadership & community contribution"
+                      ],
+                      [
+                        "Cardinal Scholar Award",
+                        "All new undergraduates with strong academics (GPA ≥ 3.6)",
+                        "$7,000 – $12,000",
+                        "4 years",
+                        "Automatic consideration"
+                      ],
+                      [
+                        "Graduate Dean’s Award",
+                        "New graduate students, outstanding prior GPA (≥ 3.85)",
+                        "$5,000 – $9,000",
+                        "Up to 2 years",
+                        "Department recommendation required"
+                      ],
+                      [
+                        "Provost Transfer Award",
+                        "Transfer students (≥ 30 credits, GPA ≥ 3.75)",
+                        "$6,000",
+                        "2 years",
+                        ""
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2.2 Competitive & Special Achievement Scholarships",
+                "level": 3,
+                "line": 39,
+                "blocks": [
+                  {
+                    "type": "table",
+                    "line": 41,
+                    "header": [
+                      "Scholarship Name",
+                      "Who Can Apply",
+                      "Value",
+                      "Criteria"
+                    ],
+                    "rows": [
+                      [
+                        "Cendara Arts Fellowship",
+                        "First-year or transfer",
+                        "$4,000",
+                        "Portfolio review; visual/performing arts majors"
+                      ],
+                      [
+                        "Cendara STEM Scholars",
+                        "First-year",
+                        "$8,000",
+                        "Demonstrated excellence in STEM fields; interview required"
+                      ],
+                      [
+                        "Global Diversity Scholarship",
+                        "Int’l & U.S. students",
+                        "$5,000–$10,000",
+                        "Promoting campus diversity; essay & recommendation required"
+                      ],
+                      [
+                        "First-Generation Promise",
+                        "First in family to attend college",
+                        "$3,500",
+                        "FAFSA/CSS Profile required; preference for Pell-eligible"
+                      ],
+                      [
+                        "Valentina Mateo Leadership Award",
+                        "All undergraduates",
+                        "$2,000",
+                        "Outstanding leadership/service during prior studies"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "list",
+                    "line": 49,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Application deadlines: Most scholarships require fall term applications by February 15; some have additional interview or portfolio dates in March.",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "2.3 Departmental & Donor Scholarships",
+                "level": 3,
+                "line": 51,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "line": 53,
+                    "text": "Each department manages additional awards (ranging: $1,000–$6,000/year), often tied to academic major, talent, or declared area of interest.\nVisit scholarships.cendara.edu/departments (https://scholarships.cendara.edu/departments) for details and application instructions."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "3. Grants",
+            "level": 2,
+            "line": 58,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "line": 60,
+                "text": "Cendara administers several need-based grant programs drawn from institutional, federal, and state sources."
+              },
+              {
+                "type": "table",
+                "line": 62,
+                "header": [
+                  "Grant Name",
+                  "Eligibility",
+                  "Value per Year",
+                  "Application"
+                ],
+                "rows": [
+                  [
+                    "Cendara Access Grant",
+                    "Undergrad (full-time); based on demonstrated financial need",
+                    "$2,000–$8,000",
+                    "FAFSA or CSS Profile"
+                  ],
+                  [
+                    "Federal Pell Grant",
+                    "U.S. citizens/permanent residents; demonstrated high need",
+                    "Up to $7,395",
+                    "FAFSA"
+                  ],
+                  [
+                    "State Opportunity Grant",
+                    "Indiana residents (full-time undergrad/grad); need-based",
+                    "$1,200–$4,500",
+                    "FAFSA"
+                  ],
+                  [
+                    "Graduate Tuition Grant",
+                    "Graduate students (limited selection)",
+                    "$2,500–$5,000",
+                    "FAFSA or separate app"
+                  ]
+                ]
+              },
+              {
+                "type": "list",
+                "line": 69,
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Award amounts depend on Expected Family Contribution (EFC), cost of attendance, and funding levels.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "All grants are subject to annual review and funding availability.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "4. Loans",
+            "level": 2,
+            "line": 74,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "line": 76,
+                "text": "Student loans are designed to help cover gaps after scholarships and grants are applied. Repayment with interest is required."
+              }
+            ],
+            "sections": [
+              {
+                "title": "4.1 Federal Student Loans (U.S. citizens/permanent residents)",
+                "level": 3,
+                "line": 78,
+                "blocks": [
+                  {
+                    "type": "table",
+                    "line": 80,
+                    "header": [
+                      "Loan",
+                      "Annual Borrowing Limit",
+                      "Typical Interest Rate",
+                      "Notes"
+                    ],
+                    "rows": [
+                      [
+                        "Direct Subsidized Loan",
+                        "$3,500–$5,500 (undergrad)",
+                        "5.50%",
+                        "Need-based, interest subsidized"
+                      ],
+                      [
+                        "Direct Unsubsidized Loan",
+                        "$2,000–$20,500 (undergrad/grad)",
+                        "5.50%–7.05%",
+                        "Interest accrues immediately"
+                      ],
+                      [
+                        "Grad PLUS Loan",
+                        "Cost of attendance minus aid",
+                        "8.05%",
+                        "Credit check required"
+                      ],
+                      [
+                        "Parent PLUS Loan",
+                        "Parent borrower for undergrads",
+                        "8.05%",
+                        "Credit check required"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "4.2 Institutional Loan Programs (Domestic & International)",
+                "level": 3,
+                "line": 87,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 89,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Cendara Opportunity Loan: Up to $7,500/year (Fixed 6.25% interest, deferred repayment until 6 months post-graduation; cosigner required for international students)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Short-term Emergency Loan: Up to $1,200/semester (No interest, payable within 6 months)",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "line": 92,
+                    "text": "Note: Loan counseling is required for all new borrowers."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "5. Work-Study Employment",
+            "level": 2,
+            "line": 96,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "line": 98,
+                "text": "Cendara’s Federal and Institutional Work-Study programs provide part-time, on-campus jobs to assist students in meeting expenses."
+              },
+              {
+                "type": "list",
+                "line": 100,
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Typical positions: Library assistant, lab tech, campus events, dining hall, research aide",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Hourly pay: $12 – $15 (undergraduate), $14 – $18 (graduate)",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Maximum hours: 15/week during terms",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "line": 104,
+                "text": "Eligibility depends on need and timely application; indicate work-study interest on the FAFSA or Cendara Application for Aid."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "6. Application Procedures",
+            "level": 2,
+            "line": 108,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "line": 110,
+                "text": "To receive financial aid, applicants must complete the appropriate forms and follow these steps:"
+              }
+            ],
+            "sections": [
+              {
+                "title": "Step 1: Gather Required Documents",
+                "level": 3,
+                "line": 112,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 114,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Student and parent tax returns (prior-prior year, e.g., 2022 for 2024–25)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "W-2s and other income statements",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Bank statements and records of investments",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Social Security numbers or governmental IDs (if applicable)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Academic transcripts for some merit aid",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 2: Complete Applications",
+                "level": 3,
+                "line": 120,
+                "blocks": [
+                  {
+                    "type": "table",
+                    "line": 122,
+                    "header": [
+                      "Aid Type",
+                      "Required Application(s)",
+                      "Link / Submission Method"
+                    ],
+                    "rows": [
+                      [
+                        "Federal Aid (U.S.)",
+                        "FAFSA",
+                        "https://studentaid.gov (https://studentaid.gov) (School Code: 036469)"
+                      ],
+                      [
+                        "Need-Based Aid (Intl)",
+                        "CSS Profile",
+                        "https://cssprofile.collegeboard.org (https://cssprofile.collegeboard.org)"
+                      ],
+                      [
+                        "University Scholarships",
+                        "Cendara Scholarship Portal",
+                        "scholarships.cendara.edu/apply (https://scholarships.cendara.edu/apply)"
+                      ],
+                      [
+                        "Indiana State Grants",
+                        "FAFSA (by April 15)",
+                        "Same as above"
+                      ],
+                      [
+                        "Graduate Department Awards",
+                        "Dept. Application",
+                        "Contact department directly"
+                      ]
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 3: Submit Supplemental Materials",
+                "level": 3,
+                "line": 130,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 132,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Essays, letters of recommendation, or portfolios as specified for certain scholarships",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Documentation verifying special circumstances (loss of income, medical bills, etc.)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "International students: proof of English proficiency & financial Documents",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 4: Meet All Deadlines",
+                "level": 3,
+                "line": 136,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 138,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Priority Deadline: February 15, 2024 (for maximum consideration)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Cendara Scholarship Portal: Opens October 1, closes March 1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "FAFSA/CSS Profile: Opens October 1; final deadline May 1",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Department/Graduate Scholarships: Vary by unit (consult website)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 5: Review Aid Offer & Accept",
+                "level": 3,
+                "line": 143,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 145,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Cendara’s Office of Financial Assistance will send an “Aid Notification” via email/portal.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Review your offer, accept/decline individual items online.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Submit additional documents if requested (tax forms, clarification letters, etc.)",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "Step 6: Maintain Eligibility",
+                "level": 3,
+                "line": 149,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 151,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Must be enrolled at least half-time each semester (≥ 12 credits undergraduate, ≥ 9 credits graduate unless otherwise stated)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Maintain Satisfactory Academic Progress (minimum GPA 2.0 undergrad/3.0 grad, 67% completion rate)",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Renew FAFSA or applicable forms each year",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "title": "7. Additional Financial Support Resources",
+            "level": 2,
+            "line": 157,
+            "blocks": [
+              {
+                "type": "list",
+                "line": 159,
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Outside Scholarships: Students encouraged to apply for external awards (employers, civic groups, national competitions).",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Payment Plans: Flexible semester installment plans available via the Bursar’s Office.",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Emergency Assistance Fund: One-time support for unforeseen crises; contact deanofstudents@cendara.edu.",
+                    "depth": 0
+                  }
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "8. Frequently Asked Questions",
+            "level": 2,
+            "line": 165,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "line": 167,
+                "text": "Q: Can I combine multiple scholarships or grants?\nA: Yes, but total aid may not exceed direct costs (tuition, fees, room/board). Some awards have restrictions; always check notifications."
+              },
+              {
+                "type": "paragraph",
+                "line": 170,
+                "text": "Q: I missed the deadline. Can I still apply?\nA: Late applications are accepted, but funding may be limited. Contact the Office of Financial Assistance for guidance."
+              },
+              {
+                "type": "paragraph",
+                "line": 173,
+                "text": "Q: What if my family’s financial situation has recently changed?\nA: Submit a Special Circumstances Appeal form with supporting documentation for re-evaluation of your aid package."
+              }
+            ],
+            "sections": []
+          },
+          {
+            "title": "9. Contacts & Further Information",
+            "level": 2,
+            "line": 178,
+            "blocks": [
+              {
+                "type": "list",
+                "line": 180,
+                "ordered": false,
+                "items": [
+                  {
+                    "text": "Office of Financial Assistance: Founders Hall, 2nd Floor",
+                    "depth": 0
+                  },
+                  {
+                    "text": "Phone: (317) 555-2473",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Email: financial.aid@cendara.edu",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Website: financialaid.cendara.edu (https://financialaid.cendara.edu)",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Office Hours: Mon–Fri, 8:30am–5:00pm",
+                    "depth": 1
+                  },
+                  {
+                    "text": "Scholarships Team: scholarships@cendara.edu",
+                    "depth": 0
+                  },
+                  {
+                    "text": "International Student Support: iss@cendara.edu",
+                    "depth": 0
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "line": 189,
+                "text": "For policy details or appeals, reference the Student Financial Assistance Handbook (https://financialaid.cendara.edu/handbook)."
+              },
+              {
+                "type": "paragraph",
+                "line": 193,
+                "text": "Empowering your future, today — Cendara University Financial Assistance"
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -27,7 +27,7 @@ FORMAT = "md"
 # then delete it.
 SAMPLE_FILES: dict[str, list[str]] | None = {
     "Aventro Motors": ["Pre-Owned Certified Cars.md"],
-    "Cendara University": ["dept_of_Curriclumn_Catalog.md"],
+    "Cendara University": ["dept_of_Curriclumn_Catalog.md", "financial_aid.md"],
 }
 
 

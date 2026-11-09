@@ -15,8 +15,8 @@ Blocks come back in reading order. Each one is a dict with a ``type`` and the
 - ``html``: ``text``, the raw HTML as the library found it
 
 ``text`` is plain words: the marks for bold, italic and inline code are removed.
-Links stay as written, ``[text](address)``, and raw HTML stays as it is. Line
-breaks inside a block are kept as new lines.
+Links keep both their text and their address, as ``text (address)``. Raw HTML
+stays as it is. Line breaks inside a block are kept as new lines.
 
 ``parse_md_file`` returns these blocks nested by heading. Each heading becomes a
 section: ``{"title", "level", "line", "blocks", "sections"}``. The blocks under a
@@ -59,11 +59,10 @@ def _plain_text(token) -> str:
         elif child.type in ("softbreak", "hardbreak"):
             parts.append("\n")
         elif child.type == "link_open":
-            # Links stay as written for now: [text](address).
+            # A link keeps its text and its address: the text comes next, then " (address)".
             address = child.attrs["href"]
-            parts.append("[")
         elif child.type == "link_close":
-            parts.append(f"]({address})")
+            parts.append(f" ({address})")
         elif child.type == "image":
             parts.append(f"![{child.content}]({child.attrs['src']})")
         elif child.type == "html_inline":
