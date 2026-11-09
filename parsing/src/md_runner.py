@@ -2,7 +2,8 @@
 
 For each company it reads ``<registry>/<company>/md.jsonl``, parses every listed
 file with ``parse_md_file``, and writes ``<parsed>/<company>/md/<doc_key>.json``.
-A saved document is ``{"doc_id", "doc_key", "path", "company", "format", "blocks"}``.
+A saved document is ``{"doc_id", "doc_key", "path", "company", "format", "content"}``,
+where ``content`` is the file nested into sections (see ``md_parser``).
 The file is named after the first ``doc_key``, so it is easy to find by document name.
 
 Run: ``python -m parsing.src.md_runner`` (paths come from ``default.yaml``).
@@ -26,7 +27,13 @@ FORMAT = "md"
 # then delete it.
 SAMPLE_FILES: dict[str, list[str]] | None = {
     "Aventro Motors": ["Pre-Owned Certified Cars.md"],
+    "Cendara University": ["dept_of_Curriclumn_Catalog.md"],
 }
+
+
+def count_blocks(section: dict) -> int:
+    """Blocks in a section and in every section below it."""
+    return len(section["blocks"]) + sum(count_blocks(child) for child in section["sections"])
 
 
 def read_records(registry_dir: Path, company: str) -> list[dict]:
@@ -89,22 +96,22 @@ def run(dataset_dir: Path, registry_dir: Path, parsed_dir: Path) -> tuple[list[t
         for record in chosen:
             try:
                 # Open the real file (dataset folder + the path from the registry) and parse it.
-                blocks = parse_md_file(dataset_dir / record["path"])
-                if not blocks:
+                content = parse_md_file(dataset_dir / record["path"])
+                if not content["blocks"] and not content["sections"]:
                     raise ValueError("no content found")
             except Exception as error:  # one bad file must not stop the run
                 failed.append(f"{record['path']}: {error}")
                 continue
-            # The parsed document: the registry details plus the blocks.
+            # The parsed document: the registry details plus the content (the sections).
             document = {
                 "doc_id": record["doc_id"],
                 "doc_key": record["doc_key"],
                 "path": record["path"],
                 "company": company,
                 "format": FORMAT,
-                "blocks": blocks,
+                "content": content,
             }
-            saved.append((save_document(parsed_dir, document), len(blocks)))
+            saved.append((save_document(parsed_dir, document), count_blocks(content)))
     return saved, failed
 
 

@@ -1,7 +1,7 @@
 """Parse Markdown text into typed blocks, using only what markdown-it-py gives us.
 
-There are no custom rules yet. We look at the results first and add rules where
-the structure comes out wrong.
+There are few custom rules. We look at the results first and add rules where the
+structure comes out wrong. So far: formatting marks are removed from text.
 
 Blocks come back in reading order. Each one is a dict with a ``type`` and the
 ``line`` it starts on:
@@ -14,7 +14,15 @@ Blocks come back in reading order. Each one is a dict with a ``type`` and the
 - ``quote``: ``text``
 - ``html``: ``text``, the raw HTML as the library found it
 
-``text`` is the source text of the block, so marks like ``**`` stay in.
+``text`` is plain words: the marks for bold, italic and inline code are removed.
+Links stay as written, ``[text](address)``, and raw HTML stays as it is. Line
+breaks inside a block are kept as new lines.
+
+``parse_md_file`` returns these blocks nested by heading. Each heading becomes a
+section: ``{"title", "level", "line", "blocks", "sections"}``. The blocks under a
+heading go in its ``blocks`` and the headings below it go in its ``sections``. The
+whole file is one top section with no title (``title`` None, ``level`` 0). It also
+holds any text that comes before the first heading.
 """
 
 from __future__ import annotations
@@ -34,6 +42,34 @@ def _block(kind: str, token, **fields) -> dict:
     line = token.map[0] + 1 if token.map else None
     # Build the block: its type, its line, then the extra fields (level, text, ...).
     return {"type": kind, "line": line, **fields}
+
+
+def _plain_text(token) -> str:
+    """Text of an inline token without the formatting marks.
+
+    The library splits a line like ``Some **bold** text`` into pieces: some text,
+    "bold start", the word, "bold end", more text. We keep the pieces that hold
+    words and skip the ones that only mark bold or italic.
+    """
+    parts = []
+    address = ""  # the web address of the link we are inside
+    for child in token.children or []:
+        if child.type in ("text", "code_inline"):
+            parts.append(child.content)
+        elif child.type in ("softbreak", "hardbreak"):
+            parts.append("\n")
+        elif child.type == "link_open":
+            # Links stay as written for now: [text](address).
+            address = child.attrs["href"]
+            parts.append("[")
+        elif child.type == "link_close":
+            parts.append(f"]({address})")
+        elif child.type == "image":
+            parts.append(f"![{child.content}]({child.attrs['src']})")
+        elif child.type == "html_inline":
+            parts.append(child.content)  # raw HTML stays as it is
+        # strong_open, strong_close, em_open and em_close are only marks, so they are skipped.
+    return "".join(parts)
 
 
 def parse_markdown(text: str) -> list[dict]:
@@ -62,18 +98,18 @@ def parse_markdown(text: str) -> list[dict]:
         following = tokens[index + 1] if index + 1 < len(tokens) else None
 
         # A heading starts here. token.tag is "h1", "h2", ... so [1] is the level number.
-        # following.content is the heading text exactly as written (** marks included).
+        # _plain_text gives the heading words without the ** marks.
         if kind == "heading_open":
-            blocks.append(_block("heading", token, level=int(token.tag[1]), text=following.content))
+            blocks.append(_block("heading", token, level=int(token.tag[1]), text=_plain_text(following)))
 
         # A paragraph starts here.
         elif kind == "paragraph_open":
             if items:
                 # We are inside a list item, so this text belongs to that item.
-                items[-1]["text"] = (items[-1]["text"] + " " + following.content).strip()
+                items[-1]["text"] = (items[-1]["text"] + " " + _plain_text(following)).strip()
             else:
                 # Otherwise it is a normal paragraph, or a quote if we are inside one.
-                blocks.append(_block("quote" if quote_depth else "paragraph", token, text=following.content))
+                blocks.append(_block("quote" if quote_depth else "paragraph", token, text=_plain_text(following)))
 
         # A list starts here (bullet or numbered).
         elif kind in ("bullet_list_open", "ordered_list_open"):
@@ -117,7 +153,7 @@ def parse_markdown(text: str) -> list[dict]:
             row = []
         # A table cell starts here (th = header cell, td = normal cell). Add its text to the row.
         elif kind in ("th_open", "td_open"):
-            row.append(following.content)
+            row.append(_plain_text(following))
         # The row ends. Save it as the header or as a normal row.
         elif kind == "tr_close":
             if in_head:
@@ -139,8 +175,40 @@ def parse_markdown(text: str) -> list[dict]:
     return blocks
 
 
-def parse_md_file(path: Path | str) -> list[dict]:
-    """Read a Markdown file and return its blocks."""
+def nest_blocks(blocks: list[dict]) -> dict:
+    """Group a flat list of blocks into sections, one per heading."""
+    # The top section stands for the whole file. It has no title and level 0,
+    # so no real heading (level 1 or more) can ever close it.
+    root = {"title": None, "level": 0, "line": None, "blocks": [], "sections": []}
+    # The sections that are open right now: the top section, then one per heading level we are inside.
+    open_sections = [root]
+
+    for block in blocks:
+        if block["type"] == "heading":
+            # Close every open section that is at the same level or deeper than this heading.
+            # What is left on top is the nearest earlier heading with a smaller level: the parent.
+            # This also covers a skipped level (a ### right after a #): the # stays the parent.
+            while open_sections[-1]["level"] >= block["level"]:
+                open_sections.pop()
+            section = {
+                "title": block["text"],
+                "level": block["level"],
+                "line": block["line"],
+                "blocks": [],
+                "sections": [],
+            }
+            open_sections[-1]["sections"].append(section)
+            open_sections.append(section)
+        else:
+            # Anything that is not a heading belongs to the section that is open now.
+            # Before the first heading, that is the top section.
+            open_sections[-1]["blocks"].append(block)
+
+    return root
+
+
+def parse_md_file(path: Path | str) -> dict:
+    """Read a Markdown file and return it as sections (see the top of this file)."""
     # "utf-8-sig" reads normal UTF-8 and also skips the hidden marker some editors put at the start.
     with open(path, encoding="utf-8-sig") as handle:
-        return parse_markdown(handle.read())
+        return nest_blocks(parse_markdown(handle.read()))

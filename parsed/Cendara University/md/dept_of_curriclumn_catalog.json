@@ -1,0 +1,725 @@
+{
+  "doc_id": "d2425a43dc70f653a9ea5c91c6fe302e3497fe83858eb6c2337212b34eda4fe3",
+  "doc_key": [
+    "dept_of_curriclumn_catalog"
+  ],
+  "path": "Cendara University/md/dept_of_Curriclumn_Catalog.md",
+  "company": "Cendara University",
+  "format": "md",
+  "content": {
+    "title": null,
+    "level": 0,
+    "line": null,
+    "blocks": [],
+    "sections": [
+      {
+        "title": "Cendara University Course Catalog",
+        "level": 1,
+        "line": 1,
+        "blocks": [],
+        "sections": [
+          {
+            "title": "Department of Curriculum & Instruction",
+            "level": 3,
+            "line": 2,
+            "blocks": [],
+            "sections": []
+          },
+          {
+            "title": "Undergraduate Courses",
+            "level": 2,
+            "line": 6,
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Bachelor of Education (B.Ed.) in Elementary Education",
+                "level": 3,
+                "line": 7,
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "EDUC 1101: Foundations of Education",
+                    "level": 4,
+                    "line": 11,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 12,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nIntroduction to the philosophy, history, and social context of elementary education. Topics include educational theories, current issues in teaching, and the role of educators in diverse classrooms.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: None",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 1202: Child Development and Learning",
+                    "level": 4,
+                    "line": 19,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 20,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nExamination of key physical, cognitive, and social-emotional development stages in children aged 4–12. Explores theories of learning and their application in diverse elementary classrooms.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: None",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 1303: Curriculum Design for Elementary Classrooms",
+                    "level": 4,
+                    "line": 27,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 28,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nStudy of principles and models of curriculum development. Students will develop lesson plans and curricular units aligned with state and national standards.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 1101",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 1404: Literacy Instruction I",
+                    "level": 4,
+                    "line": 35,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 36,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nApproaches to teaching reading and writing from kindergarten through third grade. Emphasizes phonemic awareness, phonics, and early literacy strategies.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 1202",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 1505: Mathematics for Elementary Teachers",
+                    "level": 4,
+                    "line": 43,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 44,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nContent and methods for effective mathematics instruction at the elementary level, including numeracy, problem-solving, and assessment techniques.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 1101",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 2106: Classroom Assessment and Evaluation",
+                    "level": 4,
+                    "line": 51,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 52,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nPrinciples and practices of student assessment, including formative, summative, and alternative forms. Focus on data-driven instruction to improve student outcomes.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 1303",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 2207: Literacy Instruction II",
+                    "level": 4,
+                    "line": 59,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 60,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nStrategies for reading comprehension and writing instruction, grades 4–6. Focuses also on differentiated instruction for students with varying abilities.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 1404",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 2308: Science and Social Studies Methods",
+                    "level": 4,
+                    "line": 67,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 68,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nIntegration of science and social studies content and pedagogy, with an emphasis on inquiry-based learning and interdisciplinary instruction.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 1303",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 3109: Inclusive Classrooms and Special Needs Education",
+                    "level": 4,
+                    "line": 75,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 76,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nMethods for supporting diverse learners, including those with exceptionalities and English language learners. Legal and ethical aspects of inclusion addressed.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 2106",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 3110: Classroom Management",
+                    "level": 4,
+                    "line": 83,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 84,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nTechniques for creating positive learning environments, managing student behavior, and implementing preventative strategies.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 2106",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 4201: Student Teaching Seminar",
+                    "level": 4,
+                    "line": 91,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 92,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nCapstone seminar to support students completing their student teaching experience. Emphasizes reflective practice, professional development, and portfolio creation.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: Completion of all prior B.Ed. coursework; approval of Department Chair",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDUC 4202: Student Teaching Practicum",
+                    "level": 4,
+                    "line": 99,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 100,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nSupervised full-time teaching placement in a local elementary school. Students apply pedagogical theories in real-world settings.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDUC 4201",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 6",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Graduate Courses",
+            "level": 2,
+            "line": 107,
+            "blocks": [],
+            "sections": [
+              {
+                "title": "Master of Education (M.Ed.) in Curriculum & Instruction",
+                "level": 3,
+                "line": 108,
+                "blocks": [],
+                "sections": [
+                  {
+                    "title": "EDCI 5001: Contemporary Issues in Curriculum & Instruction",
+                    "level": 4,
+                    "line": 112,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 113,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nExploration of current trends, reform movements, and policy debates influencing curriculum and instructional practice in K-12 education.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: Admission to M.Ed. program",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 5102: Advanced Instructional Theory",
+                    "level": 4,
+                    "line": 120,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 121,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nIn-depth analysis of learning theories, instructional models, and evidence-based practices for enhancing student achievement across grade levels.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDCI 5001",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 5203: Curriculum Development and Evaluation",
+                    "level": 4,
+                    "line": 128,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 129,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nStudy of systematic approaches to designing, implementing, and assessing curricula using quantitative and qualitative methods.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDCI 5001",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 5304: Educational Research Methods",
+                    "level": 4,
+                    "line": 136,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 137,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nIntroduction to qualitative and quantitative educational research methodologies, including data collection, analysis, and interpretation for classroom settings.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: None",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 5405: Technology Integration in the Classroom",
+                    "level": 4,
+                    "line": 144,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 145,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nStrategies for selecting and implementing digital tools and resources to enhance teaching and learning. Includes evaluation of emerging educational technologies.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: None",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 6106: Cultural Competence and Equity in Education",
+                    "level": 4,
+                    "line": 152,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 153,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nExamination of approaches to fostering inclusive and equitable learning environments. Topics include anti-bias education and culturally responsive pedagogy.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDCI 5001",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 6207: Leadership in Curriculum & Instruction",
+                    "level": 4,
+                    "line": 160,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 161,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nTraining in instructional leadership, including supervision, mentoring, and professional development for teachers.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDCI 5203",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 6308: Thesis Seminar",
+                    "level": 4,
+                    "line": 168,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 169,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nGuided support for developing and completing a scholarly research thesis in the field of curriculum and instruction.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDCI 5304; approval of Thesis Advisor",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 6",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  },
+                  {
+                    "title": "EDCI 6309: Capstone Project",
+                    "level": 4,
+                    "line": 176,
+                    "blocks": [
+                      {
+                        "type": "list",
+                        "line": 177,
+                        "ordered": false,
+                        "items": [
+                          {
+                            "text": "Description:\nApplied research project addressing a practical problem in curriculum and instruction. Students present findings to faculty and peers.",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Prerequisites: EDCI 5304",
+                            "depth": 0
+                          },
+                          {
+                            "text": "Credit Hours: 3",
+                            "depth": 0
+                          }
+                        ]
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Elective Courses",
+            "level": 2,
+            "line": 184,
+            "blocks": [],
+            "sections": [
+              {
+                "title": "EDCI 6501: Differentiated Instruction Strategies",
+                "level": 4,
+                "line": 188,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 189,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nMethods for tailoring instruction to meet the needs of diverse learners, including gifted students and those with learning differences.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: For B.Ed.: EDUC 3109; For M.Ed.: None",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "EDCI 6502: Assessment Tools and Data Analysis",
+                "level": 4,
+                "line": 196,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 197,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nAdvanced techniques for designing, administering, and interpreting classroom assessments, with an emphasis on data-driven instructional decision-making.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: EDUC 2106 or EDCI 5304",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  }
+                ],
+                "sections": []
+              },
+              {
+                "title": "EDCI 6503: Global Perspectives in Education",
+                "level": 4,
+                "line": 204,
+                "blocks": [
+                  {
+                    "type": "list",
+                    "line": 205,
+                    "ordered": false,
+                    "items": [
+                      {
+                        "text": "Description:\nComparative analysis of international education systems, policies, and practices. Focus on global challenges and innovations in curriculum.",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Prerequisites: None",
+                        "depth": 0
+                      },
+                      {
+                        "text": "Credit Hours: 3",
+                        "depth": 0
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "line": 212,
+                    "text": "End of Department of Curriculum & Instruction course listings."
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
