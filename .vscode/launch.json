@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Parse Markdown (md_runner)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "parsing.src.md_runner",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+      {
+      "name": "Ingest",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "ingest.src.ingest",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
