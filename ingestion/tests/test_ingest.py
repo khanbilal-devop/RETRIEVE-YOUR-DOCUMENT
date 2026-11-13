@@ -5,16 +5,16 @@ import zipfile
 
 import pytest
 
-from ingest.src.ingest import (
+from ingestion.src.ingest import (
     FORMATS,
     detect_format,
     ingest,
     is_system_file,
-    main,
     match_key,
     matches,
     normalize_name,
 )
+from ingestion.src.runner import main
 
 PDF = b"%PDF-1.4\n1 0 obj\n<<>>\nendobj\n"
 HTML_FRAGMENT = b'<h1 id="title">Title</h1>\n<p>Some text.</p>\n'
@@ -148,9 +148,9 @@ def test_each_format_gets_its_own_registry_file(folders):
     assert result.registered == 5
     assert result.rejected == []
     names = sorted(p.name for p in (out / "Acme").iterdir())
-    assert names == sorted([f"{fmt}.jsonl" for fmt in FORMATS] + ["rejected.jsonl"])
+    assert names == sorted(list(FORMATS) + ["rejected.jsonl"])
     for fmt in FORMATS:
-        (record,) = read_jsonl(out / "Acme" / f"{fmt}.jsonl")
+        (record,) = read_jsonl(out / "Acme" / fmt / "registry.jsonl")
         assert record["doc_key"] == ["guide"]
 
 
@@ -160,7 +160,7 @@ def test_record_has_hash_key_and_relative_path(folders):
 
     ingest(data, out)
 
-    (record,) = read_jsonl(out / "Acme/md.jsonl")
+    (record,) = read_jsonl(out / "Acme/md/registry.jsonl")
     assert set(record) == {"doc_id", "doc_key", "path"}
     assert record["doc_id"] == hashlib.sha256(MD).hexdigest()
     assert record["doc_key"] == ["fees - overview"]
@@ -174,7 +174,7 @@ def test_wrong_folder_is_reported_but_content_decides_format(folders):
 
     result = ingest(data, out)
 
-    assert len(read_jsonl(out / "Acme/docx.jsonl")) == 1
+    assert len(read_jsonl(out / "Acme/docx/registry.jsonl")) == 1
     assert result.format_mismatches == ["Acme/misc/report.txt"]
 
 
@@ -216,7 +216,7 @@ def test_same_bytes_register_once_and_keep_both_names(folders):
     result = ingest(data, out)
 
     assert result.registered == 1
-    (record,) = read_jsonl(out / "ZX/md.jsonl")
+    (record,) = read_jsonl(out / "ZX/md/registry.jsonl")
     assert record["doc_key"] == ["personal loan information", "personal loan"]
     assert read_jsonl(out / "ZX/rejected.jsonl") == [
         {"path": "ZX/md/Personal Loan.md", "reason": "duplicate of ZX/md/Personal Loan Information.md"}
@@ -231,7 +231,7 @@ def test_same_name_different_bytes_gets_a_number(folders):
 
     ingest(data, out)
 
-    keys = [r["doc_key"] for r in read_jsonl(out / "Acme/md.jsonl")]
+    keys = [r["doc_key"] for r in read_jsonl(out / "Acme/md/registry.jsonl")]
     assert keys == [["guide"], ["guide_2"], ["guide_3"]]
 
 
@@ -304,7 +304,7 @@ def test_main_reads_both_paths_from_the_config(folders, monkeypatch, capsys):
     put(data / "Acme/md/Guide.md", MD)
     put(data / "Acme/md/.DS_Store", b"x")
     settings = {"paths": {"dataset_dir": str(data), "registry_dir": str(out)}}
-    monkeypatch.setattr("ingest.src.ingest.load_config", lambda: settings)
+    monkeypatch.setattr("ingestion.src.runner.load_config", lambda: settings)
 
     code = main()
 
@@ -312,4 +312,4 @@ def test_main_reads_both_paths_from_the_config(folders, monkeypatch, capsys):
     assert code == 0
     assert "registered 1, rejected 1" in printed
     assert "system file: 1" in printed
-    assert len(read_jsonl(out / "Acme/md.jsonl")) == 1
+    assert len(read_jsonl(out / "Acme/md/registry.jsonl")) == 1

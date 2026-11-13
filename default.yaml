@@ -6,10 +6,10 @@
 paths:
   # Folder that holds one sub-folder per company (RAG-Multi-Corpus/datasets).
   # If this key is renamed, also change DATASET_DIR in config/src/constants.py.
-  dataset_dir: reference repo/datasets
+  dataset_dir: data/dataset/datasets
   # Where layer 1 (ingestion) writes its registries.
   # If this key is renamed, also change REGISTRY_DIR in config/src/constants.py.
-  registry_dir: registry
+  registry_dir: data/registry
   # Where layer 2 (parsing) writes one JSON file per parsed document.
   # If this key is renamed, also change PARSED_DIR in config/src/constants.py.
-  parsed_dir: parsed
+  parsed_dir: data/parsed

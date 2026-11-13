@@ -9,8 +9,8 @@ from config.src.constants import DATASET_DIR, REGISTRY_DIR
 
 def test_default_config_has_both_paths():
     config = load_config()
-    assert path_setting(config, DATASET_DIR) == REPO_ROOT / "reference repo" / "datasets"
-    assert path_setting(config, REGISTRY_DIR) == REPO_ROOT / "registry"
+    assert path_setting(config, DATASET_DIR) == REPO_ROOT / "data" / "dataset" / "datasets"
+    assert path_setting(config, REGISTRY_DIR) == REPO_ROOT / "data" / "registry"
 
 
 def test_relative_path_starts_at_repo_root_not_working_folder(tmp_path, monkeypatch):

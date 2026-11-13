@@ -1,12 +1,12 @@
 """Parse the Markdown files in the registry and save each one as a JSON file.
 
-For each company it reads ``<registry>/<company>/md.jsonl``, parses every listed
+For each company it reads ``<registry>/<company>/md/registry.jsonl``, parses every listed
 file with ``parse_md_file``, and writes ``<parsed>/<company>/md/<doc_key>.json``.
 A saved document is ``{"doc_id", "doc_key", "path", "company", "format", "content"}``,
 where ``content`` is the file nested into sections (see ``md_parser``).
 The file is named after the first ``doc_key``, so it is easy to find by document name.
 
-Run: ``python -m parsing.src.md_runner`` (paths come from ``default.yaml``).
+Run: ``python -m parsing.src.runner`` (paths come from ``default.yaml``).
 """
 
 from __future__ import annotations
@@ -16,7 +16,7 @@ from pathlib import Path
 
 from config.src.config import load_config, path_setting
 from config.src.constants import DATASET_DIR, PARSED_DIR, REGISTRY_DIR
-from ingest.src.ingest import matches
+from ingestion.src.ingest import matches
 from parsing.src.md_parser import parse_md_file
 
 # The format this runner handles. Used in file names and folder names.
@@ -35,8 +35,8 @@ def count_blocks(section: dict) -> int:
 
 def read_records(registry_dir: Path, company: str) -> list[dict]:
     """Registry records of one company's Markdown files."""
-    # The registry file for this company, for example registry/Aventro Motors/md.jsonl.
-    file = registry_dir / company / f"{FORMAT}.jsonl"
+    # The registry file for this company, for example registry/Aventro Motors/md/registry.jsonl.
+    file = registry_dir / company / FORMAT / "registry.jsonl"
     # Each line of the file is one JSON record. Turn every non-empty line into a dict.
     return [json.loads(line) for line in file.read_text(encoding="utf-8").splitlines() if line.strip()]
 
@@ -76,7 +76,7 @@ def run(dataset_dir: Path, registry_dir: Path, parsed_dir: Path) -> tuple[list[t
     failed: list[str] = []  # one message per problem
 
     # Company folders in the registry that have a Markdown registry file.
-    companies = sorted(p.name for p in registry_dir.iterdir() if (p / f"{FORMAT}.jsonl").is_file())
+    companies = sorted(p.name for p in registry_dir.iterdir() if (p / FORMAT / "registry.jsonl").is_file())
 
     # Warn if the test list names a company that is not in the registry.
     for company in SAMPLE_FILES or {}:

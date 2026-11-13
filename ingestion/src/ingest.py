@@ -1,6 +1,6 @@
 """Layer 1, ingestion: register every file before any content is read.
 
-Walks ``<dataset>/<company>/**`` and writes ``<registry>/<company>/<format>.jsonl``
+Walks ``<dataset>/<company>/**`` and writes ``<registry>/<company>/<format>/registry.jsonl``
 (one registry per company and format) plus ``<registry>/<company>/rejected.jsonl``. A
 registry record is ``{"doc_id", "doc_key", "path"}``:
 
@@ -8,9 +8,9 @@ registry record is ``{"doc_id", "doc_key", "path"}``:
 - ``doc_key``: normalized names
 - ``path``: relative to the dataset folder
 
-The format is not stored in a record: it is the name of the registry file.
+The format is not stored in a record: it is the name of the registry's folder.
 
-Run: ``python -m ingest.src.ingest`` (paths come from ``default.yaml``).
+To run it, use ``python -m ingestion.src.runner``.
 """
 
 from __future__ import annotations
@@ -20,12 +20,8 @@ import json
 import re
 import unicodedata
 import zipfile
-from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
-
-from config.src.config import load_config, path_setting
-from config.src.constants import DATASET_DIR, REGISTRY_DIR
 
 FORMATS = ("pdf", "docx", "pptx", "html", "md")
 
@@ -207,30 +203,9 @@ def ingest(dataset_dir: Path | str, registry_dir: Path | str) -> IngestResult:
                 mismatches.append(rel)
 
     for (company, fmt), records in registries.items():
-        _write_jsonl(registry_dir / company / f"{fmt}.jsonl", records)
+        _write_jsonl(registry_dir / company / fmt / "registry.jsonl", records)
     for company in sorted({company for company, _ in registries}):
         rows = [r for r in rejected if r["path"].split("/", 1)[0] == company]
         _write_jsonl(registry_dir / company / "rejected.jsonl", rows)
     registered = sum(len(records) for records in registries.values())
     return IngestResult(registered, rejected, mismatches)
-
-
-def main() -> int:
-    config = load_config()
-    dataset_dir = path_setting(config, DATASET_DIR)
-    registry_dir = path_setting(config, REGISTRY_DIR)
-    result = ingest(dataset_dir, registry_dir)
-
-    print(f"dataset:  {dataset_dir}")
-    print(f"registry: {registry_dir}")
-    print(f"registered {result.registered}, rejected {len(result.rejected)}")
-    kinds = Counter(r["reason"].split(" of ", 1)[0].split(":", 1)[0] for r in result.rejected)
-    for kind, count in sorted(kinds.items()):
-        print(f"  {kind}: {count}")
-    if result.format_mismatches:
-        print(f"{len(result.format_mismatches)} files sit in a folder that differs from their detected format")
-    return 0
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
