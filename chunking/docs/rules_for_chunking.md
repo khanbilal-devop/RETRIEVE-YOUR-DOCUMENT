@@ -193,7 +193,7 @@ below.
 - Words are counted on the **content** of the blocks (the list items, table cells and paragraph
   text), not on the dashes and labels we add when writing the text.
 - If nothing is below it in its section, it **stays alone**.
-- The number **10 is a starting value**. We tune it by testing retrieval (see section 8).
+- The number **10 is a starting value**. We tune it by testing retrieval (see section 9).
 
 ```
 Section: Pricing
@@ -276,7 +276,7 @@ is written once and the cells below it are blank:
 
 ### Code and raw HTML blocks
 
-Not discussed yet. See section 9.
+Not discussed yet. See section 10.
 
 ---
 
@@ -285,16 +285,61 @@ Not discussed yet. See section 9.
 - **No overlap between chunks.** Overlap only matters when long text is cut in pieces. Our chunks
   follow blocks, and the largest Markdown block is 266 words, so nothing is cut. There is no
   overlap setting.
-- **No maximum chunk size for now,** for the same reason. A list or a table is **never split**.
-  (Written out with its labels, the largest table chunk is about 527 words. The embedding model we
-  are considering takes far more than that.)
+- **A list or a table is never split.** The limit on chunk size is in section 7.
 - **Never merge across a titled section.** The only exception is rule 5c.
 - **Never drop a block.** Small blocks are merged into a neighbour, not removed, because even a
   few words can hold useful information.
 
 ---
 
-## 7. What each chunk stores
+## 7. Size and the token budget
+
+### Rule 7: a chunk stays within about 1,500 tokens
+
+- **What the 1,500 covers.** Everything that is embedded for a chunk in the vector index: the path,
+  the chunk text and, later, the summary and the questions that the enrichment layer adds. (The
+  keywords go to the keyword index, which has no token limit.) We expect about 150 to 250 tokens
+  for the path, summary and questions, so the chunk **text** itself should stay under about
+  **1,200 tokens**.
+- **It is a ceiling, not a target.** Most chunks are far smaller. The median block is about 50 to
+  70 tokens of text.
+- **How tokens are counted.** With the tokenizer of the embedding model we choose. Every embedding
+  model comes with its own tokenizer, so choosing the model chooses the tokenizer. The answering
+  model has a different tokenizer, used only for the size of its prompt.
+- **Where we are today.** No Markdown chunk reaches the ceiling. The largest is a table in
+  `store_locations`: 527 words once written out, about 850 to 1,150 tokens of text. About 160 blocks
+  may be over 256 tokens, about 29 over 512, and about 1 over 1,024. (These are estimates from
+  characters, at 3 to 4 per token. They are not counted with a real tokenizer yet.)
+- **If a chunk goes over.** Not decided. Nothing goes over today. One option is to split a big
+  table between rows and repeat the labels.
+
+### Why 1,500
+
+1. **It fits our data with room to spare.** The largest text plus the extra fields comes to about
+   1,000 to 1,300 tokens, so 1,500 leaves a margin.
+2. **The embedding model must accept it.** The model's input limit has to be at least 1,500 tokens.
+   A model with a 512-token limit would cut off our longest chunks. BGE-M3, our candidate, accepts
+   up to 8,192 tokens.
+3. **The answer prompt still fits.** The final prompt holds the top 5 chunks plus instructions. In
+   the worst case that is 5 x 1,500 = 7,500 tokens, plus about 2,500 for the instructions, so about
+   10,000, and about 11,000 with the model's answer. That is far below the context window of a good
+   7B model (Qwen2.5-7B-Instruct has 32K by default and 128K with a setting). In practice the prompt
+   is much smaller, because the median chunk is tiny.
+4. **Short chunks are not a problem.** A vector has the same size whatever the length of the input.
+   A short chunk is weak only because it holds little information, which is why we merge small
+   chunks and add the path and the enrichment. One caution: for a small chunk, the added summary and
+   questions can be bigger than the chunk's own text, so the enrichment should stay short.
+
+### How we will check it later
+
+The 1,500-token ceiling is a starting plan. Later we run the pipeline with **different embedding
+models**, using chunks of this size, and compare retrieval on the benchmark questions. That shows
+which model works best at this size. If the results show that very long chunks hurt, we lower the
+ceiling or split big tables by row.
+
+---
+
+## 8. What each chunk stores
 
 | Field | What it holds |
 |---|---|
@@ -326,7 +371,7 @@ of chunking.
 
 ---
 
-## 8. Settings we can tune
+## 9. Settings we can tune
 
 These can be changed and tested against the benchmark questions. Change one at a time.
 
@@ -340,23 +385,25 @@ These can be changed and tested against the benchmark questions. Change one at a
 | Small | Direction | down | up |
 | Small | Merge with neighbouring sections | off | on |
 | Text | Table style | labels in every row | header once, plain rows |
-| Size | Maximum chunk size and tokenizer | not set | e.g. 256, 512, 1,024 tokens |
+| Size | Token ceiling per chunk | 1,500 tokens | 1,024 or 2,048, or splitting big tables by row |
+| Size | Embedding model (which brings its tokenizer) | not chosen | BGE-M3 and others, compared on the benchmark |
 
 ---
 
-## 9. Not decided yet
+## 10. Not decided yet
 
 - **Code blocks and raw HTML blocks:** how they are written out. Our plan is to keep their text as
   it is. This is rare in our data.
 - **The small-chunk cutoff:** 10 words is a starting value, to be tuned.
-- **Maximum chunk size and tokenizer:** depends on the embedding model we choose.
+- **The embedding model:** it decides the tokenizer. The 1,500-token ceiling is set (section 7), but
+  which model we use is not.
 - **Other formats:** PDF, DOCX, PPTX and HTML are planned to go through Docling. Their parsed
   output must be mapped to the same sections, blocks and locations. Then these rules apply as they
   are. A format may need a rule of its own, for example slides.
 
 ---
 
-## 10. Reference numbers on our Markdown data
+## 11. Reference numbers on our Markdown data
 
 Measured on 2026-11-13 with an early version of these rules, **before the guards** in rules 4 and 5
 were added. Measure again once the chunk builder exists.
