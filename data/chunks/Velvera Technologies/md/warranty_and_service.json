@@ -1,0 +1,239 @@
+[
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_1",
+    "text": "Velvera is committed to delivering a worry-free ownership experience with transparent warranty coverage, nationwide service access, and AI-powered diagnostics. Whether you're in a metro city or a smaller town, support is always within reach.",
+    "path": "Warranty & Service",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Warranty & Service"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_2",
+    "text": "- Product Category: Smartphones | Standard Warranty: 24 Months | Extended Warranty Options: Up to 4 Years (₹1,999–₹4,999) | Accidental Damage Protection: Velvera Care+ (₹2,999–₹7,999)\n- Product Category: Tablets | Standard Warranty: 24 Months | Extended Warranty Options: Up to 3 Years (₹1,499–₹3,999) | Accidental Damage Protection: Velvera Care+ (₹3,999–₹5,999)\n- Product Category: Smartwatches | Standard Warranty: 24 Months | Extended Warranty Options: Up to 3 Years (₹1,299–₹2,999) | Accidental Damage Protection: Velvera Care+ (₹1,999–₹3,999)\n- Product Category: Audio Products | Standard Warranty: 12 Months | Extended Warranty Options: Up to 2 Years (₹499–₹1,499) | Accidental Damage Protection: Velvera Care+ (₹999–₹2,999)\n- Product Category: Accessories | Standard Warranty: 12 Months | Extended Warranty Options: 2 Years (₹399–₹899) | Accidental Damage Protection: Not Available\nAll products registered via the Velvera App within 30 days of purchase get an extra 3 months warranty.",
+    "path": "Warranty & Service > Warranty Coverage",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Warranty Coverage"
+      },
+      {
+        "line": 17,
+        "heading": "Warranty Coverage"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_3",
+    "text": "What’s Covered:\n- Hardware defects not caused by physical or liquid damage\n- Manufacturing faults\n- Software-related issues under standard usage conditions",
+    "path": "Warranty & Service > Warranty Coverage",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 19,
+        "heading": "Warranty Coverage"
+      },
+      {
+        "line": 20,
+        "heading": "Warranty Coverage"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_4",
+    "text": "Velvera Care+ includes:\n- Free screen replacement\n- Liquid damage protection\n- Priority service\n- Two claims per coverage year",
+    "path": "Warranty & Service > Warranty Coverage",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 24,
+        "heading": "Warranty Coverage"
+      },
+      {
+        "line": 25,
+        "heading": "Warranty Coverage"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_5",
+    "text": "Velvera ensures nationwide accessibility and rapid repairs, backed by professional diagnostics and genuine parts.",
+    "path": "Warranty & Service > Service Network",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "Service Network"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_6",
+    "text": "- 400+ service centers across 29 states and union territories\n- ISO-certified facilities with trained Velvera technicians\n- Average walk-in service wait time: <30 minutes",
+    "path": "Warranty & Service > Service Network > Authorized Service Centers",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "Authorized Service Centers"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_7",
+    "text": "- Available in 200+ cities\n- Includes:\n  - Pick & drop repair\n  - On-site minor repairs (battery, port, software)\n- Book via the Velvera Care App (https://velvera.com/care-app)",
+    "path": "Warranty & Service > Service Network > Doorstep Service",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "Doorstep Service"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_8",
+    "text": "- Same-Day Repairs for eligible issues such as:\n  - Display replacement\n  - Battery swap\n  - Software recovery\n- Applicable for One, Edge, and Nexus series\n- Service window: 10 AM–6 PM, Mon–Sat",
+    "path": "Warranty & Service > Service Network > Express Repair Program",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 52,
+        "heading": "Express Repair Program"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_9",
+    "text": "- 24x7 Support Channels:\n  - Live Chat via app and website\n  - Call: 1800-123-8358\n  - Video Assistance (9 AM – 9 PM)\n- AI Diagnostics:\n  - Run via Velvera app\n  - Detects battery health, sensor malfunctions, memory bottlenecks\n  - One-tap log sharing with service team",
+    "path": "Warranty & Service > Service Network > Remote & AI Support",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 61,
+        "heading": "Remote & AI Support"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_10",
+    "text": "1. Register Complaint: Via app, website, or customer care\n2. Schedule Appointment: Choose in-store or doorstep service\n3. Real-Time Updates: Track repair via SMS, app, or email\n4. Post-Service Summary: Repair report + care status updated in account",
+    "path": "Warranty & Service > Claim Process",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 74,
+        "heading": "Claim Process"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_11",
+    "text": "- Dedicated enterprise servicing portal\n- Centralized device tracking and SLA-bound servicing\n- Fleet maintenance discounts available",
+    "path": "Warranty & Service > For Businesses",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 83,
+        "heading": "For Businesses"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_12",
+    "text": "For enterprise queries: b2bcare@velvera.com",
+    "path": "Warranty & Service > For Businesses",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 87,
+        "heading": "For Businesses"
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_13",
+    "text": "For full warranty terms, exclusions, and support policies, visit the official documentation at:\nvelvera.com/warranty (https://velvera.com/warranty)\nvelvera.com/velvera-care (https://velvera.com/velvera-care)",
+    "path": "Warranty & Service",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 91
+      }
+    ]
+  },
+  {
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_14",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Warranty & Service",
+    "doc_key": [
+      "warranty_and_service"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 97
+      },
+      {
+        "line": 99
+      }
+    ]
+  }
+]

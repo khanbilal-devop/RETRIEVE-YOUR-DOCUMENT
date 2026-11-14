@@ -20,7 +20,7 @@ change the code and the tests.
 | **Section** | A heading and everything under it. A section holds blocks and sub-sections. |
 | **Untitled section** | A section with no title. It is made when a `---` divider is followed by content. |
 | **Chunk** | The unit we search. It is one block, or a few blocks merged by the rules below. |
-| **Path** | The titles of the sections a chunk sits under, from the outside in. |
+| **Path** | The titles of the sections a chunk sits under, from the outside in, written on one line with ` > ` between them. |
 | **Location** | Where a block came from: its line, plus the heading right above it. |
 
 How examples are written below: `[paragraph]`, `[list]` and so on show a block and its type.
@@ -69,9 +69,15 @@ Aventro Motors Pvt. Ltd.            (no blocks)
 
 ### Rule 3: every chunk has a path
 
-The path is the ordered list of the titles of the sections above the chunk, from the outermost to
-the closest. An untitled section adds nothing to the path. The path is kept as its own field. Later
-it is also placed at the top of the text that gets embedded, so it helps search.
+The path is the titles of the sections above the chunk, from the outermost to the closest. It is
+written on **one line, with ` > ` between the titles**, like a breadcrumb. The first title is the
+main heading, and every title after a ` > ` is a sub-heading of the one before it. An untitled
+section adds nothing to the path. A chunk that sits above the first heading has an empty path.
+
+We use ` > ` and not a dot, because many titles contain dots (627 of our 2,362 section titles do,
+for example `1. Academic Buildings` and `Pvt. Ltd.`). No title contains `>`, so the path can always
+be split back into its titles. The path is kept as its own field. Later it is also placed at the top
+of the text that gets embedded, so it helps search.
 
 ```
 Velvera Audio Series — Usage Guide
@@ -345,7 +351,7 @@ ceiling or split big tables by row.
 |---|---|
 | `id` | A unique name: `<doc_id>_<number>`. The number counts the chunks of the document from 1, in reading order. |
 | `text` | The chunk text, written by the rules in section 5. |
-| `path` | The list of section titles (rule 3). For a merged chunk, the path of its **first** block. |
+| `path` | The section titles on one line, joined with ` > ` (rule 3). For a merged chunk, the path of its **first** block. |
 | `doc_key` | The document name, as in the registry. |
 | `company` | The company the document belongs to. |
 | `format` | The format of the source file (`md` for now). |

@@ -13,3 +13,6 @@ paths:
   # Where layer 2 (parsing) writes one JSON file per parsed document.
   # If this key is renamed, also change PARSED_DIR in config/src/constants.py.
   parsed_dir: data/parsed
+  # Where layer 3 (chunking) writes one JSON file of chunks per document.
+  # If this key is renamed, also change CHUNKS_DIR in config/src/constants.py.
+  chunks_dir: data/chunks
