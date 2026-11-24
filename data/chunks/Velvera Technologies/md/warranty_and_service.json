@@ -173,7 +173,7 @@
   },
   {
     "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_11",
-    "text": "- Dedicated enterprise servicing portal\n- Centralized device tracking and SLA-bound servicing\n- Fleet maintenance discounts available",
+    "text": "- Dedicated enterprise servicing portal\n- Centralized device tracking and SLA-bound servicing\n- Fleet maintenance discounts available\nFor enterprise queries: b2bcare@velvera.com",
     "path": "Warranty & Service > For Businesses",
     "doc_key": [
       "warranty_and_service"
@@ -184,19 +184,7 @@
       {
         "line": 83,
         "heading": "For Businesses"
-      }
-    ]
-  },
-  {
-    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_12",
-    "text": "For enterprise queries: b2bcare@velvera.com",
-    "path": "Warranty & Service > For Businesses",
-    "doc_key": [
-      "warranty_and_service"
-    ],
-    "company": "Velvera Technologies",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 87,
         "heading": "For Businesses"
@@ -204,7 +192,7 @@
     ]
   },
   {
-    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_13",
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_12",
     "text": "For full warranty terms, exclusions, and support policies, visit the official documentation at:\nvelvera.com/warranty (https://velvera.com/warranty)\nvelvera.com/velvera-care (https://velvera.com/velvera-care)",
     "path": "Warranty & Service",
     "doc_key": [
@@ -219,7 +207,7 @@
     ]
   },
   {
-    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_14",
+    "id": "0e2d63faae0a6e0cbfc818fdbc473e0a6bce5514e2226cfeee6f1b8533fa2ca4_13",
     "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
     "path": "Warranty & Service",
     "doc_key": [

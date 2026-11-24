@@ -5,10 +5,11 @@ if a rule changes, change the document first, then this file.
 
 Every block starts as its own chunk. Then three merge steps run, in this order:
 
-1. Colon rule: a paragraph ending with ":" takes the block below it.
+1. Colon rule: a paragraph or quote ending with ":" takes the block below it.
 2. Note rule: a quote, or a paragraph that starts with Note, Disclaimer or Important,
    joins the block above it.
-3. Small rule: a chunk under SMALL_CHUNK_WORDS words takes the block below it.
+3. Small rule: a chunk under SMALL_CHUNK_WORDS words takes the block below it. If it is
+   the last chunk of its section, it joins the block above it instead.
 
 A chunk is saved as a dict:
 ``{"id", "text", "path", "doc_key", "company", "format", "locations"}``
@@ -44,16 +45,18 @@ def _words(block: dict) -> int:
 
 
 def _is_colon(block: dict) -> bool:
-    """A paragraph that ends with a colon introduces what comes next."""
-    return block["type"] == "paragraph" and block["text"].rstrip().endswith(":")
+    """A paragraph or quote that ends with a colon introduces what comes next."""
+    return block["type"] in ("paragraph", "quote") and block["text"].rstrip().endswith(":")
 
 
 def _is_note(block: dict) -> bool:
     """A quote, or a full-sentence paragraph that starts with Note, Disclaimer or Important."""
+    # Anything ending with a colon is a label, and the colon rule handles it.
+    if _is_colon(block):
+        return False
     if block["type"] == "quote":
         return True
-    # A paragraph ending with a colon is a label, and the colon rule handles it.
-    return block["type"] == "paragraph" and bool(_NOTE.match(block["text"])) and not _is_colon(block)
+    return block["type"] == "paragraph" and bool(_NOTE.match(block["text"]))
 
 
 # ---- step 0: list every block in reading order ------------------------------
@@ -120,21 +123,30 @@ def _merge_notes(chunks: list[list[dict]]) -> list[list[dict]]:
     return merged
 
 
+def _is_small(chunk: list[dict]) -> bool:
+    """True if the chunk has fewer than SMALL_CHUNK_WORDS words."""
+    return sum(_words(entry["block"]) for entry in chunk) < SMALL_CHUNK_WORDS
+
+
 def _merge_small(chunks: list[list[dict]]) -> list[list[dict]]:
-    """Step 3: a small chunk takes the next chunk in its section, until it is big enough."""
+    """Step 3: a small chunk takes the next chunk in its section, until it is big enough.
+
+    If nothing is below it in its section, it joins the chunk above it in the same section.
+    A small chunk that is alone in its section stays alone.
+    """
     merged = []
     index = 0
     while index < len(chunks):
         current = chunks[index]
         index += 1
-        while (
-            sum(_words(entry["block"]) for entry in current) < SMALL_CHUNK_WORDS
-            and index < len(chunks)
-            and chunks[index][0]["section"] == current[-1]["section"]
-        ):
+        while _is_small(current) and index < len(chunks) and chunks[index][0]["section"] == current[-1]["section"]:
             current = current + chunks[index]
             index += 1
-        merged.append(current)
+        # Still small, and it is the last chunk of its section: join the chunk above.
+        if _is_small(current) and merged and merged[-1][-1]["section"] == current[0]["section"]:
+            merged[-1] = merged[-1] + current
+        else:
+            merged.append(current)
     return merged
 
 

@@ -309,7 +309,7 @@
   },
   {
     "id": "187c745ba4e33ad3594d9056b10103dab03661b8acaebff79b70641d569d4d75_19",
-    "text": "For the full manual and advanced usage tips, visit www.velvera.com/manuals.",
+    "text": "For the full manual and advanced usage tips, visit www.velvera.com/manuals.\nVelvera — Technology, Refined. Life, Elevated.",
     "path": "Velvera Watch Series — Usage Guide",
     "doc_key": [
       "watch_usage_guide"
@@ -319,19 +319,7 @@
     "locations": [
       {
         "line": 148
-      }
-    ]
-  },
-  {
-    "id": "187c745ba4e33ad3594d9056b10103dab03661b8acaebff79b70641d569d4d75_20",
-    "text": "Velvera — Technology, Refined. Life, Elevated.",
-    "path": "Velvera Watch Series — Usage Guide",
-    "doc_key": [
-      "watch_usage_guide"
-    ],
-    "company": "Velvera Technologies",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 150
       }

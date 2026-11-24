@@ -145,7 +145,7 @@
   },
   {
     "id": "ba5d17bf76736a7c2787bc5e99abd065251f2d3191b7e3e0605aa3ce19d857ad_10",
-    "text": "For additional queries or assistance, visit CloudWay24.com (https://cloudway24.com) or contact our customer support.",
+    "text": "For additional queries or assistance, visit CloudWay24.com (https://cloudway24.com) or contact our customer support.\nSafe travels with CloudWay 24: Seamless Skies, Global Reach.",
     "path": "Boarding Process with CloudWay 24",
     "doc_key": [
       "boarding process"
@@ -155,19 +155,7 @@
     "locations": [
       {
         "line": 84
-      }
-    ]
-  },
-  {
-    "id": "ba5d17bf76736a7c2787bc5e99abd065251f2d3191b7e3e0605aa3ce19d857ad_11",
-    "text": "Safe travels with CloudWay 24: Seamless Skies, Global Reach.",
-    "path": "Boarding Process with CloudWay 24",
-    "doc_key": [
-      "boarding process"
-    ],
-    "company": "CloudWay-24",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 86
       }

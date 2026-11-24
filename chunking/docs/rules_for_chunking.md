@@ -31,9 +31,10 @@ Examples are simplified from real documents unless they say otherwise.
 ## 2. The steps, in order
 
 1. **Start:** every block is its own chunk.
-2. **Colon rule:** a line ending with a colon joins the block below it.
+2. **Colon rule:** a paragraph or quote ending with a colon joins the block below it.
 3. **Note and quote rule:** a note or quote joins the block above it.
-4. **Small rule:** a chunk that is still very small joins the block below it.
+4. **Small rule:** a chunk that is still very small joins the block below it. If nothing is below
+   it in its section, it joins the block above it.
 5. **Write the text** of each chunk (lists and tables are turned into text).
 6. **Fill in the fields** of each chunk (path, locations, id and so on).
 
@@ -98,8 +99,8 @@ below it. A chunk that has already merged can take part in the next step as one 
 
 ### Rule 4: colon rule (join the block below)
 
-A paragraph that **ends with a colon** introduces what comes next, so it joins the block **below**
-it in the same section.
+A paragraph or a quote that **ends with a colon** introduces what comes next, so it joins the block
+**below** it in the same section.
 
 - It applies at **any length**, from a one-word label to a long sentence.
 - If nothing is below it in its section, it **stays alone**. It is not merged into its sub-sections
@@ -140,8 +141,9 @@ A **note** adds to what came before, so it joins the block **above** it.
 
 A note is either:
 - a **quote block**, or
-- a **paragraph that starts with `Note`, `Disclaimer` or `Important`** and is a full sentence. (A
-  paragraph that ends with a colon is a label. The colon rule handles it.)
+- a **paragraph that starts with `Note`, `Disclaimer` or `Important`** and is a full sentence.
+
+A paragraph or quote that ends with a colon is a label, not a note. The colon rule handles it.
 
 **5a. Same section.** A note or quote joins the block above it in the same section.
 
@@ -190,26 +192,35 @@ a row stays alone.
 [quote] Second note       → stays alone (the list chunk already took one)
 ```
 
-### Rule 6: small rule (join the block below)
+### Rule 6: small rule (join the block below, or the block above if it is last)
 
 A chunk with **fewer than 10 words** joins the block **below** it in the same section. If it is
 still under 10 words, it keeps joining the next block until it reaches 10 words or nothing is left
 below.
 
+If **nothing is below it in its section** (it is the last chunk of the section), it joins the block
+**above** it in the same section instead. The merged chunk keeps the path of the block above.
+
 - Words are counted on the **content** of the blocks (the list items, table cells and paragraph
   text), not on the dashes and labels we add when writing the text.
-- If nothing is below it in its section, it **stays alone**.
+- If it is the **only chunk in its section**, there is nothing above or below, so it **stays alone**.
+- There is no size limit on the merge. A small block joins the block above even if that block is big.
 - The number **10 is a starting value**. We tune it by testing retrieval (see section 9).
 
 ```
 Section: Pricing
   [paragraph] Starts at 20 lakh.                 (4 words)
   [list]      Petrol | Diesel | Electric | Hybrid ... (20 words)
-→ 1 chunk: the 4-word line joined the list.
+→ 1 chunk: the 4-word line joined the list (below).
+
+Section: ENGL 101
+  [paragraph] Credits: 3 / Description: Foundational exploration of major genres ... (30 words)
+  [paragraph] Prerequisites: None                (3 words, last in its section)
+→ 1 chunk: the last line joined the paragraph above it.
 
 Section: Closing
-  [paragraph] Drive safe with Aventro!           (4 words)
-→ nothing below it in its section, so it stays alone.
+  [paragraph] Drive safe with Aventro!           (4 words, the only block in its section)
+→ nothing above or below it in its section, so it stays alone.
 ```
 
 ---
@@ -388,7 +399,7 @@ These can be changed and tested against the benchmark questions. Change one at a
 | Note and quote | Words that mark a note | Note, Disclaimer, Important | add Tip, Warning, Caution |
 | Note and quote | Merge a quote across a `---` | on | off, or only for notes |
 | Small | Word cutoff | 10 | 5, 15, 20, 40 |
-| Small | Direction | down | up |
+| Small | Direction | down, then up if last in its section | always up |
 | Small | Merge with neighbouring sections | off | on |
 | Text | Table style | labels in every row | header once, plain rows |
 | Size | Token ceiling per chunk | 1,500 tokens | 1,024 or 2,048, or splitting big tables by row |

@@ -49,7 +49,7 @@
   },
   {
     "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_4",
-    "text": "- Series: One Series | Major OS Updates: 4 Years | Security Patches: 5 Years | End of Official Support: December 2030\n- Series: Edge Series | Major OS Updates: 3 Years | Security Patches: 4 Years | End of Official Support: October 2029\n- Series: Nexus Series | Major OS Updates: 4 Years | Security Patches: 5 Years | End of Official Support: December 2030\n- Series: Core Series | Major OS Updates: 2 Years | Security Patches: 3 Years | End of Official Support: August 2028\n- Series: Start Series | Major OS Updates: 1 Year | Security Patches: 2 Years | End of Official Support: March 2027\nUpdate Frequency:",
+    "text": "- Series: One Series | Major OS Updates: 4 Years | Security Patches: 5 Years | End of Official Support: December 2030\n- Series: Edge Series | Major OS Updates: 3 Years | Security Patches: 4 Years | End of Official Support: October 2029\n- Series: Nexus Series | Major OS Updates: 4 Years | Security Patches: 5 Years | End of Official Support: December 2030\n- Series: Core Series | Major OS Updates: 2 Years | Security Patches: 3 Years | End of Official Support: August 2028\n- Series: Start Series | Major OS Updates: 1 Year | Security Patches: 2 Years | End of Official Support: March 2027",
     "path": "Software & Updates > Update Timeline",
     "doc_key": [
       "software_upgrade_policy"
@@ -60,16 +60,12 @@
       {
         "line": 26,
         "heading": "Update Timeline"
-      },
-      {
-        "line": 34,
-        "heading": "Update Timeline"
       }
     ]
   },
   {
     "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_5",
-    "text": "- OS Upgrades: Annually in Q2 (e.g., VelveraOS 7 in Q2 2026)\n- Security Patches: Monthly (1st Monday of each month)\n- Bug Fixes & App Updates: Rolled out bi-weekly via Velvera System Updater",
+    "text": "Update Frequency:\n- OS Upgrades: Annually in Q2 (e.g., VelveraOS 7 in Q2 2026)\n- Security Patches: Monthly (1st Monday of each month)\n- Bug Fixes & App Updates: Rolled out bi-weekly via Velvera System Updater",
     "path": "Software & Updates > Update Timeline",
     "doc_key": [
       "software_upgrade_policy"
@@ -77,6 +73,10 @@
     "company": "Velvera Technologies",
     "format": "md",
     "locations": [
+      {
+        "line": 34,
+        "heading": "Update Timeline"
+      },
       {
         "line": 35,
         "heading": "Update Timeline"

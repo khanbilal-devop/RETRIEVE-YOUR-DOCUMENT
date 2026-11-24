@@ -49,7 +49,7 @@
   },
   {
     "id": "b070d0ce51204c6900553b8c538ccc8fbdca8e5714f189fa4aa30695b1b52fe4_4",
-    "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com",
+    "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com\nFind authorized service centers across India. (#)",
     "path": "Aventro Motors Pvt. Ltd. > Parts - Details & Prices > Contact & Support",
     "doc_key": [
       "parts-3"
@@ -60,19 +60,7 @@
       {
         "line": 32,
         "heading": "Contact & Support"
-      }
-    ]
-  },
-  {
-    "id": "b070d0ce51204c6900553b8c538ccc8fbdca8e5714f189fa4aa30695b1b52fe4_5",
-    "text": "Find authorized service centers across India. (#)",
-    "path": "Aventro Motors Pvt. Ltd. > Parts - Details & Prices > Contact & Support",
-    "doc_key": [
-      "parts-3"
-    ],
-    "company": "Aventro Motors",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 37,
         "heading": "Contact & Support"

@@ -153,7 +153,7 @@
   },
   {
     "id": "ee9ff37cabc8b5d8034f647d5d504731d793ea3be78fccb23939710f910c5ffe_10",
-    "text": "Your comfort and dignity are our top priorities. Please reach out so we can make your journey as smooth as possible.",
+    "text": "Your comfort and dignity are our top priorities. Please reach out so we can make your journey as smooth as possible.\nCloudWay 24 – Seamless Skies, Global Reach.",
     "path": "Special Assistance at CloudWay 24",
     "doc_key": [
       "special assistance"
@@ -163,19 +163,7 @@
     "locations": [
       {
         "line": 63
-      }
-    ]
-  },
-  {
-    "id": "ee9ff37cabc8b5d8034f647d5d504731d793ea3be78fccb23939710f910c5ffe_11",
-    "text": "CloudWay 24 – Seamless Skies, Global Reach.",
-    "path": "Special Assistance at CloudWay 24",
-    "doc_key": [
-      "special assistance"
-    ],
-    "company": "CloudWay-24",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 65
       }

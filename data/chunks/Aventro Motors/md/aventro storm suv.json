@@ -33,7 +33,7 @@
   },
   {
     "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_3",
-    "text": "- Specification: Engine Options | Details: Petrol, Diesel, Hybrid, Electric\n- Specification: Max Power | Details: 130–210 HP (depending on variant)\n- Specification: Drive Type | Details: 2WD / 4WD options\n- Specification: Safety | Details: 6 Airbags, ABS, ESP, HSA, ADAS*\n- Specification: Infotainment | Details: Up to 11-inch Touchscreen\n- Specification: Comfort | Details: Leather Seats (ZX), Rear AC, Auto Climate\n- Specification: Connectivity | Details: Android Auto, Apple CarPlay, Navigation\n- Specification: Wheels | Details: 17”–18” Alloy Wheels\n- Specification: Others | Details: Panoramic Sunroof (X & ZX), Keyless Entry, Push Button Start",
+    "text": "- Specification: Engine Options | Details: Petrol, Diesel, Hybrid, Electric\n- Specification: Max Power | Details: 130–210 HP (depending on variant)\n- Specification: Drive Type | Details: 2WD / 4WD options\n- Specification: Safety | Details: 6 Airbags, ABS, ESP, HSA, ADAS*\n- Specification: Infotainment | Details: Up to 11-inch Touchscreen\n- Specification: Comfort | Details: Leather Seats (ZX), Rear AC, Auto Climate\n- Specification: Connectivity | Details: Android Auto, Apple CarPlay, Navigation\n- Specification: Wheels | Details: 17”–18” Alloy Wheels\n- Specification: Others | Details: Panoramic Sunroof (X & ZX), Keyless Entry, Push Button Start\n*ADAS: Advanced Driver Assistance Systems; Features vary by variant",
     "path": "Aventro Motors Pvt. Ltd. > Model Focus: Aventro Storm SUV > Key Specifications",
     "doc_key": [
       "aventro storm suv"
@@ -44,19 +44,7 @@
       {
         "line": 20,
         "heading": "Key Specifications"
-      }
-    ]
-  },
-  {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_4",
-    "text": "*ADAS: Advanced Driver Assistance Systems; Features vary by variant",
-    "path": "Aventro Motors Pvt. Ltd. > Model Focus: Aventro Storm SUV > Key Specifications",
-    "doc_key": [
-      "aventro storm suv"
-    ],
-    "company": "Aventro Motors",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 33,
         "heading": "Key Specifications"
@@ -64,7 +52,7 @@
     ]
   },
   {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_5",
+    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_4",
     "text": "- Variant: Base | Engine Type: Petrol | Key Features: 7-inch Infotainment, Standard Safety, Fabric Seats | Ex-Showroom Price (₹ Lakh): 14.8\n- Variant: X | Engine Type: Petrol | Key Features: 11-inch Infotainment, Panoramic Sunroof, ADAS Level 1 | Ex-Showroom Price (₹ Lakh): 15.3\n- Variant: ZX | Engine Type: Petrol | Key Features: 360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats | Ex-Showroom Price (₹ Lakh): 15.8\n- Variant: Base | Engine Type: Diesel | Key Features: 7-inch Infotainment, Standard Safety, Fabric Seats | Ex-Showroom Price (₹ Lakh): 20.3\n- Variant: X | Engine Type: Diesel | Key Features: 11-inch Infotainment, Panoramic Sunroof, ADAS Level 1 | Ex-Showroom Price (₹ Lakh): 20.8\n- Variant: ZX | Engine Type: Diesel | Key Features: 360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats | Ex-Showroom Price (₹ Lakh): 21.3\n- Variant: Base | Engine Type: Electric | Key Features: 7-inch Infotainment, Standard Safety, Fabric Seats | Ex-Showroom Price (₹ Lakh): 21.8\n- Variant: X | Engine Type: Electric | Key Features: 11-inch Infotainment, Panoramic Sunroof, ADAS Level 1 | Ex-Showroom Price (₹ Lakh): 22.3\n- Variant: ZX | Engine Type: Electric | Key Features: 360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats | Ex-Showroom Price (₹ Lakh): 22.8\n- Variant: Base | Engine Type: Hybrid | Key Features: 7-inch Infotainment, Standard Safety, Fabric Seats | Ex-Showroom Price (₹ Lakh): 18.3\n- Variant: X | Engine Type: Hybrid | Key Features: 11-inch Infotainment, Panoramic Sunroof, ADAS Level 1 | Ex-Showroom Price (₹ Lakh): 18.8\n- Variant: ZX | Engine Type: Hybrid | Key Features: 360º Camera, 11-inch Harman Infotainment, ADAS Level 2, Leather Seats | Ex-Showroom Price (₹ Lakh): 19.3",
     "path": "Aventro Motors Pvt. Ltd. > Storm Variants & Pricing",
     "doc_key": [
@@ -80,7 +68,7 @@
     ]
   },
   {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_6",
+    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_5",
     "text": "- 11-inch Touchscreen Infotainment System\n- ADAS Level 1: Lane Keep Assist, Forward Collision Warning, Auto Emergency Braking\n- Panoramic Sunroof",
     "path": "Aventro Motors Pvt. Ltd. > Storm Variants & Pricing > Highlighted Features by Variant > X Variant Exclusive:",
     "doc_key": [
@@ -96,7 +84,7 @@
     ]
   },
   {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_7",
+    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_6",
     "text": "- 11-inch Touchscreen Infotainment System (Harman Audio)\n- 360º Surround View Camera\n- ADAS Level 2: Adaptive Cruise, Lane Centering, Traffic Sign Recognition\n- Leather Seats & Premium Interior\n- Powered Driver Seat",
     "path": "Aventro Motors Pvt. Ltd. > Storm Variants & Pricing > Highlighted Features by Variant > ZX Variant Exclusive:",
     "doc_key": [
@@ -112,7 +100,7 @@
     ]
   },
   {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_8",
+    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_7",
     "text": "- 6 Airbags Standard\n- ABS, Electronic Stability Program (ESP)\n- Rear Parking Sensors & Camera (All Variants)\n- ISOFIX Child Seat Mounts\n- Tyre Pressure Monitoring System (X & ZX)",
     "path": "Aventro Motors Pvt. Ltd. > Storm Variants & Pricing > Safety & Tech Packages",
     "doc_key": [
@@ -128,7 +116,7 @@
     ]
   },
   {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_9",
+    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_8",
     "text": "- Arctic White\n- Midnight Black\n- Lava Red\n- Forest Green\n- Royal Blue",
     "path": "Aventro Motors Pvt. Ltd. > Storm Variants & Pricing > Colors Available",
     "doc_key": [
@@ -144,7 +132,7 @@
     ]
   },
   {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_10",
+    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_9",
     "text": "Book a test drive today at your nearest Aventro dealership or service center!\nFor bookings and more information:\n📞 +91 124 1234567\n✉️ info@aventromotors.com",
     "path": "Aventro Motors Pvt. Ltd. > Storm Variants & Pricing > Contact & Test Drive",
     "doc_key": [
@@ -160,7 +148,7 @@
     ]
   },
   {
-    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_11",
+    "id": "7b9907fe7a19283e4478e95c649921c36c812bee218696be241eaf126cf24e59_10",
     "text": "⬅ Back to All Models Overview (#)",
     "path": "Aventro Motors Pvt. Ltd. > Storm Variants & Pricing",
     "doc_key": [

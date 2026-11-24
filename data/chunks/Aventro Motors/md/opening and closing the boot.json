@@ -132,7 +132,7 @@
   },
   {
     "id": "c2804f265ab0ee355b6a6f9f7c053bfd7b8758603f48443a861d3a056a1213e1_9",
-    "text": "If you experience any issues with your boot mechanism, please visit the nearest Aventro Service Center (#service-center-locations) or contact Aventro Motors Pvt. Ltd.",
+    "text": "If you experience any issues with your boot mechanism, please visit the nearest Aventro Service Center (#service-center-locations) or contact Aventro Motors Pvt. Ltd.\n- Email: info@aventromotors.com (mailto:info@aventromotors.com)\n- Phone: +91 124 1234567",
     "path": "Opening and Closing the Boot > Need Help?",
     "doc_key": [
       "opening and closing the boot"
@@ -143,19 +143,7 @@
       {
         "line": 51,
         "heading": "Need Help?"
-      }
-    ]
-  },
-  {
-    "id": "c2804f265ab0ee355b6a6f9f7c053bfd7b8758603f48443a861d3a056a1213e1_10",
-    "text": "- Email: info@aventromotors.com (mailto:info@aventromotors.com)\n- Phone: +91 124 1234567",
-    "path": "Opening and Closing the Boot > Need Help?",
-    "doc_key": [
-      "opening and closing the boot"
-    ],
-    "company": "Aventro Motors",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 53,
         "heading": "Need Help?"

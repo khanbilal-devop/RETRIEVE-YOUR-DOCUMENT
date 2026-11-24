@@ -517,7 +517,7 @@
   },
   {
     "id": "93b0e852c490e5c24d058b837d22de1c4d54dc04c180458e49daf4441900e3eb_27",
-    "text": "- Register your product in the Velvera Audio app for warranty and software updates.\n- Avoid exposing devices to extreme heat, humidity, or direct sunlight.\n- For troubleshooting or support, visit www.velvera.com/support or call 1800-123-VELVERA.",
+    "text": "- Register your product in the Velvera Audio app for warranty and software updates.\n- Avoid exposing devices to extreme heat, humidity, or direct sunlight.\n- For troubleshooting or support, visit www.velvera.com/support or call 1800-123-VELVERA.\nEnjoy elevated listening—Velvera, where technology meets refinement.",
     "path": "Velvera Audio Series — Usage Guide > All Models: General Care & Support",
     "doc_key": [
       "audio_usage_guide"
@@ -528,19 +528,7 @@
       {
         "line": 141,
         "heading": "All Models: General Care & Support"
-      }
-    ]
-  },
-  {
-    "id": "93b0e852c490e5c24d058b837d22de1c4d54dc04c180458e49daf4441900e3eb_28",
-    "text": "Enjoy elevated listening—Velvera, where technology meets refinement.",
-    "path": "Velvera Audio Series — Usage Guide > All Models: General Care & Support",
-    "doc_key": [
-      "audio_usage_guide"
-    ],
-    "company": "Velvera Technologies",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 145,
         "heading": "All Models: General Care & Support"

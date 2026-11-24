@@ -97,7 +97,7 @@
   },
   {
     "id": "8d4635818eb85dc30c352fc7b8bfc0328e23a96c23965c609b5593917a92b280_7",
-    "text": "Seamless Skies, Global Reach.\nDiscover the world with respect—and savings.",
+    "text": "Seamless Skies, Global Reach.\nDiscover the world with respect—and savings.\n🌐 CloudWay24.com (https://CloudWay24.com)",
     "path": "CloudWay 24 | Armed Forces Discount Program",
     "doc_key": [
       "armed forces discount program"
@@ -107,19 +107,7 @@
     "locations": [
       {
         "line": 52
-      }
-    ]
-  },
-  {
-    "id": "8d4635818eb85dc30c352fc7b8bfc0328e23a96c23965c609b5593917a92b280_8",
-    "text": "🌐 CloudWay24.com (https://CloudWay24.com)",
-    "path": "CloudWay 24 | Armed Forces Discount Program",
-    "doc_key": [
-      "armed forces discount program"
-    ],
-    "company": "CloudWay-24",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 55
       }

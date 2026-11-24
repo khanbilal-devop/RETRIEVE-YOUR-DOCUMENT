@@ -193,7 +193,7 @@
   },
   {
     "id": "0e13739019e628ad0e86472b02d950a359011a472e20788bd64a582deaf6875f_13",
-    "text": "All car models at Aventro Motors are available in the following colours:",
+    "text": "All car models at Aventro Motors are available in the following colours:\n- Arctic White\n- Sterling Silver\n- Midnight Black\n- Azure Blue\n- Fiery Red\n- Sunburst Orange\n- Forest Green\n(Note: Availability of specific colours may vary by model and variant; please check with your nearest Avent",
     "path": "Aventro Motors Pvt. Ltd. > Colours Available for All Models",
     "doc_key": [
       "aventro motors variants & pricing"
@@ -204,19 +204,7 @@
       {
         "line": 202,
         "heading": "Colours Available for All Models"
-      }
-    ]
-  },
-  {
-    "id": "0e13739019e628ad0e86472b02d950a359011a472e20788bd64a582deaf6875f_14",
-    "text": "- Arctic White\n- Sterling Silver\n- Midnight Black\n- Azure Blue\n- Fiery Red\n- Sunburst Orange\n- Forest Green\n(Note: Availability of specific colours may vary by model and variant; please check with your nearest Avent",
-    "path": "Aventro Motors Pvt. Ltd. > Colours Available for All Models",
-    "doc_key": [
-      "aventro motors variants & pricing"
-    ],
-    "company": "Aventro Motors",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 203,
         "heading": "Colours Available for All Models"

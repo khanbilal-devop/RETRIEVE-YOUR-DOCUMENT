@@ -325,7 +325,7 @@
   },
   {
     "id": "a3ba805dc27ceff2214383b70b1c0a959d547dbddef8e112a8af44cabeda5274_21",
-    "text": "- Office: Entrance Exams Office | Email: exams@cendara.edu | Phone: 555-402-1177 | Location: Beckett Hall, Room 112\n- Office: Office of Admissions | Email: admissions@cendara.edu | Phone: 555-402-1021 | Location: Beckett Hall, Room 101\n- Office: Accessibility Services | Email: accessibility@cendara.edu | Phone: 555-402-1223 | Location: Pearson Bldg, Room 9",
+    "text": "- Office: Entrance Exams Office | Email: exams@cendara.edu | Phone: 555-402-1177 | Location: Beckett Hall, Room 112\n- Office: Office of Admissions | Email: admissions@cendara.edu | Phone: 555-402-1021 | Location: Beckett Hall, Room 101\n- Office: Accessibility Services | Email: accessibility@cendara.edu | Phone: 555-402-1223 | Location: Pearson Bldg, Room 9\nFor additional details, visit the Entrance Exams Portal (https://cendara.edu/entrance-exams).",
     "path": "Cendara University Entrance Exam Information > Key Contacts for Exam Inquiries",
     "doc_key": [
       "entrance_exxam_guidelines"
@@ -336,19 +336,7 @@
       {
         "line": 159,
         "heading": "Key Contacts for Exam Inquiries"
-      }
-    ]
-  },
-  {
-    "id": "a3ba805dc27ceff2214383b70b1c0a959d547dbddef8e112a8af44cabeda5274_22",
-    "text": "For additional details, visit the Entrance Exams Portal (https://cendara.edu/entrance-exams).",
-    "path": "Cendara University Entrance Exam Information > Key Contacts for Exam Inquiries",
-    "doc_key": [
-      "entrance_exxam_guidelines"
-    ],
-    "company": "Cendara University",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 165,
         "heading": "Key Contacts for Exam Inquiries"

@@ -181,7 +181,7 @@
   },
   {
     "id": "686d6e8ddf0603e7d0d43c240665041bd7518b96c2df005da1601473c4bac161_12",
-    "text": "For more assistance, contact the nearest ZX Bank branch or call customer care via the ZX Bank Asia app.",
+    "text": "For more assistance, contact the nearest ZX Bank branch or call customer care via the ZX Bank Asia app.\n🔗 Visit ZX Bank Website (https://www.zxbank.asia)",
     "path": "How to Convert Your ZX Bank Savings Account to a Salary Account > Frequently Asked Questions",
     "doc_key": [
       "savings account to a salary account"
@@ -191,19 +191,7 @@
     "locations": [
       {
         "line": 71
-      }
-    ]
-  },
-  {
-    "id": "686d6e8ddf0603e7d0d43c240665041bd7518b96c2df005da1601473c4bac161_13",
-    "text": "🔗 Visit ZX Bank Website (https://www.zxbank.asia)",
-    "path": "How to Convert Your ZX Bank Savings Account to a Salary Account > Frequently Asked Questions",
-    "doc_key": [
-      "savings account to a salary account"
-    ],
-    "company": "ZX Bank",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 73
       }

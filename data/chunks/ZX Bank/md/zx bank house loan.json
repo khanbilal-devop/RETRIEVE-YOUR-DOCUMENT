@@ -101,7 +101,7 @@
   },
   {
     "id": "ddaba9ab820071e68a27ce052e346625a523a4c92694ec7a2049cfae18f366f1_7",
-    "text": "- Chat with “Zia”, our AI Assistant, via mobile app or net banking\n- Call 1800-123-4567 (Toll-free in India)\n- Email: loans@zxbank.asia",
+    "text": "- Chat with “Zia”, our AI Assistant, via mobile app or net banking\n- Call 1800-123-4567 (Toll-free in India)\n- Email: loans@zxbank.asia\nStart your homeownership journey with ZX Bank!",
     "path": "ZX Bank House Loan > Need Help?",
     "doc_key": [
       "zx bank house loan"
@@ -112,19 +112,7 @@
       {
         "line": 64,
         "heading": "Need Help?"
-      }
-    ]
-  },
-  {
-    "id": "ddaba9ab820071e68a27ce052e346625a523a4c92694ec7a2049cfae18f366f1_8",
-    "text": "Start your homeownership journey with ZX Bank!",
-    "path": "ZX Bank House Loan > Need Help?",
-    "doc_key": [
-      "zx bank house loan"
-    ],
-    "company": "ZX Bank",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 68,
         "heading": "Need Help?"

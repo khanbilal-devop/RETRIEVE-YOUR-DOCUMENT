@@ -177,7 +177,7 @@
   },
   {
     "id": "1e7c6791664f0318ad47416aa6462ce45bed2ac79ccff0f5ec7f6718f93a3df5_12",
-    "text": "For further details, visit velvera.com/core (https://velvera.com/core)\nVelvera — Technology, Refined. Life, Elevated.",
+    "text": "For further details, visit velvera.com/core (https://velvera.com/core)\nVelvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
     "path": "Velvera Core — Product Specifications",
     "doc_key": [
       "velvera_core"
@@ -190,19 +190,7 @@
       },
       {
         "line": 135
-      }
-    ]
-  },
-  {
-    "id": "1e7c6791664f0318ad47416aa6462ce45bed2ac79ccff0f5ec7f6718f93a3df5_13",
-    "text": "Crafted with precision. Powered by innovation. Designed for tomorrow.",
-    "path": "Velvera Core — Product Specifications",
-    "doc_key": [
-      "velvera_core"
-    ],
-    "company": "Velvera Technologies",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 137
       }

@@ -25,7 +25,7 @@
   },
   {
     "id": "8ffa1ac89c57f2e2f6550b56e2a61eb9834b1071cba5551969ba951ca6ce0569_2",
-    "text": "For 24/7 support:\n📞 Bangladesh Helpline: 16236\n✉️ Email: support.bd@zxbank.asia",
+    "text": "For 24/7 support:\n📞 Bangladesh Helpline: 16236\n✉️ Email: support.bd@zxbank.asia\nLast updated: June 2024",
     "path": "",
     "doc_key": [
       "bangladesh atm locations"
@@ -35,19 +35,7 @@
     "locations": [
       {
         "line": 31
-      }
-    ]
-  },
-  {
-    "id": "8ffa1ac89c57f2e2f6550b56e2a61eb9834b1071cba5551969ba951ca6ce0569_3",
-    "text": "Last updated: June 2024",
-    "path": "",
-    "doc_key": [
-      "bangladesh atm locations"
-    ],
-    "company": "ZX Bank",
-    "format": "md",
-    "locations": [
+      },
       {
         "line": 35
       }
