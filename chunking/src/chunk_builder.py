@@ -177,7 +177,8 @@ def _render_table(block: dict) -> str:
     """One line per row, starting with a dash: "Label: value | Label: value". Empty cells stay empty."""
     lines = []
     for row in block["rows"]:
-        pairs = [f"{label}: {value}" for label, value in zip(block["header"], row)]
+        # A line break inside a cell would split the row over two lines, so write it as " / ".
+        pairs = [f"{label}: {value.replace(chr(10), ' / ')}" for label, value in zip(block["header"], row)]
         lines.append("- " + " | ".join(pairs))
     return "\n".join(lines)
 

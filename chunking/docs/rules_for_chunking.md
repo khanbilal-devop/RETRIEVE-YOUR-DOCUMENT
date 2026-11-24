@@ -279,6 +279,8 @@ Written:
 - There is **no separate header line**: every row carries its own labels.
 - The separator is ` | ` and not `;`, because some cell values contain semicolons. No cell contains
   a `|`.
+- A **line break inside a cell** (a `<br>` in the source) is written as ` / `, so a row always stays
+  on one line.
 - An **empty cell stays empty**. The pair is written as `Label: ` with nothing after it. We never
   fill a blank from the row above, so no data is invented.
 

@@ -67,6 +67,11 @@ def _block(kind: str, token, **fields) -> dict:
     return {"type": kind, "line": line, **fields}
 
 
+# The inline HTML tags we turn into plain text: <br> (also <br/>) and <sup> / </sup>.
+_BR_TAG = re.compile(r"<br\s*/?>", re.IGNORECASE)
+_SUP_TAG = re.compile(r"</?sup\s*>", re.IGNORECASE)
+
+
 def _plain_text(token) -> str:
     """Text of an inline token without the formatting marks.
 
@@ -80,7 +85,9 @@ def _plain_text(token) -> str:
         if child.type in ("text", "code_inline"):
             parts.append(child.content)
         elif child.type in ("softbreak", "hardbreak"):
-            parts.append("\n")
+            # No second line break if a <br> just made one.
+            if not "".join(parts).endswith("\n"):
+                parts.append("\n")
         elif child.type == "link_open":
             # A link keeps its text and its address: the text comes next, then " (address)".
             address = child.attrs["href"]
@@ -89,9 +96,14 @@ def _plain_text(token) -> str:
         elif child.type == "image":
             parts.append(f"![{child.content}]({child.attrs['src']})")
         elif child.type == "html_inline":
-            parts.append(child.content)  # raw HTML stays as it is
+            if _BR_TAG.fullmatch(child.content):
+                parts.append("\n")  # <br> is a line break
+            elif not _SUP_TAG.fullmatch(child.content):
+                parts.append(child.content)  # other raw HTML stays as it is
+            # <sup> and </sup> only mark small text, so they are skipped.
         # strong_open, strong_close, em_open and em_close are only marks, so they are skipped.
-    return "".join(parts)
+    # A <br> at the very end (as in "Ltd.<br>") would leave an empty line, so cut it.
+    return "".join(parts).rstrip("\n")
 
 
 def parse_markdown(text: str) -> list[dict]:
