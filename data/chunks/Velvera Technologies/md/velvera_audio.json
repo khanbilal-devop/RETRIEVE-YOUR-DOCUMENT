@@ -1,0 +1,180 @@
+[
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_1",
+    "text": "Experience immersive audio crafted for both audiophiles and everyday users with the Velvera Audio Series. This document details the specifications and features of each product in the series.",
+    "path": "Velvera Audio Series — Product Specification Document",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Velvera Audio Series — Product Specification Document"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_2",
+    "text": "The Velvera Audio Series offers a suite of premium audio devices designed for immersive sound, cutting-edge noise cancellation, and all-day comfort. Featuring advanced wireless technologies, long battery life, and stunning sound profiles, these devices bring your favorite music, calls, and movies to life.",
+    "path": "Velvera Audio Series — Product Specification Document > Velvera Audio Series Overview",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Velvera Audio Series Overview"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_3",
+    "text": "- Model: Velvera Buds | Type: True Wireless | Features: Active Noise Cancellation (ANC), Spatial Audio | Battery Life: Up to 24 hrs (case included) | Price (INR): ₹8,999 | Price (USD): $109\n- Model: Velvera Buds Deluxe | Type: True Wireless | Features: Advanced ANC, Wireless Charging, Touch Controls | Battery Life: Up to 30 hrs (case included) | Price (INR): ₹14,999 | Price (USD): $179\n- Model: Velvera Buds Premium | Type: True Wireless | Features: Adaptive ANC, Premium Audio Drivers, IPX5 Water Resistance | Battery Life: Up to 36 hrs (case included) | Price (INR): ₹19,999 | Price (USD): $239\n- Model: Velvera Headphones Deluxe | Type: Over-ear | Features: Studio-grade ANC, Hi-Res Audio, 40mm Drivers, Foldable Design | Battery Life: Up to 40 hrs | Price (INR): ₹24,999 | Price (USD): $299\n- Model: Velvera Headphones Premium | Type: Over-ear | Features: Planar Magnetic Drivers, Audiophile Tuning, Premium Comfort | Battery Life: Up to 50 hrs | Price (INR): ₹39,999 | Price (USD): $479",
+    "path": "Velvera Audio Series — Product Specification Document > Product Models & Detailed Specifications",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 15,
+        "heading": "Product Models & Detailed Specifications"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_4",
+    "text": "- Type: True Wireless Earbuds\n- Key Features:\n  - Active Noise Cancellation (ANC)\n  - Spatial Audio for Surround-like Experience\n  - Ergonomic In-ear Design\n  - Sweat & Splash Resistant (IPX4)\n  - Bluetooth 5.2 Connectivity\n  - Touch Controls (Play/Pause, Calls, Voice Assistant)\n- Battery Life: Up to 6 hours per charge, 24 hours total with case\n- Charging: USB-C Fast Charging (15 min = 1.5 hr playback)\n- Microphones: Dual-mic for Clear Calls\n- Colors Available: Black, White\n- Ear Tips: S/M/L (Silicone)\n- Price: ₹8,999 / $109",
+    "path": "Velvera Audio Series — Product Specification Document > Product Models & Detailed Specifications > 1. Velvera Buds",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 27,
+        "heading": "1. Velvera Buds"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_5",
+    "text": "- Type: True Wireless Earbuds\n- Key Features:\n  - Advanced ANC with Transparency Mode\n  - Wireless Qi Charging & USB-C Fast Charging\n  - Enhanced Touch Controls (Volume, Mode Switching)\n  - Comfortable Ergonomic Fit\n  - Bluetooth 5.3, Low-Latency Mode\n  - Voice Assistant Support (Google/Siri)\n- Battery Life: Up to 7 hours per charge, 30 hours total with case\n- Water Resistance: IPX5\n- Microphones: Triple-mic Array with Noise Suppression\n- Colors Available: Midnight Blue, Pearl White\n- Ear Tips: S/M/L (Memory Foam)\n- Price: ₹14,999 / $179",
+    "path": "Velvera Audio Series — Product Specification Document > Product Models & Detailed Specifications > 2. Velvera Buds Deluxe",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 46,
+        "heading": "2. Velvera Buds Deluxe"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_6",
+    "text": "- Type: True Wireless Earbuds\n- Key Features:\n  - Adaptive ANC (Auto-adjusts to Environment)\n  - Premium Graphene Audio Drivers\n  - IPX5 Water Resistant (Sweat/Light Rain)\n  - Customizable EQ with Velvera App\n  - Automatic Ear Detection\n  - Multi-Point Bluetooth Connectivity\n- Battery Life: Up to 9 hours per charge, 36 hours total with case\n- Charging: Qi Wireless & USB-C Fast Charging\n- Microphones: Quad-mic with Wind Noise Reduction\n- Colors Available: Obsidian Black, Aurora Silver\n- Ear Tips: S/M/L (Hybrid Silicone/Foam)\n- Price: ₹19,999 / $239",
+    "path": "Velvera Audio Series — Product Specification Document > Product Models & Detailed Specifications > 3. Velvera Buds Premium",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 65,
+        "heading": "3. Velvera Buds Premium"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_7",
+    "text": "- Type: Over-ear Wireless Headphones\n- Key Features:\n  - Studio-grade ANC\n  - Hi-Res Audio Certified, 40mm Titanium Drivers\n  - Foldable & Lightweight Design\n  - Plush Memory Foam Ear Cushions\n  - Ambient Sound Mode\n  - USB-C Fast Charging (10 min = 3 hrs playback)\n  - Bluetooth 5.3, Multipoint Connectivity\n- Battery Life: Up to 40 hours continuous playback\n- Wired Input: 3.5mm Audio Jack (Included Cable)\n- Microphones: 2x Beamforming mics for Voice Clarity\n- Colors Available: Classic Black, Space Grey\n- Carrying Case: Hard-shell Included\n- Price: ₹24,999 / $299",
+    "path": "Velvera Audio Series — Product Specification Document > Product Models & Detailed Specifications > 4. Velvera Headphones Deluxe",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 84,
+        "heading": "4. Velvera Headphones Deluxe"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_8",
+    "text": "- Type: Over-ear Wireless Headphones\n- Key Features:\n  - Planar Magnetic Drivers for Audiophile Sound\n  - Lossless High-Resolution Audio via USB-C DAC\n  - Ultra-Comfort Vegan Leather Earpads\n  - Adaptive Headband with Pressure Relief\n  - Luxurious and Robust Construction (Aluminum, Carbon Fiber)\n  - Smart Touch Controls and Wear Sensors\n  - App-based EQ and Firmware Updates\n  - Bluetooth 5.4, LDAC Support\n- Battery Life: Up to 50 hours playback\n- Wired Input: USB-C + 3.5mm (Hi-Res, Balanced)\n- Microphones: 3-mic Array with AI Noise Isolation\n- Colors Available: Graphite Black, Platinum Silver\n- Carrying Case: Premium Hard Case Included\n- Price: ₹39,999 / $479",
+    "path": "Velvera Audio Series — Product Specification Document > Product Models & Detailed Specifications > 5. Velvera Headphones Premium",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 104,
+        "heading": "5. Velvera Headphones Premium"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_9",
+    "text": "- Warranty: 1 Year Limited Warranty (all models)\n- Customer Support: 24/7 Online and Phone Support\n- Companion App: Velvera Audio (iOS & Android)\n- Firmware Updates: Supported (via App)",
+    "path": "Velvera Audio Series — Product Specification Document > Common Specifications",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 125,
+        "heading": "Common Specifications"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_10",
+    "text": "For more details, bulk orders, or technical support,  call: 1800-123-VELVERA",
+    "path": "Velvera Audio Series — Product Specification Document > Contact Information",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 134,
+        "heading": "Contact Information"
+      }
+    ]
+  },
+  {
+    "id": "75d3706d7b8d892d36061dc7a338e11db483d830bf2c8f2b34a7c8e78308e971_11",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Velvera Audio Series — Product Specification Document",
+    "doc_key": [
+      "velvera_audio"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 138
+      },
+      {
+        "line": 140
+      }
+    ]
+  }
+]

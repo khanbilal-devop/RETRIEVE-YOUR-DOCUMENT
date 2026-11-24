@@ -1,0 +1,465 @@
+[
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_1",
+    "text": "1. Welcome Message (#welcome-message)\n2. Campus Overview (#campus-overview)\n3. Academic Policies (#academic-policies)\n  - Academic Standards\n  - Grading System\n  - Attendance Policy\n  - Academic Integrity Policy\n  - Course Registration and Withdrawal\n4. Campus Life (#campus-life)\n  - Student Organizations\n  - Residence Life\n  - Dining Services\n  - Campus Events\n  - Athletics & Recreation\n5. Student Resources (#student-resources)\n  - Library Services\n  - Health & Wellness Center\n  - Counseling Services\n  - Career Development\n  - Technology Support\n6. Code of Conduct (#code-of-conduct)\n7. Safety & Security (#safety--security)\n8. Diversity & Inclusion (#diversity--inclusion)\n9. Important Contacts (#important-contacts)",
+    "path": "Cendara University Student Handbook > Table of Contents",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "Table of Contents"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_2",
+    "text": "Dear Cendara University Students,\nWelcome to Cendara University! We are excited to have you as part of our vibrant, diverse, and innovative community. This handbook is designed to be your guide to campus life, helping you navigate academic expectations, student support resources, community standards, and the myriad opportunities available. If you have any questions, please reach out to Student Affairs at student.affairs@cendara.edu.",
+    "path": "Cendara University Student Handbook > Welcome Message",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "Welcome Message"
+      },
+      {
+        "line": 36,
+        "heading": "Welcome Message"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_3",
+    "text": "Wishing you a successful year ahead,\nDr. Susan A. Forelli\nVice President for Student Affairs",
+    "path": "Cendara University Student Handbook > Welcome Message",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "Welcome Message"
+      },
+      {
+        "line": 40,
+        "heading": "Welcome Message"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_4",
+    "text": "Cendara University is located in the thriving city of Larkspur, blending urban energy with the serenity of a landscaped, modern campus. Founded in 1927, Cendara is home to over 8,000 undergraduate and graduate students. Our campus includes:\n- Arches Academic Complex: Home to the Faculty of Sciences and lecture halls.\n- Silverleaf Library: Centrally located with extensive study spaces and digital resources.\n- Aspen Residence Hall: A state-of-the-art dormitory for first-year students.\n- Willows Student Center: Hub for student organizations and recreational activities.\n- Cendara Athletics Pavilion: Fitness center, swimming pool, and courts.",
+    "path": "Cendara University Student Handbook > Campus Overview",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 47,
+        "heading": "Campus Overview"
+      },
+      {
+        "line": 49,
+        "heading": "Campus Overview"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_5",
+    "text": "All students must maintain satisfactory academic progress, defined as a minimum cumulative GPA of 2.0 for undergraduates and 3.0 for graduate students, and complete at least 67% of attempted credits per semester.",
+    "path": "Cendara University Student Handbook > Academic Policies > Academic Standards",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 61,
+        "heading": "Academic Standards"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_6",
+    "text": "Cendara University uses the following grading scale:\n- Grade: A | Percentage: 93-100% | GPA Points: 4.00 | Description: Excellent\n- Grade: A- | Percentage: 90-92% | GPA Points: 3.70 | Description: \n- Grade: B+ | Percentage: 87-89% | GPA Points: 3.30 | Description: Very Good\n- Grade: B | Percentage: 83-86% | GPA Points: 3.00 | Description: Good\n- Grade: B- | Percentage: 80-82% | GPA Points: 2.70 | Description: \n- Grade: C+ | Percentage: 77-79% | GPA Points: 2.30 | Description: Satisfactory\n- Grade: C | Percentage: 73-76% | GPA Points: 2.00 | Description: \n- Grade: C- | Percentage: 70-72% | GPA Points: 1.70 | Description: \n- Grade: D | Percentage: 60-69% | GPA Points: 1.00 | Description: Marginal Pass\n- Grade: F | Percentage: 0-59% | GPA Points: 0.00 | Description: Fail",
+    "path": "Cendara University Student Handbook > Academic Policies > Grading System",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 65,
+        "heading": "Grading System"
+      },
+      {
+        "line": 67,
+        "heading": "Grading System"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_7",
+    "text": "Students are expected to attend all scheduled classes. Absences exceeding 20% of class meetings may result in grade penalties or withdrawal from the course. Medical or emergency absences require official documentation.",
+    "path": "Cendara University Student Handbook > Academic Policies > Attendance Policy",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 82,
+        "heading": "Attendance Policy"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_8",
+    "text": "- Plagiarism: All work must be original. Copying or paraphrasing without citation is prohibited.\n- Cheating: Using unauthorized materials during exams or assignments is strictly forbidden.\n- Collaboration: Only permitted when expressly authorized by the instructor.\n- Consequences: Violations may result in a failing grade, formal warning, suspension, or expulsion.",
+    "path": "Cendara University Student Handbook > Academic Policies > Academic Integrity Policy",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 86,
+        "heading": "Academic Integrity Policy"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_9",
+    "text": "- Registration opens twice a year: May 10 for Fall, November 15 for Spring.\n- Add/Drop Period: First two weeks of the semester.\n- Withdrawal deadline: End of Week 10. W on transcript, no impact on GPA.\n- Late withdrawal requests require approval from the Dean of Students.",
+    "path": "Cendara University Student Handbook > Academic Policies > Course Registration and Withdrawal",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 93,
+        "heading": "Course Registration and Withdrawal"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_10",
+    "text": "Cendara students pursue passions through 90+ clubs and societies, including:\n- Cendara Debate Society\n- Women in Robotics\n- Black Student Union\n- Green Thumb (Environmental Club)\n- International Students Association\n- Chess and Go Club",
+    "path": "Cendara University Student Handbook > Campus Life > Student Organizations",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 104,
+        "heading": "Student Organizations"
+      },
+      {
+        "line": 106,
+        "heading": "Student Organizations"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_11",
+    "text": "You can start a new organization by submitting a proposal to the Student Life Office.",
+    "path": "Cendara University Student Handbook > Campus Life > Student Organizations",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 113,
+        "heading": "Student Organizations"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_12",
+    "text": "- Residence Halls: Aspen, Birch, Linden, and Juniper Halls.\n- Room Assignment: Incoming first-years guaranteed housing; upperclass students apply via housing lottery.\n- Resident Advisors (RAs): Each floor has an RA for support and community events.\n- Quiet Hours: 10:00 PM – 8:00 AM weekdays; midnight – 9:00 AM weekends.",
+    "path": "Cendara University Student Handbook > Campus Life > Residence Life",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 117,
+        "heading": "Residence Life"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_13",
+    "text": "- Dining Halls: Oakleaf Commons and Willow Café. Vegetarian, vegan, and gluten-free meal options available.\n- Meal Plans: All resident students must purchase a meal plan (Silver, Gold, Platinum).\n- Hours: 7:00 AM – 10:00 PM weekdays; 8:00 AM – 9:00 PM weekends.",
+    "path": "Cendara University Student Handbook > Campus Life > Dining Services",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 124,
+        "heading": "Dining Services"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_14",
+    "text": "Signature campus events include:\n- Welcome Week: Social, academic, and orientation activities for all new students, August 28 – September 2.\n- Spring Carnival: April 21–23 — music, food trucks, inflatables, and art showcases.\n- Research Expo: November 3 — student research presentations and guest speakers.\n- Cultural Night: March 10 — celebrating campus diversity with performance and cuisine.",
+    "path": "Cendara University Student Handbook > Campus Life > Campus Events",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 130,
+        "heading": "Campus Events"
+      },
+      {
+        "line": 132,
+        "heading": "Campus Events"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_15",
+    "text": "- Varsity Teams: Falcons (Basketball, Soccer, Volleyball, Track & Field)\n- Intramural Sports: Flag Football, Ultimate Frisbee, Table Tennis, Badminton\n- Fitness Classes: Yoga, Zumba, HIIT, Aqua Aerobics offered at Cendara Athletics Pavilion.\n- Outdoor Trails: 3 miles of walking and jogging paths through Cendara Arboretum.",
+    "path": "Cendara University Student Handbook > Campus Life > Athletics & Recreation",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 139,
+        "heading": "Athletics & Recreation"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_16",
+    "text": "- Silverleaf Library: 120,000 print volumes, 400,000 digital items, 100 study carrels.\n- Hours: 8:00 AM – midnight (Mon–Thurs), closes at 10:00 PM Fri–Sun.\n- Services:\n  - Research consultations\n  - Laptop loans\n  - Group study rooms (reserve online)\n  - Printing and scanning",
+    "path": "Cendara University Student Handbook > Student Resources > Library Services",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 150,
+        "heading": "Library Services"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_17",
+    "text": "- Location: West end of Arches Academic Complex\n- Hours: 8:30 AM – 6:00 PM (Weekdays)\n- Services:\n  - General health (routine check-ups, immunizations)\n  - Sexual health and counseling\n  - Telemedicine appointments",
+    "path": "Cendara University Student Handbook > Student Resources > Health & Wellness Center",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 160,
+        "heading": "Health & Wellness Center"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_18",
+    "text": "- Confidential mental health support\n- Free short-term individual counseling\n- Support groups on topics such as stress, anxiety, and academic pressure\n- Workshops and outreach programs",
+    "path": "Cendara University Student Handbook > Student Resources > Counseling Services",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 169,
+        "heading": "Counseling Services"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_19",
+    "text": "- Resources:\n  - Resume and cover letter reviews\n  - Mock interviews\n  - Alumni networking events\n  - On-campus career fairs (Fall and Spring)\n- Internship and job search portal available at careers.cendara.edu (https://careers.cendara.edu)",
+    "path": "Cendara University Student Handbook > Student Resources > Career Development",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 176,
+        "heading": "Career Development"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_20",
+    "text": "- IT Help Desk: helpdesk@cendara.edu, (473) 555-0197\n- Services:\n  - Free campus Wi-Fi (use login: studentID@cendara.edu)\n  - Computer labs in Academic Complex and Library\n  - Software downloads (Microsoft 365, Matlab, Adobe Creative Suite)\n  - 24/7 emergency tech support",
+    "path": "Cendara University Student Handbook > Student Resources > Technology Support",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 185,
+        "heading": "Technology Support"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_21",
+    "text": "Cendara University expects all students to uphold principles of respect, responsibility, and integrity. The following are strictly prohibited:\n- Harassment, discrimination, or hate speech of any kind\n- Violence, threats, or intimidation\n- Theft or destruction of property\n- Alcohol or drug use on campus (unless permitted at registered, age-verified events)\n- Academic dishonesty (see Academic Integrity Policy)",
+    "path": "Cendara University Student Handbook > Code of Conduct",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 196,
+        "heading": "Code of Conduct"
+      },
+      {
+        "line": 198,
+        "heading": "Code of Conduct"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_22",
+    "text": "Violations are subject to investigation and disciplinary action, including warnings, probation, suspension, and expulsion. Appeals can be made through the Office of Student Conduct.",
+    "path": "Cendara University Student Handbook > Code of Conduct",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 204,
+        "heading": "Code of Conduct"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_23",
+    "text": "- Campus Safety Office: Located in Willows Student Center (open 24/7)\n- Emergency Contacts: (473) 555-0111 (emergency), (473) 555-0120 (non-emergency)\n- Safe Ride Program: Free rides from 6:00 PM to 2:00 AM daily\n- Blue Light Phones: 25 locations across campus for immediate assistance\n- Fire Drills & Emergency Procedures: Conducted each semester—see posted instructions.\n- Personal Property Tips:\n  - Lock doors and bikes at all times.\n  - Report suspicious activity.\n  - Register laptops and valuables with Campus Safety.",
+    "path": "Cendara University Student Handbook > Safety & Security",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 210,
+        "heading": "Safety & Security"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_24",
+    "text": "Cendara University is committed to building a welcoming and equitable community. The Office of Diversity, Equity, & Inclusion (ODEI) leads campus-wide efforts in:\n- Bias incident reporting and response\n- Support for affinity groups (LGBTQ+, cultural groups, first-generation students)\n- Workshops on cultural competence and allyship\n- Scholarships and mentoring for underrepresented students",
+    "path": "Cendara University Student Handbook > Diversity & Inclusion",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 224,
+        "heading": "Diversity & Inclusion"
+      },
+      {
+        "line": 226,
+        "heading": "Diversity & Inclusion"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_25",
+    "text": "For more information, contact odei@cendara.edu or visit their office in the Willows Student Center.",
+    "path": "Cendara University Student Handbook > Diversity & Inclusion",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 231,
+        "heading": "Diversity & Inclusion"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_26",
+    "text": "- Office: Student Affairs | Location: Willows Student Center, 2nd Fl. | Phone: (473) 555-0150 | Email: student.affairs@cendara.edu\n- Office: Academic Advising | Location: Arches Complex, Room 104 | Phone: (473) 555-0172 | Email: advising@cendara.edu\n- Office: Residence Life | Location: Birch Hall, Lobby | Phone: (473) 555-0166 | Email: reslife@cendara.edu\n- Office: Health & Wellness | Location: Arches Complex, West End | Phone: (473) 555-0184 | Email: healthcenter@cendara.edu\n- Office: Counseling Services | Location: Willows Student Center, 3rd Fl. | Phone: (473) 555-0135 | Email: counseling@cendara.edu\n- Office: Campus Safety | Location: Willows Student Center, 1st Fl. | Phone: (473) 555-0111 | Email: safety@cendara.edu\n- Office: Diversity, Equity & Inclusion | Location: Willows Student Center, 1st Fl. | Phone: (473) 555-0243 | Email: odei@cendara.edu\n- Office: Library | Location: Silverleaf Library, Main Desk | Phone: (473) 555-0142 | Email: library@cendara.edu\n- Office: IT Help Desk | Location: Academic Complex, Room 017 | Phone: (473) 555-0197 | Email: helpdesk@cendara.edu",
+    "path": "Cendara University Student Handbook > Important Contacts",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 237,
+        "heading": "Important Contacts"
+      }
+    ]
+  },
+  {
+    "id": "f2d418a2aad4a401e8cf0d7612357b017b2ae7924640550d958ad94d9cb39b54_27",
+    "text": "For questions or updates to this handbook, please contact student.affairs@cendara.edu.",
+    "path": "Cendara University Student Handbook",
+    "doc_key": [
+      "student_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 251
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_1",
+    "text": "Health insurance is a type of insurance coverage that pays for medical and surgical expenses incurred by the insured. It is designed to protect individuals and families from high healthcare costs and offer access to quality medical services.",
+    "path": "Health Insurance",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Health Insurance"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_2",
+    "text": "- Coverage for Medical Expenses: Includes hospitalization, surgeries, outpatient care, prescription drugs, diagnostics, and preventive services.\n- Cashless Treatment: Many insurers offer cashless claim settlement at network hospitals, eliminating upfront payments by the policyholder.\n- Pre- and Post-Hospitalization: Expenses incurred before and after hospitalization are often covered.\n- Family Floater Plans: A single policy that covers the entire family under one sum insured.\n- Optional Add-ons: Critical illness cover, maternity benefits, accidental benefits, and top-ups for enhanced protection.",
+    "path": "Health Insurance > Key Features",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 7,
+        "heading": "Key Features"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_3",
+    "text": "- Individual Health Insurance: Covers a single person.\n- Family Floater Health Insurance: Covers the entire family under one policy.\n- Senior Citizen Health Insurance: Customized for individuals above a certain age (typically 60+).\n- Critical Illness Insurance: Lump sum payout on diagnosis of specific illnesses like cancer, heart attack, etc.\n- Group Health Insurance: Provided by employers for their employees.",
+    "path": "Health Insurance > Types of Health Insurance",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 15,
+        "heading": "Types of Health Insurance"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_4",
+    "text": "- Financial Protection: Shields against expensive medical treatments.\n- Access to Quality Healthcare: Facilitates timely and quality healthcare services.\n- Tax Benefits: Premiums paid are eligible for tax deductions (e.g., under Section 80D in India).\n- Peace of Mind: Reduces the stress of unexpected medical emergencies.",
+    "path": "Health Insurance > Benefits",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "Benefits"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_5",
+    "text": "- Term: Premium | Description: Amount paid periodically for the policy\n- Term: Sum Insured | Description: Maximum amount insurance will cover\n- Term: Pre-existing Diseases | Description: Illnesses already present before buying\n- Term: Waiting Period | Description: Tenure before certain benefits activate\n- Term: Co-payment | Description: Part of claim paid by the insured\n- Term: Network Hospitals | Description: Hospitals with direct cashless tie-ups",
+    "path": "Health Insurance > Important Terms",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "Important Terms"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_6",
+    "text": "1. Assess Your Needs: Consider age, family size, health conditions.\n2. Compare Plans: Look for coverage, exclusions, claim process, and premium.\n3. Check Network Hospitals: Wide network ensures better access.\n4. Understand Exclusions: Know what isn’t covered.\n5. Look for Add-ons: Customize the policy for better protection.\n6. Review Claim Settlement Ratio: Indicates reliability of insurer.",
+    "path": "Health Insurance > How to Choose a Health Insurance Plan",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 41,
+        "heading": "How to Choose a Health Insurance Plan"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_7",
+    "text": "- Pre-existing diseases (during waiting period)\n- Cosmetic treatments\n- Dental and vision (unless specified)\n- Self-inflicted injuries\n- Non-allopathic treatments",
+    "path": "Health Insurance > Common Exclusions",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 50,
+        "heading": "Common Exclusions"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_8",
+    "text": "Q: Is health insurance mandatory?\nA: Not in most countries, but highly recommended due to rising healthcare costs.",
+    "path": "Health Insurance > Frequently Asked Questions",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 58,
+        "heading": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_9",
+    "text": "Q: What happens if a claim is denied?\nA: Review the reason, appeal to the insurer, or approach a regulatory authority.",
+    "path": "Health Insurance > Frequently Asked Questions",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 61,
+        "heading": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_10",
+    "text": "Q: Can I port my health policy to another insurer?\nA: Yes, most countries allow portability after certain conditions are met.",
+    "path": "Health Insurance > Frequently Asked Questions",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": "3cc376a7d03337b238e111e65924882503d76ac63d1550303545e0af722bf5ba_11",
+    "text": "- IRDAI (India’s Insurance Regulator) (https://www.irdai.gov.in)\n- World Health Organization – Health Financing (https://www.who.int/health-topics/health-financing)\n- National Health Portal, India (https://www.nhp.gov.in/)",
+    "path": "Health Insurance > Useful Resources",
+    "doc_key": [
+      "health insurance"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71,
+        "heading": "Useful Resources"
+      }
+    ]
+  }
+]

@@ -1,0 +1,341 @@
+[
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_1",
+    "text": "Below is a list of ZX Bank ATMs located at major hospitals across key cities in India. (Addresses are provided as realistic examples and may be used as placeholders.)",
+    "path": "ZX Bank ATM Locations at Major Hospitals",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank ATM Locations at Major Hospitals"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_2",
+    "text": "- Lilavati Hospital & Research Centre\n  - A-791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050\n- Kokilaben Dhirubhai Ambani Hospital\n  - Rao Saheb Achutrao Patwardhan Marg, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Mumbai, Maharashtra",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 8,
+        "heading": "Mumbai, Maharashtra"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_3",
+    "text": "- All India Institute of Medical Sciences (AIIMS)\n  - Sri Aurobindo Marg, Ansari Nagar, New Delhi, Delhi 110029\n- Apollo Hospital\n  - Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Delhi, National Capital Territory",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 17,
+        "heading": "Delhi, National Capital Territory"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_4",
+    "text": "- Manipal Hospital\n  - 98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560017\n- St. John’s Medical College Hospital\n  - Sarjapur Road, Koramangala, Bengaluru, Karnataka 560034",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Bangalore (Bengaluru), Karnataka",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Bangalore (Bengaluru), Karnataka"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_5",
+    "text": "- Apollo Hospitals Jubilee Hills\n  - Road No 72, Jubilee Hills, Hyderabad, Telangana 500033\n- Osmania General Hospital\n  - Afzal Gunj, Hyderabad, Telangana 500012",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Hyderabad, Telangana",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "Hyderabad, Telangana"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_6",
+    "text": "- Apollo Hospitals Greams Road\n  - 21, Greams Lane, Off Greams Road, Chennai, Tamil Nadu 600006\n- Government General Hospital\n  - EVR Periyar Salai, Park Town, Chennai, Tamil Nadu 600003",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Chennai, Tamil Nadu",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "Chennai, Tamil Nadu"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_7",
+    "text": "- Apollo Gleneagles Hospitals\n  - 58, Canal Circular Road, Kadapara, Kolkata, West Bengal 700054\n- Fortis Hospital, Anandapur\n  - 730, E M Bypass Road, Anandapur, Kolkata, West Bengal 700107",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Kolkata, West Bengal",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "Kolkata, West Bengal"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_8",
+    "text": "- Ruby Hall Clinic\n  - 40, Sassoon Road, Pune, Maharashtra 411001\n- Jehangir Hospital\n  - 32, Sassoon Road, Pune, Maharashtra 411001",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Pune, Maharashtra",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 62,
+        "heading": "Pune, Maharashtra"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_9",
+    "text": "- CIMS Hospital\n  - Near Shukan Mall, Off Science City Road, Sola, Ahmedabad, Gujarat 380060\n- Civil Hospital\n  - Civil Hospital Road, Haripura, Asarwa, Ahmedabad, Gujarat 380016",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Ahmedabad, Gujarat",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71,
+        "heading": "Ahmedabad, Gujarat"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_10",
+    "text": "- New Civil Hospital Surat\n  - Majuragate, Ring Road, Surat, Gujarat 395001\n- Apple Hospital\n  - Udhna Magdalla Road, Bhimrad, Surat, Gujarat 395007",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Surat, Gujarat",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "Surat, Gujarat"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_11",
+    "text": "- SMS Hospital (Sawai Man Singh)\n  - Jawahar Lal Nehru Marg, Ashok Nagar, Jaipur, Rajasthan 302004\n- Fortis Escorts Hospital\n  - Jawahar Lal Nehru Marg, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Jaipur, Rajasthan",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 89,
+        "heading": "Jaipur, Rajasthan"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_12",
+    "text": "- Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS)\n  - Raebareli Road, Lucknow, Uttar Pradesh 226014\n- King George's Medical University (KGMU) Hospital\n  - Chowk, Lucknow, Uttar Pradesh 226003",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Lucknow, Uttar Pradesh",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 98,
+        "heading": "Lucknow, Uttar Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_13",
+    "text": "- Regency Hospital\n  - A-2, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208005\n- Lala Lajpat Rai Hospital (Hallet Hospital)\n  - Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Kanpur, Uttar Pradesh",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 107,
+        "heading": "Kanpur, Uttar Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_14",
+    "text": "- Government Medical College & Hospital\n  - Medical Square, Hanuman Nagar, Nagpur, Maharashtra 440003\n- Wockhardt Hospital\n  - 1642, Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Nagpur, Maharashtra",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 116,
+        "heading": "Nagpur, Maharashtra"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_15",
+    "text": "- Bombay Hospital\n  - Ring Road, Indore, Madhya Pradesh 452010\n- CHL Hospital\n  - A.B. Road, L.I.G. Square, Indore, Madhya Pradesh 452008",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Indore, Madhya Pradesh",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 125,
+        "heading": "Indore, Madhya Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_16",
+    "text": "- AIIMS Bhopal\n  - Saket Nagar, Bhopal, Madhya Pradesh 462020\n- Bansal Hospital\n  - Shahpura, Bhopal, Madhya Pradesh 462016",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Bhopal, Madhya Pradesh",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 134,
+        "heading": "Bhopal, Madhya Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_17",
+    "text": "- Apollo Hospitals Health City\n  - Arilova, Visakhapatnam, Andhra Pradesh 530040\n- King George Hospital\n  - Maharanipeta, Visakhapatnam, Andhra Pradesh 530002",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Visakhapatnam, Andhra Pradesh",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 143,
+        "heading": "Visakhapatnam, Andhra Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_18",
+    "text": "- Indira Gandhi Institute of Medical Sciences (IGIMS)\n  - Sheikhpura, Patna, Bihar 800014\n- Paras HMRI Hospital\n  - NH 30, Bailey Road, Patna, Bihar 801503",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Patna, Bihar",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 152,
+        "heading": "Patna, Bihar"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_19",
+    "text": "- Sterling Hospital\n  - Race Course Circle, Vadodara, Gujarat 390007\n- S.S.G. Hospital (Sir Sayajirao General Hospital)\n  - Jail Road, Opposite Kirti Mandir, Vadodara, Gujarat 390001",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Vadodara (Baroda), Gujarat",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 161,
+        "heading": "Vadodara (Baroda), Gujarat"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_20",
+    "text": "- Dayanand Medical College and Hospital (DMCH)\n  - Civil Lines, Tagore Nagar, Ludhiana, Punjab 141001\n- Fortis Hospital Ludhiana\n  - Chandigarh Road, Ludhiana, Punjab 141010",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Ludhiana, Punjab",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 170,
+        "heading": "Ludhiana, Punjab"
+      }
+    ]
+  },
+  {
+    "id": "e6fcf9f1486994b4eff882317f9662c43fcc3e9390e0780ef635011647e7f2c8_21",
+    "text": "- Kovai Medical Center and Hospital (KMCH)\n  - Avinashi Road, Coimbatore, Tamil Nadu 641014\n- PSG Hospitals\n  - Peelamedu, Coimbatore, Tamil Nadu 641004\nNote: Availability and locations of ATMs may change. Please check the ZX Bank Asia Branch & ATM Locator (https://www.zxbank.asia/locator) for latest information.",
+    "path": "ZX Bank ATM Locations at Major Hospitals > Coimbatore, Tamil Nadu",
+    "doc_key": [
+      "atm locations at major hospitals"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 179,
+        "heading": "Coimbatore, Tamil Nadu"
+      },
+      {
+        "line": 187
+      }
+    ]
+  }
+]

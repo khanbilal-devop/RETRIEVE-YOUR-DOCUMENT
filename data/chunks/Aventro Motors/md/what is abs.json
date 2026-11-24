@@ -1,0 +1,212 @@
+[
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_1",
+    "text": "ABS stands for Anti-lock Braking System. It is a vital safety feature in modern vehicles, designed to prevent the wheels from locking up during emergency braking situations. By maintaining tractive contact with the road surface, ABS enhances vehicle control and reduces stopping distances on both wet and dry surfaces.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > Introduction",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "Introduction"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_2",
+    "text": "- Prevents wheel lock-up during sudden or hard braking.\n- Maintains steering control, allowing the driver to maneuver the vehicle while braking.\n- Reduces the risk of skidding or uncontrolled vehicle movement.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > Key Purpose of ABS",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 11,
+        "heading": "Key Purpose of ABS"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_3",
+    "text": "ABS operates using a combination of sensors, valves, and electronic control units. Here is a simplified step-by-step process:",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > How Does ABS Work?",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 19,
+        "heading": "How Does ABS Work?"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_4",
+    "text": "- ABS uses sensors located at each wheel to monitor the rotational speed of the wheels continuously.\n- If any sensor detects a sudden decrease in wheel speed (indicating potential lock-up), the ABS system is activated.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > How Does ABS Work? > Wheel Speed Sensors",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 22,
+        "heading": "Wheel Speed Sensors"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_5",
+    "text": "- The ECU receives data from the wheel speed sensors.\n- When it detects a wheel about to lock, it controls the hydraulic brake pressure through a modulator.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > How Does ABS Work? > Electronic Control Unit (ECU)",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Electronic Control Unit (ECU)"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_6",
+    "text": "- These valves rapidly increase or decrease brake pressure to each wheel as needed.\n- This process occurs many times per second (often felt as a \"pulsating\" brake pedal).",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > How Does ABS Work? > Hydraulic Valves/Modulator",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "Hydraulic Valves/Modulator"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_7",
+    "text": "- By releasing and then reapplying the brakes repeatedly in quick succession, ABS prevents the wheels from locking up.\n- The driver can continue to steer effectively even during heavy braking.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > How Does ABS Work? > Brake Release and Reapplication",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "Brake Release and Reapplication"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_8",
+    "text": "- Improved Steering Control: Allows the driver to steer around obstacles while braking hard.\n- Shorter Stopping Distance: Especially on slippery or wet roads, ABS can reduce stopping distances.\n- Reduced Tire Wear: Prevents flat-spotting of tires due to skidding.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > Advantages of ABS",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 41,
+        "heading": "Advantages of ABS"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_9",
+    "text": "- Wet or icy roads\n- Gravel or loose road surfaces\n- Emergency stops requiring both braking and steering maneuvers",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > When is ABS Most Useful?",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 49,
+        "heading": "When is ABS Most Useful?"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_10",
+    "text": "- ABS does not decrease stopping distance in all conditions, especially on loose gravel or snow where locked wheels can help build up material in front of the tires.\n- ABS is not a substitute for safe driving or maintaining a safe following distance.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > Common Misconceptions",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 57,
+        "heading": "Common Misconceptions"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_11",
+    "text": "- During hard braking, you may feel a pulsating sensation in the brake pedal.\n- This is normal and indicates that the ABS is actively working.\n- Do not pump the brakes; instead, apply firm, continuous pressure.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > How ABS Feels in Action",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "How ABS Feels in Action"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_12",
+    "text": "Anti-lock Braking System (ABS) is a critical automotive safety technology that saves lives by helping drivers maintain control of their vehicles in emergency situations. By understanding how ABS works, drivers can maximize its benefits and contribute to safer roads.",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work? > Conclusion",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 72,
+        "heading": "Conclusion"
+      }
+    ]
+  },
+  {
+    "id": "8f66a76f73d43cdbab34502dfd7e32fbe7ce8c66ddd32a8144e581ce218463e8_13",
+    "text": "References:\n- NHTSA - Anti-lock Braking Systems (https://www.nhtsa.gov/technology-innovation/anti-lock-braking-systems-abs)\n- How Stuff Works - How ABS Works (https://auto.howstuffworks.com/auto-parts/brakes/brake-types/anti-lock-brake.htm)",
+    "path": "What is ABS (Anti-lock Braking System) and How Does It Work?",
+    "doc_key": [
+      "what is abs"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 76
+      },
+      {
+        "line": 77
+      }
+    ]
+  }
+]

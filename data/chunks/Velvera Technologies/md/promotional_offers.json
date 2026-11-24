@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1ed4634dc0488aaa30c2b9c0931922c82d2fa9d8cdc556c8037412d8de866a31_1",
+    "text": "- Bundle Name: Creator Pro Pack | Included Devices: Velvera One Pro 512GB + Velvera Pad Pro 256GB | Add-ons Included: Smart Stylus, Keyboard, Magnetic Pad | Total Value: ₹1,37,998 | Bundle Price (INR): ₹1,19,999 | You Save: ₹17,999\n- Bundle Name: Ultimate Power Kit | Included Devices: Velvera One Ultra 1TB + Velvera Watch Pro | Add-ons Included: Wireless Dock, Premium Case, Buds Pro | Total Value: ₹1,48,998 | Bundle Price (INR): ₹1,29,999 | You Save: ₹18,999\n- Bundle Name: AI Productivity Suite | Included Devices: Velvera Nexus 1 Pro 1TB + Velvera Pad 11\" | Add-ons Included: Velvera Studio Pro, Cloud Storage | Total Value: ₹1,24,998 | Bundle Price (INR): ₹1,09,999 | You Save: ₹14,999\n- Bundle Name: Family Connect Pack | Included Devices: 2x Velvera Core Max 256GB + 2x Velvera Watch SE | Add-ons Included: Family Cloud Plan, 4 Cases | Total Value: ₹1,05,996 | Bundle Price (INR): ₹89,999 | You Save: ₹15,997",
+    "path": "Bundle Offers & Packages > Premium Bundles",
+    "doc_key": [
+      "promotional_offers"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 6,
+        "heading": "Premium Bundles"
+      }
+    ]
+  },
+  {
+    "id": "1ed4634dc0488aaa30c2b9c0931922c82d2fa9d8cdc556c8037412d8de866a31_2",
+    "text": "- Bundle Name: Student Essential Kit | Included Devices: Velvera Edge 256GB + Velvera Buds | Student Price (INR): ₹52,999 | Regular Price: ₹56,998 | You Save: ₹3,999\n- Bundle Name: Young Pro Starter | Included Devices: Velvera Nexus 1 256GB + Velvera Watch SE | Student Price (INR): ₹74,999 | Regular Price: ₹79,998 | You Save: ₹4,999",
+    "path": "Bundle Offers & Packages > Student & Young Professional Offers",
+    "doc_key": [
+      "promotional_offers"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 15,
+        "heading": "Student & Young Professional Offers"
+      }
+    ]
+  },
+  {
+    "id": "1ed4634dc0488aaa30c2b9c0931922c82d2fa9d8cdc556c8037412d8de866a31_3",
+    "text": "Valid student ID required. Offer available for students and professionals under 25.",
+    "path": "Bundle Offers & Packages > Student & Young Professional Offers",
+    "doc_key": [
+      "promotional_offers"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 20,
+        "heading": "Student & Young Professional Offers"
+      }
+    ]
+  },
+  {
+    "id": "1ed4634dc0488aaa30c2b9c0931922c82d2fa9d8cdc556c8037412d8de866a31_4",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Bundle Offers & Packages > Student & Young Professional Offers",
+    "doc_key": [
+      "promotional_offers"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 22,
+        "heading": "Student & Young Professional Offers"
+      },
+      {
+        "line": 24,
+        "heading": "Student & Young Professional Offers"
+      }
+    ]
+  }
+]

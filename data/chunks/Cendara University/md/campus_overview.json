@@ -1,0 +1,241 @@
+[
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_1",
+    "text": "Founded in 1972, Cendara University spans a 180-acre campus nestled on the eastern edge of Windham City. The campus combines modern innovation with a respect for natural landscapes, offering an environment conducive to academic excellence and community engagement.",
+    "path": "Cendara University Campus Overview > Introduction",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "Introduction"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_2",
+    "text": "- Morgan Academic Complex\n  - Constructed: 1974, Renovated 2017\n  - Description: Three interconnected wings house 60 classrooms, 7 computer labs, and 15 faculty offices. The complex supports the College of Arts & Humanities and features multimedia-enabled lecture halls (maximum capacity: 250 students each).\n- Rosenfeld Science Center\n  - Constructed: 1983, Expanded 2015\n  - Description: A four-story structure dedicated to the Departments of Biology, Chemistry, and Environmental Sciences. Facilities include:\n  - 8 research laboratories (BSL-2 and chemistry wet labs)\n  - 2 lecture auditoriums (seating 160 and 120)\n  - A rooftop greenhouse (2,500 sq. ft.)\n  - A microscopy imaging core\n- Helena L. Martin Engineering Hall\n  - Opened: 2005\n  - Description: Features workshop spaces, prototyping rooms, 12 teaching labs, and a design center supporting civil, electrical, and mechanical engineering programs.\n- Mendell Business Pavilion\n  - Constructed: 1991\n  - Highlights:\n  - 10 seminar rooms with tiered seating\n  - Real-time financial data lab\n  - Entrepreneurship incubator suite (capacity: 40 student teams)",
+    "path": "Cendara University Campus Overview > Physical Description of Facilities > Academic Buildings",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 13,
+        "heading": "Academic Buildings"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_3",
+    "text": "- Samuelson Library\n  - Size: 150,000 volumes, 23,000 sq. ft.\n  - Facilities:\n  - Three floors of print collections & digital media rooms\n  - 200 personal study carrels and 24 group study rooms\n  - Makerspace (3D printers, VR suites)\n  - Café and quiet reading atrium",
+    "path": "Cendara University Campus Overview > Physical Description of Facilities > Libraries",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "Libraries"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_4",
+    "text": "- Maple Residence Hall\n  - Capacity: 385 undergraduate students\n  - Structure: Eight floors, co-ed, suite-style living with communal kitchens and lounges per level\n- Sequoia Apartments\n  - Capacity: 164 postgraduates and family housing units (2- and 4-bedroom units)\n  - Amenities: Onsite laundry, daycare facility, and fitness center\n- Aspen Commons\n  - Capacity: 190 first-year residents\n  - Features: Double rooms, learning communities, faculty-in-residence apartment",
+    "path": "Cendara University Campus Overview > Physical Description of Facilities > Residential Life",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 48,
+        "heading": "Residential Life"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_5",
+    "text": "- The Grove Dining Hall\n  - Seating: 475\n  - Description: Central dining area offering all-day buffet, vegan and international stations, and late-night café\n- Market Street Café\n  - Location: Student Center\n  - Options: Bistro fare, grab-and-go, espresso bar",
+    "path": "Cendara University Campus Overview > Physical Description of Facilities > Dining Facilities",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 62,
+        "heading": "Dining Facilities"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_6",
+    "text": "- Student Union Center\n  - Size: 48,000 sq. ft.\n  - Facilities:\n  - 400-person auditorium\n  - Student organization suites\n  - Meeting rooms\n  - Student legal services\n- Dalton Fitness & Recreation Complex\n  - Features:\n  - Olympic-size swimming pool\n  - Indoor climbing wall\n  - Three multicourt gyms\n  - Cardio & weight areas\n  - Fitness classrooms\n  - Outdoor sand volleyball courts",
+    "path": "Cendara University Campus Overview > Physical Description of Facilities > Student Life & Recreation",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 72,
+        "heading": "Student Life & Recreation"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_7",
+    "text": "- Elena Capri Theater\n  - Capacity: 510-seat auditorium for university and community performances\n- Fine Arts Studios\n  - Facilities: Drawing, ceramics, printmaking, and digital media labs",
+    "path": "Cendara University Campus Overview > Physical Description of Facilities > Arts & Performance Spaces",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 91,
+        "heading": "Arts & Performance Spaces"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_8",
+    "text": "- Pinecrest Stadium\n  - Seating: 4,200\n  - Primary Uses: Soccer, track and field\n- Varsity Sports Hall\n  - Facilities: Locker rooms, training suites, and offices for 11 varsity teams",
+    "path": "Cendara University Campus Overview > Physical Description of Facilities > Athletics",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 99,
+        "heading": "Athletics"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_9",
+    "text": "- Cendara Arboretum (20 acres): Managed collection of native and exotic plants, walking trails, and an outdoor classroom amphitheater.\n- East Lake: Man-made, 3-acre lake with surrounding picnic and study areas.\n- Reflection Garden: Dedicated quiet zone adjacent to Samuelson Library, used for meditation and outdoor study.\n- Bike & Pedestrian Paths: Five miles of interconnected, ADA-accessible trails linking all campus sectors.",
+    "path": "Cendara University Campus Overview > Grounds and Outdoor Spaces",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 110,
+        "heading": "Grounds and Outdoor Spaces"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_10",
+    "text": "- Facility Type: Lecture Halls | Number/Capacity: 12 (60-250 seats each) | Utilities & Technologies: Smart boards, lecture-capture, audio systems\n- Facility Type: General Classrooms | Number/Capacity: 67 | Utilities & Technologies: All Wi-Fi enabled; 75% have projection tech\n- Facility Type: Labs (Research & Teaching) | Number/Capacity: 34 | Utilities & Technologies: Fume hoods, BSL-2/BSL-1 compliant, 24/7 HVAC\n- Facility Type: Library Study Seats | Number/Capacity: 635 | Utilities & Technologies: Power outlets, high-speed internet\n- Facility Type: Student Housing | Number/Capacity: 1,095 beds total | Utilities & Technologies: Ethernet, laundry per hall, CCTV security\n- Facility Type: Dining Capacity | Number/Capacity: 690 simultaneous diners | Utilities & Technologies: Food allergen monitoring, sustainability\n- Facility Type: Parking Spaces (vehicular) | Number/Capacity: 1,780 | Utilities & Technologies: EV charging: 54 stations, LED-lit, patrolled\n- Facility Type: Bike Racks | Number/Capacity: 990 spaces | Utilities & Technologies: Covered and open racks throughout campus\n- Facility Type: Wireless Access Points | Number/Capacity: 420+ | Utilities & Technologies: Dual-band, upgraded 2022 for high bandwidth",
+    "path": "Cendara University Campus Overview > Infrastructure Capacity",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 122,
+        "heading": "Infrastructure Capacity"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_11",
+    "text": "Energy: Campus-wide solar generation (18% capacity), backup diesel generators for mission-critical infrastructure.",
+    "path": "Cendara University Campus Overview > Infrastructure Capacity",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 134,
+        "heading": "Infrastructure Capacity"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_12",
+    "text": "Security: Card-access system on all exterior doors, 24/7 monitored emergency phone system, and campus police substation.",
+    "path": "Cendara University Campus Overview > Infrastructure Capacity",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 136,
+        "heading": "Infrastructure Capacity"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_13",
+    "text": "Accessibility: All academic and residential buildings are ADA-compliant; tactile maps available at key locations.",
+    "path": "Cendara University Campus Overview > Infrastructure Capacity",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 138,
+        "heading": "Infrastructure Capacity"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_14",
+    "text": "- 2023: Completion of the GreenTech Building (LEED Platinum, houses Environmental Sustainability Programs)\n- 2024: Expansion of outdoor Wi-Fi coverage and replacement of all campus lighting with LED fixtures\n- 2025: Planned construction of the Dr. Maya Singh Health and Wellness Center (mental health, counseling, medical clinic)",
+    "path": "Cendara University Campus Overview > Recent and Planned Improvements",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 144,
+        "heading": "Recent and Planned Improvements"
+      }
+    ]
+  },
+  {
+    "id": "391c386ca363f117acc2b90ec1d67b17cc8d221d2f19e51c0e957dc865f4d85d_15",
+    "text": "Cendara University’s campus infrastructure supports a thriving academic and extracurricular community, prioritizing both technological advancement and sustainability in all future developments.",
+    "path": "Cendara University Campus Overview",
+    "doc_key": [
+      "campus_overview"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 150
+      }
+    ]
+  }
+]

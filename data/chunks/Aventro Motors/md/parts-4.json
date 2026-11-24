@@ -1,0 +1,81 @@
+[
+  {
+    "id": "fd79ef64fd7357a57cb58d80e605d4579bcbf33b8594abec82a604ac99ae8206_1",
+    "text": "Parts and Services Price List – Industry Standard Reference",
+    "path": "Aventro Motors Pvt. Ltd.",
+    "doc_key": [
+      "parts-4"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 2,
+        "heading": "Aventro Motors Pvt. Ltd."
+      }
+    ]
+  },
+  {
+    "id": "fd79ef64fd7357a57cb58d80e605d4579bcbf33b8594abec82a604ac99ae8206_2",
+    "text": "- S.No: 1 | Part Name: Seats | Industry Standard Price (₹, in thousands): 18 – 45 | Notes: Varies by material, segment\n- S.No: 2 | Part Name: Door Locks | Industry Standard Price (₹, in thousands): 2.5 – 7 | Notes: Central locking cost extra\n- S.No: 3 | Part Name: Exhaust System | Industry Standard Price (₹, in thousands): 9 – 20 | Notes: Depends on vehicle & material\n- S.No: 4 | Part Name: Steering Column | Industry Standard Price (₹, in thousands): 11 – 22 | Notes: Could be manual or power\n- S.No: 5 | Part Name: Side Mirrors | Industry Standard Price (₹, in thousands): 2 – 8 | Notes: With/without electrical adjust",
+    "path": "Aventro Motors Pvt. Ltd. > Parts Price List",
+    "doc_key": [
+      "parts-4"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 8,
+        "heading": "Parts Price List"
+      }
+    ]
+  },
+  {
+    "id": "fd79ef64fd7357a57cb58d80e605d4579bcbf33b8594abec82a604ac99ae8206_3",
+    "text": "- S.No: 1 | Service Type: Regular Maintenance | Industry Standard Price (₹, in thousands): 3.5 – 7.5 | Frequency/Notes: Per service, varies by model\n- S.No: 2 | Service Type: Engine Overhaul | Industry Standard Price (₹, in thousands): 18 – 35 | Frequency/Notes: Rare, depends on engine size\n- S.No: 3 | Service Type: Battery Replacement | Industry Standard Price (₹, in thousands): 5 – 18 (petrol/diesel)<br>50 – 160 (EV) | Frequency/Notes: Lower for standard, high for EV\n- S.No: 4 | Service Type: Transmission Repair | Industry Standard Price (₹, in thousands): 10 – 28 | Frequency/Notes: AT costlier than MT\n- S.No: 5 | Service Type: Brake Service | Industry Standard Price (₹, in thousands): 2.2 – 6.5 | Frequency/Notes: Pads & discs extra\n- S.No: 6 | Service Type: Suspension Check | Industry Standard Price (₹, in thousands): 1.2 – 3.5 | Frequency/Notes: Excludes actual part replacement",
+    "path": "Aventro Motors Pvt. Ltd. > Types of Services & Pricing",
+    "doc_key": [
+      "parts-4"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 20,
+        "heading": "Types of Services & Pricing"
+      }
+    ]
+  },
+  {
+    "id": "fd79ef64fd7357a57cb58d80e605d4579bcbf33b8594abec82a604ac99ae8206_4",
+    "text": "- Prices are in thousands of Indian Rupees (₹), exclusive of taxes and labour unless specified.\n- Actual prices at Aventro Motors authorized service centers may vary depending on city, model, and part variants.\n- For Electric Vehicles (EV), battery costs are significantly higher due to advanced technology.\n- All service estimates are approximations and subject to vehicle condition and variant.",
+    "path": "Aventro Motors Pvt. Ltd. > Notes",
+    "doc_key": [
+      "parts-4"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 32,
+        "heading": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "fd79ef64fd7357a57cb58d80e605d4579bcbf33b8594abec82a604ac99ae8206_5",
+    "text": "For parts/service-specific quote and booking:\nContact: info@aventromotors.com (mailto:info@aventromotors.com)\nOr visit your nearest Aventro Service Center (#)",
+    "path": "Aventro Motors Pvt. Ltd.",
+    "doc_key": [
+      "parts-4"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 39
+      }
+    ]
+  }
+]

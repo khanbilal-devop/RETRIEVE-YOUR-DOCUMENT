@@ -1,0 +1,177 @@
+[
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_1",
+    "text": "At ZX Bank, the security of your digital banking experience is our top priority. Here’s how we protect you from online threats:",
+    "path": "ZX Bank – Safety Features Against Online Threats",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank – Safety Features Against Online Threats"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_2",
+    "text": "- Biometric Login: Secure access via fingerprint or facial recognition on the ZX Bank Asia app.\n- OTP Verification: Transactions require a One-Time Password (OTP) sent to your registered mobile/email.\n- Device Registration: New device logins trigger verification steps.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 1. Multi-Factor Authentication (MFA)",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 6,
+        "heading": "1. Multi-Factor Authentication (MFA)"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_3",
+    "text": "- Real-Time Monitoring: AI systems monitor for suspicious activities and flag unusual account behavior instantly.\n- Fraud Alerts: Customers receive immediate alerts for any unauthorized or suspicious transaction attempts.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 2. AI-driven Fraud Detection",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 11,
+        "heading": "2. AI-driven Fraud Detection"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_4",
+    "text": "- Encrypted Transactions: All communications and financial transactions are secured with industry-standard 256-bit SSL/TLS encryption.\n- Secure Storage: Sensitive customer data is encrypted both in transit and at rest.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 3. End-to-End Encryption",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 15,
+        "heading": "3. End-to-End Encryption"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_5",
+    "text": "- Automatic Logout: User sessions automatically expire after periods of inactivity to prevent unauthorized access.\n- Timeout Alerts: Prompt warnings before app or online session expiry.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 4. Session Timeout & Auto-Logout",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 19,
+        "heading": "4. Session Timeout & Auto-Logout"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_6",
+    "text": "- Transaction Limits: Daily/transaction limits for transfers, especially for new payees or high-risk transactions.\n- Beneficiary Verification: Adding new beneficiaries requires additional authentication.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 5. Secure Fund Transfer Controls",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "5. Secure Fund Transfer Controls"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_7",
+    "text": "- App Patching: Frequent updates to the ZX Bank Asia mobile app patch vulnerabilities and enhance defenses.\n- Phishing Protection: Built-in app features detect phishing links and sites, alerting users to potential threats.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 6. Regular Security Updates",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 27,
+        "heading": "6. Regular Security Updates"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_8",
+    "text": "- Financial Literacy Campaigns: Regular alerts and campaigns educating customers on safe banking practices (how to recognize scams, avoid phishing, etc.).\n- 24/7 Support: Dedicated helpline and in-app AI assistant \"Zia\" for instant security advice.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 7. User Education",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 31,
+        "heading": "7. User Education"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_9",
+    "text": "- Instant Alerts: SMS, email, and push notifications for every transaction and change to account settings.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 8. Transaction Notifications",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "8. Transaction Notifications"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_10",
+    "text": "- Vetted Partners: Cross-border services only with verified financial partners.\n- Blockchain-based Authentication: For select regional remittances to prevent tampering and improve transparency.",
+    "path": "ZX Bank – Safety Features Against Online Threats > 9. Secure Remittance Corridors",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "9. Secure Remittance Corridors"
+      }
+    ]
+  },
+  {
+    "id": "c5b9c74695f067dd8340e251d0685fd0909c4d7a5332350464c7a17d3d854be9_11",
+    "text": "Your security is our mission:\nStay vigilant, never share your passwords or OTPs, and contact ZX Bank support if you notice any suspicious activity.",
+    "path": "ZX Bank – Safety Features Against Online Threats",
+    "doc_key": [
+      "safety features"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 43
+      }
+    ]
+  }
+]

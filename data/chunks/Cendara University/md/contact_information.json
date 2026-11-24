@@ -1,0 +1,113 @@
+[
+  {
+    "id": "7e487320dbe9710c481b8c8e9d4073ac4f2330a2954a05a86c74391fed108257_1",
+    "text": "Welcome to Cendara University. If you have questions, need support, or wish to reach a campus department, please use the following contact information.",
+    "path": "Cendara University Contact Information",
+    "doc_key": [
+      "contact_information"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Cendara University Contact Information"
+      }
+    ]
+  },
+  {
+    "id": "7e487320dbe9710c481b8c8e9d4073ac4f2330a2954a05a86c74391fed108257_2",
+    "text": "- Main Campus Address:\n  - Cendara University\n    - 410 University Crescent\n    - Silverbridge, MA 02489\n    - United States\n- Main Switchboard:\n  - (781) 555-1000\n- General Email Inquiries:\n  - info@cendara.edu\n- Website:\n  - www.cendara.edu (http://www.cendara.edu)",
+    "path": "Cendara University Contact Information > University Main Contacts",
+    "doc_key": [
+      "contact_information"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "University Main Contacts"
+      }
+    ]
+  },
+  {
+    "id": "7e487320dbe9710c481b8c8e9d4073ac4f2330a2954a05a86c74391fed108257_3",
+    "text": "- Department: Office of Admissions | Phone: (781) 555-1010 | Email: admissions@cendara.edu | Office Location: Walters Hall, Room 120 | Office Hours: Mon–Fri, 8:30am–5:00pm\n- Department: Registrar’s Office | Phone: (781) 555-1020 | Email: registrar@cendara.edu | Office Location: Hayden Building, 1st Floor | Office Hours: Mon–Fri, 9:00am–4:30pm\n- Department: Student Financial Services | Phone: (781) 555-1030 | Email: sfs@cendara.edu | Office Location: Sterling Center, Room 210 | Office Hours: Mon–Fri, 8:00am–4:00pm\n- Department: IT Help Desk | Phone: (781) 555-1070 | Email: helpdesk@cendara.edu | Office Location: Tech Commons, Lower Level | Office Hours: Mon–Fri, 8:00am–6:00pm\n- Department: Office of Student Affairs | Phone: (781) 555-1040 | Email: student.affairs@cendara.edu | Office Location: Beckett Hall, Suite 200 | Office Hours: Mon–Fri, 9:00am–5:00pm\n- Department: Career Services | Phone: (781) 555-1100 | Email: careers@cendara.edu | Office Location: Oliver Center, Room 105 | Office Hours: Mon–Fri, 8:30am–5:00pm\n- Department: Disability Services | Phone: (781) 555-1085 | Email: disability.services@cendara.edu | Office Location: Marcus Hall, Room 117 | Office Hours: Mon–Fri, 9:00am–4:30pm\n- Department: Library Reference Desk | Phone: (781) 555-1111 | Email: library@cendara.edu | Office Location: Whitaker Library, Ground Floor | Office Hours: Mon–Sun, 8:00am–10:00pm\n- Department: Campus Security | Phone: (781) 555-1120 | Email: security@cendara.edu | Office Location: Security Pavilion, South Quad | Office Hours: 24/7",
+    "path": "Cendara University Contact Information > Key Departments",
+    "doc_key": [
+      "contact_information"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 28,
+        "heading": "Key Departments"
+      }
+    ]
+  },
+  {
+    "id": "7e487320dbe9710c481b8c8e9d4073ac4f2330a2954a05a86c74391fed108257_4",
+    "text": "- College of Liberal Arts\n  - (781) 555-1210 | cola@cendara.edu\n- School of Engineering\n  - (781) 555-1310 | engineering@cendara.edu\n- School of Business and Economics\n  - (781) 555-1410 | business@cendara.edu\n- School of Natural Sciences\n  - (781) 555-1510 | sciences@cendara.edu\n- School of Education\n  - (781) 555-1610 | education@cendara.edu",
+    "path": "Cendara University Contact Information > College and School Contacts",
+    "doc_key": [
+      "contact_information"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "College and School Contacts"
+      }
+    ]
+  },
+  {
+    "id": "7e487320dbe9710c481b8c8e9d4073ac4f2330a2954a05a86c74391fed108257_5",
+    "text": "- Counseling Center: (781) 555-1050 | counseling@cendara.edu\n- Health Services: (781) 555-1060 | healthcenter@cendara.edu\n- International Student Office: (781) 555-1090 | iso@cendara.edu\n- Alumni Relations: (781) 555-1130 | alumni@cendara.edu",
+    "path": "Cendara University Contact Information > Additional Support Services",
+    "doc_key": [
+      "contact_information"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 63,
+        "heading": "Additional Support Services"
+      }
+    ]
+  },
+  {
+    "id": "7e487320dbe9710c481b8c8e9d4073ac4f2330a2954a05a86c74391fed108257_6",
+    "text": "- Facebook: facebook.com/CendaraUniversity (https://facebook.com/CendaraUniversity)\n- Twitter: @CendaraUniv (https://twitter.com/CendaraUniv)\n- Instagram: @cendarauniversity (https://instagram.com/cendarauniversity)\n- LinkedIn: linkedin.com/school/cendara-university (https://linkedin.com/school/cendara-university)",
+    "path": "Cendara University Contact Information > Social Media",
+    "doc_key": [
+      "contact_information"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 72,
+        "heading": "Social Media"
+      }
+    ]
+  },
+  {
+    "id": "7e487320dbe9710c481b8c8e9d4073ac4f2330a2954a05a86c74391fed108257_7",
+    "text": "For further assistance, please visit our Contact Us page (http://www.cendara.edu/contact) or call our main switchboard during business hours.",
+    "path": "Cendara University Contact Information",
+    "doc_key": [
+      "contact_information"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 79
+      }
+    ]
+  }
+]

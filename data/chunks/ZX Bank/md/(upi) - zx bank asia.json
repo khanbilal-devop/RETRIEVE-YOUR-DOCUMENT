@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a7ec618bf3ac964f57051ff0fb4ecc586ef8ddf01b072435189a649126de244c_1",
+    "text": "Unified Payments Interface (UPI) is a real-time payment system that enables instant money transfer between bank accounts using your mobile device. ZX Bank Asia supports UPI seamlessly through its mobile app for fast, secure, and convenient transactions.",
+    "path": "Unified Payments Interface (UPI) – ZX Bank Asia",
+    "doc_key": [
+      "(upi) - zx bank asia"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Unified Payments Interface (UPI) – ZX Bank Asia"
+      }
+    ]
+  },
+  {
+    "id": "a7ec618bf3ac964f57051ff0fb4ecc586ef8ddf01b072435189a649126de244c_2",
+    "text": "- Instant, 24x7 money transfers via mobile devices\n- Single app for accessing multiple bank accounts\n- Easy transactions using mobile number, Virtual Payment Address (VPA), or QR codes\n- Used for: Fund transfer, bill payments, merchant payments, and more",
+    "path": "Unified Payments Interface (UPI) – ZX Bank Asia > 💡 What is UPI?",
+    "doc_key": [
+      "(upi) - zx bank asia"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 8,
+        "heading": "💡 What is UPI?"
+      }
+    ]
+  },
+  {
+    "id": "a7ec618bf3ac964f57051ff0fb4ecc586ef8ddf01b072435189a649126de244c_3",
+    "text": "1. Download the ZX Bank Asia App\n  - Available for: Android (#) and iOS (#)\n2. Login/Register\n  - Use mobile number registered with ZX Bank\n  - Complete e-KYC if not already done\n3. Go to UPI Section\n  - Tap 'UPI' icon or navigate via home screen\n4. Create or Link UPI ID (VPA)\n  - Example: yourname@zxbank\n  - Choose/set your UPI PIN for secure transactions\n5. Link Your ZX Bank Account\n  - Select the account to operate UPI with\n6. Set/Reset UPI PIN\n  - Authenticate with debit card details\n  - Set a 4/6-digit UPI PIN\n7. Ready to Use\n  - Start transacting, paying bills, transferring funds, and scanning UPI QR codes",
+    "path": "Unified Payments Interface (UPI) – ZX Bank Asia > 📱 How to Activate UPI with ZX Bank",
+    "doc_key": [
+      "(upi) - zx bank asia"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 17,
+        "heading": "📱 How to Activate UPI with ZX Bank"
+      }
+    ]
+  },
+  {
+    "id": "a7ec618bf3ac964f57051ff0fb4ecc586ef8ddf01b072435189a649126de244c_4",
+    "text": "- Transaction Type: Per Transaction | Limit: ₹1,00,000*\n- Transaction Type: Per Day (total) | Limit: ₹1,00,000* across all UPI transactions\n- Transaction Type: Max Transactions/Day | Limit: 20 transfers**\n*Limits as per NPCI & ZX Bank policies. Subject to change.\n**May vary based on customer risk profile and regulatory updates.",
+    "path": "Unified Payments Interface (UPI) – ZX Bank Asia > 🏦 UPI Daily Limits with ZX Bank",
+    "doc_key": [
+      "(upi) - zx bank asia"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 45,
+        "heading": "🏦 UPI Daily Limits with ZX Bank"
+      },
+      {
+        "line": 51,
+        "heading": "🏦 UPI Daily Limits with ZX Bank"
+      }
+    ]
+  },
+  {
+    "id": "a7ec618bf3ac964f57051ff0fb4ecc586ef8ddf01b072435189a649126de244c_5",
+    "text": "- In-App: Use 'Help & Support' section in ZX Bank Asia App > UPI\n- Call: ZX Bank Customer Care: 1800-XXX-XXXX (toll-free in India)\n- Email: upi.support@zxbank.asia\n- Chat: Ask \"Zia\" – ZX Bank's AI assistant – in the app for UPI help",
+    "path": "Unified Payments Interface (UPI) – ZX Bank Asia > 🛠️ UPI Customer Support",
+    "doc_key": [
+      "(upi) - zx bank asia"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 58,
+        "heading": "🛠️ UPI Customer Support"
+      }
+    ]
+  },
+  {
+    "id": "a7ec618bf3ac964f57051ff0fb4ecc586ef8ddf01b072435189a649126de244c_6",
+    "text": "Note:\n- UPI services currently available in India for ZX Bank account holders\n- For cross-border payments/remittances, use dedicated remittance options in the app",
+    "path": "Unified Payments Interface (UPI) – ZX Bank Asia",
+    "doc_key": [
+      "(upi) - zx bank asia"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 65
+      },
+      {
+        "line": 66
+      }
+    ]
+  },
+  {
+    "id": "a7ec618bf3ac964f57051ff0fb4ecc586ef8ddf01b072435189a649126de244c_7",
+    "text": "Last updated: June 2024",
+    "path": "Unified Payments Interface (UPI) – ZX Bank Asia",
+    "doc_key": [
+      "(upi) - zx bank asia"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71
+      }
+    ]
+  }
+]

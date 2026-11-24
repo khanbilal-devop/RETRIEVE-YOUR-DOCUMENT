@@ -1,0 +1,183 @@
+[
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_1",
+    "text": "The Velvera Nexus 1 Series is built for creators, developers, and productivity-first users. Featuring AI-first architecture powered by Velvera NeuralCore, this series delivers real-time offline intelligence, immersive visuals, and Velvera Studio — a complete AI productivity suite — preinstalled on every device.",
+    "path": "Velvera Nexus 1 Series — Specifications",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Velvera Nexus 1 Series — Specifications"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_2",
+    "text": "- Velvera Nexus 1 (256GB / 512GB)\n- Velvera Nexus 1 Pro (512GB / 1TB)",
+    "path": "Velvera Nexus 1 Series — Specifications > Model Variants",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Model Variants"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_3",
+    "text": "- Component: Launch Year | Specification: 2024\n- Component: Display | Specification: 6.6\" OLED, Full HD+ (2400 × 1080), HDR10, 120Hz, Gorilla Glass Victus\n- Component: Chipset | Specification: Velvera PrimeChip v2.7 (Octa-core, 3.1GHz)\n- Component: Neural Engine | Specification: Velvera NeuralCore X\n- Component: GPU | Specification: Custom AI-optimized\n- Component: OS | Specification: Velvera OS 3.0 (Android 14-based)\n- Component: Rear Cameras | Specification: 50MP (wide) + 16MP (ultra-wide) + 8MP (telephoto 3x OIS)\n- Component: Front Camera | Specification: 32MP f/2.0\n- Component: Video Recording | Specification: Up to 4K @ 60fps\n- Component: Battery | Specification: 5000mAh, 65W wired / 30W wireless / 10W reverse\n- Component: Connectivity | Specification: 5G SA/NSA, Wi-Fi 6E, BT 5.3, NFC, USB-C 3.2, Nano + eSIM\n- Component: Audio | Specification: Stereo Speakers, Dolby Atmos, Hi-Res audio formats supported\n- Component: Security | Specification: In-display optical fingerprint, AI Face Unlock\n- Component: Build | Specification: Aluminum frame, matte Gorilla Glass 6 back, IP68\n- Component: Sensors | Specification: Accelerometer, Gyro, Proximity, Compass, Barometer\n- Component: Colors | Specification: Obsidian Black, Aurora Blue, Ivory White",
+    "path": "Velvera Nexus 1 Series — Specifications > Velvera Nexus 1 (Standard Series) > Shared Specifications",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 18,
+        "heading": "Shared Specifications"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_4",
+    "text": "- On-device transcription (real-time + offline)\n- Auto-summary of meetings, calls, and notes\n- Smart Edit in gallery and notes\n- Always-On AI suggestions\n- AI portrait and photo enhancement",
+    "path": "Velvera Nexus 1 Series — Specifications > Velvera Nexus 1 (Standard Series) > AI Features (Standard)",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 39,
+        "heading": "AI Features (Standard)"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_5",
+    "text": "- Variant: Nexus 1 256GB | Storage: 256GB UFS 4 | RAM: 12GB | Price (INR / USD): ₹59,999 / $719\n- Variant: Nexus 1 512GB | Storage: 512GB UFS 4 | RAM: 12GB | Price (INR / USD): ₹67,999 / $819",
+    "path": "Velvera Nexus 1 Series — Specifications > Velvera Nexus 1 (Standard Series) > Velvera Nexus 1 Variants",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 47,
+        "heading": "Velvera Nexus 1 Variants"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_6",
+    "text": "Built for professionals, engineers, and creatives, the Nexus 1 Pro Series delivers top-tier specs, advanced AI, and pro-grade performance for productivity, photography, and development tasks.",
+    "path": "Velvera Nexus 1 Series — Specifications > Velvera Nexus 1 Pro Series",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "Velvera Nexus 1 Pro Series"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_7",
+    "text": "- Component: Launch Year | Specification: 2024\n- Component: Display | Specification: 6.8\" LTPO OLED, Quad HD+ (3200 × 1440), HDR10+, 1–120Hz, Gorilla Glass Victus 2\n- Component: Chipset | Specification: Velvera PrimeChip Ultra (Octa-core, 3.4GHz)\n- Component: Neural Engine | Specification: Velvera NeuralCore X+ (Dual-Core AI accelerator)\n- Component: GPU | Specification: Custom AI-accelerated graphics\n- Component: OS | Specification: Velvera OS 3.0 Pro (Android 14-based)\n- Component: Rear Cameras | Specification: 108MP (wide) + 24MP (ultra-wide) + 12MP (5x periscope OIS)\n- Component: Front Camera | Specification: 40MP f/1.8 AI Beauty Pro\n- Component: Video Recording | Specification: Up to 8K @ 30fps, 4K @ 120fps\n- Component: Battery | Specification: 5200mAh, 80W wired / 50W wireless / 15W reverse\n- Component: Connectivity | Specification: 5G (mmWave + sub-6), Wi-Fi 7, BT 5.4, USB-C 4.0 (Thunderbolt), NFC, Nano + eSIM\n- Component: Audio | Specification: Quad stereo speakers, Dolby Atmos Extreme, AptX Adaptive\n- Component: Security | Specification: Ultrasonic fingerprint sensor, NeuralCore Face Unlock\n- Component: Build | Specification: Aerospace-grade Titanium frame, IP69, Textured Gorilla Glass Victus 2\n- Component: Sensors | Specification: Accelerometer, Gyro, Proximity, Compass, Barometer, Thermometer, UWB\n- Component: Colors | Specification: Shadow Black, Arctic Silver, Solar Gold",
+    "path": "Velvera Nexus 1 Series — Specifications > Velvera Nexus 1 Pro Series > Shared Specifications",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 60,
+        "heading": "Shared Specifications"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_8",
+    "text": "- Live Note: multilingual transcription + real-time captioning\n- Smart Edit Pro: AI enhancements for docs, code, and media\n- Code inference & suggestion engine (dev-ready)\n- Contextual translation across all apps (multi-language)\n- On-device search, summarization, noise filtering, and voice control",
+    "path": "Velvera Nexus 1 Series — Specifications > Velvera Nexus 1 Pro Series > AI Features (Pro)",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 81,
+        "heading": "AI Features (Pro)"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_9",
+    "text": "- Variant: Nexus 1 Pro 512GB | Storage: 512GB UFS 4 | RAM: 16GB | Price (INR / USD): ₹74,999 / $899\n- Variant: Nexus 1 Pro 1TB | Storage: 1TB UFS 4 | RAM: 16GB | Price (INR / USD): ₹89,999 / $1,049",
+    "path": "Velvera Nexus 1 Series — Specifications > Velvera Nexus 1 Pro Series > Velvera Nexus 1 Pro Variants",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 89,
+        "heading": "Velvera Nexus 1 Pro Variants"
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_10",
+    "text": "- Velvera Nexus 1 / Nexus 1 Pro device\n- 65W / 80W Fast Charger (model-dependent)\n- USB-C to USB-C cable\n- Protective Case (clear)\n- SIM Ejector Tool\n- Quick Start Guide\nFor users focused on compact power, see the Velvera Edge Series. For flagship all-rounders, refer to the Velvera One Series and Ultra Series.",
+    "path": "Velvera Nexus 1 Series — Specifications > What’s in the Box",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 98,
+        "heading": "What’s in the Box"
+      },
+      {
+        "line": 107
+      }
+    ]
+  },
+  {
+    "id": "f83cb441aa5bfb4c4349f6803b9077064d2710ca724dc0bf961a30a26b25646f_11",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Velvera Nexus 1 Series — Specifications",
+    "doc_key": [
+      "velvera_nexus"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 109
+      },
+      {
+        "line": 111
+      }
+    ]
+  }
+]

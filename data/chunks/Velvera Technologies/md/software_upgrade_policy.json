@@ -1,0 +1,156 @@
+[
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_1",
+    "text": "Velvera smartphones run on VelveraOS, a secure, AI-enhanced, and privacy-respecting operating system optimized for performance and longevity. Software support and feature availability vary by series to best match user needs — whether you're a power user, gamer, student, or first-time smartphone owner.",
+    "path": "Software & Updates",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Software & Updates"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_2",
+    "text": "- Feature: VelveraOS Version | One Series: 6.0 | Edge Series: 6.0 | Nexus Series: 6.0 AI | Core Series: 6.0 Lite | Start Series: 6.0 Go\n- Feature: AI Assistant | One Series: Advanced | Edge Series: Standard | Nexus Series: Premium | Core Series: Basic | Start Series: No\n- Feature: Gaming Mode | One Series: Pro | Edge Series: Standard | Nexus Series: Pro | Core Series: Basic | Start Series: No\n- Feature: Desktop Mode | One Series: ✅ | Edge Series: ✅ | Nexus Series: ✅ | Core Series: ❌ | Start Series: ❌\n- Feature: Multi-Window Multitask | One Series: Advanced | Edge Series: Standard | Nexus Series: Advanced | Core Series: Basic | Start Series: No\n- Feature: Privacy Dashboard | One Series: ✅ | Edge Series: ✅ | Nexus Series: ✅ | Core Series: ✅ | Start Series: ✅\n- Feature: Live Translate | One Series: Yes | Edge Series: Yes | Nexus Series: Yes (AI-enhanced) | Core Series: No | Start Series: No\n- Feature: Velvera Studio (AI Suite) | One Series: Included | Edge Series: Optional | Nexus Series: Pre-installed | Core Series: Not Supported | Start Series: Not Supported",
+    "path": "Software & Updates > VelveraOS Features by Series",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "VelveraOS Features by Series"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_3",
+    "text": "Velvera ensures long-term device viability through a clear and transparent software lifecycle policy.",
+    "path": "Software & Updates > Update Timeline",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 24,
+        "heading": "Update Timeline"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_4",
+    "text": "- Series: One Series | Major OS Updates: 4 Years | Security Patches: 5 Years | End of Official Support: December 2030\n- Series: Edge Series | Major OS Updates: 3 Years | Security Patches: 4 Years | End of Official Support: October 2029\n- Series: Nexus Series | Major OS Updates: 4 Years | Security Patches: 5 Years | End of Official Support: December 2030\n- Series: Core Series | Major OS Updates: 2 Years | Security Patches: 3 Years | End of Official Support: August 2028\n- Series: Start Series | Major OS Updates: 1 Year | Security Patches: 2 Years | End of Official Support: March 2027\nUpdate Frequency:",
+    "path": "Software & Updates > Update Timeline",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Update Timeline"
+      },
+      {
+        "line": 34,
+        "heading": "Update Timeline"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_5",
+    "text": "- OS Upgrades: Annually in Q2 (e.g., VelveraOS 7 in Q2 2026)\n- Security Patches: Monthly (1st Monday of each month)\n- Bug Fixes & App Updates: Rolled out bi-weekly via Velvera System Updater",
+    "path": "Software & Updates > Update Timeline",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "Update Timeline"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_6",
+    "text": "All updates are:\n- Digitally Signed and delivered over encrypted channels.\n- Privacy-Audited and Ad-Free, in line with Velvera’s no-tracking policy.\n- Rolled out in phased batches, with staged rollout status viewable in the \"Updates\" section of the device settings.",
+    "path": "Software & Updates > Software Integrity & Privacy",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 43,
+        "heading": "Software Integrity & Privacy"
+      },
+      {
+        "line": 44,
+        "heading": "Software Integrity & Privacy"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_7",
+    "text": "- For Power Users: Stick with One or Nexus series to enjoy full feature continuity through OS 7, 8, and beyond.\n- For Budget Users: Core and Start Series still get essential security updates and performance enhancements for peace of mind.\n- For Developers & Early Adopters: Nexus series gets Beta Access to future VelveraOS versions through the Velvera Labs Program.",
+    "path": "Software & Updates > Upgrade Recommendations",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 52,
+        "heading": "Upgrade Recommendations"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_8",
+    "text": "For update status by region or model, visit: velvera.com/os-updates (https://velvera.com/os-updates)",
+    "path": "Software & Updates > Upgrade Recommendations",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "Upgrade Recommendations"
+      }
+    ]
+  },
+  {
+    "id": "b5892fb7a59ad8541cd94da650598984c5ee1f31b31c76558c63a7d7494fbc04_9",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Software & Updates",
+    "doc_key": [
+      "software_upgrade_policy"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 59
+      },
+      {
+        "line": 61
+      }
+    ]
+  }
+]

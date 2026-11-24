@@ -1,0 +1,401 @@
+[
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_1",
+    "text": "The Bachelor of Nursing Science (B.N.S.) program at Cendara University is designed to prepare students for registered nurse licensure and to excel in modern clinical environments. The curriculum blends rigorous academic coursework with hands-on experience in partner hospitals.",
+    "path": "Cendara University > Department of Nursing > B.N.S. in Nursing — Course Catalog",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "B.N.S. in Nursing — Course Catalog"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_2",
+    "text": "Below is a comprehensive catalog of undergraduate courses offered by the Department of Nursing. Each listing includes the course title, code, detailed description, prerequisites, and credit hours.",
+    "path": "Cendara University > Department of Nursing > B.N.S. in Nursing — Course Catalog",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 7,
+        "heading": "B.N.S. in Nursing — Course Catalog"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_3",
+    "text": "- Description:\n  - Introduces the core principles, history, and ethical standards of the nursing profession. Emphasizes patient-centered care, communication skills, and professional conduct.\n- Prerequisites: None\n- Credit Hours: 3",
+    "path": "Cendara University > Year 1 Courses > NURS 101: Foundations of Professional Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 14,
+        "heading": "NURS 101: Foundations of Professional Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_4",
+    "text": "- Description:\n  - Focuses on the structural and functional organization of the human body with emphasis on the musculoskeletal, nervous, and cardiovascular systems.\n- Prerequisites: None\n- Credit Hours: 4",
+    "path": "Cendara University > Year 1 Courses > NURS 111: Human Anatomy & Physiology I",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 22,
+        "heading": "NURS 111: Human Anatomy & Physiology I"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_5",
+    "text": "- Description:\n  - Continues NURS 111 with a focus on the respiratory, digestive, urinary, and reproductive systems. Includes laboratory sessions and case studies.\n- Prerequisites: NURS 111\n- Credit Hours: 4",
+    "path": "Cendara University > Year 1 Courses > NURS 112: Human Anatomy & Physiology II",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "NURS 112: Human Anatomy & Physiology II"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_6",
+    "text": "- Description:\n  - Offers theoretical and practical foundations in physical assessment techniques, including the use of diagnostic equipment and patient interviewing.\n- Prerequisites: NURS 111 (may be taken concurrently)\n- Credit Hours: 3",
+    "path": "Cendara University > Year 1 Courses > NURS 120: Health Assessment",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "NURS 120: Health Assessment"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_7",
+    "text": "- Description:\n  - Provides supervised clinical experiences in a laboratory and hospital setting. Focus on basic nursing skills such as hygiene, infection control, and patient mobility.\n- Prerequisites: NURS 101, NURS 111\n- Credit Hours: 3",
+    "path": "Cendara University > Year 1 Courses > NURS 130: Introduction to Clinical Practice",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 46,
+        "heading": "NURS 130: Introduction to Clinical Practice"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_8",
+    "text": "- Description:\n  - Explores major concepts of microbiology relevant to nursing, including pathogens, infection control, and the immune response.\n- Prerequisites: NURS 112\n- Credit Hours: 3",
+    "path": "Cendara University > Year 2 Courses > NURS 210: Microbiology for Nurses",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "NURS 210: Microbiology for Nurses"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_9",
+    "text": "- Description:\n  - Covers fundamental pharmacological principles, drug classifications, and medication administration safety for entry-level nurses.\n- Prerequisites: NURS 112\n- Credit Hours: 3",
+    "path": "Cendara University > Year 2 Courses > NURS 212: Pharmacology I",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "NURS 212: Pharmacology I"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_10",
+    "text": "- Description:\n  - Introduces the care of adults experiencing common medical and surgical health problems. Integrates knowledge across body systems with emphasis on assessment and intervention.\n- Prerequisites: NURS 120, NURS 130\n- Credit Hours: 4",
+    "path": "Cendara University > Year 2 Courses > NURS 220: Medical-Surgical Nursing I",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 72,
+        "heading": "NURS 220: Medical-Surgical Nursing I"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_11",
+    "text": "- Description:\n  - Builds on NURS 220 by addressing complex health conditions and advanced intervention techniques. Includes simulation and clinical rotations.\n- Prerequisites: NURS 220\n- Credit Hours: 4",
+    "path": "Cendara University > Year 2 Courses > NURS 221: Medical-Surgical Nursing II",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "NURS 221: Medical-Surgical Nursing II"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_12",
+    "text": "- Description:\n  - Examines the principles and processes of nursing research. Develops skills in appraising evidence and applying findings to clinical decisions.\n- Prerequisites: NURS 120, NURS 130\n- Credit Hours: 3",
+    "path": "Cendara University > Year 2 Courses > NURS 231: Nursing Research & Evidence-Based Practice",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 88,
+        "heading": "NURS 231: Nursing Research & Evidence-Based Practice"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_13",
+    "text": "- Description:\n  - Covers nursing care for children and adolescents, including developmental stages, health promotion, and family-centered care.\n- Prerequisites: NURS 220\n- Credit Hours: 3",
+    "path": "Cendara University > Year 3 Courses > NURS 310: Pediatric Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 98,
+        "heading": "NURS 310: Pediatric Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_14",
+    "text": "- Description:\n  - Examines nursing roles in prenatal, perinatal, and postpartum care. Addresses family planning, newborn assessment, and reproductive health issues.\n- Prerequisites: NURS 221\n- Credit Hours: 3",
+    "path": "Cendara University > Year 3 Courses > NURS 312: Maternity & Women’s Health Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 106,
+        "heading": "NURS 312: Maternity & Women’s Health Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_15",
+    "text": "- Description:\n  - Detailed study of altered physiological processes in major body systems as related to disease processes encountered in nursing practice.\n- Prerequisites: NURS 112\n- Credit Hours: 3",
+    "path": "Cendara University > Year 3 Courses > NURS 319: Pathophysiology",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 114,
+        "heading": "NURS 319: Pathophysiology"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_16",
+    "text": "- Description:\n  - Focuses on therapeutic communication, psychiatric disorders, and evidence-based interventions in mental health settings.\n- Prerequisites: NURS 221\n- Credit Hours: 3",
+    "path": "Cendara University > Year 3 Courses > NURS 330: Mental Health Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 122,
+        "heading": "NURS 330: Mental Health Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_17",
+    "text": "- Description:\n  - Prepares students to employ health promotion and disease prevention strategies, conduct assessments, and plan interventions in community settings.\n- Prerequisites: NURS 231\n- Credit Hours: 3",
+    "path": "Cendara University > Year 3 Courses > NURS 340: Community Health Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 130,
+        "heading": "NURS 340: Community Health Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_18",
+    "text": "- Description:\n  - Explores concepts of leadership, management theory, and interprofessional teamwork in healthcare settings. Includes quality improvement and resource management.\n- Prerequisites: NURS 221, Senior Standing\n- Credit Hours: 3",
+    "path": "Cendara University > Year 4 Courses > NURS 410: Leadership & Management in Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 140,
+        "heading": "NURS 410: Leadership & Management in Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_19",
+    "text": "- Description:\n  - Provides intensive clinical immersion across multiple specialties, including critical care, emergency, and surgical nursing. Students work closely with assigned preceptors in partner hospitals.\n- Prerequisites: NURS 221, completion of all previous clinical courses\n- Credit Hours: 6",
+    "path": "Cendara University > Year 4 Courses > NURS 420: Advanced Clinical Practicum",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 148,
+        "heading": "NURS 420: Advanced Clinical Practicum"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_20",
+    "text": "- Description:\n  - Studies ethical dilemmas in nursing practice, legal responsibilities, and the impact of health policy on patient care and professional standards.\n- Prerequisites: NURS 231\n- Credit Hours: 3",
+    "path": "Cendara University > Year 4 Courses > NURS 431: Nursing Ethics & Health Policy",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 156,
+        "heading": "NURS 431: Nursing Ethics & Health Policy"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_21",
+    "text": "- Description:\n  - Integrates learning from all previous coursework and clinical experiences. Preparation for the national licensure exam (NCLEX-RN) and transition to professional practice.\n- Prerequisites: NURS 420 (may be taken concurrently)\n- Credit Hours: 3",
+    "path": "Cendara University > Year 4 Courses > NURS 440: Capstone Seminar",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 164,
+        "heading": "NURS 440: Capstone Seminar"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_22",
+    "text": "- Description:\n  - Explores the unique healthcare needs and challenges in nursing older adults. Addresses chronic disease management, cognitive decline, and elder care advocacy.\n- Prerequisites: NURS 221\n- Credit Hours: 3",
+    "path": "Cendara University > Elective Courses > NURS 350: Gerontological Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 174,
+        "heading": "NURS 350: Gerontological Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_23",
+    "text": "- Description:\n  - Introduces digital health records, data management, and the role of informatics in evidence-based nursing practice.\n- Prerequisites: NURS 231\n- Credit Hours: 2",
+    "path": "Cendara University > Elective Courses > NURS 355: Nursing Informatics",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 182,
+        "heading": "NURS 355: Nursing Informatics"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_24",
+    "text": "- Description:\n  - Prepares students to manage nursing care in disaster, crisis, and mass casualty situations. Focuses on triage, crisis intervention, and readiness planning.\n- Prerequisites: NURS 221\n- Credit Hours: 2",
+    "path": "Cendara University > Elective Courses > NURS 360: Disaster & Emergency Nursing",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 190,
+        "heading": "NURS 360: Disaster & Emergency Nursing"
+      }
+    ]
+  },
+  {
+    "id": "4ec0fe502915ba1e096bd242c2e8cdc5c0d76216cd0e846d7547fea39ee27f7b_25",
+    "text": "For further information on course sequencing, graduation requirements, and departmental policies, please refer to the B.N.S. Student Handbook or contact the Department of Nursing at nursing@cendara.edu.",
+    "path": "Cendara University > Elective Courses",
+    "doc_key": [
+      "dept_of_nursing_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 197
+      }
+    ]
+  }
+]

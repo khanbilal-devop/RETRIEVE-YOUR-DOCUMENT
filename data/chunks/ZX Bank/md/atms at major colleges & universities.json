@@ -1,0 +1,338 @@
+[
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_1",
+    "text": "Below is a suggested list of prominent ZX Bank ATM locations installed at major universities and colleges in key Indian cities. Each entry gives institution name and ATM address. (Note: Sample addresses provided. Please verify onsite for actual machine placement.)",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise)",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank ATMs at Major Colleges & Universities (City-Wise)"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_2",
+    "text": "- Indian Institute of Technology Bombay (IIT Bombay)\n  - Address: Main Gate, IIT Bombay, Powai, Mumbai, MH 400076\n- University of Mumbai (Kalina Campus)\n  - Address: Near Administrative Block, Kalina, Santacruz East, Mumbai, MH 400098",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Mumbai, Maharashtra",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 8,
+        "heading": "Mumbai, Maharashtra"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_3",
+    "text": "- University of Delhi (North Campus)\n  - Address: Outside Central Library, North Campus, Delhi 110007\n- Jawaharlal Nehru University (JNU)\n  - Address: Near Sabarmati Hostel, JNU Campus, New Mehrauli Road, Delhi 110067",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Delhi, National Capital Territory",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 17,
+        "heading": "Delhi, National Capital Territory"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_4",
+    "text": "- Indian Institute of Science (IISc)\n  - Address: Near Main Canteen, IISc Campus, Malleshwaram, Bangalore, KA 560012\n- Christ University\n  - Address: Main Entrance Gate, Hosur Road, Bangalore, KA 560029",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Bangalore (Bengaluru), Karnataka",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Bangalore (Bengaluru), Karnataka"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_5",
+    "text": "- Indian Institute of Technology (IIT Hyderabad)\n  - Address: Hostel Block, Kandi, Sangareddy, Hyderabad, TS 502285\n- Osmania University\n  - Address: Arts College Road, Osmania University Campus, Hyderabad, TS 500007",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Hyderabad, Telangana",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "Hyderabad, Telangana"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_6",
+    "text": "- Indian Institute of Technology Madras (IITM)\n  - Address: Near Himalaya Mess, IIT Madras, Chennai, TN 600036\n- Loyola College\n  - Address: Main Gate, Sterling Road, Nungambakkam, Chennai, TN 600034",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Chennai, Tamil Nadu",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "Chennai, Tamil Nadu"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_7",
+    "text": "- Jadavpur University\n  - Address: Gate No. 4, Jadavpur University, Raja S C Mallick Road, Kolkata, WB 700032\n- University of Calcutta (College Street Campus)\n  - Address: Near Main Auditorium, 87/1 College St, Kolkata, WB 700073",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Kolkata, West Bengal",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "Kolkata, West Bengal"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_8",
+    "text": "- Savitribai Phule Pune University\n  - Address: Main Entrance, Ganeshkhind, Pune, MH 411007\n- Symbiosis International University (Viman Nagar Campus)\n  - Address: Near Library, Symbiosis Viman Nagar Campus, Pune, MH 411014",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Pune, Maharashtra",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 62,
+        "heading": "Pune, Maharashtra"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_9",
+    "text": "- Indian Institute of Management Ahmedabad (IIMA)\n  - Address: Gate 1, IIM Ahmedabad, Vastrapur, Ahmedabad, GJ 380015\n- Gujarat University\n  - Address: Vice-Chancellor Block, University Area, Ahmedabad, GJ 380009",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Ahmedabad, Gujarat",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71,
+        "heading": "Ahmedabad, Gujarat"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_10",
+    "text": "- Sardar Vallabhbhai National Institute of Technology (SVNIT)\n  - Address: Administrative Block, SVNIT Campus, Ichchhanath, Surat, GJ 395007\n- Veer Narmad South Gujarat University (VNSGU)\n  - Address: Main Gate, Udhna Magdalla Rd, Surat, GJ 395007",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Surat, Gujarat",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "Surat, Gujarat"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_11",
+    "text": "- Malaviya National Institute of Technology (MNIT)\n  - Address: Front Gate, JLN Marg, Jaipur, RJ 302017\n- University of Rajasthan\n  - Address: Near Law College, JLN Marg, Jaipur, RJ 302004",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Jaipur, Rajasthan",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 89,
+        "heading": "Jaipur, Rajasthan"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_12",
+    "text": "- Indian Institute of Management Lucknow (IIML)\n  - Address: Hostels Entrance, Prabandh Nagar, Sitapur Road, Lucknow, UP 226013\n- University of Lucknow\n  - Address: Near Main Library, University Road, Lucknow, UP 226007",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Lucknow, Uttar Pradesh",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 98,
+        "heading": "Lucknow, Uttar Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_13",
+    "text": "- Indian Institute of Technology Kanpur (IIT Kanpur)\n  - Address: Hall of Residence Area, Kalyanpur, IIT Kanpur, UP 208016\n- Chhatrapati Shahu Ji Maharaj University (Kanpur University)\n  - Address: Admin Block, Kanpur University Campus, Kalyanpur, Kanpur, UP 208024",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Kanpur, Uttar Pradesh",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 107,
+        "heading": "Kanpur, Uttar Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_14",
+    "text": "- Visvesvaraya National Institute of Technology (VNIT)\n  - Address: Main Gate, South Ambazari Road, Nagpur, MH 440010\n- Rashtrasant Tukadoji Maharaj Nagpur University\n  - Address: Vice-Chancellor’s Office, Amravati Road, Nagpur, MH 440033",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Nagpur, Maharashtra",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 116,
+        "heading": "Nagpur, Maharashtra"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_15",
+    "text": "- Indian Institute of Technology Indore (IIT Indore)\n  - Address: Hostel Complex, Khandwa Road, Simrol, Indore, MP 453552\n- Devi Ahilya Vishwavidyalaya (DAVV)\n  - Address: Takshila Campus, Khandwa Road, Indore, MP 452017",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Indore, Madhya Pradesh",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 125,
+        "heading": "Indore, Madhya Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_16",
+    "text": "- Indian Institute of Science Education and Research (IISER) Bhopal\n  - Address: IISER Main Gate, Bhauri, Bhopal, MP 462066\n- Barkatullah University\n  - Address: Main Admin Office, Hoshangabad Rd, Bhopal, MP 462026",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Bhopal, Madhya Pradesh",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 134,
+        "heading": "Bhopal, Madhya Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_17",
+    "text": "- Indian Institute of Management Visakhapatnam (IIM Vizag)\n  - Address: IIM Main Gate, Andhra University Campus, Visakhapatnam, AP 530003\n- GITAM (Gandhi Institute of Technology and Management)\n  - Address: GITAM Main Building, Rushikonda, Visakhapatnam, AP 530045",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Visakhapatnam, Andhra Pradesh",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 143,
+        "heading": "Visakhapatnam, Andhra Pradesh"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_18",
+    "text": "- Indian Institute of Technology Patna (IIT Patna)\n  - Address: Hostel Area, Bihta, Patna, BR 801106\n- Patna University\n  - Address: Main Campus Gate, Ashok Rajpath, Patna, BR 800005",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Patna, Bihar",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 152,
+        "heading": "Patna, Bihar"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_19",
+    "text": "- The Maharaja Sayajirao University of Baroda\n  - Address: Fatehgunj Main Gate, University Rd, Vadodara, GJ 390002\n- Parul University\n  - Address: Main Gate, Limda, Waghodia, Vadodara, GJ 391760",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Vadodara (Baroda), Gujarat",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 161,
+        "heading": "Vadodara (Baroda), Gujarat"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_20",
+    "text": "- Punjab Agricultural University (PAU)\n  - Address: Near Students’ Counselling Centre, PAU, Ludhiana, PB 141004\n- Guru Nanak Dev Engineering College\n  - Address: Main Admin Block, Gill Park, Gill Road, Ludhiana, PB 141006",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Ludhiana, Punjab",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 170,
+        "heading": "Ludhiana, Punjab"
+      }
+    ]
+  },
+  {
+    "id": "a1fd07eca8d5a495031ba032921c76a2b82006526ef82bb9f9e58753094981ae_21",
+    "text": "- PSG College of Technology\n  - Address: Main Gate, Avinashi Road, Peelamedu, Coimbatore, TN 641004\n- Coimbatore Institute of Technology (CIT)\n  - Address: Admin Block, Avinashi Road, Civil Aerodrome Post, Coimbatore, TN 641014",
+    "path": "ZX Bank ATMs at Major Colleges & Universities (City-Wise) > Coimbatore, Tamil Nadu",
+    "doc_key": [
+      "atms at major colleges & universities"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 179,
+        "heading": "Coimbatore, Tamil Nadu"
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_1",
+    "text": "CloudWay 24 offers generous and convenient baggage allowances tailored to each cabin class, ensuring a comfortable and seamless journey for all passengers.",
+    "path": "CloudWay 24 Baggage Allowance Policy",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "CloudWay 24 Baggage Allowance Policy"
+      }
+    ]
+  },
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_2",
+    "text": "- Class: CloudLux (First) | Number of Bags: 2 | Max Weight (per bag): 10 kg each | Maximum Dimensions (L x W x H): 55 x 40 x 23 cm\n- Class: CloudElite (Business) | Number of Bags: 2 | Max Weight (per bag): 8 kg each | Maximum Dimensions (L x W x H): 55 x 40 x 23 cm\n- Class: CloudComfort (Premium Economy) | Number of Bags: 1 | Max Weight (per bag): 8 kg | Maximum Dimensions (L x W x H): 55 x 40 x 23 cm\n- Class: CloudSaver (Economy) | Number of Bags: 1 | Max Weight (per bag): 7 kg | Maximum Dimensions (L x W x H): 55 x 40 x 23 cm\nIn addition: 1 small personal item (laptop bag/handbag) per passenger is permitted.",
+    "path": "CloudWay 24 Baggage Allowance Policy > Cabin Baggage Allowance",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Cabin Baggage Allowance"
+      },
+      {
+        "line": 16,
+        "heading": "Cabin Baggage Allowance"
+      }
+    ]
+  },
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_3",
+    "text": "- Class: CloudLux (First) | Number of Bags: 3 | Max Weight (per bag): 32 kg | Total Allowance: 96 kg\n- Class: CloudElite (Business) | Number of Bags: 2 | Max Weight (per bag): 32 kg | Total Allowance: 64 kg\n- Class: CloudComfort (Premium Economy) | Number of Bags: 2 | Max Weight (per bag): 23 kg | Total Allowance: 46 kg\n- Class: CloudSaver (Economy) | Number of Bags: 1 | Max Weight (per bag): 23 kg | Total Allowance: 23 kg\nBags exceeding 158 cm (62 in) in total dimensions (L+W+H) or the permitted weight may incur excess baggage fees.",
+    "path": "CloudWay 24 Baggage Allowance Policy > Checked Baggage Allowance",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 22,
+        "heading": "Checked Baggage Allowance"
+      },
+      {
+        "line": 29,
+        "heading": "Checked Baggage Allowance"
+      }
+    ]
+  },
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_4",
+    "text": "- Excess Baggage: Can be pre-purchased at a discounted rate via the CloudWay24 app or website during booking or under \"Manage My Flight.\"\n- At Airport: Higher fees apply for additional or overweight baggage checked at the airport counter.\n- SkyPoints 24 Members: Elite tier members may enjoy additional free allowance—check your SkyPoints 24 tier benefits.",
+    "path": "CloudWay 24 Baggage Allowance Policy > Excess Baggage Policy",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "Excess Baggage Policy"
+      }
+    ]
+  },
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_5",
+    "text": "- Sporting equipment and musical instruments accepted as part of checked baggage allowance; items exceeding size/weight limits may attract charges.\n- Contact customer service for special arrangements or detailed advice.",
+    "path": "CloudWay 24 Baggage Allowance Policy > Special Baggage",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 43,
+        "heading": "Special Baggage"
+      }
+    ]
+  },
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_6",
+    "text": "- All baggage must be properly labeled with your name and contact information.\n- Carry-on luggage must fit in the overhead bin or under the seat.\n- Dangerous or prohibited items not allowed.",
+    "path": "CloudWay 24 Baggage Allowance Policy > Important Guidelines",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 50,
+        "heading": "Important Guidelines"
+      }
+    ]
+  },
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_7",
+    "text": "For the most up-to-date baggage rules and detailed FAQs, visit CloudWay24.com/Baggage (https://CloudWay24.com/Baggage) or check the \"Baggage Policy\" section in the CloudWay24 app.",
+    "path": "CloudWay 24 Baggage Allowance Policy > Important Guidelines",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 54,
+        "heading": "Important Guidelines"
+      }
+    ]
+  },
+  {
+    "id": "7b74f1eece94d2fc2c86a450d157efbd1e5f1942b2dc7cebd203009a0ab7b7e7_8",
+    "text": "Travel smooth. Travel CloudWay 24 – Seamless Skies, Global Reach.",
+    "path": "CloudWay 24 Baggage Allowance Policy",
+    "doc_key": [
+      "baggage allowance"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 57
+      }
+    ]
+  }
+]

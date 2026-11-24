@@ -1,0 +1,465 @@
+[
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_1",
+    "text": "Below is a comprehensive listing of all Mechanical Engineering courses offered for undergraduate (B.Eng.) and graduate (M.Eng.) students. Each entry includes the course code, title, description, prerequisites, and assigned credit hours.",
+    "path": "Cendara University > Department of Mechanical Engineering > Course Catalog > B.Eng./M.Eng. in Mechanical Engineering",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "B.Eng./M.Eng. in Mechanical Engineering"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_2",
+    "text": "Credits: 3\nDescription:\nAn overview of the field of mechanical engineering, including its history, fundamental principles, and modern applications. Topics include major subdisciplines, an introduction to engineering ethics, and industry practices.\nPrerequisites: None",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 101: Introduction to Mechanical Engineering",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 16,
+        "heading": "MECH 101: Introduction to Mechanical Engineering"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_3",
+    "text": "Credits: 4\nDescription:\nFundamental skills in technical drawing, computer-aided design (CAD), and blueprint reading. Introduction to CAD software for creating, annotating, and analyzing engineering designs.\nPrerequisites: None",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 111: Engineering Graphics & CAD",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 24,
+        "heading": "MECH 111: Engineering Graphics & CAD"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_4",
+    "text": "Credits: 4\nDescription:\nCovers the fundamentals of statics, including force systems, equilibrium, structural analysis, centroids, and moments of inertia. Designed for engineering problem-solving.\nPrerequisites: MATH 120 (Calculus I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 122: Engineering Mechanics I – Statics",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 32,
+        "heading": "MECH 122: Engineering Mechanics I – Statics"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_5",
+    "text": "Credits: 4\nDescription:\nStudy of particles and rigid bodies in motion, Newton’s laws, kinematics, kinetics, work and energy, impulse and momentum.\nPrerequisites: MECH 122 (Engineering Mechanics I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 123: Engineering Mechanics II – Dynamics",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 40,
+        "heading": "MECH 123: Engineering Mechanics II – Dynamics"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_6",
+    "text": "Credits: 3\nDescription:\nExplores the structures, properties, testing, and applications of metals, polymers, ceramics, and composites. Discussion of selection criteria for materials in mechanical systems.\nPrerequisites: CHEM 105 (General Chemistry I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 201: Materials Science for Engineers",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 48,
+        "heading": "MECH 201: Materials Science for Engineers"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_7",
+    "text": "Credits: 4\nDescription:\nIntroduces the first and second laws of thermodynamics, basic thermodynamic properties, simple systems, energy transformations, and entropy concepts.\nPrerequisites: PHYS 130 (General Physics I); MATH 121 (Calculus II)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 231: Thermodynamics I",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "MECH 231: Thermodynamics I"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_8",
+    "text": "Credits: 4\nDescription:\nStudy of fluids at rest and in motion, including properties, hydrostatics, conservation laws, and applications to engineering systems.\nPrerequisites: MECH 122 (Engineering Mechanics I), MECH 231 (Thermodynamics I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 241: Fluid Mechanics",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "MECH 241: Fluid Mechanics"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_9",
+    "text": "Credits: 3\nDescription:\nOverview of modern and traditional manufacturing processes such as casting, forming, machining, welding, and additive manufacturing. Laboratory demonstrations included.\nPrerequisites: MECH 201 (Materials Science)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 252: Manufacturing Processes",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 72,
+        "heading": "MECH 252: Manufacturing Processes"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_10",
+    "text": "Credits: 3\nDescription:\nApplication of CAM technologies, programming CNC machines, and process planning in manufacturing. Includes practical exercises using industry-standard CAM software.\nPrerequisites: MECH 111 (Engineering Graphics & CAD)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 263: Computer-Aided Manufacturing (CAM)",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "MECH 263: Computer-Aided Manufacturing (CAM)"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_11",
+    "text": "Credits: 4\nDescription:\nIntegration of mechanical, electrical, and computer systems in intelligent machines. Focus on microcontrollers, sensors, actuators, and system integration.\nPrerequisites: EECS 210 (Intro to Electronics), MECH 122 (Engineering Mechanics I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 272: Mechatronics",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 88,
+        "heading": "MECH 272: Mechatronics"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_12",
+    "text": "Credits: 4\nDescription:\nCovers stress and strain analysis, axial loading, bending, shear, torsion, deflection, and stability of structural members. Laboratory component included.\nPrerequisites: MECH 123 (Engineering Mechanics II), MECH 201 (Materials Science)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 321: Mechanics of Materials",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 96,
+        "heading": "MECH 321: Mechanics of Materials"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_13",
+    "text": "Credits: 4\nDescription:\nAdvanced concepts in thermodynamics, including cycles for power and refrigeration, mixtures, chemical reactions, and an introduction to heat transfer.\nPrerequisites: MECH 231 (Thermodynamics I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 331: Thermodynamics II",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 104,
+        "heading": "MECH 331: Thermodynamics II"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_14",
+    "text": "Credits: 4\nDescription:\nPrinciples of heat conduction, convection, and radiation with engineering applications. Includes numerical analysis of heat transfer problems.\nPrerequisites: MECH 231 (Thermodynamics I), MATH 222 (Differential Equations)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 342: Heat Transfer",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 112,
+        "heading": "MECH 342: Heat Transfer"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_15",
+    "text": "Credits: 3\nDescription:\nFundamental approaches in mechanical design, including analysis and selection of mechanical elements such as gears, shafts, and fasteners. Team-based design project.\nPrerequisites: MECH 321 (Mechanics of Materials)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 353: Mechanical Design I",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 120,
+        "heading": "MECH 353: Mechanical Design I"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_16",
+    "text": "Credits: 3\nDescription:\nAdvanced topics in product design, reliability, optimization techniques, and design for manufacturability. Capstone design project.\nPrerequisites: MECH 353 (Mechanical Design I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 354: Mechanical Design II",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 128,
+        "heading": "MECH 354: Mechanical Design II"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_17",
+    "text": "Credits: 3\nDescription:\nKinematics and dynamics of machines including linkages, cams, gears, and balancing of rotating and reciprocating masses.\nPrerequisites: MECH 123 (Engineering Mechanics II)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 371: Dynamics of Machinery",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 136,
+        "heading": "MECH 371: Dynamics of Machinery"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_18",
+    "text": "Credits: 2\nDescription:\nProposal and conceptual design phase of a major team-based engineering project. Emphasis on project planning, literature review, and ethics.\nPrerequisites: Senior standing in Mechanical Engineering",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 401: Senior Project I",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 144,
+        "heading": "MECH 401: Senior Project I"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_19",
+    "text": "Credits: 4\nDescription:\nCompletion and presentation of a team engineering project, including design, analysis, prototyping, and reporting.\nPrerequisites: MECH 401 (Senior Project I)",
+    "path": "Cendara University > Undergraduate Courses (B.Eng.) > MECH 402: Senior Project II",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 152,
+        "heading": "MECH 402: Senior Project II"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_20",
+    "text": "Credits: 3\nDescription:\nIn-depth exploration of thermodynamic theory for complex systems, including exergy analysis, multi-phase systems, and non-equilibrium thermodynamics.\nPrerequisites: MECH 331 (Thermodynamics II) or equivalent",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 510: Advanced Thermodynamics",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 162,
+        "heading": "MECH 510: Advanced Thermodynamics"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_21",
+    "text": "Credits: 3\nDescription:\nTheory and application of the finite element method for solving mechanical engineering problems in solid mechanics, heat transfer, and fluid flow.\nPrerequisites: MECH 321 (Mechanics of Materials); recommended: MATH 350 (Numerical Methods)",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 521: Finite Element Analysis",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 170,
+        "heading": "MECH 521: Finite Element Analysis"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_22",
+    "text": "Credits: 3\nDescription:\nPrinciples of robotics, manipulators, sensor integration, motion planning, and computer vision for automated mechanical systems. Industrial case studies included.\nPrerequisites: MECH 272 (Mechatronics) or consent of instructor",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 531: Robotics and Automation",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 178,
+        "heading": "MECH 531: Robotics and Automation"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_23",
+    "text": "Credits: 3\nDescription:\nCovers advanced fluid dynamics topics including compressible flow, boundary layers, turbulence modeling, and computational techniques.\nPrerequisites: MECH 241 (Fluid Mechanics)",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 542: Advanced Fluid Mechanics",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 186,
+        "heading": "MECH 542: Advanced Fluid Mechanics"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_24",
+    "text": "Credits: 3\nDescription:\nAnalysis of renewable energy systems, including solar, wind, geothermal, and bioenergy. Focus on engineering design and sustainability assessment.\nPrerequisites: MECH 331 (Thermodynamics II) or consent of instructor",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 556: Sustainable Energy Systems",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 194,
+        "heading": "MECH 556: Sustainable Energy Systems"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_25",
+    "text": "Credits: 3\nDescription:\nDynamic modeling and control of mechanical systems using classical and modern methods. Includes simulation and analysis using MATLAB/Simulink.\nPrerequisites: MECH 371 (Dynamics of Machinery); recommended: EECS 305 (Control Systems)",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 570: Mechanical Systems Control",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 202,
+        "heading": "MECH 570: Mechanical Systems Control"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_26",
+    "text": "Credits: 1\nDescription:\nWeekly seminars on current research topics in mechanical engineering. Participation in research discussions and presentations by faculty and guest speakers.\nPrerequisites: Graduate standing in Mechanical Engineering",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 590: Research Seminar in Mechanical Engineering",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 210,
+        "heading": "MECH 590: Research Seminar in Mechanical Engineering"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_27",
+    "text": "Credits: 2–4\nDescription:\nIndividual study or research under faculty supervision in an area of special interest to the student. Requires approval of supervising faculty and department chair.\nPrerequisites: Graduate standing; instructor consent",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 598: Independent Study",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 218,
+        "heading": "MECH 598: Independent Study"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_28",
+    "text": "Credits: 6\nDescription:\nOriginal research under the guidance of a faculty advisor, culminating in a written thesis and oral defense before a faculty committee.\nPrerequisites: Completion of at least 18 graduate credits; approval of thesis proposal",
+    "path": "Cendara University > Graduate Courses (M.Eng.) > MECH 599: Graduate Thesis",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 226,
+        "heading": "MECH 599: Graduate Thesis"
+      }
+    ]
+  },
+  {
+    "id": "1486514f61b78711502f4e26ce76544b1b148cd392c2f4e48bf4f0b59089b9f5_29",
+    "text": "For further information and course planning, please consult the Academic Advising Office or the Department of Mechanical Engineering at mecheng@cendara.edu.",
+    "path": "Cendara University > Graduate Courses (M.Eng.)",
+    "doc_key": [
+      "dept_of_mechanical_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 233
+      }
+    ]
+  }
+]

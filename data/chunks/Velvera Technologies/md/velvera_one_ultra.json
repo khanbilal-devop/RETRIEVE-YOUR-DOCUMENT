@@ -1,0 +1,196 @@
+[
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_1",
+    "text": "The Velvera One Ultra represents the pinnacle of Velvera’s smartphone innovation. With cutting-edge LTPO display technology, elite-level cameras with periscope zoom, and a rugged yet refined design, it is purpose-built for creators, professionals, and enthusiasts who demand the very best.",
+    "path": "Velvera One Ultra — Product Specifications > Overview",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 4,
+        "heading": "Overview"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_2",
+    "text": "- Variant: 512GB | RAM: 16GB | Internal Storage: 512GB | Price (INR / USD): ₹84,999 / $999\n- Variant: 1TB | RAM: 16GB | Internal Storage: 1TB | Price (INR / USD): ₹97,999 / $1,179\n- Variant: 2TB | RAM: 20GB | Internal Storage: 2TB | Price (INR / USD): ₹1,24,999 / $1,499",
+    "path": "Velvera One Ultra — Product Specifications > Storage & Pricing Variants",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 10,
+        "heading": "Storage & Pricing Variants"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_3",
+    "text": "- Series: Velvera One Ultra\n- Color Options: Titanium Gray, Deep Ocean Blue, Rose Gold, Midnight Black",
+    "path": "Velvera One Ultra — Product Specifications > General",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 20,
+        "heading": "General"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_4",
+    "text": "- Type: LTPO 2.0 AMOLED, HDR10+\n- Size: 6.9 inches\n- Refresh Rate: 1–144Hz adaptive\n- Resolution: 3200 × 1440 (QHD+)\n- Brightness: 1800 nits peak\n- Protection: Corning Gorilla Glass Victus 2 (front and back)",
+    "path": "Velvera One Ultra — Product Specifications > Display",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 27,
+        "heading": "Display"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_5",
+    "text": "- Frame: Aerospace-grade aluminum chassis\n- Front/Back: Corning Gorilla Glass Victus 2\n- Water Resistance: IP68 (submersion up to 1.5m for 30 mins)\n- Additional Durability: IP69K (high-pressure, high-temperature water and dust protection)\n- Certification: MIL-STD-810H ruggedization",
+    "path": "Velvera One Ultra — Product Specifications > Build & Durability",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "Build & Durability"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_6",
+    "text": "- Processor: VelveraX Elite SoC (Octa-core, 4nm, 3.3GHz performance cores)\n- GPU: Adreno V1000 Elite\n- Storage Type: UFS 4.0 (non-expandable)",
+    "path": "Velvera One Ultra — Product Specifications > Performance",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 48,
+        "heading": "Performance"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_7",
+    "text": "- Rear Camera Setup: Quad Camera + Periscope\n  - Main: 108MP f/1.6 with OIS\n  - Ultra-Wide: 16MP f/2.2, 123° FOV\n  - Telephoto: 12MP f/2.4, 3x Optical Zoom\n  - Periscope: 10MP f/3.5, 10x Optical Zoom, 100x Digital Zoom\n- Front Camera: 40MP f/2.0 with autofocus\n- Camera Features:\n  - AI-enhanced scene detection\n  - NightSight Ultra\n  - Cinematic Portrait & Video\n  - ProRAW and 8K HDR+ Video\n  - Super Steady mode",
+    "path": "Velvera One Ultra — Product Specifications > Camera",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "Camera"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_8",
+    "text": "- Battery Capacity: 5400mAh high-density Li-Po\n- Wired Charging: 65W Velvera HyperCharge (USB-C PD 3.1)\n- Wireless Charging: 50W Fast Wireless (Qi 2.0 certified)\n- Reverse Wireless Charging: 15W\n- Charging Time: 0–100% in ~36 minutes (wired)",
+    "path": "Velvera One Ultra — Product Specifications > Battery & Charging",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 73,
+        "heading": "Battery & Charging"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_9",
+    "text": "- 5G Bands: Global (Sub-6GHz and mmWave) with SA/NSA\n- SIM Slots: Dual Nano-SIM + eSIM support\n- Wi-Fi: Wi-Fi 7 (802.11be, tri-band)\n- Bluetooth: v5.4 with LE Audio, aptX Lossless\n- USB: USB-C 4.0 (40Gbps, DisplayPort Alt Mode)\n- NFC: Yes (full payment support)\n- GPS: L1+L5 Dual-band GNSS (A-GPS, GLONASS, Galileo, QZSS, BeiDou)\n- UWB: Yes (Ultra-Wideband for spatial tracking & secure sharing)",
+    "path": "Velvera One Ultra — Product Specifications > Connectivity",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 83,
+        "heading": "Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_10",
+    "text": "- Operating System: VelveraOS 2.0 (based on Android 14)\n- OS Updates: 4 years guaranteed\n- Security Updates: 5 years guaranteed\n- AI Features:\n  - Offline AI Assistant with context memory\n  - On-device generative summarization\n  - AI-enhanced camera post-processing\n  - Multimodal voice control\n  - Document scanner + translator (offline)",
+    "path": "Velvera One Ultra — Product Specifications > Software & Updates",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 96,
+        "heading": "Software & Updates"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_11",
+    "text": "- Adaptive 144Hz LTPO display with HDR10+ and 1800 nits brightness\n- Quad-lens camera system with 100x digital zoom & 8K HDR+ recording\n- Corning Gorilla Glass Victus 2 on both sides for elite durability\n- Aerospace-grade frame with IP68 + IP69K + MIL-STD-810H rating\n- Flagship-tier storage and memory (up to 2TB / 20GB RAM)\n- Reverse wireless charging and 50W wireless fast charge\n- AI-first design with local, privacy-respecting intelligence\n- USB 4.0 port with display out and ultra-fast data transfer\n- Long-term software commitment (4+5 years)",
+    "path": "Velvera One Ultra — Product Specifications > Special Features",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 110,
+        "heading": "Special Features"
+      }
+    ]
+  },
+  {
+    "id": "2c3da21576168e45038f06ab0697fa9533ded4402f0eb3404bd5c6064a4ef390_12",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Velvera One Ultra — Product Specifications",
+    "doc_key": [
+      "velvera_one_ultra"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 123
+      },
+      {
+        "line": 125
+      }
+    ]
+  }
+]

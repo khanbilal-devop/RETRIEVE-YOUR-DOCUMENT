@@ -1,0 +1,211 @@
+[
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_1",
+    "text": "Premium performance, perfect pocketability. The Edge series is ideal for users who prefer smaller phones without compromising on power.",
+    "path": "Velvera Edge Series — Product Specification",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 4,
+        "heading": "Velvera Edge Series — Product Specification"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_2",
+    "text": "- Series: Compact Series — Velvera Edge\n- Target Audience: Users preferring compact smartphones with flagship performance\n- Available Colors: Cloud Gray, Midnight Ocean, Sage Green, Coral Pink, Arctic White\n- Display Type: 6.1\" OLED, Full HD+ Resolution, HDR10+",
+    "path": "Velvera Edge Series — Product Specification > Overview",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 10,
+        "heading": "Overview"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_3",
+    "text": "- Display: 6.1-inch OLED, 2400x1080 pixels, 120Hz refresh rate, HDR10+\n- Processor: Octa-core Velvera V5 Chip (4x2.8GHz + 4x1.9GHz)\n- GPU: Mali V530 Advanced\n- Operating System: VelveraOS 14 (Android 14 based)\n- Rear Cameras:\n  - 50MP f/1.8 Wide\n  - 12MP f/2.2 Ultra-wide (120° FOV)\n- Front Camera: 16MP f/2.0\n- Battery: 4400mAh Li-Ion (non-removable)\n- Charging: 33W Fast Charging (wired); 15W wireless charging\n- Biometrics: Under-display fingerprint, Face Unlock\n- SIM: Dual Nano SIM, eSIM support\n- Audio: Stereo speakers, Dolby Atmos, No 3.5mm jack\n- Build: Aluminum frame, Gorilla Glass 7 front & rear, IP68 water/dust resistant\n- Connectivity: 5G SA/NSA, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C 3.1\n- Dimensions: 145.6 x 68.9 x 7.89 mm\n- Weight: 162g\n- Other: Haptic feedback engine, Linear vibration motor",
+    "path": "Velvera Edge Series — Product Specification > Velvera Edge (128GB / 256GB) > Common Features",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "Common Features"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_4",
+    "text": "- RAM: 8GB LPDDR5\n- Storage: 128GB UFS 3.1\n- Battery: 4400mAh\n- Price: ₹42,999 ($519)",
+    "path": "Velvera Edge Series — Product Specification > Velvera Edge (128GB / 256GB) > Variants > Velvera Edge 128GB",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 46,
+        "heading": "Velvera Edge 128GB"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_5",
+    "text": "- RAM: 8GB LPDDR5\n- Storage: 256GB UFS 3.1\n- Battery: 4400mAh\n- Price: ₹47,999 ($579)",
+    "path": "Velvera Edge Series — Product Specification > Velvera Edge (128GB / 256GB) > Variants > Velvera Edge 256GB",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "Velvera Edge 256GB"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_6",
+    "text": "- Processor: V5+ AI-Tuned SoC (4x3.0GHz + 4x2.2GHz, enhanced for AI performance)\n- GPU: Mali V535 AI-Enhanced\n- RAM: 12GB LPDDR5X\n- Main Camera: Additional 8MP f/2.4 Telephoto with OIS (3x Optical Zoom)\n- Battery: 4600mAh Li-Ion (non-removable)\n- Charging: 45W Fast Charging (wired); 18W wireless charging\n- OS: VelveraOS 14 Pro (exclusive AI features)\n- Audio: Enhanced stereo with Hi-Res audio support",
+    "path": "Velvera Edge Series — Product Specification > Velvera Edge Pro (256GB / 512GB) > Common Upgrades Over Standard Edge",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "Common Upgrades Over Standard Edge"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_7",
+    "text": "- Storage: 256GB UFS 3.1\n- Battery: 4600mAh\n- Price: ₹54,999 ($659)",
+    "path": "Velvera Edge Series — Product Specification > Velvera Edge Pro (256GB / 512GB) > Variants > Velvera Edge Pro 256GB",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 77,
+        "heading": "Velvera Edge Pro 256GB"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_8",
+    "text": "- Storage: 512GB UFS 4.0\n- Battery: 4600mAh\n- Price: ₹61,999 ($749)",
+    "path": "Velvera Edge Series — Product Specification > Velvera Edge Pro (256GB / 512GB) > Variants > Velvera Edge Pro 512GB",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 83,
+        "heading": "Velvera Edge Pro 512GB"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_9",
+    "text": "- Sensors: Accelerometer, Gyroscope, Proximity, Ambient Light, Magnetometer, Barometer\n- Security: Secure enclave for biometric & payments\n- Software Updates: 3 years OS + 4 years security patches\n- In-Box Accessories: 33W/45W charger (model-dependent), USB-C cable, SIM ejector, Quick Start guide, translucent cover",
+    "path": "Velvera Edge Series — Product Specification > Additional Features (All Variants)",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 91,
+        "heading": "Additional Features (All Variants)"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_10",
+    "text": "- Model: Velvera Edge 128GB | Processor: V5 Octa-core | RAM: 8GB | Storage: 128GB | Battery: 4400mAh | Rear Cameras: 50MP wide + 12MP ultra-wide | Fast Charging: 33W | Price (INR/USD): ₹42,999 / $519\n- Model: Velvera Edge 256GB | Processor: V5 Octa-core | RAM: 8GB | Storage: 256GB | Battery: 4400mAh | Rear Cameras: 50MP wide + 12MP ultra-wide | Fast Charging: 33W | Price (INR/USD): ₹47,999 / $579\n- Model: Velvera Edge Pro 256GB | Processor: V5+ AI-Tuned SoC | RAM: 12GB | Storage: 256GB | Battery: 4600mAh | Rear Cameras: 50MP wide + 12MP UW + 8MP telephoto+OIS | Fast Charging: 45W | Price (INR/USD): ₹54,999 / $659\n- Model: Velvera Edge Pro 512GB | Processor: V5+ AI-Tuned SoC | RAM: 12GB | Storage: 512GB | Battery: 4600mAh | Rear Cameras: 50MP wide + 12MP UW + 8MP telephoto+OIS | Fast Charging: 45W | Price (INR/USD): ₹61,999 / $749",
+    "path": "Velvera Edge Series — Product Specification > Model Comparison Table",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 100,
+        "heading": "Model Comparison Table"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_11",
+    "text": "- Certification: BIS, CE, FCC, RoHS\n- Warranty: 1 year manufacturer warranty, 6 months for accessories",
+    "path": "Velvera Edge Series — Product Specification > Certification & Warranty",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 111,
+        "heading": "Certification & Warranty"
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_12",
+    "text": "Note: Availability, specifications, and prices may vary by region.",
+    "path": "Velvera Edge Series — Product Specification",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 116
+      }
+    ]
+  },
+  {
+    "id": "cbfffad16c485de442323ff8f8792caf8072fae4aca3a9982cf98ec4b759eab7_13",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Velvera Edge Series — Product Specification",
+    "doc_key": [
+      "velvera_edge"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 120
+      },
+      {
+        "line": 122
+      }
+    ]
+  }
+]

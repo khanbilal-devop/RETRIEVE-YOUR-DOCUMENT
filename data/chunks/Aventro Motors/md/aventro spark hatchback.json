@@ -1,0 +1,145 @@
+[
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_1",
+    "text": "Welcome to the official specifications page for the Aventro Spark, a stylish, compact, and efficient hatchback brought to you by Aventro Motors Pvt. Ltd.",
+    "path": "Aventro Spark Hatchback",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Aventro Spark Hatchback"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_2",
+    "text": "The Spark Hatchback is designed for city comfort, agility, and fuel efficiency, all while being packed with modern features. Whether you opt for the practical Base, feature-rich X, or the technologically advanced ZX variant, you get reliability—a true value for your family.",
+    "path": "Aventro Spark Hatchback > Overview",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Overview"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_3",
+    "text": "- Parameter: Engine Options | Description: Petrol / Diesel / Electric / Hybrid\n- Parameter: Transmission | Description: 5-Speed Manual / Automated Manual\n- Parameter: Fuel Tank Capacity | Description: 40 Litres (IC engine variants)\n- Parameter: Boot Space | Description: 280 Litres\n- Parameter: Seating | Description: 5\n- Parameter: Smart Features | Description: See Variants Section\n- Parameter: Safety | Description: Dual Airbags, ABS, EBD (all trims)\n- Parameter: Dimensions (LxWxH) | Description: 3810 x 1680 x 1515 mm\n- Parameter: Wheels | Description: Alloy (X & ZX) / Steel (Base)",
+    "path": "Aventro Spark Hatchback > Specifications",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 15,
+        "heading": "Specifications"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_4",
+    "text": "- LED Headlamps and Tail Lamps (ZX only)\n- Premium Fabric or Leather Seats (ZX)\n- Push Button Start (X & ZX)\n- Rear Parking Sensors (All trims)\n- Cruise Control (X & ZX)\n- Automatic Climate Control (X & ZX)\n- 11-inch Infotainment Touchscreen (X & ZX)\n- Harman Audio System (ZX only)",
+    "path": "Aventro Spark Hatchback > Features (Highlights)",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 31,
+        "heading": "Features (Highlights)"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_5",
+    "text": "- Variant: Base | Fuel Type: Petrol | Price (Lakh, Ex-Showroom): 4.9 | Major Features: Standard Infotainment, Manual AC, Dual Airbags, Central Locking\n- Variant: X | Fuel Type: Petrol | Price (Lakh, Ex-Showroom): 5.4 | Major Features: 11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels, Reverse Parking Camera\n- Variant: ZX | Fuel Type: Petrol | Price (Lakh, Ex-Showroom): 5.9 | Major Features: 11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, LED Lights\n- Variant: Base | Fuel Type: Diesel | Price (Lakh, Ex-Showroom): 6.9 | Major Features: Standard Infotainment, Manual AC, Dual Airbags, Central Locking\n- Variant: X | Fuel Type: Diesel | Price (Lakh, Ex-Showroom): 7.4 | Major Features: 11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels, Reverse Parking Camera\n- Variant: ZX | Fuel Type: Diesel | Price (Lakh, Ex-Showroom): 7.9 | Major Features: 11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, LED Lights\n- Variant: Base | Fuel Type: Electric | Price (Lakh, Ex-Showroom): 11.9 | Major Features: Standard Infotainment, E-ABS, Regenerative Brakes, Dual Airbags\n- Variant: X | Fuel Type: Electric | Price (Lakh, Ex-Showroom): 12.4 | Major Features: 11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels, Fast Charging\n- Variant: ZX | Fuel Type: Electric | Price (Lakh, Ex-Showroom): 12.9 | Major Features: 11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, Fast Charging, LED Lights\n- Variant: Base | Fuel Type: Hybrid | Price (Lakh, Ex-Showroom): 8.4 | Major Features: Standard Infotainment, Dual Airbags, Central Locking\n- Variant: X | Fuel Type: Hybrid | Price (Lakh, Ex-Showroom): 8.9 | Major Features: 11-inch Infotainment, ADAS Level 1, Automatic Climate, Alloy Wheels\n- Variant: ZX | Fuel Type: Hybrid | Price (Lakh, Ex-Showroom): 9.4 | Major Features: 11-inch Infotainment, Harman System, 360° Camera, ADAS Level 2, Leather Seats, LED Lights",
+    "path": "Aventro Spark Hatchback > Variants & Pricing",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "Variants & Pricing"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_6",
+    "text": "- X Variant:\n  - 11-inch touchscreen infotainment system\n  - ADAS Level 1 driver assists (auto emergency braking, rear collision warning)\n  - Automatic Climate control\n  - Alloy Wheels\n- ZX Variant:\n  - 11-inch touchscreen with Harman sound system\n  - 360° Surround View Camera\n  - ADAS Level 2 (includes lane keep assist, adaptive cruise control)\n  - Leather seats\n  - Premium LED lighting",
+    "path": "Aventro Spark Hatchback > Special Variant Features",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 63,
+        "heading": "Special Variant Features"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_7",
+    "text": "- Class-leading safety and infotainment\n- Multiple powertrains to suit every need\n- Lowest cost of ownership in its segment",
+    "path": "Aventro Spark Hatchback > Why Spark?",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "Why Spark?"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_8",
+    "text": "Aventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com\nWebsite: www.aventromotors.com (http://www.aventromotors.com)",
+    "path": "Aventro Spark Hatchback > Contact",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 88,
+        "heading": "Contact"
+      }
+    ]
+  },
+  {
+    "id": "5ed9bfdcf280496b7a2235bb5617bee8793b15f4d90c396b1b6f975563a0c8dc_9",
+    "text": "Experience the Spark. Drive innovation, comfort, and safety.",
+    "path": "Aventro Spark Hatchback",
+    "doc_key": [
+      "aventro spark hatchback"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 96
+      }
+    ]
+  }
+]

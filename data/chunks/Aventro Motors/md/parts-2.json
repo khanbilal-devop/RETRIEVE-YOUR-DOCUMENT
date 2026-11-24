@@ -1,0 +1,167 @@
+[
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_1",
+    "text": "Parts List & Industry Standard Prices\nBelow are typical details and industry average prices (2024) for commonly replaced automotive parts, applicable to Aventro as well as most mainstream passenger vehicles in India. Prices may vary by make/model, specification, and market.",
+    "path": "Aventro Motors Pvt. Ltd.",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 2,
+        "heading": "Aventro Motors Pvt. Ltd."
+      },
+      {
+        "line": 4,
+        "heading": "Aventro Motors Pvt. Ltd."
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_2",
+    "text": "- Description: Filters airborne particles from entering the engine, crucial for clean air intake and engine health.\n- Average Market Price: ₹500 – ₹1,200",
+    "path": "Aventro Motors Pvt. Ltd. > 1. Air Filter",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "1. Air Filter"
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_3",
+    "text": "- Description: Removes contaminants from engine oil to protect engine internals and maintain lubrication quality.\n- Average Market Price: ₹300 – ₹800",
+    "path": "Aventro Motors Pvt. Ltd. > 2. Oil Filter",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 13,
+        "heading": "2. Oil Filter"
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_4",
+    "text": "- Description: Delivers fuel to engine cylinders in precise amounts for efficient combustion.\n- Average Market Price: ₹2,000 – ₹6,000 (per injector)\n- Note: Most vehicles have 3–4 injectors (petrol); diesels may have more and be higher-priced.",
+    "path": "Aventro Motors Pvt. Ltd. > 3. Fuel Injector",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 17,
+        "heading": "3. Fuel Injector"
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_5",
+    "text": "- Description: Initiates ignition of the fuel-air mixture in petrol engines.\n- Average Market Price: ₹200 – ₹600 (per spark plug)\n- Note: Number required depends on engine (typically 3–4 for small cars, up to 6–8 for high-end/premium).",
+    "path": "Aventro Motors Pvt. Ltd. > 4. Spark Plug",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 22,
+        "heading": "4. Spark Plug"
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_6",
+    "text": "- Description: Lightweight, stylish wheels improving aesthetics and sometimes performance.\n- Average Market Price: ₹4,000 – ₹10,000 (per wheel; depends on size 13”–17” and design)\n- Note: Premium or OEM alloys for SUVs and sedans can cost more.",
+    "path": "Aventro Motors Pvt. Ltd. > 5. Alloy Wheels",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 27,
+        "heading": "5. Alloy Wheels"
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_7",
+    "text": "- Description: Main front lights for visibility and road safety; may be halogen, LED, or projector types.\n- Average Market Price:\n  - Halogen: ₹2,000 – ₹4,500 (per unit)\n  - LED/Projector: ₹5,000 – ₹15,000 (per unit)\n- Note: Price varies by technology and vehicle segment.",
+    "path": "Aventro Motors Pvt. Ltd. > 6. Headlamps",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 32,
+        "heading": "6. Headlamps"
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_8",
+    "text": "- Description: Rear light assemblies including brake, indicator, and reversing lights.\n- Average Market Price: ₹1,500 – ₹5,000 (per unit)\n- Note: LED tail lamp units and assembly with dynamic indicators may cost more.",
+    "path": "Aventro Motors Pvt. Ltd. > 7. Tail Lamps",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 39,
+        "heading": "7. Tail Lamps"
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_9",
+    "text": "Disclaimer:\n- All prices above are approximate (as of 2024) and for standard parts.\n- Prices are subject to GST and labor charges may be extra.\n- For Aventro OEM pricing or specific vehicle compatibility, please contact your nearest Aventro Service Center or refer to your vehicle manual.",
+    "path": "Aventro Motors Pvt. Ltd.",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 45
+      },
+      {
+        "line": 46
+      }
+    ]
+  },
+  {
+    "id": "8542fca7088bda1fb6ba33fcfdeb1e7894476bc8a3a2009847d4615811817402_10",
+    "text": "Contact & Service\nAventro Motors Pvt. Ltd.\nAventro Tower, Sector 18, Gurgaon, Haryana - 122018, India\nContact: +91 124 1234567\nEmail: info@aventromotors.com\nFind a Service Center Near You → (#)",
+    "path": "Aventro Motors Pvt. Ltd.",
+    "doc_key": [
+      "parts-2"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 52
+      }
+    ]
+  }
+]

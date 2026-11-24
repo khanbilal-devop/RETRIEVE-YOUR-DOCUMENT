@@ -1,0 +1,56 @@
+[
+  {
+    "id": "8ffa1ac89c57f2e2f6550b56e2a61eb9834b1071cba5551969ba951ca6ce0569_1",
+    "text": "ZX Bank provides convenient banking access across Bangladesh through its growing ATM network. Below is a list of our ATM locations and addresses:\n- No.: 1 | City: Dhaka | Address: Plot 12, Gulshan Avenue, Gulshan-2, Dhaka-1212\n- No.: 2 | City: Dhaka | Address: 101 Motijheel Commercial Area, Dhaka-1000\n- No.: 3 | City: Chattogram | Address: 33 Agrabad C/A, Chattogram-4100\n- No.: 4 | City: Sylhet | Address: 15 Zindabazar, Sylhet-3100\n- No.: 5 | City: Khulna | Address: 55 Upper Jessore Road, Khulna-9100\n- No.: 6 | City: Rajshahi | Address: 8 Boalia, Rajshahi-6000\n- No.: 7 | City: Barisal | Address: 21 Sadar Road, Barisal-8200\n- No.: 8 | City: Rangpur | Address: 40 Station Road, Rangpur-5400\n- No.: 9 | City: Mymensingh | Address: 73 Kachijhuli, Mymensingh-2200\n- No.: 10 | City: Cumilla | Address: 92 Kandirpar, Cumilla-3500\n- No.: 11 | City: Narayanganj | Address: 7 Tanbazar, Narayanganj-1400\n- No.: 12 | City: Gazipur | Address: 65 Joydebpur, Gazipur-1700\n- No.: 13 | City: Bogura | Address: 20 Sherpur Road, Bogura-5800\n- No.: 14 | City: Jessore | Address: 13 Monihar More, Jessore-7400\n- No.: 15 | City: Savar | Address: 44 Thana Road, Savar, Dhaka-1340\n- No.: 16 | City: Sirajganj | Address: 77 Station Road, Sirajganj-6700\n- No.: 17 | City: Tangail | Address: 11 Pouroshova Road, Tangail-1900\n- No.: 18 | City: Pabna | Address: 29 Hazi Ahmed Road, Pabna-6600\nNeed Help?\nLocate your nearest ATM with the ZX Bank Asia App (#) or visit www.zxbank.asia (http://www.zxbank.asia)",
+    "path": "ZX Bank – Bangladesh ATM Locations",
+    "doc_key": [
+      "bangladesh atm locations"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank – Bangladesh ATM Locations"
+      },
+      {
+        "line": 5,
+        "heading": "ZX Bank – Bangladesh ATM Locations"
+      },
+      {
+        "line": 26,
+        "heading": "ZX Bank – Bangladesh ATM Locations"
+      }
+    ]
+  },
+  {
+    "id": "8ffa1ac89c57f2e2f6550b56e2a61eb9834b1071cba5551969ba951ca6ce0569_2",
+    "text": "For 24/7 support:\n📞 Bangladesh Helpline: 16236\n✉️ Email: support.bd@zxbank.asia",
+    "path": "",
+    "doc_key": [
+      "bangladesh atm locations"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 31
+      }
+    ]
+  },
+  {
+    "id": "8ffa1ac89c57f2e2f6550b56e2a61eb9834b1071cba5551969ba951ca6ce0569_3",
+    "text": "Last updated: June 2024",
+    "path": "",
+    "doc_key": [
+      "bangladesh atm locations"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35
+      }
+    ]
+  }
+]

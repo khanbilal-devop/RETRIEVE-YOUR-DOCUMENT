@@ -1,0 +1,369 @@
+[
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_1",
+    "text": "- Credits: 3\n- Description:\n  - Introduction to chemical principles including atomic structure, bonding, stoichiometry, and periodic properties. Laboratory work emphasizes basic techniques, data analysis, and safety.\n- Prerequisites: None",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 101: General Chemistry I",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 10,
+        "heading": "CHEM 101: General Chemistry I"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_2",
+    "text": "- Credits: 3\n- Description:\n  - Continuation of CHEM 101. Topics include chemical equilibria, acids and bases, thermodynamics, kinetics, and an introduction to electrochemistry. Laboratory includes quantitative analysis and experimentation.\n- Prerequisites: CHEM 101",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 102: General Chemistry II",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 18,
+        "heading": "CHEM 102: General Chemistry II"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_3",
+    "text": "- Credits: 3\n- Description:\n  - Study of the structure, nomenclature, reactivity, and synthesis of aliphatic and aromatic hydrocarbons, alcohols, and halides. Emphasis on reaction mechanisms and stereochemistry. Laboratory explores organic synthesis and purification techniques.\n- Prerequisites: CHEM 102",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 201: Organic Chemistry I",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "CHEM 201: Organic Chemistry I"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_4",
+    "text": "- Credits: 3\n- Description:\n  - A deeper exploration of organic chemistry covering carbonyl compounds, amines, biomolecules, and advanced reaction mechanisms. Laboratory components focus on multi-step syntheses, spectroscopy, and qualitative organic analysis.\n- Prerequisites: CHEM 201",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 202: Organic Chemistry II",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "CHEM 202: Organic Chemistry II"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_5",
+    "text": "- Credits: 4\n- Description:\n  - Comprehensive examination of quantitative chemical analysis, including gravimetric, volumetric, and instrumental methods. Laboratory experience with titrations, spectrophotometry, and chromatography.\n- Prerequisites: CHEM 102",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 205: Analytical Chemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 42,
+        "heading": "CHEM 205: Analytical Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_6",
+    "text": "- Credits: 3\n- Description:\n  - Fundamentals of inorganic chemistry: atomic structure, periodic trends, bonding theories, acid-base chemistry, coordination compounds. Laboratory includes synthesis and characterization of inorganic complexes.\n- Prerequisites: CHEM 102",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 210: Inorganic Chemistry I",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 50,
+        "heading": "CHEM 210: Inorganic Chemistry I"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_7",
+    "text": "- Credits: 3\n- Description:\n  - Thermodynamics, gases, phase equilibria, and properties of solutions. Laboratory incorporates experimental determination of thermodynamic properties and data analysis.\n- Prerequisites: CHEM 205, MATH 201 (Calculus I)",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 301: Physical Chemistry I",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 58,
+        "heading": "CHEM 301: Physical Chemistry I"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_8",
+    "text": "- Credits: 3\n- Description:\n  - Kinetics, quantum chemistry, molecular spectroscopy, and statistical thermodynamics. Laboratory includes experiments on reaction rates and spectroscopic measurements.\n- Prerequisites: CHEM 301",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 302: Physical Chemistry II",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 66,
+        "heading": "CHEM 302: Physical Chemistry II"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_9",
+    "text": "- Credits: 4\n- Description:\n  - Advanced techniques in chemical analysis using spectroscopy, chromatography, electrochemistry, and mass spectrometry. Hands-on laboratory training with modern analytical instruments.\n- Prerequisites: CHEM 205",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 320: Instrumental Methods of Analysis",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 74,
+        "heading": "CHEM 320: Instrumental Methods of Analysis"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_10",
+    "text": "- Credits: 3\n- Description:\n  - Principles of biochemistry focusing on proteins, enzymes, metabolism, and nucleic acids. Laboratory component includes enzyme assays and molecular techniques.\n- Prerequisites: CHEM 202",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 350: Biochemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 82,
+        "heading": "CHEM 350: Biochemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_11",
+    "text": "- Credits: 3\n- Description:\n  - In-depth study of transition metal chemistry, organometallics, solid-state structures, and bioinorganic processes. Students conduct advanced laboratory synthesis and characterization.\n- Prerequisites: CHEM 210",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 401: Advanced Inorganic Chemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 90,
+        "heading": "CHEM 401: Advanced Inorganic Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_12",
+    "text": "- Credits: 2\n- Description:\n  - Training in research methodology, experimental design, literature review, data interpretation, and scientific communication. Students develop an independent research proposal.\n- Prerequisites: Junior standing in Chemistry",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 410: Research Methods in Chemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 98,
+        "heading": "CHEM 410: Research Methods in Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_13",
+    "text": "- Credits: 6\n- Description:\n  - Capstone research project undertaken under faculty supervision. Students conduct original research, write a formal thesis, and present their findings to the department.\n- Prerequisites: CHEM 410, Senior standing",
+    "path": "Cendara University Course Catalog > Undergraduate Courses (B.Sc. in Chemistry) > CHEM 495: Senior Thesis",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 106,
+        "heading": "CHEM 495: Senior Thesis"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_14",
+    "text": "- Credits: 4\n- Description:\n  - Synthesis of complex organic molecules, asymmetric catalysis, and retrosynthetic analysis. Emphasis on literature review and advanced reaction mechanisms. Laboratory involves multi-step synthetic routes and purification.\n- Prerequisites: Admission to M.Sc. program; undergraduate Organic Chemistry",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 511: Advanced Organic Synthesis",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 116,
+        "heading": "CHEM 511: Advanced Organic Synthesis"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_15",
+    "text": "- Credits: 3\n- Description:\n  - Instruction in NMR, IR, MS, UV-Vis, and X-ray crystallography for structural determination. Laboratory focuses on sample preparation and data interpretation for research contexts.\n- Prerequisites: Graduate standing",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 521: Spectroscopic Methods",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 124,
+        "heading": "CHEM 521: Spectroscopic Methods"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_16",
+    "text": "- Credits: 3\n- Description:\n  - Methods and software for quantum chemical calculations, molecular modeling, and simulation of chemical systems. Application to molecular structure and reaction mechanism problems.\n- Prerequisites: Physical Chemistry (undergraduate)",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 531: Computational Chemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 132,
+        "heading": "CHEM 531: Computational Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_17",
+    "text": "- Credits: 3\n- Description:\n  - Recent advances in analytical techniques, miniature sensors, environmental and clinical analysis. Laboratory includes projects using advanced instrumentation and data evaluation.\n- Prerequisites: Analytical Chemistry (undergraduate)",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 541: Advanced Analytical Chemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 140,
+        "heading": "CHEM 541: Advanced Analytical Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_18",
+    "text": "- Credits: 3\n- Description:\n  - The chemistry of metal-carbon bonds and applications in catalysis, materials, and biological systems. Includes critical reading of primary literature and a seminar component.\n- Prerequisites: Inorganic Chemistry (undergraduate)",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 551: Organometallic Chemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 148,
+        "heading": "CHEM 551: Organometallic Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_19",
+    "text": "- Credits: 2\n- Description:\n  - Study of non-covalent interactions, host-guest systems, and molecular recognition. Discussion-based seminar with literature presentations and review writing.\n- Prerequisites: Graduate standing",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 560: Topics in Supramolecular Chemistry",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 156,
+        "heading": "CHEM 560: Topics in Supramolecular Chemistry"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_20",
+    "text": "- Credits: 1\n- Description:\n  - Weekly presentations by students, faculty, and visiting scholars on current research topics in chemistry. Students are required to present at least once during their program.\n- Prerequisites: Graduate standing",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 611: Research Seminar",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 164,
+        "heading": "CHEM 611: Research Seminar"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_21",
+    "text": "- Credits: 12 (variable)\n- Description:\n  - Independent, faculty-guided research culminating in the defense of an original thesis. Students conduct experimental, theoretical, or computational research and present their findings at a departmental seminar.\n- Prerequisites: Completion of at least 18 credits of graduate coursework in Chemistry",
+    "path": "Cendara University Course Catalog > Graduate Courses (M.Sc. in Chemistry) > CHEM 699: Master's Thesis Research",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 172,
+        "heading": "CHEM 699: Master's Thesis Research"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_22",
+    "text": "- CHEM 1XX, 2XX: Introductory and foundational undergraduate courses\n- CHEM 3XX, 4XX: Advanced undergraduate and capstone courses\n- CHEM 5XX, 6XX: Graduate courses",
+    "path": "Cendara University Course Catalog > Key to Course Codes",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 181,
+        "heading": "Key to Course Codes"
+      }
+    ]
+  },
+  {
+    "id": "de1e52320cd26ae6b28a102b03d19c418c3dabbbb7874430a687d915247708fe_23",
+    "text": "For further details regarding course sequencing, electives, or individualized study options, please contact the Office of the Registrar (registrar@cendara.edu) or the Department of Chemistry (chem.dept@cendara.edu).",
+    "path": "Cendara University Course Catalog",
+    "doc_key": [
+      "dept_of_chemistry_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 187
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8_1",
+    "text": "If you suspect or identify a fraudulent transaction on your ZX Bank account, follow these steps immediately to secure your funds and resolve the issue.",
+    "path": "How to Report a Fraud Transaction at ZX Bank",
+    "doc_key": [
+      "fraud transaction"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "How to Report a Fraud Transaction at ZX Bank"
+      }
+    ]
+  },
+  {
+    "id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8_2",
+    "text": "- Hotline (24x7):\n  - India: 1800 123 9876\n  - Sri Lanka: +94 11 2345678\n  - Bangladesh: +880 9612 345678\n  - Bhutan: +975 2 345678\n  - Nepal: +977 1 2345678\n- Email: fraudreport@zxbank.asia\n- Mobile App: Go to ZX Bank Asia app → Support → Report Fraud",
+    "path": "How to Report a Fraud Transaction at ZX Bank > Step 1: Contact ZX Bank Immediately",
+    "doc_key": [
+      "fraud transaction"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Step 1: Contact ZX Bank Immediately"
+      }
+    ]
+  },
+  {
+    "id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8_3",
+    "text": "- Via Mobile App or NetBanking:\n  - Go to “Card Management” or “Account Services”\n  - Select “Block/Card Hotlisting” or “Freeze Account”\n  - Confirm the action",
+    "path": "How to Report a Fraud Transaction at ZX Bank > Step 2: Block Your Card or Account (If Applicable)",
+    "doc_key": [
+      "fraud transaction"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "Step 2: Block Your Card or Account (If Applicable)"
+      }
+    ]
+  },
+  {
+    "id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8_4",
+    "text": "When reporting, be ready with the following:\n- Your account number/User ID\n- Date and time of the suspicious transaction\n- Transaction amount and details\n- Any SMS/email alerts received\n- Screenshots or documentation (if available)",
+    "path": "How to Report a Fraud Transaction at ZX Bank > Step 3: Gather Key Information",
+    "doc_key": [
+      "fraud transaction"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 32,
+        "heading": "Step 3: Gather Key Information"
+      },
+      {
+        "line": 33,
+        "heading": "Step 3: Gather Key Information"
+      }
+    ]
+  },
+  {
+    "id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8_5",
+    "text": "- In Branch: Visit your nearest ZX Bank branch and submit a written complaint.\n- Online:\n  - Use NetBanking > Service Requests > Dispute Transaction\n  - Email a formal complaint to fraudreport@zxbank.asia",
+    "path": "How to Report a Fraud Transaction at ZX Bank > Step 4: File a Written Complaint",
+    "doc_key": [
+      "fraud transaction"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 43,
+        "heading": "Step 4: File a Written Complaint"
+      }
+    ]
+  },
+  {
+    "id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8_6",
+    "text": "- ZX Bank will provide a reference number for your complaint.\n- You can track progress via the app (Support > Track Requests) or by calling the hotline.\n- ZX Bank targets resolution within 10 working days.",
+    "path": "How to Report a Fraud Transaction at ZX Bank > Step 5: Follow Up & Track Resolution",
+    "doc_key": [
+      "fraud transaction"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 52,
+        "heading": "Step 5: Follow Up & Track Resolution"
+      }
+    ]
+  },
+  {
+    "id": "d58790a13f4ee73140a2957e8e5e5a1d76264df218ca90e84b0213930cce99f8_7",
+    "text": "- Never share PIN, OTP, or passwords with anyone.\n- Activate transaction alerts via SMS and Email.\n- Regularly review your account statements.\n- For urgent blocking, use the “Block Instantly” option in the app.\nYour safety is our priority. Report suspicious activities as soon as possible to minimize risk.",
+    "path": "How to Report a Fraud Transaction at ZX Bank > Extra Tips",
+    "doc_key": [
+      "fraud transaction"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 60,
+        "heading": "Extra Tips"
+      },
+      {
+        "line": 67
+      }
+    ]
+  }
+]

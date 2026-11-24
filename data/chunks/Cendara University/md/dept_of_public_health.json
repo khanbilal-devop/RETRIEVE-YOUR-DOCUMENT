@@ -1,0 +1,514 @@
+[
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_1",
+    "text": "Credits: 3\nPrerequisites: None\nDescription:\nA foundational survey of public health principles, history, and the role of public health in society. Topics include epidemiological methods, health systems, disease prevention, and community engagement.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 101 – Introduction to Public Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 15,
+        "heading": "PH 101 – Introduction to Public Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_2",
+    "text": "Credits: 3\nPrerequisites: None\nDescription:\nExplores global trends in morbidity and mortality, the impact of globalization on health, and major international health organizations. Students will examine case studies from the Global South and North.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 110 – Global Health Perspectives",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "PH 110 – Global Health Perspectives"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_3",
+    "text": "Credits: 4\nPrerequisites: PH 101\nDescription:\nAnalysis of policy-making processes, organizational structure of healthcare systems, and principles of management in public health settings. Students will evaluate the effectiveness of local, national, and global health policies.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 120 – Health Policy and Management",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 31,
+        "heading": "PH 120 – Health Policy and Management"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_4",
+    "text": "Credits: 4\nPrerequisites: PH 101, PH 110\nDescription:\nIntroduction to concepts and methods in epidemiology, including study design, measures of disease frequency, and outbreak investigation. Application of epidemiological reasoning to current public health issues.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 201 – Epidemiology I",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 39,
+        "heading": "PH 201 – Epidemiology I"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_5",
+    "text": "Credits: 4\nPrerequisites: PH 101 or MAT 100\nDescription:\nCovers descriptive and inferential statistical methods relevant to public health research. Students use statistical software to analyze public health data and interpret findings.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 215 – Biostatistics",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 47,
+        "heading": "PH 215 – Biostatistics"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_6",
+    "text": "Credits: 3\nPrerequisites: PH 101\nDescription:\nFocuses on physical, chemical, and biological factors that affect human health. Topics include air and water quality, environmental toxins, and regulation of environmental health risks.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 230 – Environmental Health Science",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 55,
+        "heading": "PH 230 – Environmental Health Science"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_7",
+    "text": "Credits: 3\nPrerequisites: PH 101\nDescription:\nInvestigates theories and strategies for promoting healthy behaviors among populations, with emphasis on program design, social determinants of health, and behavioral change models.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 260 – Health Promotion and Behavior",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 63,
+        "heading": "PH 260 – Health Promotion and Behavior"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_8",
+    "text": "Credits: 3\nPrerequisites: Completion of at least 75 credits; Department approval\nDescription:\nStructured fieldwork experience in a community or public health organization. Students apply academic knowledge to practical challenges, culminating in a reflective report and presentation.",
+    "path": "Cendara University > B.Sc. in Public Health > Core Required Courses > PH 350 – Practicum in Public Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71,
+        "heading": "PH 350 – Practicum in Public Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_9",
+    "text": "Credits: 3\nPrerequisites: PH 201\nDescription:\nExamines epidemiological methods specific to infectious disease. Students analyze patterns, transmission dynamics, and intervention strategies for diseases such as HIV, tuberculosis, and COVID-19.",
+    "path": "Cendara University > B.Sc. in Public Health > Elective Courses > PH 320 – Infectious Disease Epidemiology",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 83,
+        "heading": "PH 320 – Infectious Disease Epidemiology"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_10",
+    "text": "Credits: 3\nPrerequisites: PH 201\nDescription:\nAddresses epidemiology of non-communicable diseases including cardiovascular disease, diabetes, and cancer. Focus on surveillance, risk factor analysis, and prevention strategies.",
+    "path": "Cendara University > B.Sc. in Public Health > Elective Courses > PH 325 – Chronic Disease Epidemiology",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 91,
+        "heading": "PH 325 – Chronic Disease Epidemiology"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_11",
+    "text": "Credits: 3\nPrerequisites: PH 230\nDescription:\nIntroduction to hazards in the workplace and strategies for risk mitigation. Topics include occupational diseases, workplace safety legislation, and occupational health program implementation.",
+    "path": "Cendara University > B.Sc. in Public Health > Elective Courses > PH 331 – Occupational Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 99,
+        "heading": "PH 331 – Occupational Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_12",
+    "text": "Credits: 3\nPrerequisites: PH 101\nDescription:\nExplores public health issues affecting women, infants, and children. Emphasis on health disparities, program development, and policy interventions.",
+    "path": "Cendara University > B.Sc. in Public Health > Elective Courses > PH 340 – Maternal and Child Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 107,
+        "heading": "PH 340 – Maternal and Child Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_13",
+    "text": "- PH 405 – Advanced Epidemiologic Methods (Credits: 3)\n  - Prerequisites: PH 201, PH 215\n  - Coverage of advanced study designs, data analysis, and interpretation in epidemiological research. Weekly lab sessions include hands-on data analysis.\n- PH 416 – Spatial Epidemiology (Credits: 3)\n  - Prerequisites: PH 201\n  - Application of geographical information systems (GIS) in public health for mapping and analyzing disease trends spatially.",
+    "path": "Cendara University > B.Sc. in Public Health > Concentration Courses > Epidemiology Concentration",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 118,
+        "heading": "Epidemiology Concentration"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_14",
+    "text": "- PH 410 – Health Economics (Credits: 3)\n  - Prerequisites: PH 120\n  - Economic analysis of health systems, cost-effectiveness in public health, and resource allocation in health care.\n- PH 418 – Comparative Health Systems (Credits: 3)\n  - Prerequisites: PH 120\n  - Comparison of international health care systems, evaluation of policy reforms, and analysis of best practices.",
+    "path": "Cendara University > B.Sc. in Public Health > Concentration Courses > Health Policy Concentration",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 128,
+        "heading": "Health Policy Concentration"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_15",
+    "text": "- PH 420 – Community Assessment and Intervention (Credits: 3)\n  - Prerequisites: PH 260\n  - Methods for community-based health assessment, planning, and interventions. Emphasis on participatory research and needs assessment.\n- PH 430 – Program Planning and Evaluation (Credits: 3)\n  - Prerequisites: PH 260\n  - Introduction to designing, implementing, and evaluating public health programs within communities.",
+    "path": "Cendara University > B.Sc. in Public Health > Concentration Courses > Community Health Concentration",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 138,
+        "heading": "Community Health Concentration"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_16",
+    "text": "Credits: 3\nPrerequisites: Senior standing, completion of core courses\nDescription:\nIntegrative course focusing on analysis and synthesis of public health knowledge. Students complete a significant project or research paper addressing an emerging public health issue.",
+    "path": "Cendara University > B.Sc. in Public Health > Capstone > PH 499 – Senior Seminar in Public Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 153,
+        "heading": "PH 499 – Senior Seminar in Public Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_17",
+    "text": "Credits: 4\nPrerequisites: Undergraduate degree in health sciences or related field\nDescription:\nSeminar and lab-based exploration of quantitative and qualitative methods for population health research. Focus on research ethics, study design, data collection, and proposal development.",
+    "path": "Cendara University > M.Sc. in Public Health > Core Graduate Courses > PH 501 – Methods in Population Health Research",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 167,
+        "heading": "PH 501 – Methods in Population Health Research"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_18",
+    "text": "Credits: 4\nPrerequisites: PH 201 or equivalent\nDescription:\nIntensive study of epidemiologic theory and advanced analytic techniques. Topics include modeling, causal inference, and longitudinal data analysis.",
+    "path": "Cendara University > M.Sc. in Public Health > Core Graduate Courses > PH 510 – Advanced Epidemiology",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 175,
+        "heading": "PH 510 – Advanced Epidemiology"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_19",
+    "text": "Credits: 3\nPrerequisites: None\nDescription:\nIntroduction to the use of health information systems, electronic health records, and data analytics in public health practice and research.",
+    "path": "Cendara University > M.Sc. in Public Health > Core Graduate Courses > PH 520 – Health Informatics",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 183,
+        "heading": "PH 520 – Health Informatics"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_20",
+    "text": "Credits: 3\nPrerequisites: None\nDescription:\nExplores environmental and workplace hazards, assessment tools, and regulatory approaches. Case studies highlight the intersection of environment, policy, and health outcomes.",
+    "path": "Cendara University > M.Sc. in Public Health > Core Graduate Courses > PH 531 – Environmental and Occupational Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 191,
+        "heading": "PH 531 – Environmental and Occupational Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_21",
+    "text": "Credits: 3\nPrerequisites: PH 120 or equivalent\nDescription:\nExamines frameworks and tools for analyzing, developing, and evaluating public health policies. Emphasizes critical appraisal of policy interventions and their impacts.",
+    "path": "Cendara University > M.Sc. in Public Health > Core Graduate Courses > PH 540 – Public Health Policy Analysis",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 199,
+        "heading": "PH 540 – Public Health Policy Analysis"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_22",
+    "text": "Credits: 3\nPrerequisites: None\nDescription:\nFocuses on leadership principles, ethical issues in health, and professional conduct. Includes discussions of current dilemmas and leadership case studies.",
+    "path": "Cendara University > M.Sc. in Public Health > Core Graduate Courses > PH 550 – Leadership and Ethics in Public Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 207,
+        "heading": "PH 550 – Leadership and Ethics in Public Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_23",
+    "text": "Credits: 3\nPrerequisites: Completion of at least 21 credits in M.Sc. program\nDescription:\nSeminar supporting design and implementation of independent research. Students present progress and receive feedback from faculty and peers.",
+    "path": "Cendara University > M.Sc. in Public Health > Core Graduate Courses > PH 590 – Thesis Research Seminar",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 215,
+        "heading": "PH 590 – Thesis Research Seminar"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_24",
+    "text": "Credits: 3\nPrerequisites: PH 215 or equivalent; permission of instructor\nDescription:\nTopics include multivariate analysis, survival analysis, and advanced modeling techniques with application to public health data sets.",
+    "path": "Cendara University > M.Sc. in Public Health > Graduate Electives > PH 605 – Advanced Biostatistics",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 227,
+        "heading": "PH 605 – Advanced Biostatistics"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_25",
+    "text": "Credits: 3\nPrerequisites: PH 430 or equivalent\nDescription:\nEvaluation frameworks and tools for assessing effectiveness and efficiency of community health interventions and health programs.",
+    "path": "Cendara University > M.Sc. in Public Health > Graduate Electives > PH 610 – Health Program Evaluation",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 235,
+        "heading": "PH 610 – Health Program Evaluation"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_26",
+    "text": "Credits: 3\nPrerequisites: PH 510\nDescription:\nDetailed study of epidemiology, risk factors, and control strategies for chronic diseases and conditions with global and national relevance.",
+    "path": "Cendara University > M.Sc. in Public Health > Graduate Electives > PH 621 – Epidemiology of Non-Communicable Diseases",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 243,
+        "heading": "PH 621 – Epidemiology of Non-Communicable Diseases"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_27",
+    "text": "Credits: 3\nPrerequisites: PH 531\nDescription:\nMethods for evaluating environmental exposures, risk characterizations, and regulatory responses at the population level.",
+    "path": "Cendara University > M.Sc. in Public Health > Graduate Electives > PH 625 – Environmental Risk Assessment",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 251,
+        "heading": "PH 625 – Environmental Risk Assessment"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_28",
+    "text": "Credits: 3\nPrerequisites: PH 340 or equivalent\nDescription:\nComprehensive overview of public health interventions, policies, and research in sexual and reproductive health, including maternal morbidity and access to reproductive health services.",
+    "path": "Cendara University > M.Sc. in Public Health > Graduate Electives > PH 635 – Sexual and Reproductive Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 259,
+        "heading": "PH 635 – Sexual and Reproductive Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_29",
+    "text": "Credits: 3\nPrerequisites: None\nDescription:\nDesign and assessment of health communication campaigns, use of digital media in health promotion, and the impact of communication on health behaviors.",
+    "path": "Cendara University > M.Sc. in Public Health > Graduate Electives > PH 645 – Health Communication Strategies",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 267,
+        "heading": "PH 645 – Health Communication Strategies"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_30",
+    "text": "Credits: Variable (1–4)\nPrerequisites: Approval of faculty supervisor\nDescription:\nOpportunity for students to pursue independent research under faculty guidance, culminating in a research report or manuscript for publication.",
+    "path": "Cendara University > M.Sc. in Public Health > Graduate Electives > PH 699 – Independent Research in Public Health",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 275,
+        "heading": "PH 699 – Independent Research in Public Health"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_31",
+    "text": "The Department of Public Health encourages students to consult academic advisors for optimal course sequencing within their chosen concentration. Most courses are offered annually; selected electives may rotate in alternate years.",
+    "path": "Cendara University > M.Sc. in Public Health > Additional Information",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 284,
+        "heading": "Additional Information"
+      }
+    ]
+  },
+  {
+    "id": "87589336d689ec7f66c52dd4c6de516c1f18333a24f4fd0ef4858d8b64b2e3e4_32",
+    "text": "Questions regarding prerequisites, credit transfers, or program structure can be directed to the Public Health Office, Cendara University, or science.advising@cendara.edu.",
+    "path": "Cendara University > M.Sc. in Public Health > Additional Information",
+    "doc_key": [
+      "dept_of_public_health"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 286,
+        "heading": "Additional Information"
+      }
+    ]
+  }
+]

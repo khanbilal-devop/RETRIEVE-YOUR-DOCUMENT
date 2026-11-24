@@ -1,0 +1,522 @@
+[
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_1",
+    "text": "Pathways:\n- Pure Mathematics\n- Applied Mathematics\n- Data Science",
+    "path": "Cendara University > Department of Mathematics and Statistics > Undergraduate Programs > B.Sc. in Mathematics",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 10,
+        "heading": "B.Sc. in Mathematics"
+      },
+      {
+        "line": 11,
+        "heading": "B.Sc. in Mathematics"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_2",
+    "text": "- Credits: 4\n- Description:\n  - Introduction to the differential and integral calculus of one variable, focusing on limits, derivatives, applications of derivatives, and the Fundamental Theorem of Calculus. Emphasis on problem-solving and conceptual foundations.\n- Prerequisites:\n  - Secondary school mathematics (pre-calculus) or equivalent.",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 101: Calculus I",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 20,
+        "heading": "MAT 101: Calculus I"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_3",
+    "text": "- Credits: 4\n- Description:\n  - Continuation of Calculus I, including integration techniques, applications of the integral, sequences, series, and an introduction to differential equations.\n- Prerequisites:\n  - MAT 101: Calculus I",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 102: Calculus II",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 29,
+        "heading": "MAT 102: Calculus II"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_4",
+    "text": "- Credits: 3\n- Description:\n  - Foundations of data science, covering data wrangling, introductory statistics, data visualization, and the basics of data analysis using modern software tools.\n- Prerequisites:\n  - None",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 110: Introduction to Data Science",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "MAT 110: Introduction to Data Science"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_5",
+    "text": "- Credits: 3\n- Description:\n  - Systems of linear equations, matrix operations, determinants, vector spaces, eigenvalues, and eigenvectors with applications in science and engineering.\n- Prerequisites:\n  - MAT 101: Calculus I",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 120: Linear Algebra I",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 47,
+        "heading": "MAT 120: Linear Algebra I"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_6",
+    "text": "- Credits: 3\n- Description:\n  - Logic, set theory, combinatorics, graph theory, functions, relations, and mathematical induction, with emphasis on applications in computer science and mathematics.\n- Prerequisites:\n  - None",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 130: Discrete Mathematics",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "MAT 130: Discrete Mathematics"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_7",
+    "text": "- Credits: 4\n- Description:\n  - Calculus of functions of several variables, including partial derivatives, multiple integration, vector calculus, and applications.\n- Prerequisites:\n  - MAT 102: Calculus II",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 211: Calculus III (Multivariable Calculus)",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 65,
+        "heading": "MAT 211: Calculus III (Multivariable Calculus)"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_8",
+    "text": "- Credits: 3\n- Description:\n  - Advanced topics in linear algebra including inner product spaces, diagonalization, Jordan forms, and applications to differential equations and data science.\n- Prerequisites:\n  - MAT 120: Linear Algebra I",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 220: Linear Algebra II",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 74,
+        "heading": "MAT 220: Linear Algebra II"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_9",
+    "text": "- Credits: 3\n- Description:\n  - Principles of rigorous mathematical reasoning and proof methods including direct, contrapositive, contradiction, and induction. Critical for transition to higher mathematics.\n- Prerequisites:\n  - MAT 130: Discrete Mathematics",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 225: Introduction to Mathematical Proof",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 83,
+        "heading": "MAT 225: Introduction to Mathematical Proof"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_10",
+    "text": "- Credits: 3\n- Description:\n  - Probability theory, random variables, distribution functions, expectation, variance, and introduction to statistical inference.\n- Prerequisites:\n  - MAT 102: Calculus II",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 240: Probability and Statistics I",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 92,
+        "heading": "MAT 240: Probability and Statistics I"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_11",
+    "text": "- Credits: 3\n- Description:\n  - First and second order differential equations, systems of equations, qualitative analysis, and applications to physical, biological, and social sciences.\n- Prerequisites:\n  - MAT 102: Calculus II",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 250: Differential Equations",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 101,
+        "heading": "MAT 250: Differential Equations"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_12",
+    "text": "- Credits: 3\n- Description:\n  - Fundamentals of group theory, including cyclic groups, permutation groups, subgroups, quotient groups, and homomorphisms. Applications in symmetry and cryptography.\n- Prerequisites:\n  - MAT 225: Introduction to Mathematical Proof",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 305: Abstract Algebra I",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 110,
+        "heading": "MAT 305: Abstract Algebra I"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_13",
+    "text": "- Credits: 3\n- Description:\n  - Rigorous development of real numbers, sequences, series, limits, continuity, and differentiability. Focuses on precise definitions and logic.\n- Prerequisites:\n  - MAT 102: Calculus II\n  - MAT 225: Introduction to Mathematical Proof",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 310: Real Analysis I",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 119,
+        "heading": "MAT 310: Real Analysis I"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_14",
+    "text": "- Credits: 3\n- Description:\n  - Counting principles, permutations, combinations, inclusion-exclusion, recurrence relations, generating functions, and basic graph theory.\n- Prerequisites:\n  - MAT 130: Discrete Mathematics",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 325: Combinatorics",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 129,
+        "heading": "MAT 325: Combinatorics"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_15",
+    "text": "- Credits: 3\n- Description:\n  - Advanced probability distributions, limit theorems, statistical estimation, confidence intervals, hypothesis testing, and regression analysis.\n- Prerequisites:\n  - MAT 240: Probability and Statistics I",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 340: Probability and Statistics II",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 138,
+        "heading": "MAT 340: Probability and Statistics II"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_16",
+    "text": "- Credits: 3\n- Description:\n  - Construction and analysis of deterministic and stochastic models for problems in natural and social sciences, including dimensional analysis and simulation.\n- Prerequisites:\n  - MAT 211: Calculus III\n  - MAT 250: Differential Equations",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 360: Mathematical Modeling",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 147,
+        "heading": "MAT 360: Mathematical Modeling"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_17",
+    "text": "- Credits: 3\n- Description:\n  - Numerical methods for solving equations, interpolation, numerical integration and differentiation, and applications to computational mathematics.\n- Prerequisites:\n  - MAT 211: Calculus III\n  - MAT 220: Linear Algebra II",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 370: Numerical Analysis",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 157,
+        "heading": "MAT 370: Numerical Analysis"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_18",
+    "text": "- Credits: 1\n- Description:\n  - Student presentations and discussions of current topics and research in mathematics. Emphasis on communication skills and critical thinking.\n- Prerequisites:\n  - Junior standing in Mathematics",
+    "path": "Cendara University > Department of Mathematics and Statistics > Course Listing > MAT 398: Undergraduate Seminar in Mathematics",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 167,
+        "heading": "MAT 398: Undergraduate Seminar in Mathematics"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_19",
+    "text": "- Credits: 3\n- Description:\n  - In-depth study of rings and fields, including polynomial rings, field extensions, Galois theory, and applications to coding theory.\n- Prerequisites:\n  - MAT 305: Abstract Algebra I",
+    "path": "Cendara University > Department of Mathematics and Statistics > Advanced Undergraduate and Graduate Level > MAT 410: Abstract Algebra II",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 178,
+        "heading": "MAT 410: Abstract Algebra II"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_20",
+    "text": "- Credits: 3\n- Description:\n  - Metric spaces, sequences and series of functions, uniform convergence, and introduction to measure theory.\n- Prerequisites:\n  - MAT 310: Real Analysis I",
+    "path": "Cendara University > Department of Mathematics and Statistics > Advanced Undergraduate and Graduate Level > MAT 420: Real Analysis II",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 187,
+        "heading": "MAT 420: Real Analysis II"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_21",
+    "text": "- Credits: 3\n- Description:\n  - Basic concepts of general topology, including open and closed sets, continuity, compactness, connectedness, and fundamental groups.\n- Prerequisites:\n  - MAT 310: Real Analysis I\n  - MAT 225: Introduction to Mathematical Proof",
+    "path": "Cendara University > Department of Mathematics and Statistics > Advanced Undergraduate and Graduate Level > MAT 431: Topology",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 196,
+        "heading": "MAT 431: Topology"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_22",
+    "text": "- Credits: 3\n- Description:\n  - Markov chains, Poisson processes, Brownian motion, martingales, and applications in finance and queueing theory.\n- Prerequisites:\n  - MAT 340: Probability and Statistics II",
+    "path": "Cendara University > Department of Mathematics and Statistics > Advanced Undergraduate and Graduate Level > MAT 445: Stochastic Processes",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 206,
+        "heading": "MAT 445: Stochastic Processes"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_23",
+    "text": "- Credits: 3\n- Description:\n  - Algorithms and theory behind data mining, supervised and unsupervised learning, clustering, classification, and validation methods.\n- Prerequisites:\n  - MAT 340: Probability and Statistics II\n  - MAT 110: Introduction to Data Science",
+    "path": "Cendara University > Department of Mathematics and Statistics > Advanced Undergraduate and Graduate Level > MAT 450: Data Mining and Statistical Learning",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 215,
+        "heading": "MAT 450: Data Mining and Statistical Learning"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_24",
+    "text": "- Credits: 2\n- Description:\n  - Collaborative research experience involving real-world modeling projects with faculty mentorship, proposal development, and solution presentation.\n- Prerequisites:\n  - Senior standing in Mathematics or instructor approval",
+    "path": "Cendara University > Department of Mathematics and Statistics > Advanced Undergraduate and Graduate Level > MAT 480: Mathematical Modeling Seminar",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 225,
+        "heading": "MAT 480: Mathematical Modeling Seminar"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_25",
+    "text": "Specializations:\n- Algebra\n- Combinatorics\n- Mathematical Modeling",
+    "path": "Cendara University > Department of Mathematics and Statistics > Graduate Program > M.Sc. in Mathematics",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 235,
+        "heading": "M.Sc. in Mathematics"
+      },
+      {
+        "line": 236,
+        "heading": "M.Sc. in Mathematics"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_26",
+    "text": "- Credits: 4\n- Description:\n  - Comprehensive study of group theory, ring theory, and module theory, with emphasis on structural theorems and modern algebraic techniques.\n- Prerequisites:\n  - MAT 410: Abstract Algebra II or equivalent",
+    "path": "Cendara University > Department of Mathematics and Statistics > Graduate Program > MAT 501: Graduate Algebra",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 243,
+        "heading": "MAT 501: Graduate Algebra"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_27",
+    "text": "- Credits: 4\n- Description:\n  - Lebesgue integration, convergence theorems, function spaces, and Hilbert spaces, with applications to mathematical modeling.\n- Prerequisites:\n  - MAT 420: Real Analysis II or equivalent",
+    "path": "Cendara University > Department of Mathematics and Statistics > Graduate Program > MAT 510: Graduate Analysis",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 252,
+        "heading": "MAT 510: Graduate Analysis"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_28",
+    "text": "- Credits: 3\n- Description:\n  - Topics in enumeration, graph theory, designs, and coding theory, including connections to algebraic structures.\n- Prerequisites:\n  - MAT 325: Combinatorics\n  - MAT 305: Abstract Algebra I",
+    "path": "Cendara University > Department of Mathematics and Statistics > Graduate Program > MAT 525: Algebraic Combinatorics",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 261,
+        "heading": "MAT 525: Algebraic Combinatorics"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_29",
+    "text": "- Credits: 3\n- Description:\n  - Measure-theoretic foundations of probability, advanced stochastic processes, martingales, and applications in finance and biology.\n- Prerequisites:\n  - MAT 445: Stochastic Processes or equivalent",
+    "path": "Cendara University > Department of Mathematics and Statistics > Graduate Program > MAT 540: Advanced Probability and Stochastic Processes",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 271,
+        "heading": "MAT 540: Advanced Probability and Stochastic Processes"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_30",
+    "text": "- Credits: 3\n- Description:\n  - Development and analysis of mathematical models for complex real-world systems; simulation techniques; connection to industrial and academic research.\n- Prerequisites:\n  - MAT 360: Mathematical Modeling or instructor approval",
+    "path": "Cendara University > Department of Mathematics and Statistics > Graduate Program > MAT 561: Mathematical Modeling and Simulation",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 280,
+        "heading": "MAT 561: Mathematical Modeling and Simulation"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_31",
+    "text": "- Credits: 6\n- Description:\n  - Original research project under faculty supervision, culminating in a written thesis and oral defense.\n- Prerequisites:\n  - Completion of 24 graduate credits and recommendation of faculty advisor",
+    "path": "Cendara University > Department of Mathematics and Statistics > Graduate Program > MAT 599: Thesis Research",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 289,
+        "heading": "MAT 599: Thesis Research"
+      }
+    ]
+  },
+  {
+    "id": "3ddfacacfbdfcf3d9819a41db086f36a13793e1e50f9a3c5c4c32c5c2d46c036_32",
+    "text": "- Not all courses are offered every semester; check current timetable for scheduling.\n- Prerequisites may be waived with instructor approval under exceptional circumstances.\n- For questions about course selection and program pathways, contact the Department of Mathematics and Statistics, Cendara University (mathstat@cendara.edu).",
+    "path": "Cendara University > Department of Mathematics and Statistics > Notes",
+    "doc_key": [
+      "dept_of_math_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 299,
+        "heading": "Notes"
+      }
+    ]
+  }
+]

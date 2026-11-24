@@ -1,0 +1,52 @@
+[
+  {
+    "id": "eb81c439b2af364315944f6078bb301be2695da82388bcb2ab88dac6d79ae9b7_1",
+    "text": "Immersive sound experiences crafted for audiophiles and everyday users alike.",
+    "path": "Audio — Velvera Audio Series",
+    "doc_key": [
+      "audio_catalog"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 4,
+        "heading": "Audio — Velvera Audio Series"
+      }
+    ]
+  },
+  {
+    "id": "eb81c439b2af364315944f6078bb301be2695da82388bcb2ab88dac6d79ae9b7_2",
+    "text": "- Model: Velvera Buds | Type: True Wireless | Features: ANC, Spatial Audio | Battery Life: 24hrs total | Price (INR): ₹8,999 | Price (USD): $109\n- Model: Velvera Buds Deluxe | Type: True Wireless | Features: Advanced ANC, Wireless Charging | Battery Life: 30hrs total | Price (INR): ₹14,999 | Price (USD): $179\n- Model: Velvera Buds Premium | Type: True Wireless | Features: Adaptive ANC, Premium Drivers | Battery Life: 36hrs total | Price (INR): ₹19,999 | Price (USD): $239\n- Model: Velvera Headphones Deluxe | Type: Over-ear | Features: Studio-grade ANC, Hi-Res Audio | Battery Life: 40hrs | Price (INR): ₹24,999 | Price (USD): $299\n- Model: Velvera Headphones Premium | Type: Over-ear | Features: Planar Magnetic, Audiophile | Battery Life: 50hrs | Price (INR): ₹39,999 | Price (USD): $479",
+    "path": "Audio — Velvera Audio Series > Velvera Audio Models & Pricing",
+    "doc_key": [
+      "audio_catalog"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 8,
+        "heading": "Velvera Audio Models & Pricing"
+      }
+    ]
+  },
+  {
+    "id": "eb81c439b2af364315944f6078bb301be2695da82388bcb2ab88dac6d79ae9b7_3",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Audio — Velvera Audio Series",
+    "doc_key": [
+      "audio_catalog"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 17
+      },
+      {
+        "line": 19
+      }
+    ]
+  }
+]

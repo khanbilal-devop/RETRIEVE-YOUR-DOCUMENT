@@ -1,0 +1,370 @@
+[
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_1",
+    "text": "Entrepreneurship, Human Resources, Operations, and Strategic Management",
+    "path": "Cendara University > Department of Management > B.B.A. / M.B.A. in Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 4,
+        "heading": "B.B.A. / M.B.A. in Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_2",
+    "text": "The Department of Management offers a comprehensive suite of undergraduate (B.B.A.) and graduate (M.B.A.) courses. Below is the complete listing of all Management courses, along with course descriptions, prerequisites, and credit hours.",
+    "path": "Course Catalog 2024–2025",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 10,
+        "heading": "Course Catalog 2024–2025"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_3",
+    "text": "- Credits: 3\n- Description:\n  - An introduction to the fundamentals of management, including planning, organizing, leading, and controlling within organizations. Emphasis is placed on the evolution of management thought, ethical frameworks, and decision-making processes.\n- Prerequisites: None",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 101: Principles of Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 17,
+        "heading": "MGMT 101: Principles of Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_4",
+    "text": "- Credits: 3\n- Description:\n  - Explores the psychological and sociological principles underlying individual and group behavior in organizations. Topics include motivation, leadership styles, team dynamics, and conflict resolution.\n- Prerequisites: MGMT 101",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 112: Organizational Behavior",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 25,
+        "heading": "MGMT 112: Organizational Behavior"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_5",
+    "text": "- Credits: 2\n- Description:\n  - Focuses on effective business writing, verbal communication, and presentation skills necessary for managerial success. Includes practical exercises and group projects.\n- Prerequisites: None",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 124: Business Communications",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 33,
+        "heading": "MGMT 124: Business Communications"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_6",
+    "text": "- Credits: 3\n- Description:\n  - Examines the key functions of HR including recruitment, selection, training, performance appraisal, and legal considerations. Addresses current challenges in managing a diverse workforce.\n- Prerequisites: MGMT 101",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 203: Human Resource Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 41,
+        "heading": "MGMT 203: Human Resource Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_7",
+    "text": "- Credits: 3\n- Description:\n  - Covers critical concepts in production and service operations, process analysis, quality management, inventory systems, and operations strategy.\n- Prerequisites: MGMT 101, STAT 105 (Introduction to Statistics)",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 217: Operations Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 49,
+        "heading": "MGMT 217: Operations Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_8",
+    "text": "- Credits: 2\n- Description:\n  - Investigates ethical dilemmas and social responsibilities faced by organizations. Case studies focus on sustainable business practices and ethical decision-making.\n- Prerequisites: MGMT 101",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 230: Business Ethics and Corporate Social Responsibility",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 57,
+        "heading": "MGMT 230: Business Ethics and Corporate Social Responsibility"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_9",
+    "text": "- Credits: 3\n- Description:\n  - Provides an overview of entrepreneurship, idea generation, feasibility analysis, and launching new ventures. Includes a capstone project developing a business plan.\n- Prerequisites: MGMT 101, ACCT 102 (Principles of Accounting)",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 251: Entrepreneurship and Innovation",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 65,
+        "heading": "MGMT 251: Entrepreneurship and Innovation"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_10",
+    "text": "- Credits: 3\n- Description:\n  - Integrative study of strategy formulation and implementation in business organizations. Covers environmental analysis, competitive advantage, and strategic decision-making.\n- Prerequisites: MGMT 101, MGMT 217",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 272: Strategic Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 73,
+        "heading": "MGMT 272: Strategic Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_11",
+    "text": "- Credits: 3\n- Description:\n  - Overview of challenges and strategies in managing internationally. Topics include global trade, cross-cultural management, international finance, and multinational structures.\n- Prerequisites: MGMT 101, ECON 110 (Principles of Economics)",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 280: International Business Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 81,
+        "heading": "MGMT 280: International Business Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_12",
+    "text": "- Credits: 2–4 (variable)\n- Description:\n  - Supervised work experience in a business, non-profit, or government organization. Requires completion of internship objectives and a final reflection report.\n- Prerequisites: Junior standing, departmental approval",
+    "path": "Course Catalog 2024–2025 > Undergraduate Courses (B.B.A.) > MGMT 299: Management Internship",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 89,
+        "heading": "MGMT 299: Management Internship"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_13",
+    "text": "- Credits: 3\n- Description:\n  - An in-depth analysis of classical and contemporary management theories, with a critical approach to their application in modern organizational settings.\n- Prerequisites: Graduate standing",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 501: Advanced Management Theory",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 99,
+        "heading": "MGMT 501: Advanced Management Theory"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_14",
+    "text": "- Credits: 3\n- Description:\n  - Examines leadership frameworks and practices at the executive level. Emphasizes strategic visioning, change management, and ethical leadership in global contexts.\n- Prerequisites: MGMT 501",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 512: Executive Leadership",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 107,
+        "heading": "MGMT 512: Executive Leadership"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_15",
+    "text": "- Credits: 3\n- Description:\n  - Focuses on aligning human resource strategies with organizational goals. Special emphasis on talent management, organizational development, and labor relations.\n- Prerequisites: MGMT 501",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 524: Strategic Human Resources",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 115,
+        "heading": "MGMT 524: Strategic Human Resources"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_16",
+    "text": "- Credits: 3\n- Description:\n  - Applies advanced methods to project management, process improvement, lean operations, and supply chain integration.\n- Prerequisites: MGMT 501",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 535: Project and Operations Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 123,
+        "heading": "MGMT 535: Project and Operations Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_17",
+    "text": "- Credits: 2\n- Description:\n  - Explores sources of funding for new ventures, financial planning, and risk management for entrepreneurs. Case studies highlight real-world scenarios.\n- Prerequisites: MGMT 501, FINC 502 (Managerial Finance)",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 541: Entrepreneurial Finance",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 131,
+        "heading": "MGMT 541: Entrepreneurial Finance"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_18",
+    "text": "- Credits: 4\n- Description:\n  - Real-world consulting project with partner organizations. Students work in teams to analyze client issues, develop recommendations, and present solutions.\n- Prerequisites: MGMT 535, departmental approval",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 558: Management Consulting Practicum",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 139,
+        "heading": "MGMT 558: Management Consulting Practicum"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_19",
+    "text": "- Credits: 3\n- Description:\n  - Involves analysis and formulation of strategies for competing internationally. Covers global market entry, competitive dynamics, and cross-border mergers and acquisitions.\n- Prerequisites: MGMT 501",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 570: Global Strategy",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 147,
+        "heading": "MGMT 570: Global Strategy"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_20",
+    "text": "- Credits: 1–3 (variable)\n- Description:\n  - Selected advanced topics in management offered on a rotating basis. Recent topics include sustainable business models, digital transformation, and agile organizations.\n- Prerequisites: As announced per offering",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 598: Special Topics in Management",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 155,
+        "heading": "MGMT 598: Special Topics in Management"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_21",
+    "text": "- Credits: 4\n- Description:\n  - Culminating project synthesizing knowledge from the MBA program. Students develop and present a comprehensive business case or strategic plan for a real or hypothetical organization.\n- Prerequisites: Completion of core MBA courses, departmental approval",
+    "path": "Course Catalog 2024–2025 > Graduate Courses (M.B.A.) > MGMT 599: Capstone Management Project",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 163,
+        "heading": "MGMT 599: Capstone Management Project"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_22",
+    "text": "- Course Rotation: Some courses are offered every semester, while others are available annually or biennially. Current schedule available on the Cendara University portal.\n- Enrollment: For prerequisites marked “departmental approval,” contact the department office at management@cendara.edu.\n- Internship and Practicum: Placement assistance is provided. Enrollment contingent on GPA and advisor recommendation.",
+    "path": "Notes",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 172,
+        "heading": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "6bd8ec7183ee0407dee579078b609dfea17f3ef31420c3235cfc8de2a0a0d4ab_23",
+    "text": "For further details or course planning, please consult with your academic advisor in the Department of Management.",
+    "path": "Notes",
+    "doc_key": [
+      "dept_of_management_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 176,
+        "heading": "Notes"
+      }
+    ]
+  }
+]

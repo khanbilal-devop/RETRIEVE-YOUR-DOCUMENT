@@ -1,0 +1,224 @@
+[
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_1",
+    "text": "Welcome to Cendara University! This guide provides a detailed overview of our main campus, highlighting building locations, parking areas, emergency stations, and essential facilities. For your convenience, refer to the descriptions below to navigate and familiarize yourself with campus resources.",
+    "path": "Cendara University Campus Map Guide",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Cendara University Campus Map Guide"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_2",
+    "text": "- Name: Ivory Academic Hall | Abbreviation: IVH | Location: Central Quad | Departments/Offices: Mathematics, Philosophy, Academic Advising\n- Name: Harrow Science Complex | Abbreviation: HSC | Location: Science Drive | Departments/Offices: Biology, Chemistry, Physics, Science Labs\n- Name: Calderwood Engineering Center | Abbreviation: CEC | Location: West Avenue | Departments/Offices: Civil, Mechanical, Electrical Engineering\n- Name: Sylvan Library & Archives | Abbreviation: SLA | Location: Library Lane | Departments/Offices: Library Services, Special Collections, Study Spaces\n- Name: Lorraine Arts & Media Building | Abbreviation: LAM | Location: East Promenade | Departments/Offices: Fine Arts, Media Studies, Art Galleries\n- Name: Farrow Business Pavilion | Abbreviation: FBP | Location: Commerce Circle | Departments/Offices: Business, Marketing, Finance, Student Entrepreneur Hub\n- Name: Bramley Social Sciences Block | Abbreviation: BSS | Location: North Quad | Departments/Offices: Psychology, Sociology, Political Science",
+    "path": "Cendara University Campus Map Guide > 1. Academic Buildings",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "1. Academic Buildings"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_3",
+    "text": "- Name: Walker Administration Building | Abbreviation: WAB | Location: Quad Entrance | Functions: Registrar, Financial Aid, Admissions\n- Name: Student Services Center | Abbreviation: SSC | Location: Commons Avenue | Functions: Counseling, Career Center, International Office\n- Name: Mariner Dining Hall | Abbreviation: MDH | Location: Cedar Walk | Functions: Main Cafeteria, Food Court, Coffee Shop\n- Name: Unity Student Union | Abbreviation: USU | Location: Pavilion Drive | Functions: Student Government, Lounges, Event Spaces\n- Name: Campus Bookstore | Abbreviation: CBK | Location: University Plaza | Functions: Textbooks, Merchandise, Technology Desk\n- Name: Health & Wellness Clinic | Abbreviation: HWC | Location: Oak Street | Functions: Medical Care, Counseling, Wellness Programs",
+    "path": "Cendara University Campus Map Guide > 2. Administrative and Student Support Facilities",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "2. Administrative and Student Support Facilities"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_4",
+    "text": "- Name: Evergreen Residence Hall | Location: North Crescent | Capacity: 400 | Features: Double rooms, communal kitchen, study lounge\n- Name: Willow Hall | Location: East Lawn | Capacity: 350 | Features: Suite-style, fitness center, laundry\n- Name: Aspen Apartments | Location: South Grounds | Capacity: 200 | Features: Apartment-style, on-site parking, garden",
+    "path": "Cendara University Campus Map Guide > 3. Residential Halls",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 36,
+        "heading": "3. Residential Halls"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_5",
+    "text": "- Name: Red Maple Lot (P1) | Location: Science Drive | Type: Student/Faculty | Capacity: 350 | Nearby Buildings: HSC, IVH\n- Name: Cedar Row Parking (P2) | Location: Cedar Walk | Type: Visitor | Capacity: 100 | Nearby Buildings: MDH, SLA\n- Name: South Gate Garage (P3) | Location: Main Entrance | Type: All Permit | Capacity: 450 | Nearby Buildings: WAB, CEC, USU\n- Name: Residence Lot (P4) | Location: North Crescent | Type: Residents Only | Capacity: 180 | Nearby Buildings: Evergreen, Willow Hall\n- Name: Commerce Deck (P5) | Location: Commerce Circle | Type: Faculty/Staff | Capacity: 120 | Nearby Buildings: FBP, BSS",
+    "path": "Cendara University Campus Map Guide > 4. Parking Areas",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 46,
+        "heading": "4. Parking Areas"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_6",
+    "text": "Blue Light Emergency Telephones are strategically installed across campus. Each station provides a direct line to campus security and is illuminated for night visibility.",
+    "path": "Cendara University Campus Map Guide > 5. Emergency Stations",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 58,
+        "heading": "5. Emergency Stations"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_7",
+    "text": "- Station ID: E-1 | Location: Library Entrance | Nearby Landmark: SLA\n- Station ID: E-2 | Location: Central Quad | Nearby Landmark: IVH, BSS\n- Station ID: E-3 | Location: Science Drive | Nearby Landmark: HSC, Red Maple Lot\n- Station ID: E-4 | Location: North Crescent | Nearby Landmark: Evergreen Hall\n- Station ID: E-5 | Location: Pavilion Drive | Nearby Landmark: USU, FBP\n- Station ID: E-6 | Location: Cedar Walk | Nearby Landmark: MDH, Visitor Parking\n- Station ID: E-7 | Location: Oak Street | Nearby Landmark: Health & Wellness",
+    "path": "Cendara University Campus Map Guide > 5. Emergency Stations",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 60,
+        "heading": "5. Emergency Stations"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_8",
+    "text": "All emergency stations are checked daily by campus security.",
+    "path": "Cendara University Campus Map Guide > 5. Emergency Stations",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 70,
+        "heading": "5. Emergency Stations"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_9",
+    "text": "- Athletic & Recreation Center (ARC)\n  - Location: South Grounds\n  - Features: Indoor pool, basketball courts, cardio/weights, group fitness studios\n- Sylvan Library Rooftop Garden\n  - Location: SLA, 4th Floor\n  - Features: Outdoor study lounge, WiFi, green spaces\n- Fine Arts Amphitheatre\n  - Location: East Promenade, behind LAM\n  - Capacity: 250 seats, open-air\n- Reflection Lake\n  - Location: Central Quad\n  - Features: Walking paths, benches, annual Springfest site\n- Campus Shuttle Stop\n  - Locations: Main Entrance (South Gate), North Crescent, Commerce Circle\n  - Service: On-campus and off-campus routes (M-F, 7am–11pm)",
+    "path": "Cendara University Campus Map Guide > 6. Key Facilities & Points of Interest",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 76,
+        "heading": "6. Key Facilities & Points of Interest"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_10",
+    "text": "All major buildings are wheelchair accessible with automatic doors and elevators. Accessible parking spaces are available in each parking lot and garage.",
+    "path": "Cendara University Campus Map Guide > 7. Accessibility",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 100,
+        "heading": "7. Accessibility"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_11",
+    "text": "- 24/7 Campus Security Office: Located in the Walker Administration Building, Suite 105.\n- Escort Service: Available 6pm–2am daily. Call (732) 555-4488.\n- Automated External Defibrillators (AEDs): Located in all major buildings, clearly marked.",
+    "path": "Cendara University Campus Map Guide > 8. Campus Safety Resources",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 106,
+        "heading": "8. Campus Safety Resources"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_12",
+    "text": "- Facility Type: Academic Buildings | Notable Locations: IVH, HSC, CEC, LAM, BSS, FBP\n- Facility Type: Dining | Notable Locations: MDH, Coffee Shop @ SLA\n- Facility Type: Bookstore | Notable Locations: CBK\n- Facility Type: Student Union | Notable Locations: USU\n- Facility Type: Recreation | Notable Locations: ARC, Sylvan Garden\n- Facility Type: Parking | Notable Locations: P1–P5\n- Facility Type: Emergency Stations | Notable Locations: E-1 to E-7\n- Facility Type: Health/Wellness | Notable Locations: HWC\n- Facility Type: Shuttle Stops | Notable Locations: Main Entrance, North Crescent, Commerce Circle",
+    "path": "Cendara University Campus Map Guide > 9. Quick Reference Table",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 114,
+        "heading": "9. Quick Reference Table"
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_13",
+    "text": "For a detailed illustrated map, printed copies are available at the Admissions Office (Walker Administration Building, Room 102), or download the interactive campus map from www.cendara.edu/campusmap (http://www.cendara.edu/campusmap).",
+    "path": "Cendara University Campus Map Guide",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 128
+      }
+    ]
+  },
+  {
+    "id": "9fd45a49002119df115c7a446a6fa38fc149ad6fe838818a11a18449452943d8_14",
+    "text": "For emergencies, dial campus security: (732) 555-4000",
+    "path": "Cendara University Campus Map Guide",
+    "doc_key": [
+      "campus_map"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 130
+      }
+    ]
+  }
+]

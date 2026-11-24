@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ec971b59addcc76870dfaf7eb2c0475e0e7236133bc84a630dfb8e673500d067_1",
+    "text": "Welcome to Aventro Motors Pvt. Ltd.!\nExperience the future of mobility from the comfort of your home. Book a test drive for any Aventro car, and we’ll bring your chosen model to your doorstep, anywhere in India.",
+    "path": "Request a Test Drive at Your Doorstep",
+    "doc_key": [
+      "test drive at your doorstep"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Request a Test Drive at Your Doorstep"
+      }
+    ]
+  },
+  {
+    "id": "ec971b59addcc76870dfaf7eb2c0475e0e7236133bc84a630dfb8e673500d067_2",
+    "text": "1. Choose Your Car\n  - Select from 20 models across Hatchback, Sedan, and SUV categories, with Petrol, Diesel, Electric, and Hybrid variants.\n2. Pick a Convenient Time\n  - Let us know your preferred date and time for the test drive.\n3. We Bring the Car to You\n  - Our representative will arrive at your location for the test drive at the scheduled time.\n4. Explore & Experience\n  - Take your time to explore features, ask questions, and experience the drive.",
+    "path": "Request a Test Drive at Your Doorstep > How It Works",
+    "doc_key": [
+      "test drive at your doorstep"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 10,
+        "heading": "How It Works"
+      }
+    ]
+  },
+  {
+    "id": "ec971b59addcc76870dfaf7eb2c0475e0e7236133bc84a630dfb8e673500d067_3",
+    "text": "Fill in the form below or contact us directly:\n- Phone: +91 124 1234567\n- Email: info@aventromotors.com (mailto:info@aventromotors.com)",
+    "path": "Request a Test Drive at Your Doorstep > Book a Test Drive",
+    "doc_key": [
+      "test drive at your doorstep"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Book a Test Drive"
+      },
+      {
+        "line": 27,
+        "heading": "Book a Test Drive"
+      }
+    ]
+  },
+  {
+    "id": "ec971b59addcc76870dfaf7eb2c0475e0e7236133bc84a630dfb8e673500d067_4",
+    "text": "<sup>If you are submitting via email, mention:Test Drive at Doorstep Request in the subject line.</sup>",
+    "path": "Request a Test Drive at Your Doorstep > Book a Test Drive",
+    "doc_key": [
+      "test drive at your doorstep"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "Book a Test Drive"
+      }
+    ]
+  },
+  {
+    "id": "ec971b59addcc76870dfaf7eb2c0475e0e7236133bc84a630dfb8e673500d067_5",
+    "text": "Required Details:\n- Full Name\n- Mobile Number\n- Email Address\n- Preferred Model & Variant (e.g., Aventro Zoom Petrol ZX)\n- Preferred Date & Time\n- Complete Address for Test Drive\n- Any Special Requests/Comments",
+    "path": "Request a Test Drive at Your Doorstep > Book a Test Drive",
+    "doc_key": [
+      "test drive at your doorstep"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 32,
+        "heading": "Book a Test Drive"
+      },
+      {
+        "line": 33,
+        "heading": "Book a Test Drive"
+      }
+    ]
+  }
+]

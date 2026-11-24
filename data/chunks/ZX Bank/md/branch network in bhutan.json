@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2b8d54b9fff302463359b9fab32724d2fa19ad9095110cd57140e5819eb71eab_1",
+    "text": "ZX Bank Ltd. has established a robust and accessible banking infrastructure across Bhutan, supporting both urban and semi-urban communities. The branch network ensures that customers in key regions — Thimphu, Paro, Punakha, Phuentsholing, and Gelephu — have convenient access to retail banking, digital services, and remittance facilities. Below, find region-wise details of branch locations, IFSC codes, and contact numbers to assist customers in connecting with our local banking offices.",
+    "path": "ZX Bank – Branch Network in Bhutan",
+    "doc_key": [
+      "branch network in bhutan"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank – Branch Network in Bhutan"
+      }
+    ]
+  },
+  {
+    "id": "2b8d54b9fff302463359b9fab32724d2fa19ad9095110cd57140e5819eb71eab_2",
+    "text": "- Branch Address: Near Clock Tower, Norzin Lam, Thimphu | IFSC Code: ZXIN000BT01 | Contact Number: +975-2-336600\n- Branch Address: 1st Floor, City Mall, Changlam, Thimphu | IFSC Code: ZXIN000BT02 | Contact Number: +975-2-338450",
+    "path": "ZX Bank – Branch Network in Bhutan > Thimphu Region",
+    "doc_key": [
+      "branch network in bhutan"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Thimphu Region"
+      }
+    ]
+  },
+  {
+    "id": "2b8d54b9fff302463359b9fab32724d2fa19ad9095110cd57140e5819eb71eab_3",
+    "text": "- Branch Address: Main Street, Paro Town, Paro | IFSC Code: ZXIN000BP01 | Contact Number: +975-8-272502\n- Branch Address: Opposite Paro Airport Entrance, Shaba | IFSC Code: ZXIN000BP02 | Contact Number: +975-8-274113",
+    "path": "ZX Bank – Branch Network in Bhutan > Paro Region",
+    "doc_key": [
+      "branch network in bhutan"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 18,
+        "heading": "Paro Region"
+      }
+    ]
+  },
+  {
+    "id": "2b8d54b9fff302463359b9fab32724d2fa19ad9095110cd57140e5819eb71eab_4",
+    "text": "- Branch Address: Opp. Dzong Gate, Punakha Town | IFSC Code: ZXIN000BK01 | Contact Number: +975-3-584242",
+    "path": "ZX Bank – Branch Network in Bhutan > Punakha Region",
+    "doc_key": [
+      "branch network in bhutan"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 27,
+        "heading": "Punakha Region"
+      }
+    ]
+  },
+  {
+    "id": "2b8d54b9fff302463359b9fab32724d2fa19ad9095110cd57140e5819eb71eab_5",
+    "text": "- Branch Address: 2nd Floor, Shopping Complex, Main Road, Phuentsholing | IFSC Code: ZXIN000BL01 | Contact Number: +975-5-253777\n- Branch Address: Near RSTA Office, Dhamdara, Phuentsholing | IFSC Code: ZXIN000BL02 | Contact Number: +975-5-252150",
+    "path": "ZX Bank – Branch Network in Bhutan > Phuentsholing Region",
+    "doc_key": [
+      "branch network in bhutan"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "Phuentsholing Region"
+      }
+    ]
+  },
+  {
+    "id": "2b8d54b9fff302463359b9fab32724d2fa19ad9095110cd57140e5819eb71eab_6",
+    "text": "- Branch Address: Samtenling Road, Near BCCI Office, Gelephu | IFSC Code: ZXIN000BG01 | Contact Number: +975-6-251885",
+    "path": "ZX Bank – Branch Network in Bhutan > Gelephu Region",
+    "doc_key": [
+      "branch network in bhutan"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "Gelephu Region"
+      }
+    ]
+  }
+]

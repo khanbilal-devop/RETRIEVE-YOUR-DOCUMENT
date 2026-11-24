@@ -1,0 +1,129 @@
+[
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_1",
+    "text": "ZX Bank aims to simplify your bill management experience with its robust Bill Payments and Auto Debit features, accessible via the ZX Bank Asia Mobile App (https://www.zxbank.asia), NetBanking, and branch network.",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank – Bill Payments & Auto Debit Feature"
+      }
+    ]
+  },
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_2",
+    "text": "- Credit Cards (ZX Bank & other banks)\n- Mobile/Postpaid Bills\n- Prepaid Mobile Recharge\n- DTH (Direct-to-Home TV)\n- Broadband & Landline\n- Electricity, Water, & Gas\n- Insurance Premiums\n- Educational Fees\n- Municipality Taxes\n- More coming soon!",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature > Supported Bill Payment Categories",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Supported Bill Payment Categories"
+      }
+    ]
+  },
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_3",
+    "text": "Never miss a payment!\nSet up hassle-free auto debits from your ZX Bank account or credit card for recurring bills.",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature > Auto Debit Feature",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 24,
+        "heading": "Auto Debit Feature"
+      }
+    ]
+  },
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_4",
+    "text": "1. Register Online:\n  - Enable auto debit for your chosen billers via Mobile App or NetBanking.\n2. Custom Schedule:\n  - Select the payment date (due date or preferred day prior).\n3. Automated Payments:\n  - ZX Bank automatically processes payments on your behalf.\n4. Alerts & Notifications:\n  - Get SMS/email alerts before every scheduled auto debit.\n5. Manage & Cancel Anytime:\n  - Modify or stop auto debits anytime using the \"Manage Mandates\" section.",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature > Auto Debit Feature > How Auto Debit Works",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 29,
+        "heading": "How Auto Debit Works"
+      }
+    ]
+  },
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_5",
+    "text": "- One-Time Setup: Easy linking of billers and mandates\n- Secure Payments: Protected with OTP, biometric & device authentication\n- All Major Billers Covered: Over 400+ billers across India, Sri Lanka, Bangladesh, Bhutan, Nepal\n- Real-Time Tracking: View payment history and upcoming debits\n- AI Financial Assistant (“Zia”): Get reminders, advice, and instant support",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature > Key Features",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 48,
+        "heading": "Key Features"
+      }
+    ]
+  },
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_6",
+    "text": "1. Download the ZX Bank Asia Mobile App (Android/iOS)\n2. Login or complete e-KYC onboarding\n3. Navigate to “Bill Payments” or “Auto Debit”\n  - Add your biller (credit card, mobile, DTH, etc.)\n  - Choose “Enable Auto Debit” and set your preferences\n4. Confirm & Save — you're done!",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature > How To Get Started",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 58,
+        "heading": "How To Get Started"
+      }
+    ]
+  },
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_7",
+    "text": "- Ask “Zia” in-app for step-by-step guidance\n- Visit www.zxbank.asia/support (https://www.zxbank.asia/support)\n- Call our 24x7 helpline or visit your nearest branch",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature > How To Get Started > Need Help?",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 68,
+        "heading": "Need Help?"
+      }
+    ]
+  },
+  {
+    "id": "73b7a4214fec84e13c4b1e56e7909d4f4193972a5a8acee050f34fe8a040c7cf_8",
+    "text": "Experience seamless bill payments – simplify your financial life with ZX Bank!",
+    "path": "ZX Bank – Bill Payments & Auto Debit Feature > How To Get Started",
+    "doc_key": [
+      "bill payments"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 74
+      }
+    ]
+  }
+]

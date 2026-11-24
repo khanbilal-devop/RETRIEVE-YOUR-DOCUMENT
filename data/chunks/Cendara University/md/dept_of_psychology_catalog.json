@@ -1,0 +1,434 @@
+[
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_1",
+    "text": "Department of Psychology\nCourse Catalog 2024-2025",
+    "path": "Cendara University",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 2,
+        "heading": "Cendara University"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_2",
+    "text": "- Credits: 3\n- Description:\n  - An overview of the major theories, foundational concepts, and methods in psychology. Topics include perception, learning, motivation, development, and social behavior. Designed for students with no prior background in psychology.\n- Prerequisites: None",
+    "path": "Cendara University > Undergraduate Courses > PSY 101: Introduction to Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 8,
+        "heading": "PSY 101: Introduction to Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_3",
+    "text": "- Credits: 4\n- Description:\n  - Introduction to the scientific method as applied to psychological phenomena. Students learn experimental design, data collection, basic analysis, and ethical considerations. Includes laboratory sessions.\n- Prerequisites: PSY 101",
+    "path": "Cendara University > Undergraduate Courses > PSY 110: Research Methods in Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 16,
+        "heading": "PSY 110: Research Methods in Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_4",
+    "text": "- Credits: 3\n- Description:\n  - Examination of the biological, cognitive, and social development of individuals from infancy through adulthood. Explores key theories and methodological approaches.\n- Prerequisites: PSY 101",
+    "path": "Cendara University > Undergraduate Courses > PSY 211: Developmental Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 24,
+        "heading": "PSY 211: Developmental Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_5",
+    "text": "- Credits: 3\n- Description:\n  - Exploration of mental processes such as attention, memory, language, perception, and problem-solving. Discussion of experimental findings and theoretical frameworks.\n- Prerequisites: PSY 101",
+    "path": "Cendara University > Undergraduate Courses > PSY 218: Introduction to Cognitive Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 32,
+        "heading": "PSY 218: Introduction to Cognitive Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_6",
+    "text": "- Credits: 3\n- Description:\n  - Investigation of how social factors influence individual behavior. Major topics include aggression, conformity, group dynamics, attitudes, stereotypes, and prejudice.\n- Prerequisites: PSY 101",
+    "path": "Cendara University > Undergraduate Courses > PSY 230: Social Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 40,
+        "heading": "PSY 230: Social Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_7",
+    "text": "- Credits: 3\n- Description:\n  - Analysis of the definition, classification, and treatment of mental disorders. Includes an overview of anxiety, mood, psychotic, and personality disorders.\n- Prerequisites: PSY 101",
+    "path": "Cendara University > Undergraduate Courses > PSY 250: Abnormal Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 48,
+        "heading": "PSY 250: Abnormal Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_8",
+    "text": "- Credits: 3\n- Description:\n  - Study of the neural and hormonal foundations of behavior, sensation, and motivation. Emphasizes connections between biological mechanisms and psychological processes.\n- Prerequisites: PSY 101, PSY 110",
+    "path": "Cendara University > Undergraduate Courses > PSY 312: Biological Bases of Behavior",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "PSY 312: Biological Bases of Behavior"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_9",
+    "text": "- Credits: 3\n- Description:\n  - Survey of the principles and practices of clinical assessment, diagnosis, and treatment of mental health conditions. Emphasis on evidence-based approaches.\n- Prerequisites: PSY 250",
+    "path": "Cendara University > Undergraduate Courses > PSY 320: Introduction to Clinical Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "PSY 320: Introduction to Clinical Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_10",
+    "text": "- Credits: 3\n- Description:\n  - Exploration of classical and contemporary theories of personality, methods of assessment, and research findings.\n- Prerequisites: PSY 101",
+    "path": "Cendara University > Undergraduate Courses > PSY 340: Personality Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 72,
+        "heading": "PSY 340: Personality Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_11",
+    "text": "- Credits: 4\n- Description:\n  - Introduction to descriptive and inferential statistical techniques used in psychological research, including hypothesis testing, ANOVA, regression, and nonparametric approaches. Includes computer-based labs.\n- Prerequisites: PSY 110, MTH 101 (Introduction to College Algebra)",
+    "path": "Cendara University > Undergraduate Courses > PSY 370: Psychological Statistics",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "PSY 370: Psychological Statistics"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_12",
+    "text": "- Credits: 1-3 (variable)\n- Description:\n  - Individual study or research project under faculty supervision in a specialized area of psychology. Requires departmental approval.\n- Prerequisites: Permission of instructor, Junior standing",
+    "path": "Cendara University > Undergraduate Courses > PSY 399: Independent Study in Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 88,
+        "heading": "PSY 399: Independent Study in Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_13",
+    "text": "- Credits: 3\n- Description:\n  - In-depth examination of quantitative and qualitative research methodologies, data analysis techniques, and ethics in advanced psychological research.\n- Prerequisites: PSY 370 or equivalent",
+    "path": "Cendara University > Graduate Courses > PSY 500: Advanced Research Methods",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 98,
+        "heading": "PSY 500: Advanced Research Methods"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_14",
+    "text": "- Credits: 3\n- Description:\n  - Study of neural mechanisms underlying cognitive functions such as perception, memory, and decision-making. Readings from current research literature.\n- Prerequisites: PSY 312",
+    "path": "Cendara University > Graduate Courses > PSY 512: Cognitive Neuroscience",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 106,
+        "heading": "PSY 512: Cognitive Neuroscience"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_15",
+    "text": "- Credits: 3\n- Description:\n  - Critical analysis of cognitive and emotional development throughout the lifespan. Focus on current issues and empirical research.\n- Prerequisites: PSY 211",
+    "path": "Cendara University > Graduate Courses > PSY 522: Advanced Developmental Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 114,
+        "heading": "PSY 522: Advanced Developmental Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_16",
+    "text": "- Credits: 3\n- Description:\n  - Advanced exploration of psychological disorders, diagnostic criteria, underlying mechanisms, and recent research trends.\n- Prerequisites: PSY 250, PSY 320",
+    "path": "Cendara University > Graduate Courses > PSY 532: Psychopathology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 122,
+        "heading": "PSY 532: Psychopathology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_17",
+    "text": "- Credits: 4\n- Description:\n  - Principles and practices of assessment in clinical psychology, including intelligence, personality, and neuropsychological testing.\n- Prerequisites: PSY 340, PSY 320",
+    "path": "Cendara University > Graduate Courses > PSY 540: Psychological Assessment",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 130,
+        "heading": "PSY 540: Psychological Assessment"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_18",
+    "text": "- Credits: 3\n- Description:\n  - Comprehensive overview of psychotherapeutic interventions, including cognitive-behavioral, psychodynamic, and humanistic approaches. Integrates case studies and supervised practice.\n- Prerequisites: PSY 532, PSY 540",
+    "path": "Cendara University > Graduate Courses > PSY 550: Interventions in Clinical Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 138,
+        "heading": "PSY 550: Interventions in Clinical Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_19",
+    "text": "- Credits: 2\n- Description:\n  - Discussion-based seminar focusing on theory and research in social cognitive processes including attitudes, attribution, and emotion regulation.\n- Prerequisites: PSY 230 (or equivalent)",
+    "path": "Cendara University > Graduate Courses > PSY 561: Seminar in Social Cognition",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 146,
+        "heading": "PSY 561: Seminar in Social Cognition"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_20",
+    "text": "- Credits: 2\n- Description:\n  - Preparation for teaching undergraduate psychology, covering course planning, assessment, and student engagement strategies. Required for teaching assistants.\n- Prerequisites: Graduate standing in Psychology",
+    "path": "Cendara University > Graduate Courses > PSY 580: Teaching of Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 154,
+        "heading": "PSY 580: Teaching of Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_21",
+    "text": "- Credits: 6\n- Description:\n  - Original empirical research conducted under faculty mentorship. Culminates in a thesis and oral defense.\n- Prerequisites: Permission of thesis committee",
+    "path": "Cendara University > Graduate Courses > PSY 590: Graduate Thesis",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 162,
+        "heading": "PSY 590: Graduate Thesis"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_22",
+    "text": "- Credits: 3\n- Description:\n  - Rotating content seminar on topics such as trauma, substance use disorders, and multicultural assessment. Students critically evaluate recent interventions and research.\n- Prerequisites: Admission to Ph.D. program",
+    "path": "Cendara University > Doctoral-Level Courses > PSY 601: Advanced Topics in Clinical Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 172,
+        "heading": "PSY 601: Advanced Topics in Clinical Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_23",
+    "text": "- Credits: 3\n- Description:\n  - Intensive training in advanced statistical techniques including multilevel modeling, structural equation modeling, and Bayesian estimation.\n- Prerequisites: PSY 500",
+    "path": "Cendara University > Doctoral-Level Courses > PSY 610: Statistical Modeling for Psychologists",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 180,
+        "heading": "PSY 610: Statistical Modeling for Psychologists"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_24",
+    "text": "- Credits: 2\n- Description:\n  - Practical experience in identifying funding sources and developing research grant proposals with feedback from faculty and peers.\n- Prerequisites: Graduate standing",
+    "path": "Cendara University > Doctoral-Level Courses > PSY 635: Grant Writing in Psychology",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 188,
+        "heading": "PSY 635: Grant Writing in Psychology"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_25",
+    "text": "- Credits: 12\n- Description:\n  - Completion of an original dissertation project demonstrating substantial contribution to the field of psychology. Includes proposal, data collection and analysis, manuscript preparation, and defense.\n- Prerequisites: Advancement to candidacy",
+    "path": "Cendara University > Doctoral-Level Courses > PSY 650: Doctoral Dissertation",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 196,
+        "heading": "PSY 650: Doctoral Dissertation"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_26",
+    "text": "- All courses are subject to availability and may require consent from instructors or the department.\n- Undergraduate students interested in graduate coursework must obtain special permission.\n- Credit hours are based on semester system.",
+    "path": "Cendara University > Additional Notes",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 205,
+        "heading": "Additional Notes"
+      }
+    ]
+  },
+  {
+    "id": "77a1d3bdc857e1819a1d8717fdbb483b914e3a05c2dd9c7d3810193c220e48a2_27",
+    "text": "For further information, please consult the Department of Psychology office (psychology@cendara.edu) or visit the Cendara University Courses portal.",
+    "path": "Cendara University > Additional Notes",
+    "doc_key": [
+      "dept_of_psychology_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 209,
+        "heading": "Additional Notes"
+      }
+    ]
+  }
+]

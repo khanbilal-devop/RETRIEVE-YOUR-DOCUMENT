@@ -1,0 +1,181 @@
+[
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_1",
+    "text": "Headquarters: Mumbai, Maharashtra, India\nFounded: 1998\nBank Type: Private Sector, Commercial Banking\nSWIFT Code: ZXININBB\nIFSC Example: ZXIN0000123\nWebsite: www.zxbank.asia (https://www.zxbank.asia)",
+    "path": "ZX Bank Ltd.",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank Ltd."
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_2",
+    "text": "- India\n  - Full-service operations: retail, corporate, and digital banking.\n- Sri Lanka\n  - 25+ branches focused on SME, personal banking, and remittance corridors.\n- Bangladesh\n  - Regional partner for mobile banking services and microfinance.\n- Bhutan\n  - Cross-border banking, digital onboarding, and NRI support.\n- Nepal\n  - Strategic presence via digital kiosks and remittance services.",
+    "path": "ZX Bank Ltd. > Operating Countries",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 14,
+        "heading": "Operating Countries"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_3",
+    "text": "- Savings & Current Accounts\n- Personal & Home Loans\n- Credit Cards\n- Fixed Deposits",
+    "path": "ZX Bank Ltd. > Services Offered > Retail Banking",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "Retail Banking"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_4",
+    "text": "- Business Loans\n- Trade Finance\n- Treasury Solutions",
+    "path": "ZX Bank Ltd. > Services Offered > Corporate Banking",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 40,
+        "heading": "Corporate Banking"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_5",
+    "text": "- Mobile App (Android & iOS)\n- NetBanking & UPI\n- e-KYC\n- AI Chatbot",
+    "path": "ZX Bank Ltd. > Services Offered > Digital Banking",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 45,
+        "heading": "Digital Banking"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_6",
+    "text": "- Rapid cross-border payments (India, Sri Lanka, Nepal, Bhutan)",
+    "path": "ZX Bank Ltd. > Services Offered > Remittances",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 51,
+        "heading": "Remittances"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_7",
+    "text": "- Investment Advisory\n- Mutual Funds\n- NRI Services",
+    "path": "ZX Bank Ltd. > Services Offered > Wealth Management",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 54,
+        "heading": "Wealth Management"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_8",
+    "text": "- Country: India | Branches: 560+ | ATMs: 1,200+\n- Country: Sri Lanka | Branches: 32 | ATMs: 40\n- Country: Bangladesh | Branches: 18 | ATMs: 30\n- Country: Bhutan | Branches: 8 | ATMs: 15\n- Country: Nepal | Branches: 20 | ATMs: 35",
+    "path": "ZX Bank Ltd. > Branch & ATM Network",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 62,
+        "heading": "Branch & ATM Network"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_9",
+    "text": "- CEO: Anjali Deshmukh\n- CFO: Rajiv Senanayake\n- CTO: Dipendra Khadka\n- Regional Director (South Asia): Meera Liyanage",
+    "path": "ZX Bank Ltd. > Key Management",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 74,
+        "heading": "Key Management"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_10",
+    "text": "- Available on: Android, iOS\n- Key Features:\n  - Balance check & fund transfer\n  - Bill payments & loan tracking\n  - Biometric login & QR scan pay\n  - AI-based financial assistant: Zia",
+    "path": "ZX Bank Ltd. > Mobile App: ZX Bank Asia",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 83,
+        "heading": "Mobile App: ZX Bank Asia"
+      }
+    ]
+  },
+  {
+    "id": "ca79d2199ad9fb3459bfe2cb470fdb1b8ea585c6501cdb176535610ec8a43cfc_11",
+    "text": "- Green Finance Projects\n  - Partnering with Bhutan hydropower & Nepal solar ventures\n- Financial Literacy Campaigns\n  - Grassroots programs in rural India & Bangladesh\n- Women Empowerment Loans\n  - Micro-loans for women-led businesses across South Asia\nZX Bank – Shaping tomorrow’s banking across South Asia 🌏",
+    "path": "ZX Bank Ltd. > CSR & ESG Focus",
+    "doc_key": [
+      "about zx bank ltd"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 94,
+        "heading": "CSR & ESG Focus"
+      },
+      {
+        "line": 103
+      }
+    ]
+  }
+]

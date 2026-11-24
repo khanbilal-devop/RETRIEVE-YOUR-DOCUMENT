@@ -1,0 +1,180 @@
+[
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_1",
+    "text": "Lane Keeping Assist System (LKAS) is an advanced driver assistance system (ADAS) designed to enhance road safety by helping drivers keep their vehicles within marked lane boundaries. LKAS is commonly found in modern vehicles and acts as a semi-autonomous feature, working alongside the driver to prevent unintentional lane departure.",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > What is Lane Keeping Assist System (LKAS)?",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "What is Lane Keeping Assist System (LKAS)?"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_2",
+    "text": "- Reduces Accidents: Lane departures are a major cause of road accidents, especially due to driver drowsiness, distraction, or inattention.\n- Enhances Safety: By consistently monitoring the vehicle’s position, LKAS can help avoid unintended drift into adjacent lanes.\n- Supports the Driver: LKAS provides gentle steering inputs or alerts, acting as a backup to human oversight.",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > Why is LKAS Important?",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 11,
+        "heading": "Why is LKAS Important?"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_3",
+    "text": "- Cameras: Typically, a forward-facing camera mounted near the rear-view mirror scans the road ahead for lane markings (white/yellow lines).\n- Sensors: Some advanced systems use a combination of cameras, LIDAR, or radar to enhance accuracy in different lighting and weather conditions.",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > How Does Lane Keeping Assist System Work? > 1. Sensing the Lane",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 20,
+        "heading": "1. Sensing the Lane"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_4",
+    "text": "- The camera/system detects lane boundaries by analyzing road markings in real-time.\n- On-board computers determine if the vehicle is unintentionally veering out of its lane.",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > How Does Lane Keeping Assist System Work? > 2. Processing the Image",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 24,
+        "heading": "2. Processing the Image"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_5",
+    "text": "- If the vehicle starts drifting toward a lane marking without indicating (using a turn signal), the system may give audible or visual warnings (e.g., a beep, steering wheel vibration, or dashboard alert).",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > How Does Lane Keeping Assist System Work? > 3. Warning the Driver",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 28,
+        "heading": "3. Warning the Driver"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_6",
+    "text": "- If the driver doesn’t respond to the warnings, LKAS can automatically provide gentle steering input to guide the car back toward the center of the lane.\n- Some systems may also use selective braking on one side of the vehicle to assist in correcting the course.",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > How Does Lane Keeping Assist System Work? > 4. Active Assistance",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 31,
+        "heading": "4. Active Assistance"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_7",
+    "text": "- Automatic Steering Correction: Minor, smooth counter-steering to stay centered in the lane.\n- Customizable Sensitivity: Most systems allow drivers to adjust the responsiveness or can be switched off.\n- Integrated with Other Systems: Often works alongside Lane Departure Warning (LDW) and Adaptive Cruise Control (ACC).",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > Key Features",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38,
+        "heading": "Key Features"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_8",
+    "text": "- Reliant on Lane Markings: LKAS requires clear, visible lane lines; performance may degrade in poor weather, faded markings, or during road construction.\n- Not a Substitute for Attention: LKAS assists, but the driver must keep hands on the wheel and remain attentive at all times.\n- May Not Operate at All Speeds: Some systems only work above certain speeds (e.g., above 60 km/h).",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > Limitations & Considerations",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 46,
+        "heading": "Limitations & Considerations"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_9",
+    "text": "1. Vehicle Camera Detects Lane\n2. Control Unit Monitors Position Relative to Lane Marks\n3. If Drift Detected: System Alerts Driver\n4. If No Response: System Gently Steers Vehicle Back to Lane Center",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > Typical LKAS Workflow",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 54,
+        "heading": "Typical LKAS Workflow"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_10",
+    "text": "Lane Keeping Assist System is a valuable safety technology that helps prevent unintentional lane departures, reducing the risk of side-swipe collisions and road departure accidents. While it offers significant safety benefits, it is not an autonomous driving system—driver vigilance and control remain essential.",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality > Conclusion",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 63,
+        "heading": "Conclusion"
+      }
+    ]
+  },
+  {
+    "id": "9fa73d7153b137b58566d57f8cd7658a2b665f428990c7dcfc8673dfaf109421_11",
+    "text": "References/For More Information\n- NHTSA on Lane Assistance Features (https://www.nhtsa.gov/equipment/driver-assistance-technologies)\n- IIHS: Lane Departure Prevention (https://www.iihs.org/topics/advanced-driver-assistance/feature-lane-departure-prevention)",
+    "path": "Lane Keeping Assist System (LKAS): Overview & Functionality",
+    "doc_key": [
+      "lane keeping assist system"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 67
+      },
+      {
+        "line": 68
+      }
+    ]
+  }
+]

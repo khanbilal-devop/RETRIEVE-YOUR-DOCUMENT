@@ -1,0 +1,137 @@
+[
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_1",
+    "text": "ZX Bank NetBanking is a secure online banking platform for individuals and businesses to manage accounts, perform transactions, pay bills, and access banking services anytime, anywhere.",
+    "path": "ZX Bank – NetBanking Guide > What is NetBanking?",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 4,
+        "heading": "What is NetBanking?"
+      }
+    ]
+  },
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_2",
+    "text": "- Account balance & statement viewing\n- Fund transfers (within ZX Bank & other banks)\n- Bill payments & mobile/DTH recharge\n- Open/close Fixed Deposits & Recurring Deposits\n- Loan & Credit Card management\n- Utility features: Stop cheque, request cheque book, manage beneficiaries",
+    "path": "ZX Bank – NetBanking Guide > Features",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Features"
+      }
+    ]
+  },
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_3",
+    "text": "1. Visit ZX Bank Asia Website (https://www.zxbank.asia)\n2. Click on ‘NetBanking Login’ and select ‘New User/Register’\n3. Enter:\n  - Customer ID (from passbook/account statement)\n  - Registered mobile number\n  - Verification via OTP\n4. Set your NetBanking username and password.\n5. Login and set transactional password & security questions.",
+    "path": "ZX Bank – NetBanking Guide > How to Activate ZX Bank NetBanking > 1. Self-Registration (Online)",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 21,
+        "heading": "1. Self-Registration (Online)"
+      }
+    ]
+  },
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_4",
+    "text": "- Visit any ZX Bank branch.\n- Fill NetBanking registration form.\n- Receive welcome kit/activation link on mobile/email.\n- Set your login and transaction password.",
+    "path": "ZX Bank – NetBanking Guide > How to Activate ZX Bank NetBanking > 2. Activation via Branch",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 31,
+        "heading": "2. Activation via Branch"
+      }
+    ]
+  },
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_5",
+    "text": "- Download the ZX Bank Asia app (Android/iOS).\n- Select ‘Register for NetBanking’.\n- Follow in-app instructions (similar to online self-registration).",
+    "path": "ZX Bank – NetBanking Guide > How to Activate ZX Bank NetBanking > 3. Activation via Mobile App",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 37,
+        "heading": "3. Activation via Mobile App"
+      }
+    ]
+  },
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_6",
+    "text": "- Service: NEFT/RTGS (Fund transfer) | Per day Limit: ₹10,00,000\n- Service: IMPS/UPI | Per day Limit: ₹2,00,000\n- Service: Bill Payments | Per day Limit: ₹1,00,000\n- Service: Own ZX Bank account Txns | Per day Limit: ₹20,00,000\nNote: Corporate/priority customers may request for higher limits. Limits can be customized via branch or customer support, subject to approval and enhanced security.",
+    "path": "ZX Bank – NetBanking Guide > Daily Transaction Limits (Indicative)",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 45,
+        "heading": "Daily Transaction Limits (Indicative)"
+      },
+      {
+        "line": 52,
+        "heading": "Daily Transaction Limits (Indicative)"
+      }
+    ]
+  },
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_7",
+    "text": "- Never share your NetBanking password/OTP.\n- Update password regularly.\n- Login only via official website or ZX Bank Asia app.\n- Enable two-factor authentication.",
+    "path": "ZX Bank – NetBanking Guide > Security Tips",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 57,
+        "heading": "Security Tips"
+      }
+    ]
+  },
+  {
+    "id": "76c4cc39caacff402bee9a8afafdc769a1d8beaf6e05a0bd70998e63079af778_8",
+    "text": "- Helpdesk:\n  - Toll-Free India: 1800-123-4567\n  - Sri Lanka: +94-11-2345678\n  - Bangladesh: +880-17-12345678\n  - Bhutan: +975-2-123456\n  - Nepal: +977-1-1234567\n- Email: netbanking.support@zxbank.asia\n- Chat: 24×7 Zia AI Assistant via app/website\n- Branch Support: Visit any branch for in-person assistance.\nFor more information visit: www.zxbank.asia/netbanking (https://www.zxbank.asia/netbanking)",
+    "path": "ZX Bank – NetBanking Guide > Support",
+    "doc_key": [
+      "netbanking guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 66,
+        "heading": "Support"
+      },
+      {
+        "line": 78
+      }
+    ]
+  }
+]

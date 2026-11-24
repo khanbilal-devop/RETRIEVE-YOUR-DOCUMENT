@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f9451eded52e55a57a157eb376a1b40beebcf46d56f6c59a611412abe199aafa_1",
+    "text": "ZX Bank Ltd. is committed to delivering accessible and reliable banking services across Surat, one of Gujarat’s fastest-growing urban centers. With a robust network spanning the city’s North, South, East, West, and Central regions, ZX Bank ensures that individuals and businesses can conveniently access modern financial solutions close to home. Each branch offers a full suite of retail, corporate, and digital services—supported by experienced staff and state-of-the-art banking infrastructure.",
+    "path": "ZX Bank Surat Branch Network",
+    "doc_key": [
+      "surat branch network"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "ZX Bank Surat Branch Network"
+      }
+    ]
+  },
+  {
+    "id": "f9451eded52e55a57a157eb376a1b40beebcf46d56f6c59a611412abe199aafa_2",
+    "text": "- Branch Address: Shop 12-14, North Plaza, Adajan Road, Adajan | IFSC Code: ZXIN0001011 | Contact Number: 0261-2980111\n- Branch Address: 2nd Floor, Vrundavan Complex, Pal Gam, North Surat | IFSC Code: ZXIN0001012 | Contact Number: 0261-2980222\n- Branch Address: G-6, Golden Arcade, L.P. Savani Road, Surat | IFSC Code: ZXIN0001013 | Contact Number: 0261-2980333\n- Branch Address: F-5, Shree Hallmark, Nana Varachha Main Road | IFSC Code: ZXIN0001014 | Contact Number: 0261-2980444",
+    "path": "ZX Bank Surat Branch Network > North Surat",
+    "doc_key": [
+      "surat branch network"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "North Surat"
+      }
+    ]
+  },
+  {
+    "id": "f9451eded52e55a57a157eb376a1b40beebcf46d56f6c59a611412abe199aafa_3",
+    "text": "- Branch Address: Shop 3-5, Shubham Plaza, Udhna Main Road, Udhna | IFSC Code: ZXIN0002011 | Contact Number: 0261-2550111\n- Branch Address: 1st Floor, Aryaman Mall, Godadara Road, South Surat | IFSC Code: ZXIN0002012 | Contact Number: 0261-2550222\n- Branch Address: Plot 22, Shiv Nagar Society, Bhestan | IFSC Code: ZXIN0002013 | Contact Number: 0261-2550333",
+    "path": "ZX Bank Surat Branch Network > South Surat",
+    "doc_key": [
+      "surat branch network"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 20,
+        "heading": "South Surat"
+      }
+    ]
+  },
+  {
+    "id": "f9451eded52e55a57a157eb376a1b40beebcf46d56f6c59a611412abe199aafa_4",
+    "text": "- Branch Address: Ground Floor, Maneckji Sheri, Katargam | IFSC Code: ZXIN0003011 | Contact Number: 0261-2400111\n- Branch Address: Shop 6, Siddhi Mall, Varachha Road, East Surat | IFSC Code: ZXIN0003012 | Contact Number: 0261-2400222\n- Branch Address: F-9, Satkar Shopping Centre, Puna Gam | IFSC Code: ZXIN0003013 | Contact Number: 0261-2400333\n- Branch Address: F-12, Ambika Complex, Ved Road | IFSC Code: ZXIN0003014 | Contact Number: 0261-2400444",
+    "path": "ZX Bank Surat Branch Network > East Surat",
+    "doc_key": [
+      "surat branch network"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "East Surat"
+      }
+    ]
+  },
+  {
+    "id": "f9451eded52e55a57a157eb376a1b40beebcf46d56f6c59a611412abe199aafa_5",
+    "text": "- Branch Address: Shop 21, Raj Residency, Ghod Dod Road | IFSC Code: ZXIN0004011 | Contact Number: 0261-2210111\n- Branch Address: Shop 101, Suryadaya Complex, Vesu Main Road | IFSC Code: ZXIN0004012 | Contact Number: 0261-2210222\n- Branch Address: FF-10, Crystal Arcade, Piplod | IFSC Code: ZXIN0004013 | Contact Number: 0261-2210333",
+    "path": "ZX Bank Surat Branch Network > West Surat",
+    "doc_key": [
+      "surat branch network"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 41,
+        "heading": "West Surat"
+      }
+    ]
+  },
+  {
+    "id": "f9451eded52e55a57a157eb376a1b40beebcf46d56f6c59a611412abe199aafa_6",
+    "text": "- Branch Address: 1st Floor, Sagar Building, Chowk Bazar | IFSC Code: ZXIN0005011 | Contact Number: 0261-2310111\n- Branch Address: Shop 7, Surya Towers, Ring Road, Near Textiles Market | IFSC Code: ZXIN0005012 | Contact Number: 0261-2310222\n- Branch Address: F-3, Sukhsagar Complex, Nanpura | IFSC Code: ZXIN0005013 | Contact Number: 0261-2310333\n- Branch Address: Ground Floor, Mehul Nagar, Railway Station Area | IFSC Code: ZXIN0005014 | Contact Number: 0261-2310444",
+    "path": "ZX Bank Surat Branch Network > Central Surat",
+    "doc_key": [
+      "surat branch network"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 51,
+        "heading": "Central Surat"
+      }
+    ]
+  }
+]

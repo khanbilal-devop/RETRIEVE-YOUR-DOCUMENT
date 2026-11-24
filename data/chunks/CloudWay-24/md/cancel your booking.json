@@ -1,0 +1,117 @@
+[
+  {
+    "id": "b6e88dd3924abd4185e226cee0069f8adbe9b37c8c1629ea5e1348345a45c2c5_1",
+    "text": "CloudWay 24 aims to provide passengers with flexibility and control over their travel plans. If you need to cancel your booking for any reason, our streamlined process ensures a hassle-free experience both online and via our mobile app.",
+    "path": "Cancel Your Booking with CloudWay 24",
+    "doc_key": [
+      "cancel your booking"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Cancel Your Booking with CloudWay 24"
+      }
+    ]
+  },
+  {
+    "id": "b6e88dd3924abd4185e226cee0069f8adbe9b37c8c1629ea5e1348345a45c2c5_2",
+    "text": "You can cancel your booking in two convenient ways:",
+    "path": "Cancel Your Booking with CloudWay 24 > How to Cancel Your Booking",
+    "doc_key": [
+      "cancel your booking"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "How to Cancel Your Booking"
+      }
+    ]
+  },
+  {
+    "id": "b6e88dd3924abd4185e226cee0069f8adbe9b37c8c1629ea5e1348345a45c2c5_3",
+    "text": "- Visit CloudWay24.com (https://cloudway24.com).\n- Sign in with your email or mobile number.\n- Navigate to Manage My Flight.\n- Select Cancel Your Booking.\n- Enter your booking details (Booking reference and Last name).\n- Review your booking details and click Proceed to Cancel.\n- Confirm your choice. If eligible, your refund amount and policy will be displayed.\n- Submit the cancellation request.",
+    "path": "Cancel Your Booking with CloudWay 24 > How to Cancel Your Booking > 1. Website",
+    "doc_key": [
+      "cancel your booking"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 12,
+        "heading": "1. Website"
+      }
+    ]
+  },
+  {
+    "id": "b6e88dd3924abd4185e226cee0069f8adbe9b37c8c1629ea5e1348345a45c2c5_4",
+    "text": "- Open the CloudWay 24 app.\n- Log in to your account.\n- Go to Manage My Flight.\n- Tap on Cancel Your Booking.\n- Select your trip or enter your booking reference.\n- Review your booking details and click Proceed to Cancel.\n- Confirm your choice. If eligible, your refund amount and policy will be displayed.\n- Submit the cancellation request.",
+    "path": "Cancel Your Booking with CloudWay 24 > How to Cancel Your Booking > 2. CloudWay 24 Mobile App (iOS/Android)",
+    "doc_key": [
+      "cancel your booking"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 22,
+        "heading": "2. CloudWay 24 Mobile App (iOS/Android)"
+      }
+    ]
+  },
+  {
+    "id": "b6e88dd3924abd4185e226cee0069f8adbe9b37c8c1629ea5e1348345a45c2c5_5",
+    "text": "- Refund eligibility: Depends on fare type, class of travel, and time of cancellation.\n- Flexible tickets: Eligible for full or partial refund, as per fare conditions.\n- Promotional or non-refundable fares: Generally non-refundable except for taxes, as per policy.\n- Refund method: Processed to the original payment method (credit/debit card, netbanking, or SkyPoints 24 points).\n- Processing time: Refunds are typically processed within 7–10 business days.",
+    "path": "Cancel Your Booking with CloudWay 24 > Refund & Cancellation Policy",
+    "doc_key": [
+      "cancel your booking"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "Refund & Cancellation Policy"
+      }
+    ]
+  },
+  {
+    "id": "b6e88dd3924abd4185e226cee0069f8adbe9b37c8c1629ea5e1348345a45c2c5_6",
+    "text": "- Cancellation fees may apply based on fare class and timing.\n- No-shows or last-minute cancellations may receive reduced refunds.\n- For third-party/travel agent bookings, please contact the respective agent for cancellation.",
+    "path": "Cancel Your Booking with CloudWay 24 > Refund & Cancellation Policy > Note:",
+    "doc_key": [
+      "cancel your booking"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 42,
+        "heading": "Note:"
+      }
+    ]
+  },
+  {
+    "id": "b6e88dd3924abd4185e226cee0069f8adbe9b37c8c1629ea5e1348345a45c2c5_7",
+    "text": "- CloudWay 24 Customer Care: Available 24/7 via website chat, app support, or helpline.\n- For more information, visit our FAQs (https://cloudway24.com/faq).\nFly Seamless. Fly CloudWay 24.",
+    "path": "Cancel Your Booking with CloudWay 24 > Need Assistance?",
+    "doc_key": [
+      "cancel your booking"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 50,
+        "heading": "Need Assistance?"
+      },
+      {
+        "line": 55
+      }
+    ]
+  }
+]

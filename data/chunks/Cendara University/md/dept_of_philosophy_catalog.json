@@ -1,0 +1,337 @@
+[
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_1",
+    "text": "The Department of Philosophy at Cendara University offers a rich curriculum for B.A. and M.A. students, emphasizing rigorous analysis in logic, ethics, epistemology, and the history of philosophy. Our program is designed to prepare students for graduate study, teaching, or careers requiring critical thought, communication, and ethical reasoning.",
+    "path": "Cendara University > Overview",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Overview"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_2",
+    "text": "- Credits: 3\n- Prerequisites: None\n- Description:\n  - A broad introduction to central questions in philosophy, including the nature of reality, the limits of knowledge, morality, free will, and the existence of God. Readings include both classical and contemporary philosophers. This course provides essential tools for analytical reading and writing.",
+    "path": "Cendara University > Course Listings > PHIL 101: Introduction to Philosophy",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 17,
+        "heading": "PHIL 101: Introduction to Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_3",
+    "text": "- Credits: 3\n- Prerequisites: None\n- Description:\n  - Covers the fundamentals of formal reasoning and logical argument. Topics include categorical and propositional logic, logical fallacies, and techniques for evaluating arguments in philosophical and real-world contexts.",
+    "path": "Cendara University > Course Listings > PHIL 120: Introduction to Logic",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "PHIL 120: Introduction to Logic"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_4",
+    "text": "- Credits: 4\n- Prerequisites: PHIL 101 or consent of instructor\n- Description:\n  - A study of the major philosophers of ancient Greece, such as Socrates, Plato, and Aristotle. Emphasis is placed on their approaches to metaphysics, political philosophy, and ethics within their historical context.",
+    "path": "Cendara University > Course Listings > PHIL 201: Ancient Greek Philosophy",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "PHIL 201: Ancient Greek Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_5",
+    "text": "- Credits: 3\n- Prerequisites: None\n- Description:\n  - An exploration of fundamental theories in moral philosophy including utilitarianism, Kantian deontology, and virtue ethics. Students will apply ethical frameworks to contemporary moral dilemmas.",
+    "path": "Cendara University > Course Listings > PHIL 210: Introduction to Ethics",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "PHIL 210: Introduction to Ethics"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_6",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 101 or sophomore standing\n- Description:\n  - Investigates the mind-body problem, consciousness, mental representation, and theories of personal identity. Included are discussions of both classical and current debates in philosophy of mind.",
+    "path": "Cendara University > Course Listings > PHIL 218: Philosophy of Mind",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "PHIL 218: Philosophy of Mind"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_7",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 101\n- Description:\n  - An examination of the theory of knowledge, focusing on justification, skepticism, the sources of belief, and the definition of knowledge. Classical and contemporary readings are assigned.",
+    "path": "Cendara University > Course Listings > PHIL 247: Epistemology",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 62,
+        "heading": "PHIL 247: Epistemology"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_8",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 101 or completion of one science course\n- Description:\n  - Addresses foundational issues in the philosophy of science, including scientific explanation, theory change, and the demarcation problem. Case studies are drawn from historical and modern science.",
+    "path": "Cendara University > Course Listings > PHIL 260: Philosophy of Science",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71,
+        "heading": "PHIL 260: Philosophy of Science"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_9",
+    "text": "- Credits: 4\n- Prerequisites: PHIL 201\n- Description:\n  - Examines the period from Descartes to Kant, including Hobbes, Locke, Hume, and Rousseau. Focuses on rationalism and empiricism, and the Enlightenment’s impact on contemporary thought.",
+    "path": "Cendara University > Course Listings > PHIL 302: Modern Philosophy",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "PHIL 302: Modern Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_10",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 210 or junior standing\n- Description:\n  - Explores ethical issues surrounding current and emerging technologies, such as artificial intelligence, privacy, and biotechnology. Students engage in critical discussion and policy analysis.",
+    "path": "Cendara University > Course Listings > PHIL 325: Ethics of Technology",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 89,
+        "heading": "PHIL 325: Ethics of Technology"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_11",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 101\n- Description:\n  - Focuses on existentialist thinkers like Kierkegaard, Nietzsche, Sartre, and de Beauvoir. Topics include authenticity, freedom, absurdity, and the meaning of life.",
+    "path": "Cendara University > Course Listings > PHIL 341: Existentialism",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 98,
+        "heading": "PHIL 341: Existentialism"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_12",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 101 or consent of instructor\n- Description:\n  - A survey of major philosophical traditions in India, China, and Japan. Examines texts from the Upanishads, Confucius, Laozi, Nagarjuna, Dogen, and others, emphasizing cross-cultural philosophical exchange.",
+    "path": "Cendara University > Course Listings > PHIL 370: Asian Philosophies",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 107,
+        "heading": "PHIL 370: Asian Philosophies"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_13",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 101 and PHIL 201\n- Description:\n  - Investigates theories of justice, rights, and social contract from Plato to Rawls. Considers foundational debates about authority, freedom, and civic responsibility.",
+    "path": "Cendara University > Course Listings > PHIL 385: Political Philosophy",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 116,
+        "heading": "PHIL 385: Political Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_14",
+    "text": "- Credits: 3\n- Prerequisites: Senior standing in Philosophy major\n- Description:\n  - A capstone course requiring students to conduct independent research, participate in focused seminars, and defend original philosophical arguments in writing and oral presentation.",
+    "path": "Cendara University > Course Listings > PHIL 400: Senior Seminar",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 124,
+        "heading": "PHIL 400: Senior Seminar"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_15",
+    "text": "- Credits: 3\n- Prerequisites: PHIL 210 and junior standing\n- Description:\n  - In-depth examination of select issues in contemporary moral philosophy, such as ethical relativism, virtue theory, moral responsibility, and applied problems (e.g., animal rights, environmental ethics).",
+    "path": "Cendara University > Course Listings > PHIL 410: Advanced Topics in Contemporary Ethics",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 133,
+        "heading": "PHIL 410: Advanced Topics in Contemporary Ethics"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_16",
+    "text": "- Credits: 3\n- Prerequisites: Admission to M.A. in Philosophy or permission\n- Description:\n  - Required seminar for new M.A. students introducing research methodologies, advanced philosophical writing, and professional development. Includes supervised discussion of classic texts across philosophical subfields.",
+    "path": "Cendara University > Course Listings > PHIL 445: Graduate Proseminar in Philosophy",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 142,
+        "heading": "PHIL 445: Graduate Proseminar in Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_17",
+    "text": "- Credits: 3\n- Prerequisites: Graduate standing or consent of instructor\n- Description:\n  - Graduate seminar on key texts, thinkers, and debates in the analytic tradition, focusing on language, logic, and the philosophy of mathematics.",
+    "path": "Cendara University > Course Listings > PHIL 503: Seminar in Analytic Philosophy",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 151,
+        "heading": "PHIL 503: Seminar in Analytic Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_18",
+    "text": "- Credits: 3\n- Prerequisites: Graduate standing\n- Description:\n  - Advanced seminar covering Husserl, Heidegger, Gadamer, and others. Emphasizes phenomenological method and its applications to interpretation and meaning.",
+    "path": "Cendara University > Course Listings > PHIL 514: Seminar in Phenomenology and Hermeneutics",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 160,
+        "heading": "PHIL 514: Seminar in Phenomenology and Hermeneutics"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_19",
+    "text": "- Credits: 3–6\n- Prerequisites: Graduate standing and department approval\n- Description:\n  - Independent or faculty-supervised research leading to a substantial paper or project. Research topics must be approved by departmental faculty.",
+    "path": "Cendara University > Course Listings > PHIL 560: Research in Philosophy",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 169,
+        "heading": "PHIL 560: Research in Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_20",
+    "text": "- Course: PHIL 101 | Title: Introduction to Philosophy | Credits: 3 | Prerequisites: None\n- Course: PHIL 120 | Title: Introduction to Logic | Credits: 3 | Prerequisites: None\n- Course: PHIL 201 | Title: Ancient Greek Philosophy | Credits: 4 | Prerequisites: PHIL 101 or consent of instructor\n- Course: PHIL 210 | Title: Introduction to Ethics | Credits: 3 | Prerequisites: None\n- Course: PHIL 218 | Title: Philosophy of Mind | Credits: 3 | Prerequisites: PHIL 101 or sophomore standing\n- Course: PHIL 247 | Title: Epistemology | Credits: 3 | Prerequisites: PHIL 101\n- Course: PHIL 260 | Title: Philosophy of Science | Credits: 3 | Prerequisites: PHIL 101 or one science course\n- Course: PHIL 302 | Title: Modern Philosophy | Credits: 4 | Prerequisites: PHIL 201\n- Course: PHIL 325 | Title: Ethics of Technology | Credits: 3 | Prerequisites: PHIL 210 or junior standing\n- Course: PHIL 341 | Title: Existentialism | Credits: 3 | Prerequisites: PHIL 101\n- Course: PHIL 370 | Title: Asian Philosophies | Credits: 3 | Prerequisites: PHIL 101 or consent of instructor\n- Course: PHIL 385 | Title: Political Philosophy | Credits: 3 | Prerequisites: PHIL 101 and PHIL 201\n- Course: PHIL 400 | Title: Senior Seminar | Credits: 3 | Prerequisites: Senior standing in Philosophy major\n- Course: PHIL 410 | Title: Advanced Topics in Contemporary Ethics | Credits: 3 | Prerequisites: PHIL 210 and junior standing\n- Course: PHIL 445 | Title: Graduate Proseminar in Philosophy | Credits: 3 | Prerequisites: Admission to M.A. or permission\n- Course: PHIL 503 | Title: Seminar in Analytic Philosophy | Credits: 3 | Prerequisites: Graduate standing or consent of instructor\n- Course: PHIL 514 | Title: Seminar in Phenomenology and Hermeneutics | Credits: 3 | Prerequisites: Graduate standing\n- Course: PHIL 560 | Title: Research in Philosophy | Credits: 3–6 | Prerequisites: Graduate standing and department approval",
+    "path": "Cendara University > Summary Table",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 178,
+        "heading": "Summary Table"
+      }
+    ]
+  },
+  {
+    "id": "ded66517faa80c2448fafbf4e044e19746ca7e4613e7e6b6bbfa2578a6732cb7_21",
+    "text": "For more information, consult the Department of Philosophy academic adviser or visit our website at [philosophy.cendara.edu].",
+    "path": "Cendara University",
+    "doc_key": [
+      "dept_of_philosophy_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 201
+      }
+    ]
+  }
+]

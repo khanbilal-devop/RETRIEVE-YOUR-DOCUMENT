@@ -1,0 +1,130 @@
+[
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_1",
+    "text": "Driving safely is crucial for protecting yourself, your passengers, and others on the road. Before and while you drive, follow this checklist to ensure you’re operating your vehicle responsibly.",
+    "path": "Safe Driving Checklist",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Safe Driving Checklist"
+      }
+    ]
+  },
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_2",
+    "text": "- [ ] Ensure you are well-rested and not under the influence of alcohol, drugs, or strong medication.\n- [ ] Check weather and road conditions.\n- [ ] Perform a quick walk-around inspection of the car:\n  - [ ] Tire condition and pressure\n  - [ ] All lights functioning (headlights, brake lights, indicators)\n  - [ ] No visible leaks or loose parts\n- [ ] Adjust your seat, headrest, and mirrors for comfort and proper view.\n- [ ] Fasten your seat belt and ensure all passengers are buckled up.\n- [ ] Check that all doors are properly closed and locked.\n- [ ] Clear the windshield and mirrors of obstructions/dirt.\n- [ ] Secure any loose items in the vehicle.",
+    "path": "Safe Driving Checklist > 1. Before You Start the Car",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "1. Before You Start the Car"
+      }
+    ]
+  },
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_3",
+    "text": "- [ ] Ensure the gear is in neutral/park.\n- [ ] Press the brake pedal before starting.\n- [ ] Check dashboard warning lights after ignition.\n- [ ] Familiarize yourself with the location of controls (wipers, headlights, horn, indicators, hazard lights).",
+    "path": "Safe Driving Checklist > 2. Starting the Car",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 25,
+        "heading": "2. Starting the Car"
+      }
+    ]
+  },
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_4",
+    "text": "- [ ] Obey all speed limits and traffic rules.\n- [ ] Keep a safe following distance (3-second rule in good conditions).\n- [ ] Use indicators when changing lanes or turning.\n- [ ] Observe and obey all road signs and signals.\n- [ ] Avoid distractions:\n  - [ ] Do not use mobile phones unless hands-free.\n  - [ ] Avoid eating, drinking, or reaching for objects while driving.\n- [ ] Stay focused, alert, and anticipate actions of other drivers.\n- [ ] Use headlights in low light, rain, or fog.\n- [ ] Continuously check rear-view and side mirrors.\n- [ ] Yield to pedestrians and emergency vehicles.\n- [ ] Keep both hands on the steering wheel.",
+    "path": "Safe Driving Checklist > 3. While Driving",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "3. While Driving"
+      }
+    ]
+  },
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_5",
+    "text": "- [ ] Slow down in rain, fog, or poor visibility.\n- [ ] Use low beams in fog or heavy rain.\n- [ ] Park only in designated areas; use the handbrake.\n- [ ] Never drive when extremely tired or drowsy.",
+    "path": "Safe Driving Checklist > 4. Special Situations",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 51,
+        "heading": "4. Special Situations"
+      }
+    ]
+  },
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_6",
+    "text": "- [ ] Keep an emergency kit (first aid, flashlight, water, basic tools).\n- [ ] Carry important documents (license, registration, insurance copy).\n- [ ] Know emergency contact numbers and roadside assistance availability.",
+    "path": "Safe Driving Checklist > 5. Emergency Preparedness",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 60,
+        "heading": "5. Emergency Preparedness"
+      }
+    ]
+  },
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_7",
+    "text": "- [ ] Switch off the engine and lights.\n- [ ] Lock all doors and secure valuables.\n- [ ] Park safely without blocking exits, driveways, or fire lanes.",
+    "path": "Safe Driving Checklist > 6. After Reaching Your Destination",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 68,
+        "heading": "6. After Reaching Your Destination"
+      }
+    ]
+  },
+  {
+    "id": "c76009ef31b5147184e5be3d12954635a3988aa573433aa81c65f04bdd036fd2_8",
+    "text": "For vehicle maintenance or emergency assistance, contact your nearest Aventro Service Center.",
+    "path": "Safe Driving Checklist > 6. After Reaching Your Destination > Stay Safe—Always Drive Responsibly!",
+    "doc_key": [
+      "safe driving checklist"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 76,
+        "heading": "Stay Safe—Always Drive Responsibly!"
+      }
+    ]
+  }
+]

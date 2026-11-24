@@ -1,0 +1,301 @@
+[
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_1",
+    "text": "The ZX Bank Asia mobile app is your gateway to seamless, secure, and smart banking. With support for Android and iOS, manage your finances on the go with intuitive banking features, advanced security, and real-time assistance.",
+    "path": "ZX Bank Asia Mobile App Guide > Overview",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "Overview"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_2",
+    "text": "For Android:\n1. Open Google Play Store.\n2. Search for: ZX Bank Asia.\n3. Tap Download and install the app.",
+    "path": "ZX Bank Asia Mobile App Guide > 1. How to Download the ZX Bank Asia App",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 11,
+        "heading": "1. How to Download the ZX Bank Asia App"
+      },
+      {
+        "line": 12,
+        "heading": "1. How to Download the ZX Bank Asia App"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_3",
+    "text": "For iOS:\n1. Open Apple App Store.\n2. Search for: ZX Bank Asia.\n3. Tap Get and install the app.",
+    "path": "ZX Bank Asia Mobile App Guide > 1. How to Download the ZX Bank Asia App",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 16,
+        "heading": "1. How to Download the ZX Bank Asia App"
+      },
+      {
+        "line": 17,
+        "heading": "1. How to Download the ZX Bank Asia App"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_4",
+    "text": "1. Open the ZX Bank Asia App.\n2. Tap on Register / Activate.\n3. Enter your registered mobile number & customer ID/account number.\n4. Authenticate via OTP sent to your mobile.\n5. Set your preferred login PIN or configure biometric authentication (fingerprint/Face ID).\n6. Complete e-KYC verification if prompted.",
+    "path": "ZX Bank Asia Mobile App Guide > 2. How to Activate Mobile Banking",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 25,
+        "heading": "2. How to Activate Mobile Banking"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_5",
+    "text": "- Open the app.\n- Enter your PIN or use biometric login (if enabled).\n- Access your dashboard securely.",
+    "path": "ZX Bank Asia Mobile App Guide > 3. How to Login",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 36,
+        "heading": "3. How to Login"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_6",
+    "text": "- Check savings/current account balances.\n- View transaction history and mini statements.\n- Track FD, RD, and loan details in real-time.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Account Management",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 46,
+        "heading": "Account Management"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_7",
+    "text": "1. Tap Fund Transfer.\n2. Choose between ZX Bank or Other Bank (NEFT/IMPS/UPI).\n3. Select/Add payee (see below).\n4. Enter amount & remarks.\n5. Confirm with PIN/OTP.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Fund Transfer > Within ZX Bank / Other Banks",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "Within ZX Bank / Other Banks"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_8",
+    "text": "1. Go to Fund Transfer → Manage Payees.\n2. Select Add Payee.\n3. Enter payee's account info (name, bank details, IFSC) or UPI ID.\n4. Verify via OTP.\n5. Payee is added–start transferring.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Fund Transfer > Add Payee",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 60,
+        "heading": "Add Payee"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_9",
+    "text": "- Pay electricity, water, gas, mobile & credit card bills.\n- Scan & pay using QR codes at merchants or for quick money transfers.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Bill Payments & QR",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 68,
+        "heading": "Bill Payments & QR"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_10",
+    "text": "- View existing cards with usage summary, payment due dates, statements, and reward points.\n- Block Card: Select card → More options → Block (immediate effect).\n- Reset Card PIN: Select card → Change PIN → Enter old & new PIN.\n- Apply New Card: Cards Menu → Apply for New Card → Choose credit or debit → Fill application & submit docs.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Cards > Check, Apply & Manage Credit/Debit Cards",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 74,
+        "heading": "Check, Apply & Manage Credit/Debit Cards"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_11",
+    "text": "- Go to Manage Cards.\n- Choose the card and tap Set Transaction Limit.\n- Adjust for ATM, POS, online, contactless—save changes.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Cards > Set Card Limits",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 80,
+        "heading": "Set Card Limits"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_12",
+    "text": "- View all loans, EMIs, schedules & download statements.\n- Apply for new loans: Home, personal, or vehicle → Fill form → Upload KYC → Track status.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Loans",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 86,
+        "heading": "Loans"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_13",
+    "text": "- Check Rewards tab for current points.\n- Redeem reward points instantly for vouchers, cashback, or gift cards.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Rewards",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 91,
+        "heading": "Rewards"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_14",
+    "text": "- Access NRI services, mutual funds, wealth advisory, and initiate investments.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > NRI & Wealth",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 96,
+        "heading": "NRI & Wealth"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_15",
+    "text": "- Ask Zia for help with account queries, product info, quick balance, and transaction support.",
+    "path": "ZX Bank Asia Mobile App Guide > 4. App Features > Chatbot – Zia",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 100,
+        "heading": "Chatbot – Zia"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_16",
+    "text": "- Biometric login (fingerprint/Face ID)\n- Dynamic device registration & One-Time Password (OTP) validation\n- Instant blocking of internet/mobile banking through the app",
+    "path": "ZX Bank Asia Mobile App Guide > 5. Security Options",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 106,
+        "heading": "5. Security Options"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_17",
+    "text": "- Request Cheque Book: Accounts → Services → Request Cheque Book\n- Update Contact Details: Profile → Edit → Authenticate with OTP\n- Mini Statements: Account → View Mini Statement\n- Locate Branch/ATM: Find ZX Bank locations in all supported countries\n- Notifications: Get real-time alerts for all transactions and offers",
+    "path": "ZX Bank Asia Mobile App Guide > 6. Other Popular Services",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 114,
+        "heading": "6. Other Popular Services"
+      }
+    ]
+  },
+  {
+    "id": "86b9d76e81c84b588fcf81d71370c3ddc80944538521da2e1b38239205b3171c_18",
+    "text": "- Use in-app chat or helpline.\n- Email or schedule branch appointments via the app.\nDownload & start banking smarter with the ZX Bank Asia App (https://www.zxbank.asia)!",
+    "path": "ZX Bank Asia Mobile App Guide > 7. Customer Support",
+    "doc_key": [
+      "zx bank asia mobile app guide"
+    ],
+    "company": "ZX Bank",
+    "format": "md",
+    "locations": [
+      {
+        "line": 124,
+        "heading": "7. Customer Support"
+      },
+      {
+        "line": 129
+      }
+    ]
+  }
+]

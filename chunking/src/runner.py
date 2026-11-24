@@ -22,9 +22,7 @@ FORMAT = "md"
 # TEMPORARY: while we look at the first results, only these documents are chunked.
 # Each entry is a company and the doc_key names of its documents. Set it to None to
 # chunk every document, then delete it.
-SAMPLE_FILES: dict[str, list[str]] | None = {
-    "Velvera Technologies": ["warranty_and_service"],
-}
+SAMPLE_FILES: dict[str, list[str]] | None = None
 
 
 def save_chunks(path: Path, chunks: list[dict]) -> None:

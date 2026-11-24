@@ -1,0 +1,217 @@
+[
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_1",
+    "text": "Traction Control is a vehicle safety feature designed to prevent the loss of traction (grip) of the driven road wheels, which can occur during acceleration. By detecting when one or more wheels are slipping, the system automatically applies the brakes or reduces engine power to maintain optimal grip, especially on slippery surfaces.",
+    "path": "Traction Control > What is Traction Control?",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "What is Traction Control?"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_2",
+    "text": "Traction control systems are usually integrated with a car's anti-lock braking system (ABS) and electronic stability control (ESC). The basic operation involves:\n1. Sensors detect when a wheel is spinning faster than others (indicating loss of traction).\n2. Electronic Control Unit (ECU) receives data from sensors and determines the appropriate intervention.\n3. Intervention:\n  - Braking: The system applies brakes to the slipping wheel(s).\n  - Engine Control: The ECU may reduce engine power or throttle input to minimize wheel spin.",
+    "path": "Traction Control > How Does Traction Control Work?",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 11,
+        "heading": "How Does Traction Control Work?"
+      },
+      {
+        "line": 13,
+        "heading": "How Does Traction Control Work?"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_3",
+    "text": "- Wheel Speed Sensors: Monitor the rotational speed of each wheel.\n- ECU (Electronic Control Unit): Processes sensor data and manages interventions.\n- Braking Mechanism: Engages individual brakes as needed.\n- Throttle Control (in advanced systems): Modulates engine power.",
+    "path": "Traction Control > Key Components",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "Key Components"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_4",
+    "text": "- Improved Safety: Helps maintain control during acceleration on wet, icy, or loose surfaces.\n- Reduced Wheel Spin: Minimizes tire wear and prevents excessive wheel spin.\n- Enhanced Stability: Works in tandem with ABS and ESC for overall vehicle stability.",
+    "path": "Traction Control > Benefits of Traction Control",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 32,
+        "heading": "Benefits of Traction Control"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_5",
+    "text": "- Accelerating quickly on wet, icy, sandy, or gravelly surfaces.\n- When one or more wheels begin to slip or lose contact with the road.\n- During sharp turns, especially in low-traction conditions.",
+    "path": "Traction Control > When Does Traction Control Activate?",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 40,
+        "heading": "When Does Traction Control Activate?"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_6",
+    "text": "- Cannot increase tire traction: Only manages existing traction without creating more.\n- Limited usefulness on all surfaces: May not be as effective on extremely slippery or uneven terrains.\n- Not a substitute for safe driving practices: Drivers should still use caution in poor conditions.",
+    "path": "Traction Control > Limitations of Traction Control",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 48,
+        "heading": "Limitations of Traction Control"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_7",
+    "text": "Most modern vehicles, including Aventro Motors models across Hatchback, Sedan, and SUV variants, are equipped with traction control as standard or optional, especially in ZX or higher trim levels. This is part of Aventro's commitment to vehicle safety and performance under varied driving conditions.",
+    "path": "Traction Control > Traction Control in Aventro Motors Cars",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 56,
+        "heading": "Traction Control in Aventro Motors Cars"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_8",
+    "text": "The dashboard display will often include a traction control symbol:\n- Illuminates briefly when system is engaged or if road conditions are slippery.\n- Constant illumination may indicate a fault in the traction control system; service is recommended at an authorized Aventro Service Center.",
+    "path": "Traction Control > Traction Control Indicator Light",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 62,
+        "heading": "Traction Control Indicator Light"
+      },
+      {
+        "line": 63,
+        "heading": "Traction Control Indicator Light"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_9",
+    "text": "If you experience issues with traction control (warning lights, loss of system function), contact your nearest Aventro Service Center for diagnostics and repair. Problems could relate to faulty wheel speed sensors, wiring, or ECU malfunction.",
+    "path": "Traction Control > Maintenance & Service",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 70,
+        "heading": "Maintenance & Service"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_10",
+    "text": "- Electrical System Diagnostics\n- Dashboard Display Repair\n- Wheel Alignment\n- Regular Maintenance",
+    "path": "Traction Control > Related Services at Aventro Motors",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 76,
+        "heading": "Related Services at Aventro Motors"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_11",
+    "text": "Some models offer the ability to temporarily disable traction control, useful in specific situations like getting a stuck vehicle moving. Refer to your Aventro Motors owner’s manual for guidance.",
+    "path": "Traction Control > Frequently Asked Questions > Can I switch off traction control?",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 86,
+        "heading": "Can I switch off traction control?"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_12",
+    "text": "No, traction control assists traction, but does not substitute proper tire selection for icy or snowy conditions.",
+    "path": "Traction Control > Frequently Asked Questions > Does traction control replace winter tires?",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 89,
+        "heading": "Does traction control replace winter tires?"
+      }
+    ]
+  },
+  {
+    "id": "e31b3d659c800eb7c53e938a95f65a19943863e3f0c64444b1dc86ad69e57630_13",
+    "text": "For further information, service, or support, contact Aventro Motors Service Centers (#) or email info@aventromotors.com (mailto:info@aventromotors.com).",
+    "path": "Traction Control > Frequently Asked Questions",
+    "doc_key": [
+      "traction control"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 93
+      }
+    ]
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_1",
+    "text": "All timings are local. Aircraft type and durations are approximate. Flight numbers and schedules for illustrative purposes.",
+    "path": "CloudWay 24: Mumbai–USA Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "CloudWay 24: Mumbai–USA Flight Schedule"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_2",
+    "text": "- Flight No.: CW241 | Destination City: New York (JFK) | Departure (BOM): 01:10 | Arrival (Local): 07:30 | Aircraft Type: Boeing 787-9 | Travel Time: 15h 50m\n- Flight No.: CW243 | Destination City: Chicago (ORD) | Departure (BOM): 02:40 | Arrival (Local): 09:20 | Aircraft Type: Airbus A350-900 | Travel Time: 16h 10m\n- Flight No.: CW245 | Destination City: San Francisco (SFO) | Departure (BOM): 00:25 | Arrival (Local): 06:25 | Aircraft Type: Airbus A350-1000 | Travel Time: 16h 30m\n- Flight No.: CW247 | Destination City: Los Angeles (LAX) | Departure (BOM): 23:50 | Arrival (Local): 05:20 | Aircraft Type: Boeing 787-10 | Travel Time: 16h 00m\n- Flight No.: CW249 | Destination City: Dallas (DFW) | Departure (BOM): 03:15 | Arrival (Local): 09:35 | Aircraft Type: Airbus A380 | Travel Time: 16h 50m\n- Flight No.: CW251 | Destination City: Washington D.C. (IAD) | Departure (BOM): 01:55 | Arrival (Local): 08:10 | Aircraft Type: Boeing 787-9 | Travel Time: 15h 45m\n- Flight No.: CW253 | Destination City: Boston (BOS) | Departure (BOM): 00:40 | Arrival (Local): 06:55 | Aircraft Type: Airbus A350-900 | Travel Time: 15h 45m\n- Flight No.: CW255 | Destination City: Seattle (SEA) | Departure (BOM): 04:25 | Arrival (Local): 07:55 | Aircraft Type: Boeing 787-10 | Travel Time: 16h 00m\n- Flight No.: CW257 | Destination City: Houston (IAH) | Departure (BOM): 02:10 | Arrival (Local): 09:10 | Aircraft Type: Airbus A350-1000 | Travel Time: 16h 30m\n- Flight No.: CW259 | Destination City: Miami (MIA) | Departure (BOM): 22:20 | Arrival (Local): 04:40 | Aircraft Type: Boeing 787-9 | Travel Time: 17h 50m",
+    "path": "CloudWay 24: Mumbai–USA Flight Schedule > Outbound Flights: Mumbai to USA",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Outbound Flights: Mumbai to USA"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_3",
+    "text": "- Flight No.: CW242 | Origin City: New York (JFK) | Departure (Local): 10:30 | Arrival (BOM): 11:20 (+1) | Aircraft Type: Boeing 787-9 | Travel Time: 14h 20m\n- Flight No.: CW244 | Origin City: Chicago (ORD) | Departure (Local): 12:35 | Arrival (BOM): 13:35 (+1) | Aircraft Type: Airbus A350-900 | Travel Time: 15h 30m\n- Flight No.: CW246 | Origin City: San Francisco (SFO) | Departure (Local): 09:15 | Arrival (BOM): 12:00 (+1) | Aircraft Type: Airbus A350-1000 | Travel Time: 16h 15m\n- Flight No.: CW248 | Origin City: Los Angeles (LAX) | Departure (Local): 08:20 | Arrival (BOM): 13:05 (+1) | Aircraft Type: Boeing 787-10 | Travel Time: 16h 15m\n- Flight No.: CW250 | Origin City: Dallas (DFW) | Departure (Local): 13:10 | Arrival (BOM): 15:10 (+1) | Aircraft Type: Airbus A380 | Travel Time: 16h 30m\n- Flight No.: CW252 | Origin City: Washington D.C. (IAD) | Departure (Local): 10:30 | Arrival (BOM): 12:35 (+1) | Aircraft Type: Boeing 787-9 | Travel Time: 15h 35m\n- Flight No.: CW254 | Origin City: Boston (BOS) | Departure (Local): 08:35 | Arrival (BOM): 11:40 (+1) | Aircraft Type: Airbus A350-900 | Travel Time: 15h 35m\n- Flight No.: CW256 | Origin City: Seattle (SEA) | Departure (Local): 09:30 | Arrival (BOM): 13:20 (+1) | Aircraft Type: Boeing 787-10 | Travel Time: 15h 20m\n- Flight No.: CW258 | Origin City: Houston (IAH) | Departure (Local): 13:50 | Arrival (BOM): 17:05 (+1) | Aircraft Type: Airbus A350-1000 | Travel Time: 16h 45m\n- Flight No.: CW260 | Origin City: Miami (MIA) | Departure (Local): 07:30 | Arrival (BOM): 12:35 (+1) | Aircraft Type: Boeing 787-9 | Travel Time: 17h 35m",
+    "path": "CloudWay 24: Mumbai–USA Flight Schedule > Inbound Flights: USA to Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Inbound Flights: USA to Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_4",
+    "text": "For real-time schedules and booking, visit CloudWay24.com (https://www.cloudway24.com).",
+    "path": "CloudWay 24: Mumbai–USA Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 41
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_5",
+    "text": "Below are sample schedules for direct flights from Mumbai to major European cities and return legs, with dummy flight numbers, aircraft types, and typical non-stop travel times.",
+    "path": "CloudWay 24: Mumbai ↔ Europe Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 46,
+        "heading": "CloudWay 24: Mumbai ↔ Europe Flight Schedule"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_6",
+    "text": "- Flight No.: CW241 | Destination City: London (LHR) | Departure (Mumbai Time): 02:15 | Arrival (Local Time): 06:40 | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 9h 55m\n- Flight No.: CW243 | Destination City: Paris (CDG) | Departure (Mumbai Time): 01:10 | Arrival (Local Time): 06:00 | Aircraft Type: Airbus A350 | Approx. Travel Time: 9h 20m\n- Flight No.: CW247 | Destination City: Frankfurt (FRA) | Departure (Mumbai Time): 03:25 | Arrival (Local Time): 08:10 | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 15m\n- Flight No.: CW249 | Destination City: Amsterdam (AMS) | Departure (Mumbai Time): 02:50 | Arrival (Local Time): 07:10 | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 9h 50m\n- Flight No.: CW251 | Destination City: Zurich (ZRH) | Departure (Mumbai Time): 01:55 | Arrival (Local Time): 06:20 | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 55m\n- Flight No.: CW253 | Destination City: Rome (FCO) | Departure (Mumbai Time): 04:20 | Arrival (Local Time): 09:10 | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 8h 40m\n- Flight No.: CW255 | Destination City: Madrid (MAD) | Departure (Mumbai Time): 01:00 | Arrival (Local Time): 06:25 | Aircraft Type: Airbus A350 | Approx. Travel Time: 10h 55m\n- Flight No.: CW257 | Destination City: Munich (MUC) | Departure (Mumbai Time): 03:10 | Arrival (Local Time): 07:15 | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 35m\n- Flight No.: CW259 | Destination City: Vienna (VIE) | Departure (Mumbai Time): 01:45 | Arrival (Local Time): 06:10 | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 8h 55m\n- Flight No.: CW261 | Destination City: Brussels (BRU) | Departure (Mumbai Time): 02:35 | Arrival (Local Time): 07:30 | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 55m",
+    "path": "CloudWay 24: Mumbai ↔ Europe Flight Schedule > Outbound Flights: Departing from Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 52,
+        "heading": "Outbound Flights: Departing from Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_7",
+    "text": "- Flight No.: CW242 | Origin City: London (LHR) | Departure (Local Time): 10:20 | Arrival (Mumbai Time): 00:35 (+1 day) | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 8h 45m\n- Flight No.: CW244 | Origin City: Paris (CDG) | Departure (Local Time): 11:20 | Arrival (Mumbai Time): 23:35 | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 45m\n- Flight No.: CW248 | Origin City: Frankfurt (FRA) | Departure (Local Time): 12:30 | Arrival (Mumbai Time): 01:05 (+1 day) | Aircraft Type: Airbus A350 | Approx. Travel Time: 7h 45m\n- Flight No.: CW250 | Origin City: Amsterdam (AMS) | Departure (Local Time): 12:25 | Arrival (Mumbai Time): 00:25 (+1 day) | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 8h 30m\n- Flight No.: CW252 | Origin City: Zurich (ZRH) | Departure (Local Time): 11:30 | Arrival (Mumbai Time): 23:25 | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 25m\n- Flight No.: CW254 | Origin City: Rome (FCO) | Departure (Local Time): 14:25 | Arrival (Mumbai Time): 02:35 (+1 day) | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 8h 40m\n- Flight No.: CW256 | Origin City: Madrid (MAD) | Departure (Local Time): 11:50 | Arrival (Mumbai Time): 01:05 (+1 day) | Aircraft Type: Airbus A350 | Approx. Travel Time: 9h 45m\n- Flight No.: CW258 | Origin City: Munich (MUC) | Departure (Local Time): 10:45 | Arrival (Mumbai Time): 22:40 | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 25m\n- Flight No.: CW260 | Origin City: Vienna (VIE) | Departure (Local Time): 11:55 | Arrival (Mumbai Time): 23:45 | Aircraft Type: Boeing 787 Dreamliner | Approx. Travel Time: 8h 20m\n- Flight No.: CW262 | Origin City: Brussels (BRU) | Departure (Local Time): 13:10 | Arrival (Mumbai Time): 01:30 (+1 day) | Aircraft Type: Airbus A350 | Approx. Travel Time: 8h 50m",
+    "path": "CloudWay 24: Mumbai ↔ Europe Flight Schedule > Inbound Flights: Arriving to Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 69,
+        "heading": "Inbound Flights: Arriving to Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_8",
+    "text": "Note: All timings and flight numbers are sample data for illustrative purposes only. Please verify with CloudWay 24 for up-to-date flight schedules and operational details.",
+    "path": "CloudWay 24: Mumbai ↔ Europe Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 84
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_9",
+    "text": "CloudWay 24 offers seamless non-stop and one-stop connectivity from Mumbai to all major cities across Canada with top-notch comfort, modern aircraft, and world-class service.",
+    "path": "CloudWay 24: Mumbai – Canada Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 90,
+        "heading": "CloudWay 24: Mumbai – Canada Flight Schedule"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_10",
+    "text": "- Flight No.: CW24201 | Departure (Mumbai, IST): 01:30 | Arrival (Local, Canada): 07:30 | Destination City: Toronto (YYZ) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 16h 30m\n- Flight No.: CW24203 | Departure (Mumbai, IST): 10:45 | Arrival (Local, Canada): 13:10 | Destination City: Vancouver (YVR) | Aircraft Type: Airbus A350-900 | Travel Time: 15h 55m\n- Flight No.: CW24205 | Departure (Mumbai, IST): 23:15 | Arrival (Local, Canada): 06:00 (+1) | Destination City: Montreal (YUL) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 16h 15m\n- Flight No.: CW24209 | Departure (Mumbai, IST): 03:40 | Arrival (Local, Canada): 09:35 | Destination City: Calgary (YYC) | Aircraft Type: Airbus A350-900 | Travel Time: 16h 25m\n- Flight No.: CW24211 | Departure (Mumbai, IST): 21:00 | Arrival (Local, Canada): 23:25 | Destination City: Ottawa (YOW) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 16h 55m\n- Flight No.: CW24213 | Departure (Mumbai, IST): 02:05 | Arrival (Local, Canada): 08:35 | Destination City: Edmonton (YEG) | Aircraft Type: Airbus A350-900 | Travel Time: 16h 00m\n- Flight No.: CW24215 | Departure (Mumbai, IST): 12:25 | Arrival (Local, Canada): 15:50 | Destination City: Halifax (YHZ) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 18h 55m",
+    "path": "CloudWay 24: Mumbai – Canada Flight Schedule > ✈️ Outbound Flights: Mumbai to Canada",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 96,
+        "heading": "✈️ Outbound Flights: Mumbai to Canada"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_11",
+    "text": "- Flight No.: CW24202 | Departure (Canada, Local): 21:30 | Arrival (Mumbai, IST): 23:15 (+1) | Origin City: Toronto (YYZ) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 14h 15m\n- Flight No.: CW24204 | Departure (Canada, Local): 17:50 | Arrival (Mumbai, IST): 22:25 (+1) | Origin City: Vancouver (YVR) | Aircraft Type: Airbus A350-900 | Travel Time: 15h 05m\n- Flight No.: CW24206 | Departure (Canada, Local): 19:10 | Arrival (Mumbai, IST): 23:45 (+1) | Origin City: Montreal (YUL) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 14h 35m\n- Flight No.: CW24210 | Departure (Canada, Local): 13:00 | Arrival (Mumbai, IST): 17:55 (+1) | Origin City: Calgary (YYC) | Aircraft Type: Airbus A350-900 | Travel Time: 16h 25m\n- Flight No.: CW24212 | Departure (Canada, Local): 17:45 | Arrival (Mumbai, IST): 22:45 (+1) | Origin City: Ottawa (YOW) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 15h 30m\n- Flight No.: CW24214 | Departure (Canada, Local): 15:45 | Arrival (Mumbai, IST): 21:10 (+1) | Origin City: Edmonton (YEG) | Aircraft Type: Airbus A350-900 | Travel Time: 16h 55m\n- Flight No.: CW24216 | Departure (Canada, Local): 20:20 | Arrival (Mumbai, IST): 00:25 (+2) | Origin City: Halifax (YHZ) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 17h 35m\nNote: All timings are approximate and may vary seasonally. (+1) and (+2) denote next-day and two days later arrival, respectively, based on time difference and total flight duration.",
+    "path": "CloudWay 24: Mumbai – Canada Flight Schedule > 🛬 Inbound Flights: Canada to Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 110,
+        "heading": "🛬 Inbound Flights: Canada to Mumbai"
+      },
+      {
+        "line": 122
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_12",
+    "text": "For booking and the latest schedule, visit CloudWay24.com (https://CloudWay24.com) or use the CloudWay24 app!",
+    "path": "CloudWay 24: Mumbai – Canada Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 124
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_13",
+    "text": "- Flight No.: CW241 | Destination City: Dubai (DXB) | Departure (Mumbai): 09:30 IST | Arrival (Local): 11:15 GST | Aircraft: Boeing 787 | Duration: 3h 15m\n- Flight No.: CW243 | Destination City: Abu Dhabi (AUH) | Departure (Mumbai): 16:00 IST | Arrival (Local): 17:45 GST | Aircraft: Airbus A350 | Duration: 3h 15m\n- Flight No.: CW245 | Destination City: Doha (DOH) | Departure (Mumbai): 12:10 IST | Arrival (Local): 13:15 AST | Aircraft: Boeing 787 | Duration: 4h 35m\n- Flight No.: CW247 | Destination City: Muscat (MCT) | Departure (Mumbai): 21:25 IST | Arrival (Local): 22:45 GST | Aircraft: Airbus A350 | Duration: 2h 50m\n- Flight No.: CW249 | Destination City: Riyadh (RUH) | Departure (Mumbai): 23:55 IST | Arrival (Local): 02:15 AST (+1) | Aircraft: Airbus A380 | Duration: 4h 50m\n- Flight No.: CW251 | Destination City: Jeddah (JED) | Departure (Mumbai): 07:30 IST | Arrival (Local): 10:30 AST | Aircraft: Boeing 787 | Duration: 5h 30m\n- Flight No.: CW253 | Destination City: Kuwait City (KWI) | Departure (Mumbai): 20:15 IST | Arrival (Local): 22:05 AST | Aircraft: Airbus A350 | Duration: 3h 20m\n- Flight No.: CW255 | Destination City: Bahrain (BAH) | Departure (Mumbai): 14:45 IST | Arrival (Local): 16:55 AST | Aircraft: Boeing 787 | Duration: 3h 40m",
+    "path": "✈️ CloudWay 24: Mumbai ⇄ Middle East Major Cities Flight Schedule > Outbound Flights: Mumbai → Middle East",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 132,
+        "heading": "Outbound Flights: Mumbai → Middle East"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_14",
+    "text": "- Flight No.: CW242 | Origin City: Dubai (DXB) | Departure (Local): 12:30 GST | Arrival (Mumbai): 17:00 IST | Aircraft: Boeing 787 | Duration: 3h 00m\n- Flight No.: CW244 | Origin City: Abu Dhabi (AUH) | Departure (Local): 18:55 GST | Arrival (Mumbai): 23:50 IST | Aircraft: Airbus A350 | Duration: 3h 25m\n- Flight No.: CW246 | Origin City: Doha (DOH) | Departure (Local): 14:30 AST | Arrival (Mumbai): 20:05 IST | Aircraft: Boeing 787 | Duration: 3h 55m\n- Flight No.: CW248 | Origin City: Muscat (MCT) | Departure (Local): 23:55 GST | Arrival (Mumbai): 04:20 IST (+1) | Aircraft: Airbus A350 | Duration: 2h 55m\n- Flight No.: CW250 | Origin City: Riyadh (RUH) | Departure (Local): 03:30 AST | Arrival (Mumbai): 09:00 IST | Aircraft: Airbus A380 | Duration: 4h 00m\n- Flight No.: CW252 | Origin City: Jeddah (JED) | Departure (Local): 12:05 AST | Arrival (Mumbai): 20:10 IST | Aircraft: Boeing 787 | Duration: 5h 35m\n- Flight No.: CW254 | Origin City: Kuwait City (KWI) | Departure (Local): 22:55 AST | Arrival (Mumbai): 04:25 IST (+1) | Aircraft: Airbus A350 | Duration: 3h 30m\n- Flight No.: CW256 | Origin City: Bahrain (BAH) | Departure (Local): 18:20 AST | Arrival (Mumbai): 00:20 IST (+1) | Aircraft: Boeing 787 | Duration: 3h 30m",
+    "path": "✈️ CloudWay 24: Mumbai ⇄ Middle East Major Cities Flight Schedule > Inbound Flights: Middle East → Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 147,
+        "heading": "Inbound Flights: Middle East → Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_15",
+    "text": "Explore seamless connectivity from Mumbai to all major cities in South East Asia with CloudWay 24. Below are sample schedules with dummy flight numbers, timings, aircraft type, and travel durations for your planning ease.",
+    "path": "CloudWay 24 – Mumbai to South East Asia Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 164,
+        "heading": "CloudWay 24 – Mumbai to South East Asia Flight Schedule"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_16",
+    "text": "- Flight No.: CW24101 | Departure: 09:00 | Arrival City: Singapore (SIN) | Arrival: 16:00 | Aircraft: A350 | Travel Time: 5h 30m\n- Flight No.: CW24105 | Departure: 23:30 | Arrival City: Bangkok (BKK) | Arrival: 05:10+1 | Aircraft: B787 | Travel Time: 4h 10m\n- Flight No.: CW24109 | Departure: 14:45 | Arrival City: Kuala Lumpur (KUL) | Arrival: 22:05 | Aircraft: A350 | Travel Time: 5h 10m\n- Flight No.: CW24113 | Departure: 22:15 | Arrival City: Jakarta (CGK) | Arrival: 05:15+1 | Aircraft: A350 | Travel Time: 5h 30m\n- Flight No.: CW24117 | Departure: 13:00 | Arrival City: Ho Chi Minh (SGN) | Arrival: 20:50 | Aircraft: B787 | Travel Time: 5h 20m\n- Flight No.: CW24121 | Departure: 02:30 | Arrival City: Manila (MNL) | Arrival: 10:55 | Aircraft: B787 | Travel Time: 5h 55m\n- Flight No.: CW24125 | Departure: 07:45 | Arrival City: Hanoi (HAN) | Arrival: 15:10 | Aircraft: A350 | Travel Time: 5h 55m\n- Flight No.: CW24129 | Departure: 17:20 | Arrival City: Phnom Penh (PNH) | Arrival: 00:35+1 | Aircraft: A350 | Travel Time: 5h 45m\n- Flight No.: CW24133 | Departure: 12:15 | Arrival City: Yangon (RGN) | Arrival: 17:15 | Aircraft: B787 | Travel Time: 4h 30m\n- Flight No.: CW24137 | Departure: 20:50 | Arrival City: Bali (DPS) | Arrival: 06:20+1 | Aircraft: B787 | Travel Time: 6h 00m",
+    "path": "CloudWay 24 – Mumbai to South East Asia Flight Schedule > Outbound Flights: Mumbai to Major South East Asian Cities",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 170,
+        "heading": "Outbound Flights: Mumbai to Major South East Asian Cities"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_17",
+    "text": "- Flight No.: CW24102 | Departure City: Singapore (SIN) | Departure: 18:00 | Arrival Mumbai: 21:30 | Aircraft: A350 | Travel Time: 5h 00m\n- Flight No.: CW24106 | Departure City: Bangkok (BKK) | Departure: 07:00 | Arrival Mumbai: 10:40 | Aircraft: B787 | Travel Time: 4h 10m\n- Flight No.: CW24110 | Departure City: Kuala Lumpur (KUL) | Departure: 00:10 | Arrival Mumbai: 03:40 | Aircraft: A350 | Travel Time: 5h 00m\n- Flight No.: CW24114 | Departure City: Jakarta (CGK) | Departure: 07:00 | Arrival Mumbai: 10:30 | Aircraft: A350 | Travel Time: 5h 00m\n- Flight No.: CW24118 | Departure City: Ho Chi Minh (SGN) | Departure: 22:30 | Arrival Mumbai: 02:20+1 | Aircraft: B787 | Travel Time: 5h 20m\n- Flight No.: CW24122 | Departure City: Manila (MNL) | Departure: 12:30 | Arrival Mumbai: 16:00 | Aircraft: B787 | Travel Time: 5h 00m\n- Flight No.: CW24126 | Departure City: Hanoi (HAN) | Departure: 17:00 | Arrival Mumbai: 20:30 | Aircraft: A350 | Travel Time: 5h 00m\n- Flight No.: CW24130 | Departure City: Phnom Penh (PNH) | Departure: 02:00 | Arrival Mumbai: 07:15 | Aircraft: A350 | Travel Time: 5h 45m\n- Flight No.: CW24134 | Departure City: Yangon (RGN) | Departure: 19:30 | Arrival Mumbai: 22:30 | Aircraft: B787 | Travel Time: 4h 30m\n- Flight No.: CW24138 | Departure City: Bali (DPS) | Departure: 09:00 | Arrival Mumbai: 14:30 | Aircraft: B787 | Travel Time: 6h 00m\nNote: All timings are local. \"+1\" indicates arrival on the next day. Schedule, flight numbers, and times are for illustrative purposes; actual schedules may vary. For latest updates and bookings, visit CloudWay24.com (https://www.cloudway24.com) or use the CloudWay24 app.",
+    "path": "CloudWay 24 – Mumbai to South East Asia Flight Schedule > Inbound Flights: South East Asian Cities to Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 187,
+        "heading": "Inbound Flights: South East Asian Cities to Mumbai"
+      },
+      {
+        "line": 202
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_18",
+    "text": "Below are sample outbound and inbound flight schedules for direct CloudWay 24 flights between Mumbai and major cities in China and Australia. Information includes flight number, departure/arrival times, aircraft type, and total travel duration.",
+    "path": "CloudWay 24: Mumbai to China & Australia Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 207,
+        "heading": "CloudWay 24: Mumbai to China & Australia Flight Schedule"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_19",
+    "text": "- Destination City: Beijing (PEK) | Country: China | Flight Number: CW2401 | Departure Time (Mumbai): 00:30 | Arrival Time (Local): 08:35 | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 6h 35m\n- Destination City: Shanghai (PVG) | Country: China | Flight Number: CW2403 | Departure Time (Mumbai): 13:45 | Arrival Time (Local): 22:10 | Aircraft Type: Airbus A350 | Travel Time: 6h 55m\n- Destination City: Guangzhou (CAN) | Country: China | Flight Number: CW2405 | Departure Time (Mumbai): 21:00 | Arrival Time (Local): 04:30 (+1) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 6h 00m\n- Destination City: Shenzhen (SZX) | Country: China | Flight Number: CW2407 | Departure Time (Mumbai): 11:25 | Arrival Time (Local): 19:25 | Aircraft Type: Airbus A350 | Travel Time: 5h 30m\n- Destination City: Chengdu (CTU) | Country: China | Flight Number: CW2409 | Departure Time (Mumbai): 16:40 | Arrival Time (Local): 23:45 | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 5h 35m\n- Destination City: Sydney (SYD) | Country: Australia | Flight Number: CW2411 | Departure Time (Mumbai): 19:30 | Arrival Time (Local): 12:00 (+1) | Aircraft Type: Airbus A380 | Travel Time: 11h 00m\n- Destination City: Melbourne (MEL) | Country: Australia | Flight Number: CW2413 | Departure Time (Mumbai): 21:55 | Arrival Time (Local): 14:05 (+1) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 11h 40m\n- Destination City: Brisbane (BNE) | Country: Australia | Flight Number: CW2415 | Departure Time (Mumbai): 00:20 | Arrival Time (Local): 16:15 (+1) | Aircraft Type: Airbus A350 | Travel Time: 11h 25m\n- Destination City: Perth (PER) | Country: Australia | Flight Number: CW2417 | Departure Time (Mumbai): 09:00 | Arrival Time (Local): 17:30 | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 7h 00m\n- Destination City: Adelaide (ADL) | Country: Australia | Flight Number: CW2419 | Departure Time (Mumbai): 23:50 | Arrival Time (Local): 16:10 (+1) | Aircraft Type: Airbus A350 | Travel Time: 10h 50m",
+    "path": "CloudWay 24: Mumbai to China & Australia Flight Schedule > Outbound Flights: Departing from Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 213,
+        "heading": "Outbound Flights: Departing from Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_20",
+    "text": "- Origin City: Beijing (PEK) | Country: China | Flight Number: CW2402 | Departure Time (Local): 10:30 | Arrival Time (Mumbai): 15:15 | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 6h 15m\n- Origin City: Shanghai (PVG) | Country: China | Flight Number: CW2404 | Departure Time (Local): 23:10 | Arrival Time (Mumbai): 04:55 (+1) | Aircraft Type: Airbus A350 | Travel Time: 6h 15m\n- Origin City: Guangzhou (CAN) | Country: China | Flight Number: CW2406 | Departure Time (Local): 08:00 | Arrival Time (Mumbai): 12:30 | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 5h 00m\n- Origin City: Shenzhen (SZX) | Country: China | Flight Number: CW2408 | Departure Time (Local): 21:45 | Arrival Time (Mumbai): 02:10 (+1) | Aircraft Type: Airbus A350 | Travel Time: 5h 55m\n- Origin City: Chengdu (CTU) | Country: China | Flight Number: CW2410 | Departure Time (Local): 13:15 | Arrival Time (Mumbai): 17:10 | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 5h 25m\n- Origin City: Sydney (SYD) | Country: Australia | Flight Number: CW2412 | Departure Time (Local): 13:50 | Arrival Time (Mumbai): 19:45 | Aircraft Type: Airbus A380 | Travel Time: 10h 25m\n- Origin City: Melbourne (MEL) | Country: Australia | Flight Number: CW2414 | Departure Time (Local): 16:30 | Arrival Time (Mumbai): 22:20 | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 10h 20m\n- Origin City: Brisbane (BNE) | Country: Australia | Flight Number: CW2416 | Departure Time (Local): 19:15 | Arrival Time (Mumbai): 00:35 (+1) | Aircraft Type: Airbus A350 | Travel Time: 10h 50m\n- Origin City: Perth (PER) | Country: Australia | Flight Number: CW2418 | Departure Time (Local): 19:00 | Arrival Time (Mumbai): 00:10 (+1) | Aircraft Type: Boeing 787 Dreamliner | Travel Time: 7h 40m\n- Origin City: Adelaide (ADL) | Country: Australia | Flight Number: CW2420 | Departure Time (Local): 17:25 | Arrival Time (Mumbai): 22:50 | Aircraft Type: Airbus A350 | Travel Time: 8h 55m",
+    "path": "CloudWay 24: Mumbai to China & Australia Flight Schedule > Inbound Flights: Arriving to Mumbai",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 230,
+        "heading": "Inbound Flights: Arriving to Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_21",
+    "text": "Note: Flight numbers, timings, and travel durations are for illustrative purposes only and do not reflect actual schedules. Time differences have been reflected where applicable (+1 = next day arrival).",
+    "path": "CloudWay 24: Mumbai to China & Australia Flight Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 245
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_22",
+    "text": "CloudWay 24 offers premium non-stop and one-stop services between Mumbai and major cities across Africa, operating with state-of-the-art aircraft to ensure comfort and reliability. Below are sample schedules with dummy flight numbers, timings, types of aircraft, and approximate travel times.",
+    "path": "CloudWay 24: Mumbai–Africa Route Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 250,
+        "heading": "CloudWay 24: Mumbai–Africa Route Schedule"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_23",
+    "text": "- Destination City: Johannesburg (JNB) | Flight No.: CW241 | Departure (BOM): 22:15 | Arrival (Local): 03:50 (+1) | Aircraft: Boeing 787 | Non-stop/1-stop: Non-stop | Travel Time: 9h 05m\n- Destination City: Nairobi (NBO) | Flight No.: CW243 | Departure (BOM): 01:25 | Arrival (Local): 05:45 | Aircraft: Airbus A350 | Non-stop/1-stop: Non-stop | Travel Time: 6h 50m\n- Destination City: Addis Ababa (ADD) | Flight No.: CW245 | Departure (BOM): 11:00 | Arrival (Local): 14:30 | Aircraft: Boeing 787 | Non-stop/1-stop: Non-stop | Travel Time: 6h 00m\n- Destination City: Cairo (CAI) | Flight No.: CW247 | Departure (BOM): 17:45 | Arrival (Local): 21:05 | Aircraft: Airbus A350 | Non-stop/1-stop: Non-stop | Travel Time: 6h 50m\n- Destination City: Lagos (LOS) | Flight No.: CW249 | Departure (BOM): 23:30 | Arrival (Local): 05:30 (+1) | Aircraft: Boeing 787 | Non-stop/1-stop: 1-stop in Nairobi | Travel Time: 10h 30m\n- Destination City: Casablanca (CMN) | Flight No.: CW251 | Departure (BOM): 10:30 | Arrival (Local): 17:35 | Aircraft: Airbus A350 | Non-stop/1-stop: 1-stop in Cairo | Travel Time: 11h 35m\n- Destination City: Cape Town (CPT) | Flight No.: CW253 | Departure (BOM): 21:10 | Arrival (Local): 07:25 (+1) | Aircraft: Boeing 787 | Non-stop/1-stop: 1-stop in Johannesburg | Travel Time: 12h 45m\n- Destination City: Accra (ACC) | Flight No.: CW255 | Departure (BOM): 09:05 | Arrival (Local): 15:45 | Aircraft: Airbus A350 | Non-stop/1-stop: 1-stop in Addis Ababa | Travel Time: 10h 10m\n- Destination City: Dar es Salaam (DAR) | Flight No.: CW257 | Departure (BOM): 13:10 | Arrival (Local): 18:45 | Aircraft: Boeing 787 | Non-stop/1-stop: Non-stop | Travel Time: 7h 05m",
+    "path": "CloudWay 24: Mumbai–Africa Route Schedule > ✈️ Outbound Flights: Departing from Mumbai (BOM)",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 256,
+        "heading": "✈️ Outbound Flights: Departing from Mumbai (BOM)"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_24",
+    "text": "- Origin City: Johannesburg (JNB) | Flight No.: CW242 | Departure (Local): 18:00 | Arrival (BOM): 05:25 (+1) | Aircraft: Boeing 787 | Non-stop/1-stop: Non-stop | Travel Time: 8h 55m\n- Origin City: Nairobi (NBO) | Flight No.: CW244 | Departure (Local): 22:55 | Arrival (BOM): 07:25 (+1) | Aircraft: Airbus A350 | Non-stop/1-stop: Non-stop | Travel Time: 6h 00m\n- Origin City: Addis Ababa (ADD) | Flight No.: CW246 | Departure (Local): 23:30 | Arrival (BOM): 07:45 (+1) | Aircraft: Boeing 787 | Non-stop/1-stop: Non-stop | Travel Time: 6h 45m\n- Origin City: Cairo (CAI) | Flight No.: CW248 | Departure (Local): 01:00 | Arrival (BOM): 10:05 | Aircraft: Airbus A350 | Non-stop/1-stop: Non-stop | Travel Time: 6h 35m\n- Origin City: Lagos (LOS) | Flight No.: CW250 | Departure (Local): 09:15 | Arrival (BOM): 02:05 (+1) | Aircraft: Boeing 787 | Non-stop/1-stop: 1-stop in Nairobi | Travel Time: 10h 20m\n- Origin City: Casablanca (CMN) | Flight No.: CW252 | Departure (Local): 19:10 | Arrival (BOM): 09:55 (+1) | Aircraft: Airbus A350 | Non-stop/1-stop: 1-stop in Cairo | Travel Time: 11h 15m\n- Origin City: Cape Town (CPT) | Flight No.: CW254 | Departure (Local): 15:10 | Arrival (BOM): 06:35 (+1) | Aircraft: Boeing 787 | Non-stop/1-stop: 1-stop in Johannesburg | Travel Time: 11h 55m\n- Origin City: Accra (ACC) | Flight No.: CW256 | Departure (Local): 21:40 | Arrival (BOM): 10:20 (+1) | Aircraft: Airbus A350 | Non-stop/1-stop: 1-stop in Addis Ababa | Travel Time: 9h 10m\n- Origin City: Dar es Salaam (DAR) | Flight No.: CW258 | Departure (Local): 09:35 | Arrival (BOM): 18:20 | Aircraft: Boeing 787 | Non-stop/1-stop: Non-stop | Travel Time: 7h 15m",
+    "path": "CloudWay 24: Mumbai–Africa Route Schedule > 🛬 Inbound Flights: Arriving at Mumbai (BOM)",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 272,
+        "heading": "🛬 Inbound Flights: Arriving at Mumbai (BOM)"
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_25",
+    "text": "Note: All timings are local to the respective cities; (+1) indicates next day arrival. Aircraft and schedules subject to operational changes.",
+    "path": "CloudWay 24: Mumbai–Africa Route Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 286
+      }
+    ]
+  },
+  {
+    "id": "4e075e97da33944282c5be5f7b9cf92fac37e5076d3bd1d15247296e328cb795_26",
+    "text": "Enjoy world-class service, multiple cabin choices, and seamless connectivity with CloudWay 24 – Seamless Skies, Global Reach!",
+    "path": "CloudWay 24: Mumbai–Africa Route Schedule",
+    "doc_key": [
+      "mumbai inbound & outbound flights"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 288
+      }
+    ]
+  }
+]

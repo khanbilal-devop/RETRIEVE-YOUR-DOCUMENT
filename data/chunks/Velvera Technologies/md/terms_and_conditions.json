@@ -1,0 +1,120 @@
+[
+  {
+    "id": "9296241485fedc37a865b443e787969957004dc895ebd8c58ad686de5add715b_1",
+    "text": "This section outlines essential information regarding pricing, availability, legal terms, and Velvera’s approach to privacy and data protection. Please read carefully before making a purchase or using Velvera products and services.",
+    "path": "Important Notes & Terms",
+    "doc_key": [
+      "terms_and_conditions"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Important Notes & Terms"
+      }
+    ]
+  },
+  {
+    "id": "9296241485fedc37a865b443e787969957004dc895ebd8c58ad686de5add715b_2",
+    "text": "- Inclusive Pricing: All listed prices include GST and other applicable taxes.\n- Currency Disclaimer: Any USD or foreign currency prices are approximate conversions, calculated using real-time exchange rates at time of publication. Final billing may differ slightly based on payment provider rates.\n- Product Availability:\n  - Stock levels may vary by region, model, and color variant.\n  - Online availability may not reflect in-store inventory.\n- Specification Policy:\n  - Product features and technical specifications are subject to change without prior notice to improve performance, safety, or compliance.\n  - Images shown on the website and marketing materials are for illustrative purposes only.\n- Promotional Offers:\n  - Limited-time offers may include pricing, cashback, or bundles.\n  - Cannot be combined with other discounts unless explicitly stated.\n  - All promotions are governed by Velvera's Promotional Terms (https://velvera.com/terms#promotions).",
+    "path": "Important Notes & Terms > General Terms",
+    "doc_key": [
+      "terms_and_conditions"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "General Terms"
+      }
+    ]
+  },
+  {
+    "id": "9296241485fedc37a865b443e787969957004dc895ebd8c58ad686de5add715b_3",
+    "text": "Velvera is committed to safeguarding your digital rights, privacy, and data through a privacy-first design philosophy embedded in all our products and services.",
+    "path": "Important Notes & Terms > Privacy & Data Security",
+    "doc_key": [
+      "terms_and_conditions"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Privacy & Data Security"
+      }
+    ]
+  },
+  {
+    "id": "9296241485fedc37a865b443e787969957004dc895ebd8c58ad686de5add715b_4",
+    "text": "- Hardware-Level Encryption:\n  - All Velvera devices include secure enclaves and tamper-proof encryption modules.\n- Local Data Processing:\n  - AI features like voice processing, photo indexing, and suggestions are executed on-device by default, reducing unnecessary data transmission to cloud servers.\n- Privacy Controls:\n  - VelveraOS provides a granular privacy dashboard to control app permissions, background activity, and data access logs.\n  - Mic/Camera indicators and hardware kill-switch options (Nexus series) enhance user control.\n- Data Compliance:\n  - Fully GDPR, India PDP Act, and California Consumer Privacy Act (CCPA) compliant.\n  - Annual third-party audits and white-hat bug bounty programs ensure continuous hardening.\n- No Ad Tracking Policy:\n  - Velvera does not monetize user data or permit third-party behavioral ads across its ecosystem.\n  - Anonymous telemetry (if enabled) is used solely for performance improvement.",
+    "path": "Important Notes & Terms > Privacy & Data Security > Security Highlights",
+    "doc_key": [
+      "terms_and_conditions"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "Security Highlights"
+      }
+    ]
+  },
+  {
+    "id": "9296241485fedc37a865b443e787969957004dc895ebd8c58ad686de5add715b_5",
+    "text": "For complete legal policies and service terms:\n- Terms of Use (https://velvera.com/terms)\n- Privacy Policy (https://velvera.com/privacy)\n- Return & Refund Policy (https://velvera.com/returns)",
+    "path": "Important Notes & Terms > Support & Legal",
+    "doc_key": [
+      "terms_and_conditions"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 52,
+        "heading": "Support & Legal"
+      },
+      {
+        "line": 53,
+        "heading": "Support & Legal"
+      }
+    ]
+  },
+  {
+    "id": "9296241485fedc37a865b443e787969957004dc895ebd8c58ad686de5add715b_6",
+    "text": "If you have questions, contact our legal team at legal@velvera.com or reach out via the Velvera Help Center (https://velvera.com/support).",
+    "path": "Important Notes & Terms > Support & Legal",
+    "doc_key": [
+      "terms_and_conditions"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 57,
+        "heading": "Support & Legal"
+      }
+    ]
+  },
+  {
+    "id": "9296241485fedc37a865b443e787969957004dc895ebd8c58ad686de5add715b_7",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Important Notes & Terms",
+    "doc_key": [
+      "terms_and_conditions"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 60
+      },
+      {
+        "line": 62
+      }
+    ]
+  }
+]

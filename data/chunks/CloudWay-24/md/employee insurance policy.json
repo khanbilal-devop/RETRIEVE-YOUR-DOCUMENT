@@ -1,0 +1,105 @@
+[
+  {
+    "id": "8c6446b0eb9f120b1a95dd9ea825e9ada46f007940922749e011f1623b47dcac_1",
+    "text": "CloudWay 24 provides comprehensive group insurance coverage for all employees, ensuring their health, safety, and well-being while on duty and beyond. Insurance benefits are categorized based on employee roles due to the varying risk profiles associated with their responsibilities.",
+    "path": "CloudWay 24: Employee Insurance Policy Overview",
+    "doc_key": [
+      "employee insurance policy"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "CloudWay 24: Employee Insurance Policy Overview"
+      }
+    ]
+  },
+  {
+    "id": "8c6446b0eb9f120b1a95dd9ea825e9ada46f007940922749e011f1623b47dcac_2",
+    "text": "(Pilots & Cabin Crew)\n- Nature of Coverage:\n  - Enhanced coverage due to higher occupational risk (airborne duties, international layovers, irregular schedules).\n- Policy Limit Highlights:\n  - Group Life Insurance: INR 1.5 Crore (approx. $180,000)\n  - Accidental Death & Disability: INR 2 Crore (approx. $240,000)\n  - Medical Insurance (per annum): INR 10 Lakh (~$12,000)\n  - Critical Illness Cover: INR 20 Lakh (~$24,000)\n  - Loss of License Benefit: Applicable to Pilots (up to INR 1 Crore/$120,000 for loss of medical certification)\n  - Travel Insurance: Comprehensive, global coverage included",
+    "path": "CloudWay 24: Employee Insurance Policy Overview > Insurance Policy Categories > 1. Non-Ground Staff",
+    "doc_key": [
+      "employee insurance policy"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 8,
+        "heading": "1. Non-Ground Staff"
+      },
+      {
+        "line": 10,
+        "heading": "1. Non-Ground Staff"
+      }
+    ]
+  },
+  {
+    "id": "8c6446b0eb9f120b1a95dd9ea825e9ada46f007940922749e011f1623b47dcac_3",
+    "text": "(Engineering, HR, Administration, Support Services, and Other Employees)\n- Nature of Coverage:\n  - Standard coverage reflecting relatively lower occupational exposure.\n- Policy Limit Highlights:\n  - Group Life Insurance: INR 50 Lakh (approx. $60,000)\n  - Accidental Death & Disability: INR 75 Lakh (approx. $90,000)\n  - Medical Insurance (per annum): INR 5 Lakh (~$6,000)\n  - Critical Illness Cover: INR 10 Lakh (~$12,000)\n  - Loss of License Benefit: Not Applicable\n  - Travel Insurance: Domestic and limited international work travel coverage",
+    "path": "CloudWay 24: Employee Insurance Policy Overview > Insurance Policy Categories > 2. Ground Staff",
+    "doc_key": [
+      "employee insurance policy"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 24,
+        "heading": "2. Ground Staff"
+      },
+      {
+        "line": 26,
+        "heading": "2. Ground Staff"
+      }
+    ]
+  },
+  {
+    "id": "8c6446b0eb9f120b1a95dd9ea825e9ada46f007940922749e011f1623b47dcac_4",
+    "text": "- Family Coverage:\n  - Medical insurance can be extended to spouse and dependent children at preferential group rates.\n- Claim Settlement:\n  - All claims are facilitated by the Corporate HR and Employee Well-being Department in partnership with leading insurance providers.\n- Review & Update:\n  - Insurance limits and coverage are reviewed annually as per regulatory standards and operational requirements.",
+    "path": "CloudWay 24: Employee Insurance Policy Overview > Additional Notes",
+    "doc_key": [
+      "employee insurance policy"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 41,
+        "heading": "Additional Notes"
+      }
+    ]
+  },
+  {
+    "id": "8c6446b0eb9f120b1a95dd9ea825e9ada46f007940922749e011f1623b47dcac_5",
+    "text": "- Category: Pilots & Cabin Crew | Life Insurance: INR 1.5 Crore | Accidental Death & Disability: INR 2 Crore | Medical Insurance (per annum): INR 10 Lakh | Critical Illness: INR 20 Lakh | Loss of License: Up to INR 1 Crore | Travel Insurance: Global, Comprehensive\n- Category: Ground Staff (Engineering, HR) | Life Insurance: INR 50 Lakh | Accidental Death & Disability: INR 75 Lakh | Medical Insurance (per annum): INR 5 Lakh | Critical Illness: INR 10 Lakh | Loss of License: Not Applicable | Travel Insurance: Domestic / Limited Int.",
+    "path": "CloudWay 24: Employee Insurance Policy Overview > Summary Table",
+    "doc_key": [
+      "employee insurance policy"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 54,
+        "heading": "Summary Table"
+      }
+    ]
+  },
+  {
+    "id": "8c6446b0eb9f120b1a95dd9ea825e9ada46f007940922749e011f1623b47dcac_6",
+    "text": "For latest updates or claims, log in to the CloudWay 24 Employee Portal or contact HR at hr@cloudway24.com.",
+    "path": "CloudWay 24: Employee Insurance Policy Overview",
+    "doc_key": [
+      "employee insurance policy"
+    ],
+    "company": "CloudWay-24",
+    "format": "md",
+    "locations": [
+      {
+        "line": 61
+      }
+    ]
+  }
+]

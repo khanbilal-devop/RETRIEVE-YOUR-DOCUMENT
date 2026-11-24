@@ -1,0 +1,260 @@
+[
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_1",
+    "text": "The Velvera Watch Series represents the next generation of smart wearables, combining advanced health monitoring features, premium materials, and seamless connectivity. Designed for both everyday users and fitness enthusiasts, Velvera Watches ensure you stay connected and empowered throughout your day.",
+    "path": "Velvera Watch Series — Product Specification Document > Overview",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "Overview"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_2",
+    "text": "- Model: Velvera Watch Standard 42mm | Display Type: 1.7\" AMOLED | Health Features: Heart Rate, Sleep, Steps | Battery Life: 5 days | Connectivity: Bluetooth | Price (INR): ₹19,999 | Price (USD): $239\n- Model: Velvera Watch Standard 46mm | Display Type: 1.9\" AMOLED | Health Features: Heart Rate, Sleep, Steps | Battery Life: 6 days | Connectivity: Bluetooth | Price (INR): ₹22,999 | Price (USD): $279\n- Model: Velvera Watch Deluxe 42mm | Display Type: 1.7\" LTPO AMOLED | Health Features: ECG, SpO₂, Stress, GPS | Battery Life: 7 days | Connectivity: LTE + Bluetooth | Price (INR): ₹32,999 | Price (USD): $399\n- Model: Velvera Watch Deluxe 46mm | Display Type: 1.9\" LTPO AMOLED | Health Features: ECG, SpO₂, Stress, GPS | Battery Life: 8 days | Connectivity: LTE + Bluetooth | Price (INR): ₹36,999 | Price (USD): $449\n- Model: Velvera Watch Premium 49mm | Display Type: 2.1\" Sapphire AMOLED | Health Features: All Pro features + Diving mode | Battery Life: 10 days | Connectivity: Satellite + LTE | Price (INR): ₹54,999 | Price (USD): $659",
+    "path": "Velvera Watch Series — Product Specification Document > Available Models",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 11,
+        "heading": "Available Models"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_3",
+    "text": "- Midnight Black\n- Silver\n- Gold\n- Rose Gold\n- Ocean Blue",
+    "path": "Velvera Watch Series — Product Specification Document > Color Options",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "Color Options"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_4",
+    "text": "- Model: Standard 42mm | Size: 1.7\" | Type: AMOLED | Resolution: 390 x 390 px | Protection: Corning Gorilla Glass | Always-On: Yes\n- Model: Standard 46mm | Size: 1.9\" | Type: AMOLED | Resolution: 420 x 420 px | Protection: Corning Gorilla Glass | Always-On: Yes\n- Model: Deluxe 42mm | Size: 1.7\" | Type: LTPO AMOLED | Resolution: 430 x 430 px | Protection: Sapphire Crystal | Always-On: Yes\n- Model: Deluxe 46mm | Size: 1.9\" | Type: LTPO AMOLED | Resolution: 468 x 468 px | Protection: Sapphire Crystal | Always-On: Yes\n- Model: Premium 49mm | Size: 2.1\" | Type: Sapphire AMOLED | Resolution: 502 x 502 px | Protection: Sapphire Crystal | Always-On: Yes",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 1. Display",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 35,
+        "heading": "1. Display"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_5",
+    "text": "- Standard Models (42mm & 46mm):\n  - Real-time Heart Rate Monitoring\n  - Sleep Tracking (Deep, Light, REM)\n  - Step Counter (Pedometer)\n  - Calorie Burn Estimation\n- Deluxe Models (42mm & 46mm):\n  - ECG Measurement\n  - SpO₂ Monitoring\n  - Stress Detection\n  - Multi-sport Fitness Modes\n  - Integrated GPS\n- Premium Model (49mm):\n  - All Deluxe Features\n  - Advanced Diving Mode (Water Resistant up to 100m/10ATM)\n  - Emergency SOS\n  - Altimeter & Barometer\n  - Skin Temperature Sensor",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 2. Health & Activity Features",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 47,
+        "heading": "2. Health & Activity Features"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_6",
+    "text": "- Model: Standard 42mm/46mm | Bluetooth: 5.2 | LTE: No | Satellite: No | Wi-Fi: Yes | NFC: Yes | GPS: No\n- Model: Deluxe 42mm/46mm | Bluetooth: 5.3 | LTE: Yes | Satellite: No | Wi-Fi: Yes | NFC: Yes | GPS: Yes\n- Model: Premium 49mm | Bluetooth: 5.3 | LTE: Yes | Satellite: Yes | Wi-Fi: Yes | NFC: Yes | GPS: Yes",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 3. Connectivity",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71,
+        "heading": "3. Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_7",
+    "text": "- Model: Standard 42mm | Typical Battery Life: 5 days | Charging Method: Magnetic Pogo Pin | Fast Charging: Yes (50%/30min)\n- Model: Standard 46mm | Typical Battery Life: 6 days | Charging Method: Magnetic Pogo Pin | Fast Charging: Yes\n- Model: Deluxe 42mm | Typical Battery Life: 7 days | Charging Method: Wireless Charging | Fast Charging: Yes\n- Model: Deluxe 46mm | Typical Battery Life: 8 days | Charging Method: Wireless Charging | Fast Charging: Yes\n- Model: Premium 49mm | Typical Battery Life: 10 days | Charging Method: Wireless Fast Charge | Fast Charging: Yes (80%/40min)",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 4. Battery",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 81,
+        "heading": "4. Battery"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_8",
+    "text": "- Case Material: Aluminum (Standard, Deluxe), Titanium (Premium)\n- Water Resistance:\n  - Standard/Deluxe: 5 ATM (50m)\n  - Premium: 10 ATM (100m), Designed for Diving\n- Strap Options: Fluoroelastomer, Leather, Milanese Loop, Ocean Band\n- Weight:\n  - Standard 42mm: 38g\n  - Standard 46mm: 42g\n  - Deluxe 42mm: 40g\n  - Deluxe 46mm: 44g\n  - Premium 49mm: 56g",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 5. Build & Durability",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 93,
+        "heading": "5. Build & Durability"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_9",
+    "text": "- Heart Rate (PPG)\n- ECG Sensor (Deluxe and Premium)\n- Pulse Oximeter (SpO₂)\n- Accelerometer\n- Gyroscope\n- Barometer (Premium)\n- Ambient Light Sensor\n- Compass (Deluxe & Premium)\n- Skin Temperature Sensor (Premium)",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 6. Sensors",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 109,
+        "heading": "6. Sensors"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_10",
+    "text": "- Operating System: Velvera OS 4.0\n- Supported Devices: Android 9.0+, iOS 13+\n- App Ecosystem:\n  - Velvera Health\n  - Velvera Fitness\n  - App Store Support (select apps)\n- Voice Assistant: Velvera Voice, Google Assistant, Siri (via paired device)\n- Notifications: Calls, Messages, Email, Apps\n- Watch Faces: 100+ Customizable Options",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 7. Software & Compatibility",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 123,
+        "heading": "7. Software & Compatibility"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_11",
+    "text": "- Customizable Widgets & Complications\n- Music Playback & Storage (Up to 8GB)\n- Wireless Payments (NFC)\n- Camera Shutter Control\n- Find My Phone\n- Emergency SOS (Premium)\n- Diving Computer (Premium)",
+    "path": "Velvera Watch Series — Product Specification Document > Detailed Specifications > 8. Additional Features",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 137,
+        "heading": "8. Additional Features"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_12",
+    "text": "- Velvera Watch [Model]\n- Magnetic Charging Cable / Wireless Charger\n- Quick Start Guide\n- Additional Strap (Ocean Band for Premium)",
+    "path": "Velvera Watch Series — Product Specification Document > Package Contents",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 149,
+        "heading": "Package Contents"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_13",
+    "text": "- Standard Warranty: 1 year (manufacturer defects)\n- Premium Support: Available for Premium model (24/7 concierge hotline)",
+    "path": "Velvera Watch Series — Product Specification Document > Warranty & Support",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 158,
+        "heading": "Warranty & Support"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_14",
+    "text": "- CE, FCC, IP68, 5ATM/10ATM (as per model)",
+    "path": "Velvera Watch Series — Product Specification Document > Certifications",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 165,
+        "heading": "Certifications"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_15",
+    "text": "For sales inquiries or after-sales support, please visit [company website] or call 1-800-VELVERA.",
+    "path": "Velvera Watch Series — Product Specification Document > Contact",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 171,
+        "heading": "Contact"
+      }
+    ]
+  },
+  {
+    "id": "a23b8d4525cd5ad6bb36b162e0af3dd1909f625e729aa13c6d64b75ea02d03ee_16",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Velvera Watch Series — Product Specification Document",
+    "doc_key": [
+      "velvera_watch"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 175
+      },
+      {
+        "line": 177
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_1",
+    "text": "The instrument cluster in Aventro Motors vehicles is designed to inform the driver about the status of various vehicle systems. Each symbol or indicator light provides information on system performance, potential malfunctions, or urgent warnings requiring immediate action.",
+    "path": "Instrument Cluster Warning Alerts",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Instrument Cluster Warning Alerts"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_2",
+    "text": "Below is a list of common warning alerts you may see in Aventro Motors cars, along with their meanings:",
+    "path": "Instrument Cluster Warning Alerts",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "Instrument Cluster Warning Alerts"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_3",
+    "text": "- Meaning: Indicates a problem with the engine or emissions control system. Immediate diagnosis is recommended.",
+    "path": "Instrument Cluster Warning Alerts > 1. Engine Warning Light (Check Engine)",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 10,
+        "heading": "1. Engine Warning Light (Check Engine)"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_4",
+    "text": "- Meaning: The battery is not charging properly. This could signal alternator failure, battery issues, or wiring problems.",
+    "path": "Instrument Cluster Warning Alerts > 2. Battery Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 13,
+        "heading": "2. Battery Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_5",
+    "text": "- Meaning: Low oil pressure detected. Stop the engine and check oil levels to avoid engine damage.",
+    "path": "Instrument Cluster Warning Alerts > 3. Oil Pressure Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 16,
+        "heading": "3. Oil Pressure Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_6",
+    "text": "- Meaning: Possible issues with the brake system such as low fluid, worn brake pads, or handbrake engaged.",
+    "path": "Instrument Cluster Warning Alerts > 4. Brake System Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 19,
+        "heading": "4. Brake System Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_7",
+    "text": "- Meaning: Indicates a malfunction in the Anti-lock Braking System. Normal brakes may function, but ABS will not.",
+    "path": "Instrument Cluster Warning Alerts > 5. ABS Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 22,
+        "heading": "5. ABS Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_8",
+    "text": "- Meaning: There may be a problem with the airbag system; airbags may not deploy in a collision.",
+    "path": "Instrument Cluster Warning Alerts > 6. Airbag Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 25,
+        "heading": "6. Airbag Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_9",
+    "text": "- Meaning: Engine is overheating. Stop the vehicle in a safe place and check coolant levels.",
+    "path": "Instrument Cluster Warning Alerts > 7. Coolant Temperature Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 28,
+        "heading": "7. Coolant Temperature Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_10",
+    "text": "- Meaning: Transmission malfunction, possible overheating or system fault. Immediate attention required.",
+    "path": "Instrument Cluster Warning Alerts > 8. Transmission Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 31,
+        "heading": "8. Transmission Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_11",
+    "text": "- Meaning: One or more tires have low pressure or there’s a sensor malfunction.",
+    "path": "Instrument Cluster Warning Alerts > 9. Tire Pressure Monitoring System (TPMS) Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "9. Tire Pressure Monitoring System (TPMS) Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_12",
+    "text": "- Meaning: Indicates that the traction control system is currently in use or there is a system fault.",
+    "path": "Instrument Cluster Warning Alerts > 10. Traction Control Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 37,
+        "heading": "10. Traction Control Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_13",
+    "text": "- Symbol: ESP/BAS\n- Meaning: Problem with Electronic Stability Program/Brake Assist System.",
+    "path": "Instrument Cluster Warning Alerts > 11. ESP/BAS Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 40,
+        "heading": "11. ESP/BAS Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_14",
+    "text": "- Meaning: Malfunction in the power steering system; steering may feel heavy.",
+    "path": "Instrument Cluster Warning Alerts > 12. Power Steering Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 44,
+        "heading": "12. Power Steering Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_15",
+    "text": "- Meaning: Low fuel level; refuel soon.",
+    "path": "Instrument Cluster Warning Alerts > 13. Fuel Level Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 47,
+        "heading": "13. Fuel Level Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_16",
+    "text": "- Meaning: Indicates pre-heating of diesel engine or a fault in the glow plug system.",
+    "path": "Instrument Cluster Warning Alerts > 14. Glow Plug Warning Light (Diesel)",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 50,
+        "heading": "14. Glow Plug Warning Light (Diesel)"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_17",
+    "text": "- Symbol: Hybrid/EV Symbol\n- Meaning: Malfunction in the hybrid or electric powertrain. Service required.",
+    "path": "Instrument Cluster Warning Alerts > 15. Hybrid/Electric System Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "15. Hybrid/Electric System Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_18",
+    "text": "- Symbol: Spanner/Wrench symbol\n- Meaning: Indicates that regular maintenance is due.",
+    "path": "Instrument Cluster Warning Alerts > 16. Service Reminder Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 57,
+        "heading": "16. Service Reminder Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_19",
+    "text": "- Meaning: Driver or passenger (depending on sensor) seatbelt is not fastened.",
+    "path": "Instrument Cluster Warning Alerts > 17. Seatbelt Reminder Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 61,
+        "heading": "17. Seatbelt Reminder Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_20",
+    "text": "- Symbol: Car with Doors Open\n- Meaning: One or more doors are not fully closed.",
+    "path": "Instrument Cluster Warning Alerts > 18. Door Ajar Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "18. Door Ajar Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_21",
+    "text": "- Meaning: Windshield washer fluid is low.",
+    "path": "Instrument Cluster Warning Alerts > 19. Washer Fluid Warning Light",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 68,
+        "heading": "19. Washer Fluid Warning Light"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_22",
+    "text": "- Meaning: High beam headlights are turned on. (This is informational, not a warning.)",
+    "path": "Instrument Cluster Warning Alerts > 20. High Beam Indicator",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 71,
+        "heading": "20. High Beam Indicator"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_23",
+    "text": "- If any red warning light appears, stop the vehicle in a safe location as soon as possible and consult your Aventro Motors dealer or the owner's manual.\n- Yellow/amber lights indicate caution; check the system soon.\n- For hybrid/electric models, specific alerts will provide system details regarding battery, charging, and electric drive functions.",
+    "path": "Instrument Cluster Warning Alerts > Important Notes",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 76,
+        "heading": "Important Notes"
+      }
+    ]
+  },
+  {
+    "id": "3a8effa9233a272d2c41be42f4f36a59bd692c762ef132a732882661b3f0a9e5_24",
+    "text": "Contact your nearest Aventro Service Center or call Aventro Support at +91 124 1234567.",
+    "path": "Instrument Cluster Warning Alerts > For Assistance",
+    "doc_key": [
+      "instrument cluster warning alerts"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 81,
+        "heading": "For Assistance"
+      }
+    ]
+  }
+]

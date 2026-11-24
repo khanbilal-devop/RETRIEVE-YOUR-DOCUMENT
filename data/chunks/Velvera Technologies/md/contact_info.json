@@ -1,0 +1,100 @@
+[
+  {
+    "id": "4909bf1fbb1decb5099147396358290472c79e1350defc7b6af41492b04fcea3_1",
+    "text": "We’re here to help — whether you're a customer, business partner, journalist, or investor. Reach out through the channels below for prompt assistance.",
+    "path": "Contact Information",
+    "doc_key": [
+      "contact_info"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Contact Information"
+      }
+    ]
+  },
+  {
+    "id": "4909bf1fbb1decb5099147396358290472c79e1350defc7b6af41492b04fcea3_2",
+    "text": "- Toll-Free Helpline: 1800-Velvera-1 (1800-8358372)\n  - Available Monday to Saturday, 9 AM – 9 PM IST\n- Technical Assistance: support@velvera.com (mailto:support@velvera.com)\n  - For queries related to setup, troubleshooting, warranty, and device updates.",
+    "path": "Contact Information > Customer Support",
+    "doc_key": [
+      "contact_info"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Customer Support"
+      }
+    ]
+  },
+  {
+    "id": "4909bf1fbb1decb5099147396358290472c79e1350defc7b6af41492b04fcea3_3",
+    "text": "- B2B & Partnerships: business@velvera.com (mailto:business@velvera.com)\n  - For distribution, retail, fleet device programs, and bulk purchase inquiries.",
+    "path": "Contact Information > Business & Enterprise",
+    "doc_key": [
+      "contact_info"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 19,
+        "heading": "Business & Enterprise"
+      }
+    ]
+  },
+  {
+    "id": "4909bf1fbb1decb5099147396358290472c79e1350defc7b6af41492b04fcea3_4",
+    "text": "- Media Relations: media@velvera.com (mailto:media@velvera.com)\n  - For press kits, interviews, product reviews, and event coordination.",
+    "path": "Contact Information > Press & Media",
+    "doc_key": [
+      "contact_info"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 26,
+        "heading": "Press & Media"
+      }
+    ]
+  },
+  {
+    "id": "4909bf1fbb1decb5099147396358290472c79e1350defc7b6af41492b04fcea3_5",
+    "text": "- Investor Relations: investors@velvera.com (mailto:investors@velvera.com)\n  - For shareholder updates, financial reports, and corporate governance matters.",
+    "path": "Contact Information > Investor Communication",
+    "doc_key": [
+      "contact_info"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 33,
+        "heading": "Investor Communication"
+      }
+    ]
+  },
+  {
+    "id": "4909bf1fbb1decb5099147396358290472c79e1350defc7b6af41492b04fcea3_6",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Contact Information",
+    "doc_key": [
+      "contact_info"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 38
+      },
+      {
+        "line": 40
+      }
+    ]
+  }
+]

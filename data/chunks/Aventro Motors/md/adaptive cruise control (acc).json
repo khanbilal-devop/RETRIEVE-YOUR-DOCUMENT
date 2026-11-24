@@ -1,0 +1,178 @@
+[
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_1",
+    "text": "Adaptive Cruise Control (ACC) is an advanced driver assistance system (ADAS) designed to automatically adjust a vehicle’s cruising speed to maintain a safe following distance from vehicles ahead. It’s an evolution of traditional cruise control, offering greater safety, comfort, and convenience—especially in highway and stop-and-go traffic scenarios.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > Overview",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 5,
+        "heading": "Overview"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_2",
+    "text": "- Traditional Cruise Control: Maintains a set vehicle speed as chosen by the driver.\n- Adaptive Cruise Control: Uses sensors to detect vehicles ahead and can increase, decrease, or maintain speed based on traffic conditions.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > What is Adaptive Cruise Control?",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 11,
+        "heading": "What is Adaptive Cruise Control?"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_3",
+    "text": "1. Automatic Speed Regulation\n  - Keeps the car traveling at a set speed until it detects a slower-moving vehicle in its path.\n2. Distance Monitoring & Maintenance\n  - Constantly monitors the distance to the vehicle in front and adjusts speed to maintain a safe, pre-set gap.\n3. Automatic Braking and Acceleration\n  - Decelerates when a slower vehicle is detected, and speeds back up to the original set speed when the lane clears.\n4. Stop & Go Functionality (in advanced systems)\n  - In heavy traffic, can bring the car to a complete stop and resume motion as traffic moves.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > What is Adaptive Cruise Control? > Key Functions",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 16,
+        "heading": "Key Functions"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_4",
+    "text": "- Radar Sensors:\n  - Typically mounted in the grille or front bumper to detect vehicles ahead and measure their speed and distance.\n- Lidar Sensors or Cameras:\n  - Used in some systems for enhanced object detection and lane tracking.\n- ECU (Electronic Control Unit):\n  - Processes sensor data and commands the throttle and brakes as needed.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > How Does Adaptive Cruise Control Work? > Main Components",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 34,
+        "heading": "Main Components"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_5",
+    "text": "1. Activation\n  - The driver activates ACC and sets a desired speed and following distance (often via steering wheel controls).\n2. Monitoring\n  - The system continuously scans the road ahead using radar, lidar, and/or cameras.\n3. Detection\n  - If the road ahead is clear, ACC maintains the set speed.\n  - If a slower vehicle is detected within the pre-set following distance, ACC automatically reduces vehicle speed by controlling throttle and brakes.\n4. Control\n  - If the vehicle ahead speeds up, ACC accelerates (up to the set speed limit).\n  - If the vehicle ahead slows down or stops, ACC decelerates and—if equipped with stop & go—can bring the car to a halt.\n5. Resuming\n  - The system accelerates back to the set speed once the lane ahead is clear.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > How Does Adaptive Cruise Control Work? > Working Principle",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 45,
+        "heading": "Working Principle"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_6",
+    "text": "- You set ACC to 100 km/h and the following distance to 2 seconds.\n- A car merges ahead traveling at 80 km/h.\n- ACC detects the vehicle and smoothly reduces your speed to maintain a safe gap.\n- When the lane ahead is clear, ACC returns your car to 100 km/h.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > How Does Adaptive Cruise Control Work? > Example Scenario",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 64,
+        "heading": "Example Scenario"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_7",
+    "text": "- Safety: Reduces risk of rear-end collisions.\n- Convenience: Less driver fatigue on long trips and in traffic jams.\n- Efficiency: Optimized speed and braking can improve fuel economy.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > Advantages",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 73,
+        "heading": "Advantages"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_8",
+    "text": "- Sensor Limitations: May be affected by weather conditions, dirt, or obstructions.\n- Not a Substitute for Attention: The driver must remain alert and ready to take control at all times.",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > Limitations",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 79,
+        "heading": "Limitations"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_9",
+    "text": "- ACC: Adaptive Cruise Control\n- ADAS: Advanced Driver Assistance Systems",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > Terminology",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 84,
+        "heading": "Terminology"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_10",
+    "text": "- Feature: Maintains Set Speed | Traditional Cruise Control: Yes | Adaptive Cruise Control: Yes\n- Feature: Senses Vehicles Ahead | Traditional Cruise Control: No | Adaptive Cruise Control: Yes\n- Feature: Adjusts Following Gap | Traditional Cruise Control: No | Adaptive Cruise Control: Yes\n- Feature: Automatic Braking | Traditional Cruise Control: No | Adaptive Cruise Control: Yes\n- Feature: Resumes after Stopping | Traditional Cruise Control: No | Adaptive Cruise Control: In advanced ACC",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > Summary Table",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 91,
+        "heading": "Summary Table"
+      }
+    ]
+  },
+  {
+    "id": "6e79eb55fa36f6e9580ab3c9aab6777e87380923bbdf92ffebdb743353f80940_11",
+    "text": "- NHTSA: Adaptive Cruise Control (https://www.nhtsa.gov/equipment/adaptive-cruise-control)\n- SAE International: ADAS Features Guide (https://www.sae.org)\n- Vehicle Owner’s Manuals (Various Manufacturers)",
+    "path": "Adaptive Cruise Control (ACC): What is it & How Does it Work? > References",
+    "doc_key": [
+      "adaptive cruise control (acc)"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 103,
+        "heading": "References"
+      }
+    ]
+  }
+]

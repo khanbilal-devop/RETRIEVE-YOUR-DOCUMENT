@@ -1,0 +1,449 @@
+[
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_1",
+    "text": "Specializations: Macroeconomics, Econometrics, International Economics",
+    "path": "Cendara University > Department of Economics > Course Catalog 2024–2025 > Undergraduate Program: B.Sc. in Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 6,
+        "heading": "Undergraduate Program: B.Sc. in Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_2",
+    "text": "Credits: 3\nDescription:\nIntroduction to microeconomic theory, including supply and demand, market structures, consumer behavior, and the role of government. Emphasis on real-world applications and critical thinking about everyday economic issues.\nPrerequisites: None",
+    "path": "Cendara University > Undergraduate Courses > ECON 101: Principles of Microeconomics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 13,
+        "heading": "ECON 101: Principles of Microeconomics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_3",
+    "text": "Credits: 3\nDescription:\nFoundations of macroeconomics: national income, economic growth, unemployment, inflation, monetary and fiscal policy. Analysis of current macroeconomic challenges and policy debates.\nPrerequisites: None",
+    "path": "Cendara University > Undergraduate Courses > ECON 102: Principles of Macroeconomics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 21,
+        "heading": "ECON 102: Principles of Macroeconomics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_4",
+    "text": "Credits: 3\nDescription:\nDetailed study of consumer theory, production and costs, market equilibrium, and competitive markets. Introduction to strategic behavior and market failures.\nPrerequisites: ECON 101",
+    "path": "Cendara University > Undergraduate Courses > ECON 201: Intermediate Microeconomics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 29,
+        "heading": "ECON 201: Intermediate Microeconomics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_5",
+    "text": "Credits: 3\nDescription:\nExamination of economic growth, business cycles, aggregate demand and supply, and the impacts of monetary and fiscal policies on national and global economies.\nPrerequisites: ECON 102",
+    "path": "Cendara University > Undergraduate Courses > ECON 202: Intermediate Macroeconomics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 37,
+        "heading": "ECON 202: Intermediate Macroeconomics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_6",
+    "text": "Credits: 3\nDescription:\nIntroduction to statistical concepts, probability theory, and data analysis in economics. Hands-on experience with statistical software and interpretation of economic data sets.\nPrerequisites: None",
+    "path": "Cendara University > Undergraduate Courses > ECON 210: Statistics for Economists",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 45,
+        "heading": "ECON 210: Statistics for Economists"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_7",
+    "text": "Credits: 3\nDescription:\nStatistical techniques in estimating economic models: regression analysis, hypothesis testing, and forecasting. Practical applications using real-world data.\nPrerequisites: ECON 210",
+    "path": "Cendara University > Undergraduate Courses > ECON 221: Introduction to Econometrics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "ECON 221: Introduction to Econometrics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_8",
+    "text": "Credits: 3\nDescription:\nStudy of money, banking systems, and financial institutions. Analysis of central banking, monetary policy, and their effects on the economy.\nPrerequisites: ECON 102",
+    "path": "Cendara University > Undergraduate Courses > ECON 230: Money and Banking",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 61,
+        "heading": "ECON 230: Money and Banking"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_9",
+    "text": "Credits: 3\nDescription:\nTheories of international trade, exchange rates, trade policy, and their impact on global economic relations. Discussion of current international economic issues.\nPrerequisites: ECON 101, ECON 102",
+    "path": "Cendara University > Undergraduate Courses > ECON 240: International Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 69,
+        "heading": "ECON 240: International Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_10",
+    "text": "Credits: 3\nDescription:\nExamination of economic development in low- and middle-income countries. Focus on poverty, inequality, population growth, and policy strategies for promoting sustainable development.\nPrerequisites: ECON 102",
+    "path": "Cendara University > Undergraduate Courses > ECON 270: Development Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 77,
+        "heading": "ECON 270: Development Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_11",
+    "text": "Credits: 3\nDescription:\nEconomic analysis of government expenditures and tax policies. Role of government in resource allocation, income distribution, and economic stability.\nPrerequisites: ECON 201",
+    "path": "Cendara University > Undergraduate Courses > ECON 310: Public Finance",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 85,
+        "heading": "ECON 310: Public Finance"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_12",
+    "text": "Credits: 3\nDescription:\nIntroduction to the fundamentals of game theory, including Nash equilibrium, repeated games, and applications to business, politics, and economics.\nPrerequisites: ECON 201",
+    "path": "Cendara University > Undergraduate Courses > ECON 320: Game Theory and Strategic Behavior",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 93,
+        "heading": "ECON 320: Game Theory and Strategic Behavior"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_13",
+    "text": "Credits: 3\nDescription:\nAnalysis of labor markets, wage determination, employment, and the effects of unions and government policies on labor outcomes.\nPrerequisites: ECON 201",
+    "path": "Cendara University > Undergraduate Courses > ECON 350: Labor Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 101,
+        "heading": "ECON 350: Labor Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_14",
+    "text": "Credits: 3\nDescription:\nStudy of the economics of environmental policy, natural resource management, and sustainability. Discussion of market-based solutions to environmental challenges.\nPrerequisites: ECON 201",
+    "path": "Cendara University > Undergraduate Courses > ECON 360: Environmental Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 109,
+        "heading": "ECON 360: Environmental Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_15",
+    "text": "Credits: 3\nDescription:\nTraining in empirical research design, data collection, and interpretation of results. Preparation for honors thesis or upper-level research projects.\nPrerequisites: ECON 221, Junior standing",
+    "path": "Cendara University > Undergraduate Courses > ECON 399: Research Methods in Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 117,
+        "heading": "ECON 399: Research Methods in Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_16",
+    "text": "Credits: 3\nDescription:\nCapstone course requiring the completion and presentation of an independent research project. Emphasis on integrating theory, data, and policy analysis.\nPrerequisites: Senior standing, ECON 399",
+    "path": "Cendara University > Undergraduate Courses > ECON 410: Senior Seminar in Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 125,
+        "heading": "ECON 410: Senior Seminar in Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_17",
+    "text": "- ECON 273: Economics of Inequality (3 credits, Prerequisite: ECON 201)\n  - Focuses on measurement and determinants of economic inequality within and across countries.\n- ECON 280: Behavioral Economics (3 credits, Prerequisite: ECON 201)\n  - Explores how psychological factors influence economic decision-making.",
+    "path": "Cendara University > Undergraduate Courses > ECON 410: Senior Seminar in Economics > Additional Undergraduate Electives",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 134,
+        "heading": "Additional Undergraduate Electives"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_18",
+    "text": "Concentration: Advanced microeconomic and macroeconomic theory, applied research",
+    "path": "Cendara University > Graduate Program: M.Sc. in Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 143,
+        "heading": "Graduate Program: M.Sc. in Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_19",
+    "text": "Credits: 4\nDescription:\nAdvanced mathematical techniques for economic modeling: calculus, optimization, and linear algebra tailored to economic applications.\nPrerequisites: Undergraduate-level mathematics",
+    "path": "Cendara University > Graduate Courses > ECON 501: Mathematical Methods for Economists",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 150,
+        "heading": "ECON 501: Mathematical Methods for Economists"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_20",
+    "text": "Credits: 4\nDescription:\nRigorous analysis of consumer and producer behavior, market equilibrium, general equilibrium, and welfare economics.\nPrerequisites: ECON 201 or equivalent",
+    "path": "Cendara University > Graduate Courses > ECON 510: Advanced Microeconomic Theory",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 158,
+        "heading": "ECON 510: Advanced Microeconomic Theory"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_21",
+    "text": "Credits: 4\nDescription:\nExplores advanced models of economic growth, expectations, and policy analysis. Topics include real business cycle theory and dynamic stochastic general equilibrium.\nPrerequisites: ECON 202 or equivalent",
+    "path": "Cendara University > Graduate Courses > ECON 520: Advanced Macroeconomic Theory",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 166,
+        "heading": "ECON 520: Advanced Macroeconomic Theory"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_22",
+    "text": "Credits: 4\nDescription:\nAdvanced methods in estimation, hypothesis testing, time series analysis, and panel data models. Implementation using econometric software.\nPrerequisites: ECON 221, undergraduate-level statistics",
+    "path": "Cendara University > Graduate Courses > ECON 530: Econometric Theory and Methods",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 174,
+        "heading": "ECON 530: Econometric Theory and Methods"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_23",
+    "text": "Credits: 3\nDescription:\nContemporary theory and practice of international trade, capital flows, exchange rates, and the global financial system.\nPrerequisites: ECON 240 or equivalent",
+    "path": "Cendara University > Graduate Courses > ECON 561: International Trade and Finance",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 182,
+        "heading": "ECON 561: International Trade and Finance"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_24",
+    "text": "Credits: 3\nDescription:\nMethodologies for evaluating the economic impact of public policies in areas such as health, education, and taxation. Emphasis on cost-benefit analysis and real-world case studies.\nPrerequisites: ECON 510, ECON 530",
+    "path": "Cendara University > Graduate Courses > ECON 570: Applied Policy Analysis",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 190,
+        "heading": "ECON 570: Applied Policy Analysis"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_25",
+    "text": "Credits: 3\nDescription:\nWeekly seminar addressing current research topics in economics. Presentations by faculty, visiting scholars, and students.\nPrerequisites: Enrollment in M.Sc. program",
+    "path": "Cendara University > Graduate Courses > ECON 590: Research Seminar",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 198,
+        "heading": "ECON 590: Research Seminar"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_26",
+    "text": "Credits: 6\nDescription:\nSupervised independent research culminating in a written thesis and oral defense. Open only to M.Sc. candidates in their final term.\nPrerequisites: Completion of core M.Sc. coursework and approval of thesis proposal",
+    "path": "Cendara University > Graduate Courses > ECON 599: Thesis in Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 206,
+        "heading": "ECON 599: Thesis in Economics"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_27",
+    "text": "- ECON 582: Topics in Development Economics (3 credits, Prerequisites: ECON 510)\n  - In-depth study of advanced issues in economic development, including field experiments and policy interventions.\n- ECON 584: Advanced Econometrics (3 credits, Prerequisites: ECON 530)\n  - Advanced topics: limited dependent variables, instrumental variables, and nonlinear models.",
+    "path": "Cendara University > Graduate Courses > ECON 599: Thesis in Economics > Graduate Electives",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 215,
+        "heading": "Graduate Electives"
+      }
+    ]
+  },
+  {
+    "id": "759bcff89c9853a540543fd1ce8114429cc6faba287a9b8e090a2592849e0b60_28",
+    "text": "For additional information, please contact the Department of Economics at economics@cendara.edu, or consult the full course catalog at www.cendara.edu/economics/courses (http://www.cendara.edu/economics/courses).",
+    "path": "Cendara University > Graduate Courses > ECON 599: Thesis in Economics",
+    "doc_key": [
+      "dept_of_economics_catalog"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 223
+      }
+    ]
+  }
+]

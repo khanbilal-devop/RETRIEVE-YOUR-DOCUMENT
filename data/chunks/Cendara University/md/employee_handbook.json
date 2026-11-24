@@ -1,0 +1,460 @@
+[
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_1",
+    "text": "Last revised: March 18, 2024",
+    "path": "Cendara University Employee Handbook",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Cendara University Employee Handbook"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_2",
+    "text": "1. Introduction (#introduction)\n2. Workplace Policies (#workplace-policies)\n  - 2.1 Equal Employment Opportunity\n  - 2.2 Attendance and Working Hours\n  - 2.3 Remote Work and Flexible Scheduling\n  - 2.4 Safety and Emergency Procedures\n  - 2.5 Use of University Property and Resources\n  - 2.6 Confidentiality and Data Protection\n3. Benefits Overview (#benefits-overview)\n  - 3.1 Medical, Dental, and Vision Insurance\n  - 3.2 Retirement Plan\n  - 3.3 Paid Time Off (PTO)\n  - 3.4 Professional Development\n  - 3.5 Employee Assistance Program (EAP)\n4. Professional Conduct (#professional-conduct)\n  - 4.1 Code of Ethics\n  - 4.2 Harassment and Discrimination Policy\n  - 4.3 Conflict of Interest\n  - 4.4 Dress Code and Appearance\n  - 4.5 Disciplinary Procedures\n5. Company Culture (#company-culture)\n  - 5.1 Mission and Values\n  - 5.2 Diversity and Inclusion\n  - 5.3 Collaboration and Communication\n  - 5.4 Community Engagement",
+    "path": "Cendara University Employee Handbook > Table of Contents",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Table of Contents"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_3",
+    "text": "Welcome to Cendara University! As an esteemed faculty or staff member, you play an essential role in fostering an environment of academic excellence, inclusivity, and professional growth. This handbook provides guidance on policies, benefits, conduct expectations, and the values central to the Cendara University community.",
+    "path": "Cendara University Employee Handbook > Introduction",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 39,
+        "heading": "Introduction"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_4",
+    "text": "If you have questions at any time, please contact Human Resources at hr@cendara.edu or visit the HR office in Ferris Hall, Room 206.",
+    "path": "Cendara University Employee Handbook > Introduction",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 41,
+        "heading": "Introduction"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_5",
+    "text": "Cendara University is committed to providing an inclusive workplace free of discrimination or harassment based on race, color, religion, gender, age, national origin, disability, marital status, sexual orientation, or veteran status. Employment decisions are based solely on merit and qualifications.",
+    "path": "Cendara University Employee Handbook > Workplace Policies > 2.1 Equal Employment Opportunity",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 49,
+        "heading": "2.1 Equal Employment Opportunity"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_6",
+    "text": "- Standard office hours: Monday–Friday, 8:30 a.m. to 5:00 p.m.\n- Faculty hours may vary by teaching schedules.\n- In case of absence or late arrival, notify your supervisor or department chair as early as possible.\n- Excessive unexcused absences may result in corrective action.",
+    "path": "Cendara University Employee Handbook > Workplace Policies > 2.2 Attendance and Working Hours",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 53,
+        "heading": "2.2 Attendance and Working Hours"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_7",
+    "text": "Cendara University supports a hybrid work environment for eligible positions:\n- Remote work: Up to 2 days/week with supervisor approval.\n- Flexible schedules: (e.g., adjusted start/end times) available based on departmental needs.\n- Submit requests in writing to immediate supervisors; approvals are assessed case-by-case.",
+    "path": "Cendara University Employee Handbook > Workplace Policies > 2.3 Remote Work and Flexible Scheduling",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 60,
+        "heading": "2.3 Remote Work and Flexible Scheduling"
+      },
+      {
+        "line": 62,
+        "heading": "2.3 Remote Work and Flexible Scheduling"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_8",
+    "text": "- Report safety hazards to Campus Safety at (417) 555-3680.\n- Participate in required annual safety trainings.\n- Fire drills are conducted twice per academic year.\n- In emergencies, follow posted evacuation routes and instructions from security personnel.",
+    "path": "Cendara University Employee Handbook > Workplace Policies > 2.4 Safety and Emergency Procedures",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 68,
+        "heading": "2.4 Safety and Emergency Procedures"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_9",
+    "text": "- University devices and resources are for professional, academic, or research purposes.\n- Personal use should be minimal and not interfere with operations.\n- Unauthorized removal or misuse of university property will result in disciplinary measures.\n- All computer usage is monitored under the Information Technology Acceptable Use Policy.",
+    "path": "Cendara University Employee Handbook > Workplace Policies > 2.5 Use of University Property and Resources",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 75,
+        "heading": "2.5 Use of University Property and Resources"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_10",
+    "text": "- Maintain confidentiality regarding student, faculty, and institutional information.\n- Do not disclose any sensitive information without proper authorization.\n- Comply with FERPA and all applicable data protection policies.\n- Report data breaches or suspicious activities to itsecurity@cendara.edu.",
+    "path": "Cendara University Employee Handbook > Workplace Policies > 2.6 Confidentiality and Data Protection",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 82,
+        "heading": "2.6 Confidentiality and Data Protection"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_11",
+    "text": "- Comprehensive health coverage through NimbusCare.\n- Coverage starts on the first of the month following your hire date.\n- Includes annual physicals, prescription drugs, mental health services, and specialist visits.\n- Dental and vision plans administered through BrightSmile and OptiView.\n- See the Benefits Guide or email benefits@cendara.edu for plan details.",
+    "path": "Cendara University Employee Handbook > Benefits Overview > 3.1 Medical, Dental, and Vision Insurance",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 93,
+        "heading": "3.1 Medical, Dental, and Vision Insurance"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_12",
+    "text": "- Participation in the Cendara University Retirement Savings Plan (CURSP) is automatic after 90 days of employment.\n- University matches employee contributions up to 6% of salary.\n- Administered by Granite Financial Services.\n- Optional voluntary contributions up to IRS limits.",
+    "path": "Cendara University Employee Handbook > Benefits Overview > 3.2 Retirement Plan",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 101,
+        "heading": "3.2 Retirement Plan"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_13",
+    "text": "- Employee Type: Full-time Staff | Annual Vacation: 20 days | Sick Leave: 10 days | Personal Days: 4 days | Holidays: 12 days\n- Employee Type: Full-time Faculty | Annual Vacation: By appointment | Sick Leave: 10 days | Personal Days: 2 days | Holidays: 12 days\n- Employee Type: Part-time Employees | Annual Vacation: Pro-rated | Sick Leave: Pro-rated | Personal Days: 2 days | Holidays: 12 days",
+    "path": "Cendara University Employee Handbook > Benefits Overview > 3.3 Paid Time Off (PTO)",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 108,
+        "heading": "3.3 Paid Time Off (PTO)"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_14",
+    "text": "- Unused vacation days may be carried over up to a maximum of 10 days per year.",
+    "path": "Cendara University Employee Handbook > Benefits Overview > 3.3 Paid Time Off (PTO)",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 114,
+        "heading": "3.3 Paid Time Off (PTO)"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_15",
+    "text": "- Annual stipend of $800 for conferences, workshops, or continuing education.\n- Tuition reimbursement for approved coursework at Cendara or partner institutions (up to 50% tuition).\n- Access to on-campus seminars and leadership training.",
+    "path": "Cendara University Employee Handbook > Benefits Overview > 3.4 Professional Development",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 118,
+        "heading": "3.4 Professional Development"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_16",
+    "text": "- Free, confidential counseling (up to 6 sessions per year).\n- Financial consulting, legal assistance, and support resources for all employees and families.\n- EAP contact: (800) 555-9932 or eapservices@cendara.edu.",
+    "path": "Cendara University Employee Handbook > Benefits Overview > 3.5 Employee Assistance Program (EAP)",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 124,
+        "heading": "3.5 Employee Assistance Program (EAP)"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_17",
+    "text": "Employees are expected to:\n- Demonstrate honesty, accountability, and integrity in all interactions.\n- Uphold academic freedom, respect intellectual property, and maintain professionalism.\n- Report unethical conduct or conflicts of interest to the Office of Compliance.",
+    "path": "Cendara University Employee Handbook > Professional Conduct > 4.1 Code of Ethics",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 134,
+        "heading": "4.1 Code of Ethics"
+      },
+      {
+        "line": 135,
+        "heading": "4.1 Code of Ethics"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_18",
+    "text": "- Zero tolerance for harassment, discrimination, or retaliation.\n- Includes but is not limited to: sexual harassment, bullying, offensive language, and intimidation.\n- Incidents should be reported immediately to Office of Equity & Inclusion at equity@cendara.edu.\n- All complaints are confidential and thoroughly investigated.",
+    "path": "Cendara University Employee Handbook > Professional Conduct > 4.2 Harassment and Discrimination Policy",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 141,
+        "heading": "4.2 Harassment and Discrimination Policy"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_19",
+    "text": "- Disclose any potential conflicts involving personal, financial, or familial interests that could compromise university decisions.\n- Employees may not accept gifts in excess of $75 from vendors or partners.\n- Conflicts should be reported using the online disclosure form or to your department head.",
+    "path": "Cendara University Employee Handbook > Professional Conduct > 4.3 Conflict of Interest",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 148,
+        "heading": "4.3 Conflict of Interest"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_20",
+    "text": "- Business casual is standard for all office and academic settings.\n- Lab and clinical staff must adhere to departmental safety attire regulations.\n- “Cendara Pride Fridays” permit university-branded casual wear.\n- Special dress requirements may apply for events or ceremonies.",
+    "path": "Cendara University Employee Handbook > Professional Conduct > 4.4 Dress Code and Appearance",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 154,
+        "heading": "4.4 Dress Code and Appearance"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_21",
+    "text": "- Violations of university policies result in progressive discipline:\n  - Verbal warning\n  - Written warning\n  - Suspension\n  - Termination (for serious or repeated violations)\n- All disciplinary actions are documented in the employee’s file and handled in accordance with university guidelines.",
+    "path": "Cendara University Employee Handbook > Professional Conduct > 4.5 Disciplinary Procedures",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 161,
+        "heading": "4.5 Disciplinary Procedures"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_22",
+    "text": "Cendara University fosters inquiry, lifelong learning, and civic engagement. We empower our community members to pursue excellence, innovation, and global citizenship.",
+    "path": "Cendara University Employee Handbook > Company Culture > 5.1 Mission and Values",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 174,
+        "heading": "5.1 Mission and Values"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_23",
+    "text": "Core Values:\n- Academic integrity and freedom\n- Respect and inclusivity\n- Service and responsibility\n- Creativity and discovery",
+    "path": "Cendara University Employee Handbook > Company Culture > 5.1 Mission and Values",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 176,
+        "heading": "5.1 Mission and Values"
+      },
+      {
+        "line": 177,
+        "heading": "5.1 Mission and Values"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_24",
+    "text": "- Diversity is integral to our academic mission.\n- The Mosaic Initiative advances equity for underrepresented groups in faculty and student recruitment.\n- Monthly “Voices Forum” discussions and annual Diversity Symposium.",
+    "path": "Cendara University Employee Handbook > Company Culture > 5.2 Diversity and Inclusion",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 184,
+        "heading": "5.2 Diversity and Inclusion"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_25",
+    "text": "- Open-door policy among departments and leadership.\n- Annual university retreat (“Connections Day”) each August for cross-campus networking and team building.\n- Use of CendaraConnect, an internal communications platform, for updates, discussion, and feedback.",
+    "path": "Cendara University Employee Handbook > Company Culture > 5.3 Collaboration and Communication",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 190,
+        "heading": "5.3 Collaboration and Communication"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_26",
+    "text": "- Employee Volunteer Day each spring, supporting local nonprofits.\n- Encouragement of staff participation in community lectures, outreach, and K-12 mentoring programs.\n- Cendara’s annual Open Campus Festival invites neighbors, alumni, and civic partners to campus.",
+    "path": "Cendara University Employee Handbook > Company Culture > 5.4 Community Engagement",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 196,
+        "heading": "5.4 Community Engagement"
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_27",
+    "text": "Please review this handbook regularly. Cendara University reserves the right to amend any policies or benefits as needed. Updates are communicated via email and posted in the HR section of the university intranet.",
+    "path": "Cendara University Employee Handbook > Company Culture",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 202
+      }
+    ]
+  },
+  {
+    "id": "3518b5e2d815d13c938419376ec3164d24cbef8754ca8d14bc27adc25adae3ff_28",
+    "text": "Thank you for being a part of Cendara University’s vibrant academic community!",
+    "path": "Cendara University Employee Handbook > Company Culture",
+    "doc_key": [
+      "employee_handbook"
+    ],
+    "company": "Cendara University",
+    "format": "md",
+    "locations": [
+      {
+        "line": 204
+      }
+    ]
+  }
+]

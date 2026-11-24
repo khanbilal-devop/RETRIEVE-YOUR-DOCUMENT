@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9b3104acf68606008d28b94023008c3850512c544cbb25e337fa0e777391314a_1",
+    "text": "- Service Center Location: Bengaluru – Koramangala | Coverage Area: Karnataka | Contact Number: 080-4633-1278 | Service Types: Smartphones, Tablets, Audio | Average Turnaround Time: 3-5 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Kannada\n- Service Center Location: Mumbai – Andheri East | Coverage Area: Maharashtra | Contact Number: 022-4947-2302 | Service Types: Smartphones, Accessories | Average Turnaround Time: 2-4 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Marathi\n- Service Center Location: Delhi – Karol Bagh | Coverage Area: NCR, Haryana, UP | Contact Number: 011-2391-8830 | Service Types: All Categories | Average Turnaround Time: 3-7 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Hindi\n- Service Center Location: Hyderabad – Banjara Hills | Coverage Area: Telangana, Andhra | Contact Number: 040-3571-9940 | Service Types: Smartwatches, Tablets | Average Turnaround Time: 2-3 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Telugu\n- Service Center Location: Chennai – T.Nagar | Coverage Area: Tamil Nadu | Contact Number: 044-4017-7725 | Service Types: Smartphones, Audio | Average Turnaround Time: 3-5 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Tamil\n- Service Center Location: Kolkata – Salt Lake | Coverage Area: West Bengal, Odisha | Contact Number: 033-6814-7699 | Service Types: All Categories | Average Turnaround Time: 3-6 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Bengali\n- Service Center Location: Pune – Shivajinagar | Coverage Area: Maharashtra | Contact Number: 020-6170-4433 | Service Types: Smartwatches, Tablets | Average Turnaround Time: 2-4 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Marathi\n- Service Center Location: Jaipur – C-Scheme | Coverage Area: Rajasthan | Contact Number: 0141-7156-950 | Service Types: Smartphones, Audio | Average Turnaround Time: 3-5 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Hindi\n- Service Center Location: Ahmedabad – Navrangpura | Coverage Area: Gujarat | Contact Number: 079-4891-8452 | Service Types: Tablets, Audio, Accessories | Average Turnaround Time: 2-4 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Gujarati\n- Service Center Location: Kochi – MG Road | Coverage Area: Kerala | Contact Number: 0484-409-2216 | Service Types: Smartphones, Accessories | Average Turnaround Time: 2-5 business days | Walk-in Availability: Yes | Home Pickup Support: Yes | Language Support: English, Malayalam",
+    "path": "Servicing Details",
+    "doc_key": [
+      "servicing_details"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Servicing Details"
+      }
+    ]
+  },
+  {
+    "id": "9b3104acf68606008d28b94023008c3850512c544cbb25e337fa0e777391314a_2",
+    "text": "Service Process Overview:\n- Service booking: Initiate via Velvera App, website, or by contacting the nearest service center.\n- Diagnosis: Certified engineers assess reported issues, typically within 24 hours of product receipt.\n- Quote & Approval: Estimate shared for any non-warranty services or accidental damage; repairs begin post-approval.\n- Status Tracking: Transparent updates through app, SMS, and email notifications.\n- Delivery & Feedback: Products can be collected in person or delivered to the customer’s address upon request.",
+    "path": "Servicing Details",
+    "doc_key": [
+      "servicing_details"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 16,
+        "heading": "Servicing Details"
+      },
+      {
+        "line": 17,
+        "heading": "Servicing Details"
+      }
+    ]
+  },
+  {
+    "id": "9b3104acf68606008d28b94023008c3850512c544cbb25e337fa0e777391314a_3",
+    "text": "Additional Support:\n- Same-day screen replacement at select centers for Velvera Care+ users (subject to slot availability).\n- Genuine Velvera parts and 90-day post-repair warranty for paid repairs.\n- Dedicated support hotline for Care+ members: 1800-210-5030",
+    "path": "Servicing Details",
+    "doc_key": [
+      "servicing_details"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 23,
+        "heading": "Servicing Details"
+      },
+      {
+        "line": 24,
+        "heading": "Servicing Details"
+      }
+    ]
+  }
+]

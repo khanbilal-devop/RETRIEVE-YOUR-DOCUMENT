@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a8f2bdc723726c60bb8694148d1f282657ae4fce64e3fd01f85b68fa35f24d87_1",
+    "text": "- Description: The core mechanical component that converts fuel into mechanical power for propulsion.\n- Applicable Models: All Petrol, Diesel, and Hybrid variants\n- Industry Standard Price: ₹1,20,000 – ₹2,50,000 (varies by engine capacity and technology)\n- Warranty: 2 years or 50,000 km (whichever earlier)\n- Note: For Electric variants, Engine Assembly is replaced by Battery Pack/Motor assembly.",
+    "path": "Aventro Motors Pvt. Ltd. > 1. Engine Assembly",
+    "doc_key": [
+      "parta-1"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 7,
+        "heading": "1. Engine Assembly"
+      }
+    ]
+  },
+  {
+    "id": "a8f2bdc723726c60bb8694148d1f282657ae4fce64e3fd01f85b68fa35f24d87_2",
+    "text": "- Description: High-capacity rechargeable battery powering Electric and Hybrid models.\n- Applicable Models: Electric & Hybrid variants\n- Industry Standard Price:\n  - Electric: ₹2,00,000 – ₹4,50,000 (depending on kWh rating)\n  - Hybrid: ₹60,000 – ₹1,50,000\n- Warranty: 8 years or 1,60,000 km (whichever earlier)\n- Note: Prices depend on size (kWh), chemistry, and import duties.",
+    "path": "Aventro Motors Pvt. Ltd. > 2. Battery Pack",
+    "doc_key": [
+      "parta-1"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 16,
+        "heading": "2. Battery Pack"
+      }
+    ]
+  },
+  {
+    "id": "a8f2bdc723726c60bb8694148d1f282657ae4fce64e3fd01f85b68fa35f24d87_3",
+    "text": "- Description: Transmits engine/motor power to wheels, manages speed and torque.\n- Applicable Models: All variants (specific tech for Automatic, Manual, or e-Drive)\n- Industry Standard Price:\n  - Manual: ₹65,000 – ₹1,20,000\n  - Automatic (AT/CVT/DCT): ₹1,10,000 – ₹2,00,000\n- Warranty: 2 years or 40,000 km (whichever earlier)",
+    "path": "Aventro Motors Pvt. Ltd. > 3. Transmission",
+    "doc_key": [
+      "parta-1"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 27,
+        "heading": "3. Transmission"
+      }
+    ]
+  },
+  {
+    "id": "a8f2bdc723726c60bb8694148d1f282657ae4fce64e3fd01f85b68fa35f24d87_4",
+    "text": "- Description: Key component for vehicle stopping, includes front and rear sets.\n- Applicable Models: All, with some EVs using regenerative braking for longevity\n- Industry Standard Price:\n  - Front Set: ₹3,000 – ₹6,000\n  - Rear Set: ₹2,500 – ₹5,000\n- Warranty: 1 year or 20,000 km",
+    "path": "Aventro Motors Pvt. Ltd. > 4. Brake Pads",
+    "doc_key": [
+      "parta-1"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 37,
+        "heading": "4. Brake Pads"
+      }
+    ]
+  },
+  {
+    "id": "a8f2bdc723726c60bb8694148d1f282657ae4fce64e3fd01f85b68fa35f24d87_5",
+    "text": "- Description: System of springs, dampers, and linkages for ride comfort and handling.\n- Applicable Models: All models and variants\n- Industry Standard Price: ₹18,000 – ₹45,000 (per axle, including shock absorbers & bushings)\n- Warranty: 1 year or 25,000 km",
+    "path": "Aventro Motors Pvt. Ltd. > 5. Suspension System",
+    "doc_key": [
+      "parta-1"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 47,
+        "heading": "5. Suspension System"
+      }
+    ]
+  },
+  {
+    "id": "a8f2bdc723726c60bb8694148d1f282657ae4fce64e3fd01f85b68fa35f24d87_6",
+    "text": "- Prices are indicative, ex-showroom, exclude labor, taxes, and may vary by region/model.\n- For authorized fitment and exact part match, contact nearest Aventro Service Center (#service-center-locations-dummy-across-india) or email info@aventromotors.com",
+    "path": "Aventro Motors Pvt. Ltd. > Notes",
+    "doc_key": [
+      "parta-1"
+    ],
+    "company": "Aventro Motors",
+    "format": "md",
+    "locations": [
+      {
+        "line": 55,
+        "heading": "Notes"
+      }
+    ]
+  }
+]

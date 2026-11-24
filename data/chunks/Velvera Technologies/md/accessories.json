@@ -1,0 +1,212 @@
+[
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_1",
+    "text": "Detailed specifications for all Velvera accessories and add-ons, sorted by product category.",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 7,
+        "heading": "Accessories & Add-ons"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_2",
+    "text": "- Compatibility: All Velvera Devices\n- Features:\n  - GaN (Gallium Nitride) technology for efficient charging\n  - Supports fast charging protocols (PD 3.0, QC 4.0+)\n  - Compact and lightweight design\n  - Overheat, overcurrent, and short-circuit protection\n  - Foldable plug for portability\n- Dimensions: 55 x 55 x 28 mm\n- Input: 100-240V~50/60Hz 1.5A Max\n- Output: USB-C1: 65W, USB-A: 18W Max\n- Housing: Heat-resistant polycarbonate\n- Price: ₹3,499 / $42",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Charging Solutions > Velvera 65W GaN Charger",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 15,
+        "heading": "Velvera 65W GaN Charger"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_3",
+    "text": "- Compatibility: Laptops, Smartphones (Cross-platform)\n- Features:\n  - 4-port output (2x USB-C, 2x USB-A)\n  - Integrated Qi wireless charging pad (15W)\n  - LED charging indicators\n  - Over-voltage and surge protection\n- Input: 100-240V~50/60Hz\n- Output: Max 100W distribution across ports\n- Wireless Output: 15W Max\n- Cable Length: 1.5m detachable\n- Dimensions: 130 x 70 x 25 mm\n- Price: ₹7,999 / $96",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Charging Solutions > Velvera 100W Desktop Hub",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "Velvera 100W Desktop Hub"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_4",
+    "text": "- Compatibility: Phones, Smartwatches, Earbuds (Qi Standard)\n- Features:\n  - 3-in-1 station for phone, watch, and earbuds\n  - 15W phone pad, 5W watch pad, 5W buds pad\n  - Magnetic alignment for watch and buds\n  - Non-slip silicone base\n- Input: USB-C PD 30W (adapter included)\n- Dimensions: 160 x 90 x 80 mm\n- Material: Aluminum alloy + soft touch silicone\n- Price: ₹8,999 / $109",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Charging Solutions > Velvera Wireless Dock",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 45,
+        "heading": "Velvera Wireless Dock"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_5",
+    "text": "- Compatibility: Velvera One Series (Phones)\n- Features:\n  - 5000mAh high-density lithium-polymer battery\n  - Magnetic mounting with MagSafe-alignment\n  - Pass-through charging\n  - LED power indicators\n  - Multi-protection (OVP, OCP, OTP, SCP)\n- Input/Output: USB-C 18W (PD), Wireless 15W Max\n- Dimensions: 110 x 68 x 12 mm\n- Material: Anodized Aluminum + ABS\n- Price: ₹4,999 / $59",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Charging Solutions > Velvera SuperSafe Battery",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 58,
+        "heading": "Velvera SuperSafe Battery"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_6",
+    "text": "- Models Supported: All Velvera Phones\n- Material: Genuine full-grain leather with microfiber lining\n- Features:\n  - Precise cutouts for all ports and buttons\n  - Raised lips for camera and screen protection\n  - Anti-microbial treatment\n  - MagSafe compatible\n- Colors: Black, Saddle Brown, Midnight Blue\n- Weight: 28g\n- Price: ₹2,999 / $36",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Protection & Cases > Velvera Leather Case",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 76,
+        "heading": "Velvera Leather Case"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_7",
+    "text": "- Models Supported: All Velvera Phones\n- Material: Military-grade Polycarbonate (PC) and Thermoplastic Polyurethane (TPU)\n- Features:\n  - 2m drop protection (MIL-STD-810G certified)\n  - Anti-yellowing, UV resistant\n  - Slim profile design\n  - Precision tactile buttons\n- Transparency: 99%\n- Weight: 22g\n- Price: ₹1,499 / $18",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Protection & Cases > Velvera Clear Case",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 89,
+        "heading": "Velvera Clear Case"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_8",
+    "text": "- Models Supported: All Velvera Phones\n- Material: Dual-layer Shock-resistant TPU & Polycarbonate\n- Features:\n  - 3m drop-tested\n  - Textured grip, anti-slip design\n  - Reinforced corners\n  - Screen & camera raised bezels\n  - Lanyard attachment point\n- Color Options: Black, Olive Green\n- Weight: 38g\n- Price: ₹2,299 / $28",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Protection & Cases > Velvera Rugged Case",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 102,
+        "heading": "Velvera Rugged Case"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_9",
+    "text": "- Models Supported: All Velvera Phones\n- Material: Synthetic Sapphire Glass (9H hardness)\n- Features:\n  - Edge-to-edge coverage, oleophobic coating\n  - 99% light transmission (no color shift)\n  - Bubble-free adhesive\n  - Shatterproof, scratch-resistant\n- Thickness: 0.33mm\n- Package Includes: 2 protectors, cleaning kit\n- Price: ₹1,999 / $24",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Protection & Cases > Velvera Screen Protector",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 116,
+        "heading": "Velvera Screen Protector"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_10",
+    "text": "- Compatibility: Velvera Pad Series (all tablets)\n- Features:\n  - 4096 levels of pressure sensitivity\n  - Tilt and palm rejection support\n  - Wireless charging via Velvera Pad magnetic dock\n  - One-tap tool switching\n- Battery Life: Up to 12 hours (1-hour full charge)\n- Tip: Replaceable, spare tip included\n- Weight: 13g\n- Material: Aluminum Alloy\n- Price: ₹8,999 / $109",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Productivity Tools > Velvera Pencil",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 133,
+        "heading": "Velvera Pencil"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_11",
+    "text": "- Compatibility: Velvera Pad Series (all tablets)\n- Features:\n  - Full QWERTY layout, 1.4mm key travel\n  - Magnetic pogo-pin connector\n  - Multi-level backlighting (3-step adjustable)\n  - Integrated touchpad with multi-gesture support\n  - Durable spill-resistant surface\n- Dimensions: 255 x 185 x 6 mm\n- Weight: 350g\n- Price: ₹12,999 / $157",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Productivity Tools > Velvera Keyboard",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 147,
+        "heading": "Velvera Keyboard"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_12",
+    "text": "- Compatibility: Velvera Phones & Tablets (up to 13”)\n- Features:\n  - Adjustable viewing angles (15°–85°)\n  - Built-in Qi wireless charger (up to 15W)\n  - Cable organizer\n  - Aluminum base with silicone grip pads\n- Folded Dimensions: 150 x 110 x 22 mm\n- Weight: 380g\n- Price: ₹5,999 / $72",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Productivity Tools > Velvera Stand Pro",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 160,
+        "heading": "Velvera Stand Pro"
+      }
+    ]
+  },
+  {
+    "id": "51c61cf1bafc5b5babb63ff3b9d3256ef7e7d2797b3e9933a11f316f3e66c666_13",
+    "text": "Velvera — Technology, Refined. Life, Elevated.\nCrafted with precision. Powered by innovation. Designed for tomorrow.",
+    "path": "Velvera Product Specification Catalog > Accessories & Add-ons > Productivity Tools",
+    "doc_key": [
+      "accessories"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 172
+      },
+      {
+        "line": 174
+      }
+    ]
+  }
+]

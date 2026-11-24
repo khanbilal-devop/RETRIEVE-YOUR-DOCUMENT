@@ -1,0 +1,226 @@
+[
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_1",
+    "text": "Empowering you to design the Velvera device that fits your needs and style. Choose your preferred hardware, finish, storage, and exclusive add-ons for the perfect Velvera experience.",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 3,
+        "heading": "Velvera Build Your Own Product Plan — Configure Your Custom Device"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_2",
+    "text": "- Attribute: Series | Available Choices: Velvera One, Velvera One Pro, Velvera One Ultra, Velvera Edge, Velvera Edge Pro, Velvera Nexus, Velvera Core, Velvera Start\n- Attribute: Display | Available Choices: 6.1\" OLED (Edge), 6.5\" AMOLED 120Hz (One), 6.7\" AMOLED HDR10+ (One Pro), 6.9\" LTPO 2.0 144Hz (Ultra), 6.6\"/6.8\" HDR10 OLED (Nexus)\n- Attribute: Processor | Available Choices: Octa-core V5 Chip, V5+ AI-Tuned SoC, NeuralCore X/X+, Snapdragon 695, Snapdragon 720G, Helio G85\n- Attribute: Storage | Available Choices: 64GB, 128GB, 256GB, 512GB, 1TB, 2TB\n- Attribute: RAM | Available Choices: 3GB, 4GB, 6GB, 8GB, 12GB, 16GB, 20GB\n- Attribute: Camera System | Available Choices: 13MP Single, 16MP Dual, 50MP+12MP Dual AI, 64MP Triple + Macro, Quad Camera + Periscope Zoom\n- Attribute: Colors | Available Choices: Titanium Gray, Deep Ocean Blue, Rose Gold, Midnight Black, Cloud Gray, Sage Green, Arctic White, Coral Pink, Classic Black, Pearl White, Sky Blue, Forest Green\n- Attribute: Battery | Available Choices: 4000mAh, 4400mAh, 4500mAh, 4600mAh, 5000mAh, 6000mAh, 6500mAh\n- Attribute: Special Features | Available Choices: Fast Charging, Wireless Charging, AI Studio, On-device Transcription, Multi-language Translation, Diving Mode (Watch), IP69K\n- Attribute: Operating System | Available Choices: VelveraOS, VelveraOS Lite\n- Attribute: Accessories | Available Choices: Leather Case, Clear Case, Rugged Case, Screen Protector, Velvera Pencil, Velvera Keyboard, 65W GaN Charger, Wireless Dock, SuperSafe Battery, Stand Pro\n- Attribute: Warranty | Available Choices: 1 Year Standard, 2 Years Extended, 3 Years Premium",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Device Customization Options",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 9,
+        "heading": "Device Customization Options"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_3",
+    "text": "- Attribute: Series | Configuration: Velvera One Pro\n- Attribute: Model | Configuration: Velvera One Pro 512GB\n- Attribute: Display | Configuration: 6.7\" AMOLED HDR10+\n- Attribute: Processor | Configuration: Octa-core Velvera V7\n- Attribute: Storage / RAM | Configuration: 512GB / 12GB\n- Attribute: Camera System | Configuration: Triple Lens + Macro (64MP)\n- Attribute: Color | Configuration: Titanium Gray\n- Attribute: Battery | Configuration: 5000mAh\n- Attribute: Special Features | Configuration: Local AI Engine, 50W Wireless Charging, AI Studio\n- Attribute: Operating System | Configuration: VelveraOS\n- Attribute: Accessories | Configuration: Leather Case, Wireless Dock, Screen Protector\n- Attribute: Warranty | Configuration: 2 Years Extended\n- Attribute: Total Price (INR) | Configuration: ₹72,296 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 1. Power User Creator Bundle",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 30,
+        "heading": "1. Power User Creator Bundle"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_4",
+    "text": "- Attribute: Series | Configuration: Velvera Edge Pro\n- Attribute: Model | Configuration: Velvera Edge Pro 256GB\n- Attribute: Display | Configuration: 6.1\" OLED\n- Attribute: Processor | Configuration: V5+ AI-Tuned SoC\n- Attribute: Storage / RAM | Configuration: 256GB / 12GB\n- Attribute: Camera System | Configuration: Dual AI Cameras (50MP+12MP), Night Mode\n- Attribute: Color | Configuration: Sage Green\n- Attribute: Battery | Configuration: 4600mAh\n- Attribute: Special Features | Configuration: IP68, Local AI Engine, Fast Charging\n- Attribute: Operating System | Configuration: VelveraOS\n- Attribute: Accessories | Configuration: Rugged Case, 65W GaN Charger, Stand Pro\n- Attribute: Warranty | Configuration: 1 Year Standard\n- Attribute: Total Price (INR) | Configuration: ₹60,297 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 2. Pocket-Friendly Urban Explorer",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 50,
+        "heading": "2. Pocket-Friendly Urban Explorer"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_5",
+    "text": "- Attribute: Series | Configuration: Velvera Nexus\n- Attribute: Model | Configuration: Velvera Nexus 1 Pro 1TB\n- Attribute: Display | Configuration: 6.8\" HDR10+ LTPO\n- Attribute: Processor | Configuration: NeuralCore X+\n- Attribute: Storage / RAM | Configuration: 1TB / 16GB\n- Attribute: Camera System | Configuration: Triple Lens + Macro (64MP), AI Smart Capture\n- Attribute: Color | Configuration: Deep Ocean Blue\n- Attribute: Battery | Configuration: 5000mAh\n- Attribute: Special Features | Configuration: Multi-language Translation, Code Inference, AI Studio\n- Attribute: Operating System | Configuration: VelveraOS\n- Attribute: Accessories | Configuration: Leather Case, Screen Protector, 100W Desktop Hub\n- Attribute: Warranty | Configuration: 3 Years Premium\n- Attribute: Total Price (INR) | Configuration: ₹97,996 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 3. AI Productivity Enthusiast",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 70,
+        "heading": "3. AI Productivity Enthusiast"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_6",
+    "text": "- Attribute: Series | Configuration: Velvera Core Plus\n- Attribute: Model | Configuration: Velvera Core Plus 256GB\n- Attribute: Display | Configuration: 6.8\" FHD+\n- Attribute: Processor | Configuration: Snapdragon 720G\n- Attribute: Storage / RAM | Configuration: 256GB / 8GB\n- Attribute: Camera System | Configuration: 50MP+12MP Dual\n- Attribute: Color | Configuration: Midnight Black\n- Attribute: Battery | Configuration: 6500mAh\n- Attribute: Special Features | Configuration: 65W Fast Charging, Extra Long Battery\n- Attribute: Operating System | Configuration: VelveraOS Lite\n- Attribute: Accessories | Configuration: Rugged Case, SuperSafe Battery, Wireless Dock\n- Attribute: Warranty | Configuration: 2 Years Extended\n- Attribute: Total Price (INR) | Configuration: ₹41,297 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 4. Outdoor Endurance Set",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 90,
+        "heading": "4. Outdoor Endurance Set"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_7",
+    "text": "- Attribute: Series | Configuration: Velvera Start Plus\n- Attribute: Model | Configuration: Velvera Start Plus 128GB\n- Attribute: Display | Configuration: 6.3\" HD+\n- Attribute: Processor | Configuration: Helio G85\n- Attribute: Storage / RAM | Configuration: 128GB / 4GB\n- Attribute: Camera System | Configuration: 16MP Dual\n- Attribute: Color | Configuration: Sky Blue\n- Attribute: Battery | Configuration: 4500mAh\n- Attribute: Special Features | Configuration: Essential Apps Preinstalled\n- Attribute: Operating System | Configuration: VelveraOS Lite\n- Attribute: Accessories | Configuration: Clear Case, Screen Protector, 65W GaN Charger\n- Attribute: Warranty | Configuration: 1 Year Standard\n- Attribute: Total Price (INR) | Configuration: ₹23,497 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 5. Student Value Pack",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 110,
+        "heading": "5. Student Value Pack"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_8",
+    "text": "- Attribute: Series | Configuration: Velvera Pad Pro\n- Attribute: Model | Configuration: Velvera Pad Pro 12.9\" 512GB\n- Attribute: Display | Configuration: 12.9\" OLED\n- Attribute: Processor | Configuration: Snapdragon 8+ Gen 1\n- Attribute: Storage / RAM | Configuration: 512GB / 12GB\n- Attribute: Features | Configuration: Wi-Fi + 5G, Quad Speakers, Multi-Window Support\n- Attribute: Color | Configuration: Arctic White\n- Attribute: Accessories | Configuration: Velvera Pencil, Velvera Keyboard, Stand Pro\n- Attribute: Warranty | Configuration: 2 Years Extended\n- Attribute: Total Price (INR) | Configuration: ₹99,996 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 6. Creative Professional Tablet Workstation",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 130,
+        "heading": "6. Creative Professional Tablet Workstation"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_9",
+    "text": "- Attribute: Series | Configuration: Velvera Watch Premium\n- Attribute: Model | Configuration: Velvera Watch Premium 49mm\n- Attribute: Display | Configuration: 2.1\" Sapphire AMOLED\n- Attribute: Health Features | Configuration: ECG, SpO2, Stress, GPS, Diving Mode\n- Attribute: Battery Life | Configuration: 10 days\n- Attribute: Connectivity | Configuration: Satellite + LTE\n- Attribute: Color | Configuration: Ocean Blue\n- Attribute: Accessories | Configuration: Extra Strap (Gold), Wireless Dock\n- Attribute: Warranty | Configuration: 3 Years Premium\n- Attribute: Total Price (INR) | Configuration: ₹56,999 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 7. Fitness First Wearable Superpack",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 147,
+        "heading": "7. Fitness First Wearable Superpack"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_10",
+    "text": "- Attribute: Series | Configuration: Velvera Start\n- Attribute: Model | Configuration: Velvera Start 64GB\n- Attribute: Display | Configuration: 6.1\" HD\n- Attribute: Processor | Configuration: Helio G85\n- Attribute: Storage / RAM | Configuration: 64GB / 3GB\n- Attribute: Camera System | Configuration: 13MP Single\n- Attribute: Color | Configuration: Forest Green\n- Attribute: Battery | Configuration: 4000mAh\n- Attribute: Special Features | Configuration: Core Google Apps\n- Attribute: Operating System | Configuration: VelveraOS Lite\n- Attribute: Accessories | Configuration: Clear Case, Screen Protector\n- Attribute: Warranty | Configuration: 1 Year Standard\n- Attribute: Total Price (INR) | Configuration: ₹16,998 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 8. Entry-Level Essentials Kit",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 164,
+        "heading": "8. Entry-Level Essentials Kit"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_11",
+    "text": "- Attribute: Series | Configuration: Velvera One Ultra\n- Attribute: Model | Configuration: Velvera One Ultra 1TB\n- Attribute: Display | Configuration: 6.9\" LTPO 2.0, 144Hz\n- Attribute: Processor | Configuration: Octa-core Velvera V9\n- Attribute: Storage / RAM | Configuration: 1TB / 16GB\n- Attribute: Camera System | Configuration: Quad Camera + Periscope Zoom\n- Attribute: Color | Configuration: Rose Gold\n- Attribute: Battery | Configuration: 5000mAh\n- Attribute: Special Features | Configuration: Adaptive ANC Audio Output, 50W Wireless Charging\n- Attribute: Operating System | Configuration: VelveraOS\n- Attribute: Accessories | Configuration: Velvera Headphones Premium, Leather Case, SuperSafe Battery\n- Attribute: Warranty | Configuration: 2 Years Extended\n- Attribute: Total Price (INR) | Configuration: ₹1,41,997 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 9. Audiophile Signature Bundle",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 184,
+        "heading": "9. Audiophile Signature Bundle"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_12",
+    "text": "- Attribute: Series | Configuration: Velvera Edge\n- Attribute: Model | Configuration: Velvera Edge 256GB\n- Attribute: Display | Configuration: 6.1\" OLED\n- Attribute: Processor | Configuration: Octa-core V5 Chip\n- Attribute: Storage / RAM | Configuration: 256GB / 8GB\n- Attribute: Camera System | Configuration: Dual AI Cameras (50MP+12MP)\n- Attribute: Color | Configuration: Cloud Gray\n- Attribute: Battery | Configuration: 4400mAh\n- Attribute: Special Features | Configuration: 65W Fast Charging, Biometric Login, IP69K\n- Attribute: Operating System | Configuration: VelveraOS\n- Attribute: Accessories | Configuration: Leather Case, 65W GaN Charger, Stand Pro, Screen Protector\n- Attribute: Warranty | Configuration: 3 Years Premium\n- Attribute: Total Price (INR) | Configuration: ₹57,496 (Device + selected accessories)",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Example Customization Configurations > 10. Everyday Business Pro Kit",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 204,
+        "heading": "10. Everyday Business Pro Kit"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_13",
+    "text": "- All customized plans are eligible for free shipping and priority technical support.\n- Devices are delivered pre-configured and fully functional, with user-selected accessories included in the package.\n- Each configuration undergoes comprehensive quality control and performance tuning prior to shipment.",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Notes",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 224,
+        "heading": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "c79fbad6d0ae64a338a0f4f1978f15d849acd764a679cd52082f728956910d98_14",
+    "text": "For personalized business orders or fleet solutions, please contact business@Velvera.com.\nFor all end-user support, please reach out to support@Velvera.com.",
+    "path": "Velvera Build Your Own Product Plan — Configure Your Custom Device > Notes",
+    "doc_key": [
+      "build_your_own"
+    ],
+    "company": "Velvera Technologies",
+    "format": "md",
+    "locations": [
+      {
+        "line": 228,
+        "heading": "Notes"
+      }
+    ]
+  }
+]
